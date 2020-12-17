@@ -1,48 +1,49 @@
 import haxe.Json;
 
+/**
+	{
+		created:
+		data: [
+			{
+				artist:'henk',
+				title:'title'
+				type:'',
+				period:'',
+				theme:'',
+				location:'',
+			}
+		]
+	}
+ */
 class Main {
 	public function new() {
 		trace("Create json!");
 
-		/**
-			{
-						created:
-						data: [
-							 {
-								 artist:'henk',
-								 title:'title'
-								 type:'',
-								 period:'',
-								 theme:'',
-								 location:'',
-								}
-							]
-						}
-		 */
+		var json = {};
 
-		var obj = {};
-
-		Reflect.setField(obj, 'created', Date.now());
+		Reflect.setField(json, 'created', Date.now());
 
 		var arr = [];
 		for (i in 0...500) {
-			var o = {};
-			Reflect.setField(o, 'id', i);
+			var obj = {};
+			Reflect.setField(obj, 'id', i);
 
-			Reflect.setField(o, 'artist', getArtist());
-			Reflect.setField(o, 'title', getTitle());
-			Reflect.setField(o, 'type', getType());
-			Reflect.setField(o, 'period', getPeriod());
-			Reflect.setField(o, 'theme', getTheme());
-			Reflect.setField(o, 'location', getLocation());
-			arr.push(o);
+			Reflect.setField(obj, 'artist', getArtist());
+			Reflect.setField(obj, 'title', getTitle());
+			Reflect.setField(obj, 'type', getType());
+			Reflect.setField(obj, 'period', getPeriod());
+			Reflect.setField(obj, 'theme', getTheme());
+			Reflect.setField(obj, 'location', getLocation());
+			arr.push(obj);
 		}
-		Reflect.setField(obj, 'data', arr);
+		Reflect.setField(json, 'data', arr);
 
-		var str = Json.stringify(obj, null, '\t');
+		var str = Json.stringify(json, null, '\t');
 
 		sys.io.File.saveContent('out.json', str);
 	}
+
+	// ____________________________________ get values ____________________________________
 
 	function getArtist() {
 		// names
@@ -148,6 +149,8 @@ class Main {
 		return arr[Math.floor(Math.random() * arr.length)];
 	}
 
+	// ____________________________________ misc ____________________________________
+
 	function randomInteger(min:Int, ?max:Int):Int {
 		if (max == null) {
 			max = min;
@@ -155,6 +158,8 @@ class Main {
 		}
 		return Math.floor(Math.random() * (max + 1 - min)) + min;
 	}
+
+	// ____________________________________ main ____________________________________
 
 	static function main() {
 		var app = new Main();
