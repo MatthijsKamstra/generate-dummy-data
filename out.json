@@ -1,0 +1,6505 @@
+{
+	"created": "2020-12-17 09:52:25",
+	"data": [
+		{
+			"period": {
+				"name": "",
+				"start": 1937,
+				"end": 1953
+			},
+			"title": "Zane chewed on bug spray in between shows.",
+			"id": 0,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Shaina Smits"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1927,
+				"end": 2012
+			},
+			"title": "Latrice smile at his comeback but only at home.",
+			"id": 1,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Chantell De Boer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1925,
+				"end": 2000
+			},
+			"title": "Elina design other people on a bike.",
+			"id": 2,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Sunshine De Vries"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1944,
+				"end": 1968
+			},
+			"title": "Shaina feel like soccer by that tree there.",
+			"id": 3,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Queenie Brouwer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1903,
+				"end": 1991
+			},
+			"title": "Martin found randomness , yeah right....",
+			"id": 4,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Jarrod Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1925,
+				"end": 1961
+			},
+			"title": "Zulma paint over rubber duckies almost every night.",
+			"id": 5,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Corazon Vos"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1942,
+				"end": 1987
+			},
+			"title": "Jeff adore your death beneath the surface.",
+			"id": 6,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Sunshine Mulder"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1933,
+				"end": 1997
+			},
+			"title": "Corazon sleep better because of pencils in the sky with diamonds.",
+			"id": 7,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Sunshine Meijer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1932,
+				"end": 1965
+			},
+			"title": "Zulma look up to his teeth according to the media.",
+			"id": 8,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Jarrod Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1945,
+				"end": 1993
+			},
+			"title": "Martin design coconuts in broad daylight.",
+			"id": 9,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Zulma Meijer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1932,
+				"end": 1964
+			},
+			"title": "Diedre gave me strangers , and you?.",
+			"id": 10,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Kortney Vos"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1944,
+				"end": 1980
+			},
+			"title": "Martin sleep better because of slogans after midnight.",
+			"id": 11,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Corazon Van den Berg "
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1911,
+				"end": 1970
+			},
+			"title": "Shaina love the lord under eighteen.",
+			"id": 12,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Jeff Meijer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1926,
+				"end": 1965
+			},
+			"title": "Diedre ended up with knives by that tree there.",
+			"id": 13,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Deonna Van der Meer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1947,
+				"end": 1956
+			},
+			"title": "Jarrod chewed on slogans , but why?.",
+			"id": 14,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Angle Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1900,
+				"end": 2005
+			},
+			"title": "Slyvia strangled randomness on the roof.",
+			"id": 15,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Angle Smit"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1950,
+				"end": 2019
+			},
+			"title": "Queenie is afraid of your source code by hand.",
+			"id": 16,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Climate",
+			"artist": "Zulma Peters"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1947,
+				"end": 1960
+			},
+			"title": "Lowell read about alcohol after dinner.",
+			"id": 17,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Slyvia Mulder"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1907,
+				"end": 1960
+			},
+			"title": "Chantell hack the police and like it.",
+			"id": 18,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Zulma De Groot"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1932,
+				"end": 2001
+			},
+			"title": "Deonna share files with midgets I presume.",
+			"id": 19,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Diedre Dekker"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1931,
+				"end": 1999
+			},
+			"title": "Jeff bought midgets on the roof.",
+			"id": 20,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Lowell De Wit"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1902,
+				"end": 1958
+			},
+			"title": "Lowell bought god dressed like clowns.",
+			"id": 21,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Angle De Boer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1906,
+				"end": 1995
+			},
+			"title": "Latrice is down with his teeth in cars.",
+			"id": 22,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Slyvia Van den Berg "
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1929,
+				"end": 1955
+			},
+			"title": "Latrice paint over bug spray after midnight.",
+			"id": 23,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Ingeborg Dekker"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1945,
+				"end": 1997
+			},
+			"title": "Lowell went to school with the truth in the dark.",
+			"id": 24,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Alysa De Boer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1947,
+				"end": 1979
+			},
+			"title": "Shaina is reborn as the world but only at home.",
+			"id": 25,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Alysa De Graaf"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1903,
+				"end": 2017
+			},
+			"title": "Slyvia sound like all people after midnight.",
+			"id": 26,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Diedre De Wit"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1904,
+				"end": 1982
+			},
+			"title": "Corazon sell the world at every opportunity.",
+			"id": 27,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Alysa Jansen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1917,
+				"end": 2000
+			},
+			"title": "Diedre always ask for his job for my birthday.",
+			"id": 28,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Chantell Mulder"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1917,
+				"end": 1997
+			},
+			"title": "Chantell tampered with randomness during the break.",
+			"id": 29,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Queenie Peters"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1908,
+				"end": 1968
+			},
+			"title": "Deonna is fan of Arthur Schopenhauer in between shows.",
+			"id": 30,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Corazon Meijer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1945,
+				"end": 2015
+			},
+			"title": "Lowell kissed your parents in his sleep.",
+			"id": 31,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Jarrod De Boer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1942,
+				"end": 1951
+			},
+			"title": "Elina flirt with your source code full stop.",
+			"id": 32,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Queenie Van Dijk"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1912,
+				"end": 1987
+			},
+			"title": "Slyvia always ask for Miss World , can you dig it?.",
+			"id": 33,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Jarrod Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1935,
+				"end": 1993
+			},
+			"title": "Chantell tagged on your favourite site in the rain.",
+			"id": 34,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Zulma Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1924,
+				"end": 1962
+			},
+			"title": "Queenie change into the good life on the web.",
+			"id": 35,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Kortney De Graaf"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1923,
+				"end": 1979
+			},
+			"title": "Zulma tampered with the army across the globe.",
+			"id": 36,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Martin Jansen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1946,
+				"end": 1972
+			},
+			"title": "Diedre smoke George W's brain on horseback.",
+			"id": 37,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Latrice Jansen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1925,
+				"end": 1987
+			},
+			"title": "Elina recognized the working classes in a theatre near you.",
+			"id": 38,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Lowell Meijer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1932,
+				"end": 1977
+			},
+			"title": "Slyvia deal with family values , so what?.",
+			"id": 39,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Queenie Van Dijk"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1931,
+				"end": 1959
+			},
+			"title": "Angle rap about your source code on the web.",
+			"id": 40,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Shaina Brouwer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1940,
+				"end": 1969
+			},
+			"title": "Slyvia made fun of cell phones by accident.",
+			"id": 41,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Jeff De Wit"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1921,
+				"end": 1970
+			},
+			"title": "Martin keep up with a bag of marbles full stop.",
+			"id": 42,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Diedre Jansen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1928,
+				"end": 1968
+			},
+			"title": "Latrice pray for fish for free.",
+			"id": 43,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Latrice De Wit"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1924,
+				"end": 2006
+			},
+			"title": "Lowell pray for freaks and like it.",
+			"id": 44,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Slyvia Visser"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1934,
+				"end": 1982
+			},
+			"title": "Chantell sleep better because of bug spray buttnaked.",
+			"id": 45,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Angle Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1943,
+				"end": 1995
+			},
+			"title": "Queenie welcome windmills according to the media.",
+			"id": 46,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Zulma Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1911,
+				"end": 1950
+			},
+			"title": "Deonna makes fun of electric boogie on purpose.",
+			"id": 47,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Alysa Dekker"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1940,
+				"end": 2006
+			},
+			"title": "Diedre went to school with tattoos back in the eighties.",
+			"id": 48,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Shaina Peters"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1931,
+				"end": 2005
+			},
+			"title": "Ingeborg throw darts at his bosses in the dark.",
+			"id": 49,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Corazon Janssen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1923,
+				"end": 1954
+			},
+			"title": "Queenie lived with each other because they're like that.",
+			"id": 50,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Jeff Peters"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1936,
+				"end": 1953
+			},
+			"title": "Martin tell jokes about tubesocks for a living.",
+			"id": 51,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Slyvia Smit"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1932,
+				"end": 1982
+			},
+			"title": "Jeff rap about graphic design on the first date.",
+			"id": 52,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Ingeborg Smits"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1943,
+				"end": 2015
+			},
+			"title": "Martin tagged on one in ten lawyers by that tree there.",
+			"id": 53,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Shaina De Wit"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1930,
+				"end": 2005
+			},
+			"title": "Alysa rap about fashion dressed like clowns.",
+			"id": 54,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Elina Peters"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1918,
+				"end": 1991
+			},
+			"title": "Alysa wonder about our leader , yeah right....",
+			"id": 55,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Ingeborg De Boer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1919,
+				"end": 1994
+			},
+			"title": "Corazon love his worst enemies on the first date.",
+			"id": 56,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Zane De Graaf"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1923,
+				"end": 1979
+			},
+			"title": "Zane paint over men in the dark.",
+			"id": 57,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Shaina De Graaf"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1944,
+				"end": 1974
+			},
+			"title": "Shaina is reborn as your girlfriend at home.",
+			"id": 58,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Zane Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1910,
+				"end": 2004
+			},
+			"title": "Deonna carry the world in his dungeon.",
+			"id": 59,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Ingeborg Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1943,
+				"end": 1983
+			},
+			"title": "Diedre is down with tattoos and why not.",
+			"id": 60,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Jarrod De Wit"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1939,
+				"end": 2010
+			},
+			"title": "Latrice bite your favourite site on horseback.",
+			"id": 61,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Elina Smits"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1946,
+				"end": 1957
+			},
+			"title": "Latrice smile at beer every other day.",
+			"id": 62,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Alysa Vos"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1908,
+				"end": 2003
+			},
+			"title": "Alysa left pencils in the dark.",
+			"id": 63,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Lowell De Boer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1907,
+				"end": 2000
+			},
+			"title": "Martin design weed at every opportunity.",
+			"id": 64,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Sunshine Visser"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1935,
+				"end": 1998
+			},
+			"title": "Slyvia crippled men on a bike.",
+			"id": 65,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Jeff De Jong"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1943,
+				"end": 2004
+			},
+			"title": "Alysa vote against keywords , all in good taste.",
+			"id": 66,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Zane Jansen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1901,
+				"end": 1977
+			},
+			"title": "Zane ended up with coconuts buttnaked.",
+			"id": 67,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Elina Janssen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1949,
+				"end": 1967
+			},
+			"title": "Angle is better than bug spray for my birthday.",
+			"id": 68,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Zulma De Groot"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1911,
+				"end": 1978
+			},
+			"title": "Queenie recognized his comeback up north.",
+			"id": 69,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Zulma Brouwer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1937,
+				"end": 1963
+			},
+			"title": "Kortney fly over a ton of lettuce , as usual.",
+			"id": 70,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Jarrod Brouwer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1910,
+				"end": 2017
+			},
+			"title": "Sunshine remember the pope in broad daylight.",
+			"id": 71,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Zulma Visser"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1907,
+				"end": 1984
+			},
+			"title": "Diedre shoot at electric boogie on a bike.",
+			"id": 72,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Diedre Bos"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1931,
+				"end": 1981
+			},
+			"title": "Kortney sweet talked his job in times of war.",
+			"id": 73,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Ingeborg Smit"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1917,
+				"end": 1989
+			},
+			"title": "Sunshine read about all people back in the eighties.",
+			"id": 74,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Deonna De Boer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1900,
+				"end": 2002
+			},
+			"title": "Elina tell lies about your favourite rappers in a theatre near you.",
+			"id": 75,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Zulma Bakker"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1901,
+				"end": 1996
+			},
+			"title": "Deonna remember apples without protection.",
+			"id": 76,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Elina De Wit"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1932,
+				"end": 2016
+			},
+			"title": "Queenie tell lies about beer , as usual.",
+			"id": 77,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Shaina Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1931,
+				"end": 2017
+			},
+			"title": "Lowell design bug spray on rollerskates.",
+			"id": 78,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Queenie Bakker"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1902,
+				"end": 1961
+			},
+			"title": "Chantell sweet talked electric boogie by that tree there.",
+			"id": 79,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Angle Van der Meer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1907,
+				"end": 1966
+			},
+			"title": "Latrice fight for the pope by accident.",
+			"id": 80,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Latrice Smits"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1913,
+				"end": 2002
+			},
+			"title": "Chantell tagged on family values in his sleep.",
+			"id": 81,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Elina Smits"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1943,
+				"end": 1987
+			},
+			"title": "Jeff is down with George W's brain in broad daylight.",
+			"id": 82,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Kortney Peters"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1910,
+				"end": 1981
+			},
+			"title": "Slyvia listen to a ton of lettuce as if it's OK.",
+			"id": 83,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Jarrod Van der Meer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1936,
+				"end": 1964
+			},
+			"title": "Diedre throw darts at fashion for a living.",
+			"id": 84,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Lowell Dekker"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1912,
+				"end": 1952
+			},
+			"title": "Elina bite a bag of marbles buttnaked.",
+			"id": 85,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Slyvia Smit"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1943,
+				"end": 2003
+			},
+			"title": "Zulma talk about fear and like it.",
+			"id": 86,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Kortney Janssen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1925,
+				"end": 2003
+			},
+			"title": "Zane tell jokes about family values at first.",
+			"id": 87,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Jeff Visser"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1934,
+				"end": 1989
+			},
+			"title": "Alysa eat family values in a theatre near you.",
+			"id": 88,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Deonna Van der Meer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1940,
+				"end": 1957
+			},
+			"title": "Lowell gave me the working classes from Holland.",
+			"id": 89,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Jeff Van Dijk"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1935,
+				"end": 2009
+			},
+			"title": "Ingeborg grew up with coconuts in the dark.",
+			"id": 90,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Martin Hendriks"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1923,
+				"end": 2018
+			},
+			"title": "Ingeborg talk about the government after dinner.",
+			"id": 91,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Jarrod De Groot"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1903,
+				"end": 2008
+			},
+			"title": "Elina share files with the unknown soldier , all in good taste.",
+			"id": 92,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Elina De Wit"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1945,
+				"end": 1978
+			},
+			"title": "Corazon tell jokes about keywords in shopping malls.",
+			"id": 93,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Alysa Smit"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1928,
+				"end": 1997
+			},
+			"title": "Corazon hack the majority as a hobby.",
+			"id": 94,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Elina De Wit"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1921,
+				"end": 2004
+			},
+			"title": "Zane examined Microsoft in his sleep.",
+			"id": 95,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Jarrod Bakker"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1926,
+				"end": 2008
+			},
+			"title": "Martin gave me large breasts in every bar.",
+			"id": 96,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Kortney De Groot"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1925,
+				"end": 1973
+			},
+			"title": "Zane cheer for glowsticks by that tree there.",
+			"id": 97,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Shaina De Jong"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1942,
+				"end": 1995
+			},
+			"title": "Jarrod sell freaks for a living.",
+			"id": 98,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Ingeborg De Boer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1919,
+				"end": 2001
+			},
+			"title": "Shaina makes fun of his comeback just like you.",
+			"id": 99,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Diedre Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1947,
+				"end": 1976
+			},
+			"title": "Ingeborg keep up with all people at home.",
+			"id": 100,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Corazon De Groot"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1913,
+				"end": 1970
+			},
+			"title": "Kortney throw mud at strangers the way you like it.",
+			"id": 101,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Jarrod Bakker"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1911,
+				"end": 2018
+			},
+			"title": "Zane listen to the right answers buttnaked.",
+			"id": 102,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Queenie De Graaf"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1944,
+				"end": 1959
+			},
+			"title": "Zulma grew up with other people according to the media.",
+			"id": 103,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Zulma Visser"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1935,
+				"end": 1963
+			},
+			"title": "Slyvia recognized fashion on rollerskates.",
+			"id": 104,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Jarrod Visser"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1909,
+				"end": 2012
+			},
+			"title": "Lowell shoot at his egos on prime time tv.",
+			"id": 105,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Jarrod Hendriks"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1942,
+				"end": 1989
+			},
+			"title": "Chantell destroy your parents on rollerskates.",
+			"id": 106,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Angle Smit"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1932,
+				"end": 1988
+			},
+			"title": "Diedre despise imaginary friends on a regular basis.",
+			"id": 107,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Jarrod Mulder"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1914,
+				"end": 1991
+			},
+			"title": "Corazon rap about tattoos for some time.",
+			"id": 108,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Shaina Hendriks"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1903,
+				"end": 1973
+			},
+			"title": "Martin tell jokes about each other full stop.",
+			"id": 109,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Angle Smits"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1940,
+				"end": 1984
+			},
+			"title": "Zane miss randomness , can you dig it?.",
+			"id": 110,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Corazon Smit"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1913,
+				"end": 2001
+			},
+			"title": "Zulma is down with his bosses in every bar.",
+			"id": 111,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Shaina Brouwer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1923,
+				"end": 1970
+			},
+			"title": "Corazon smile at other people in his sleep.",
+			"id": 112,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Chantell Vos"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1912,
+				"end": 1986
+			},
+			"title": "Slyvia makes fun of rubber duckies on the roof.",
+			"id": 113,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Martin Janssen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1936,
+				"end": 2010
+			},
+			"title": "Martin poke it's fingers in slogans thanks to his sponsors.",
+			"id": 114,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Zulma Mulder"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1936,
+				"end": 1959
+			},
+			"title": "Ingeborg smell of his job full stop.",
+			"id": 115,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Shaina Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1930,
+				"end": 1994
+			},
+			"title": "Ingeborg hang around with strangers just like you.",
+			"id": 116,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Jarrod De Groot"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1919,
+				"end": 1985
+			},
+			"title": "Lowell left the blues back in the eighties.",
+			"id": 117,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Corazon Visser"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1937,
+				"end": 1953
+			},
+			"title": "Sunshine adore each other on a bike.",
+			"id": 118,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Deonna Visser"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1943,
+				"end": 2020
+			},
+			"title": "Zane lost his friends without eyes.",
+			"id": 119,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Shaina De Vries"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1909,
+				"end": 1991
+			},
+			"title": "Chantell deal with sunshine during the break.",
+			"id": 120,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Shaina Jansen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1915,
+				"end": 2018
+			},
+			"title": "Slyvia move like nobody almost every night.",
+			"id": 121,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Zulma Peters"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1932,
+				"end": 1965
+			},
+			"title": "Deonna gave me our leader on the web.",
+			"id": 122,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Shaina De Graaf"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1944,
+				"end": 1961
+			},
+			"title": "Diedre sweet talked fish up north.",
+			"id": 123,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Zane Visser"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1944,
+				"end": 1982
+			},
+			"title": "Alysa smoke one in ten lawyers on prime time tv.",
+			"id": 124,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Slyvia Van den Berg "
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1921,
+				"end": 1952
+			},
+			"title": "Martin miss other people under one roof.",
+			"id": 125,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Shaina Hendriks"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1928,
+				"end": 1952
+			},
+			"title": "Corazon isn't about Arthur Schopenhauer , can you dig it?.",
+			"id": 126,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Slyvia Meijer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1925,
+				"end": 2007
+			},
+			"title": "Angle shoot at winos on the first date.",
+			"id": 127,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Deonna Van Dijk"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1944,
+				"end": 1985
+			},
+			"title": "Slyvia bought his job every other day.",
+			"id": 128,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Jeff Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1945,
+				"end": 1978
+			},
+			"title": "Lowell went to school with his egos every other day.",
+			"id": 129,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Elina Visser"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1940,
+				"end": 1999
+			},
+			"title": "Shaina hang around with a silent witness for you.",
+			"id": 130,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Martin Dekker"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1922,
+				"end": 1960
+			},
+			"title": "Jeff tagged on beautiful flowers almost every night.",
+			"id": 131,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Chantell De Boer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1950,
+				"end": 1959
+			},
+			"title": "Jeff don't understand ice and why not.",
+			"id": 132,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Jarrod Dekker"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1927,
+				"end": 1963
+			},
+			"title": "Lowell always ask for your favourite rappers without protection.",
+			"id": 133,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Latrice Brouwer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1914,
+				"end": 1974
+			},
+			"title": "Ingeborg throw mud at randomness , as usual.",
+			"id": 134,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Latrice Van der Meer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1907,
+				"end": 1988
+			},
+			"title": "Zane despise Arthur Schopenhauer in a theatre near you.",
+			"id": 135,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Lowell Vos"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1943,
+				"end": 1980
+			},
+			"title": "Jeff had sex with the pope in them there hills.",
+			"id": 136,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Martin Hendriks"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1946,
+				"end": 1987
+			},
+			"title": "Jarrod is fan of a silent witness in times of war.",
+			"id": 137,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Kortney De Graaf"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1904,
+				"end": 2015
+			},
+			"title": "Shaina hang around with tourists in the future.",
+			"id": 138,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Kortney Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1902,
+				"end": 1985
+			},
+			"title": "Corazon left your girlfriend down south.",
+			"id": 139,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Ingeborg Janssen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1922,
+				"end": 2011
+			},
+			"title": "Zulma smoke other people across the globe.",
+			"id": 140,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Jarrod De Vries"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1923,
+				"end": 1959
+			},
+			"title": "Latrice recognized Microsoft by accident.",
+			"id": 141,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Sunshine Smit"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1949,
+				"end": 1969
+			},
+			"title": "Shaina invented ice , as promised.",
+			"id": 142,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Lowell Peters"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1918,
+				"end": 1975
+			},
+			"title": "Elina read about a bag of marbles in the shower.",
+			"id": 143,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Martin Janssen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1943,
+				"end": 2006
+			},
+			"title": "Angle hack all this buttnaked.",
+			"id": 144,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Zane Jansen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1918,
+				"end": 2000
+			},
+			"title": "Alysa flirt with my feet just like you.",
+			"id": 145,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Deonna Meijer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1902,
+				"end": 1978
+			},
+			"title": "Jarrod fight for nobody after dinner.",
+			"id": 146,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Elina De Wit"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1930,
+				"end": 1960
+			},
+			"title": "Latrice found the good life , as usual.",
+			"id": 147,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Zane Peters"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1926,
+				"end": 1982
+			},
+			"title": "Lowell move like your girlfriend and that's it.",
+			"id": 148,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Elina Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1919,
+				"end": 1957
+			},
+			"title": "Shaina used to know knives in the front seat.",
+			"id": 149,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Jeff Van den Berg "
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1938,
+				"end": 1965
+			},
+			"title": "Angle pray for his age up above.",
+			"id": 150,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Diedre De Vries"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1934,
+				"end": 2014
+			},
+			"title": "Kortney talk about all people to survive.",
+			"id": 151,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Deonna Brouwer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1919,
+				"end": 1979
+			},
+			"title": "Slyvia ended up with the police across the globe.",
+			"id": 152,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Slyvia Meijer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1948,
+				"end": 1987
+			},
+			"title": "Sunshine pray for his friends for money.",
+			"id": 153,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Jeff Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1940,
+				"end": 1967
+			},
+			"title": "Latrice read about soccer at first.",
+			"id": 154,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Ingeborg Dekker"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1933,
+				"end": 1993
+			},
+			"title": "Martin hack electric boogie in one go.",
+			"id": 155,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Zane De Wit"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1900,
+				"end": 2000
+			},
+			"title": "Sunshine own your girlfriend , unlike others.",
+			"id": 156,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Zane Bakker"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1932,
+				"end": 1958
+			},
+			"title": "Alysa admire slogans up above.",
+			"id": 157,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Deonna De Vries"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1919,
+				"end": 1969
+			},
+			"title": "Jarrod hate a washing machine in a theatre near you.",
+			"id": 158,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Alysa Hendriks"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1932,
+				"end": 1995
+			},
+			"title": "Zane vote against ice , unlike others.",
+			"id": 159,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Queenie Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1931,
+				"end": 2012
+			},
+			"title": "Alysa read about sunshine under one roof.",
+			"id": 160,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Slyvia Bos"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1909,
+				"end": 2007
+			},
+			"title": "Sunshine lost fashion on the moon.",
+			"id": 161,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Ingeborg Smits"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1922,
+				"end": 2003
+			},
+			"title": "Zane shoot at fashion , as promised.",
+			"id": 162,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Diedre Hendriks"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1950,
+				"end": 2019
+			},
+			"title": "Zane scared dirty laundry after dinner.",
+			"id": 163,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Shaina De Wit"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1940,
+				"end": 1977
+			},
+			"title": "Kortney recognized problems in the shower.",
+			"id": 164,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Zane Jansen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1919,
+				"end": 1959
+			},
+			"title": "Shaina pray for women to survive.",
+			"id": 165,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Shaina De Graaf"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1934,
+				"end": 1957
+			},
+			"title": "Corazon fly over one in ten lawyers for money.",
+			"id": 166,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Sunshine Peters"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1912,
+				"end": 2018
+			},
+			"title": "Angle smoke all this in a theatre near you.",
+			"id": 167,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Deonna Van Dijk"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1933,
+				"end": 1965
+			},
+			"title": "Martin cheer for Arthur Schopenhauer on the beach.",
+			"id": 168,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Climate",
+			"artist": "Elina Dekker"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1939,
+				"end": 1982
+			},
+			"title": "Angle steal large breasts beneath the surface.",
+			"id": 169,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Deonna Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1928,
+				"end": 1996
+			},
+			"title": "Jeff went to school with a baboon under eighteen.",
+			"id": 170,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Martin Meijer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1943,
+				"end": 1968
+			},
+			"title": "Chantell ended up with George W's brain in Africa.",
+			"id": 171,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Chantell Brouwer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1935,
+				"end": 1970
+			},
+			"title": "Latrice had sex with the devil , youknowha'mean?.",
+			"id": 172,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Chantell Peters"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1926,
+				"end": 2010
+			},
+			"title": "Lowell throw mud at Cuban fruit under one roof.",
+			"id": 173,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Ingeborg Smits"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1914,
+				"end": 1961
+			},
+			"title": "Deonna died for fish , all in good taste.",
+			"id": 174,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Queenie Van der Meer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1906,
+				"end": 1967
+			},
+			"title": "Elina is down with the government full stop.",
+			"id": 175,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Chantell De Wit"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1949,
+				"end": 1972
+			},
+			"title": "Queenie invented the army thanks to his sponsors.",
+			"id": 176,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Latrice De Vries"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1917,
+				"end": 2020
+			},
+			"title": "Deonna fry the light just like you.",
+			"id": 177,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Lowell Hendriks"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1902,
+				"end": 2006
+			},
+			"title": "Angle tampered with yo mama , youknowha'mean?.",
+			"id": 178,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Chantell Vos"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1944,
+				"end": 1976
+			},
+			"title": "Jeff tell jokes about keywords in the shower.",
+			"id": 179,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Jarrod Dekker"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1910,
+				"end": 1969
+			},
+			"title": "Alysa chewed on your favourite rappers in broad daylight.",
+			"id": 180,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Chantell Dijkstra"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1910,
+				"end": 1965
+			},
+			"title": "Chantell died for all this in the future.",
+			"id": 181,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Kortney Jansen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1906,
+				"end": 1969
+			},
+			"title": "Deonna change into your favourite site once a week.",
+			"id": 182,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Sunshine Meijer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1935,
+				"end": 1989
+			},
+			"title": "Sunshine don't understand a baboon full stop.",
+			"id": 183,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Corazon Vos"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1914,
+				"end": 1951
+			},
+			"title": "Shaina had sex with his age at first.",
+			"id": 184,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Deonna De Vries"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1935,
+				"end": 1958
+			},
+			"title": "Zane is down with cell phones down south.",
+			"id": 185,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Deonna Smits"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1902,
+				"end": 1988
+			},
+			"title": "Ingeborg smile at your place of birth in the cold.",
+			"id": 186,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Queenie Janssen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1905,
+				"end": 1967
+			},
+			"title": "Alysa listen to the majority near those bushes.",
+			"id": 187,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Shaina De Wit"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1915,
+				"end": 1966
+			},
+			"title": "Chantell crippled imaginary friends across the globe.",
+			"id": 188,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Ingeborg Van der Meer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1922,
+				"end": 1961
+			},
+			"title": "Lowell smell of fear to appear confident.",
+			"id": 189,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Martin De Vries"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1922,
+				"end": 1998
+			},
+			"title": "Lowell bite the lord in his dungeon.",
+			"id": 190,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Deonna Bakker"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1938,
+				"end": 1982
+			},
+			"title": "Shaina feel like fear in one go.",
+			"id": 191,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Shaina Meijer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1946,
+				"end": 1974
+			},
+			"title": "Corazon found weed up above.",
+			"id": 192,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Alysa Smits"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1934,
+				"end": 2000
+			},
+			"title": "Zane move like the good life in them there hills.",
+			"id": 193,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Jarrod Brouwer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1945,
+				"end": 2000
+			},
+			"title": "Jeff hate freaks in the future.",
+			"id": 194,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Alysa Van der Meer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1947,
+				"end": 1999
+			},
+			"title": "Queenie deal with midgets I presume.",
+			"id": 195,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Alysa De Boer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1950,
+				"end": 1971
+			},
+			"title": "Sunshine squeeze the right answers on purpose.",
+			"id": 196,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Sunshine Hendriks"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1944,
+				"end": 1979
+			},
+			"title": "Angle sweet talked yo mama in the dark.",
+			"id": 197,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Latrice Jansen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1923,
+				"end": 1987
+			},
+			"title": "Zane made fun of your parents on the moon.",
+			"id": 198,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Jeff Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1933,
+				"end": 1972
+			},
+			"title": "Kortney strangled tourists from Holland.",
+			"id": 199,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Slyvia Vos"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1934,
+				"end": 1981
+			},
+			"title": "Zane sleep better because of all this on the first date.",
+			"id": 200,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Zane Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1903,
+				"end": 2017
+			},
+			"title": "Angle had sex with the army on the web.",
+			"id": 201,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Alysa Van Dijk"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1934,
+				"end": 1974
+			},
+			"title": "Lowell left the working classes near the station.",
+			"id": 202,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Zane Van Dijk"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1907,
+				"end": 1998
+			},
+			"title": "Sunshine feel like cell phones back in the eighties.",
+			"id": 203,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Queenie Visser"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1943,
+				"end": 1964
+			},
+			"title": "Martin eat a washing machine without eyes.",
+			"id": 204,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Deonna Van der Meer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1911,
+				"end": 1950
+			},
+			"title": "Slyvia used to know the government to appear confident.",
+			"id": 205,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Martin Dijkstra"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1908,
+				"end": 1981
+			},
+			"title": "Chantell resemble alcohol near the station.",
+			"id": 206,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Kortney De Boer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1901,
+				"end": 1974
+			},
+			"title": "Jarrod throw mud at knives in swimming pools.",
+			"id": 207,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Lowell Peters"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1948,
+				"end": 1969
+			},
+			"title": "Deonna cuddle the army on the first date.",
+			"id": 208,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Climate",
+			"artist": "Elina Smits"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1903,
+				"end": 1972
+			},
+			"title": "Jeff move like nobody in the cold.",
+			"id": 209,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Corazon Mulder"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1911,
+				"end": 1972
+			},
+			"title": "Alysa share files with coconuts after midnight.",
+			"id": 210,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Alysa De Boer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1901,
+				"end": 2000
+			},
+			"title": "Alysa paint over Microsoft from Holland.",
+			"id": 211,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Alysa Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1933,
+				"end": 2020
+			},
+			"title": "Slyvia found a baboon in swimming pools.",
+			"id": 212,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Queenie Janssen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1938,
+				"end": 1987
+			},
+			"title": "Jeff made fun of the light because they're like that.",
+			"id": 213,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Chantell Meijer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1940,
+				"end": 1972
+			},
+			"title": "Zane adore robots with passion.",
+			"id": 214,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Elina Jansen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1920,
+				"end": 1959
+			},
+			"title": "Lowell kissed a ton of lettuce , but why?.",
+			"id": 215,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Slyvia Van den Berg "
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1945,
+				"end": 1950
+			},
+			"title": "Chantell deal with his worst enemies the way you like it.",
+			"id": 216,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Zulma Dekker"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1927,
+				"end": 1950
+			},
+			"title": "Sunshine despise your favourite rappers and like it.",
+			"id": 217,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Elina Meijer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1940,
+				"end": 2018
+			},
+			"title": "Lowell remember tubesocks and like it.",
+			"id": 218,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Lowell De Vries"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1900,
+				"end": 2009
+			},
+			"title": "Sunshine steal the police at home.",
+			"id": 219,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Jeff De Graaf"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1940,
+				"end": 1973
+			},
+			"title": "Slyvia chuckle at the devil without eyes.",
+			"id": 220,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Martin Janssen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1932,
+				"end": 1954
+			},
+			"title": "Sunshine smile at knives , can you dig it?.",
+			"id": 221,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Corazon De Vries"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1944,
+				"end": 2000
+			},
+			"title": "Zulma burn a bag of marbles full stop.",
+			"id": 222,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Zane De Vries"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1904,
+				"end": 1970
+			},
+			"title": "Diedre paint over the good life in the shower.",
+			"id": 223,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Shaina De Boer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1942,
+				"end": 1989
+			},
+			"title": "Queenie grew up with your favourite site , all in good taste.",
+			"id": 224,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Angle De Jong"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1916,
+				"end": 2011
+			},
+			"title": "Latrice own the working classes on the web.",
+			"id": 225,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Climate",
+			"artist": "Kortney Hendriks"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1942,
+				"end": 1996
+			},
+			"title": "Zulma isn't about the light once a week.",
+			"id": 226,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Corazon Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1915,
+				"end": 1963
+			},
+			"title": "Slyvia is down with Arthur Schopenhauer , youknowha'mean?.",
+			"id": 227,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Jarrod Visser"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1902,
+				"end": 1958
+			},
+			"title": "Jarrod is better than the government and why not.",
+			"id": 228,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Climate",
+			"artist": "Latrice Hendriks"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1940,
+				"end": 1979
+			},
+			"title": "Elina sleep better because of a washing machine full stop.",
+			"id": 229,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Zane Janssen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1911,
+				"end": 1992
+			},
+			"title": "Lowell had sex with his teeth on the first date.",
+			"id": 230,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Sunshine Visser"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1921,
+				"end": 2020
+			},
+			"title": "Shaina scream at problems near those bushes.",
+			"id": 231,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Deonna Peters"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1949,
+				"end": 1964
+			},
+			"title": "Ingeborg tried his age , as promised.",
+			"id": 232,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Queenie Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1933,
+				"end": 1984
+			},
+			"title": "Queenie welcome rubber duckies , unlike others.",
+			"id": 233,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Ingeborg Smits"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1941,
+				"end": 1958
+			},
+			"title": "Sunshine smile at other people in the cold.",
+			"id": 234,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Martin De Vries"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1912,
+				"end": 2017
+			},
+			"title": "Chantell share files with his teeth without fear.",
+			"id": 235,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Zulma Jansen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1950,
+				"end": 1980
+			},
+			"title": "Angle squeeze glowsticks every other day.",
+			"id": 236,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Diedre Visser"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1924,
+				"end": 1985
+			},
+			"title": "Zulma own sunshine at home.",
+			"id": 237,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Jeff Jansen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1908,
+				"end": 1998
+			},
+			"title": "Kortney died for Cuban fruit on the web.",
+			"id": 238,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Queenie Peters"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1940,
+				"end": 1982
+			},
+			"title": "Queenie is afraid of a bag of marbles in his birthday suit.",
+			"id": 239,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Zulma Janssen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1902,
+				"end": 2002
+			},
+			"title": "Shaina crippled randomness in the sky with diamonds.",
+			"id": 240,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Angle Meijer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1950,
+				"end": 1996
+			},
+			"title": "Diedre cuddle empty bottles , real funny.",
+			"id": 241,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Deonna Vos"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1926,
+				"end": 1960
+			},
+			"title": "Zulma represent  robots in cars.",
+			"id": 242,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Lowell De Boer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1940,
+				"end": 2009
+			},
+			"title": "Jeff recognized beautiful flowers on purpose.",
+			"id": 243,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Slyvia Smit"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1947,
+				"end": 1979
+			},
+			"title": "Diedre represent  each other beneath the surface.",
+			"id": 244,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Jeff De Groot"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1931,
+				"end": 1992
+			},
+			"title": "Zulma wonder about midgets for free.",
+			"id": 245,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Ingeborg Dekker"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1933,
+				"end": 1981
+			},
+			"title": "Jeff don't understand Arthur Schopenhauer , yeah right....",
+			"id": 246,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Jarrod Smits"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1944,
+				"end": 2020
+			},
+			"title": "Jeff burn soccer in one go.",
+			"id": 247,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Diedre Brouwer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1901,
+				"end": 1996
+			},
+			"title": "Ingeborg love George W's brain to survive.",
+			"id": 248,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Climate",
+			"artist": "Angle Mulder"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1944,
+				"end": 1985
+			},
+			"title": "Corazon scream at all this with passion.",
+			"id": 249,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Alysa De Boer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1909,
+				"end": 1969
+			},
+			"title": "Zane move like the pope by accident.",
+			"id": 250,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Queenie Van Dijk"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1946,
+				"end": 2016
+			},
+			"title": "Zane smell of balloons by hand.",
+			"id": 251,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Sunshine De Boer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1933,
+				"end": 1998
+			},
+			"title": "Zane ended up with knives on the roof.",
+			"id": 252,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Slyvia De Wit"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1941,
+				"end": 2011
+			},
+			"title": "Queenie tampered with Microsoft under one roof.",
+			"id": 253,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Lowell Mulder"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1931,
+				"end": 1977
+			},
+			"title": "Zulma examined balloons for money.",
+			"id": 254,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Angle Van der Meer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1921,
+				"end": 2011
+			},
+			"title": "Zulma gave me imaginary friends in swimming pools.",
+			"id": 255,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Ingeborg Bos"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1924,
+				"end": 1971
+			},
+			"title": "Corazon flirt with a ton of lettuce , word!.",
+			"id": 256,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Alysa Meijer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1926,
+				"end": 2010
+			},
+			"title": "Alysa is down with family values for my birthday.",
+			"id": 257,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Sunshine Peters"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1938,
+				"end": 1997
+			},
+			"title": "Zulma cheer for women on the beach.",
+			"id": 258,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Alysa Jansen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1906,
+				"end": 2000
+			},
+			"title": "Martin cheer for his egos in every bar.",
+			"id": 259,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Martin Hendriks"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1939,
+				"end": 1993
+			},
+			"title": "Zulma sell dirty laundry to appear confident.",
+			"id": 260,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Shaina De Wit"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1933,
+				"end": 1979
+			},
+			"title": "Jarrod made his comeback for a living.",
+			"id": 261,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Jarrod Bakker"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1950,
+				"end": 1977
+			},
+			"title": "Alysa is better than Cuban fruit under one roof.",
+			"id": 262,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Sunshine Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1924,
+				"end": 1982
+			},
+			"title": "Jeff sweet talked our leader on purpose.",
+			"id": 263,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Alysa Janssen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1926,
+				"end": 2020
+			},
+			"title": "Elina paint over one in ten lawyers , and you?.",
+			"id": 264,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Deonna De Groot"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1915,
+				"end": 1966
+			},
+			"title": "Lowell sweet talked Arthur Schopenhauer on purpose.",
+			"id": 265,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Zulma Visser"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1943,
+				"end": 1965
+			},
+			"title": "Shaina left graphic design and like it.",
+			"id": 266,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Elina Janssen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1926,
+				"end": 1976
+			},
+			"title": "Corazon read about the common cause on the web.",
+			"id": 267,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Ingeborg Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1926,
+				"end": 1974
+			},
+			"title": "Diedre gave me sunshine near the station.",
+			"id": 268,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Latrice Bos"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1907,
+				"end": 1970
+			},
+			"title": "Latrice trade in the common cause in the dark.",
+			"id": 269,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Queenie Janssen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1908,
+				"end": 2005
+			},
+			"title": "Ingeborg tell jokes about his egos without eyes.",
+			"id": 270,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Ingeborg Hendriks"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1928,
+				"end": 1987
+			},
+			"title": "Deonna squeeze fish near those bushes.",
+			"id": 271,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Sunshine De Graaf"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1943,
+				"end": 1976
+			},
+			"title": "Slyvia destroy the common cause , word!.",
+			"id": 272,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Slyvia Vos"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1930,
+				"end": 2007
+			},
+			"title": "Shaina had sex with Arthur Schopenhauer without fear.",
+			"id": 273,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Zulma De Boer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1945,
+				"end": 2007
+			},
+			"title": "Jarrod had sex with a bag of marbles on prime time tv.",
+			"id": 274,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Zane Van der Meer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1922,
+				"end": 1965
+			},
+			"title": "Elina feel like cell phones from time to time.",
+			"id": 275,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Chantell Dekker"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1910,
+				"end": 1997
+			},
+			"title": "Diedre feel like your death buttnaked.",
+			"id": 276,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Zulma Visser"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1900,
+				"end": 2014
+			},
+			"title": "Jarrod spend some time with problems on a regular basis.",
+			"id": 277,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Zulma De Vries"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1908,
+				"end": 1956
+			},
+			"title": "Latrice is afraid of each other , word!.",
+			"id": 278,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Kortney Smit"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1922,
+				"end": 1961
+			},
+			"title": "Elina made fish thanks to his sponsors.",
+			"id": 279,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Angle Jansen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1924,
+				"end": 2003
+			},
+			"title": "Jarrod paint over electric boogie without eyes.",
+			"id": 280,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Chantell De Boer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1949,
+				"end": 2017
+			},
+			"title": "Shaina tampered with bug spray in swimming pools.",
+			"id": 281,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Jarrod Meijer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1906,
+				"end": 2011
+			},
+			"title": "Corazon tagged on your place of birth across the globe.",
+			"id": 282,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Diedre Janssen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1927,
+				"end": 2009
+			},
+			"title": "Queenie sing with family values I presume.",
+			"id": 283,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Chantell Smits"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1936,
+				"end": 1983
+			},
+			"title": "Corazon sweet talked the police to survive.",
+			"id": 284,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Latrice De Wit"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1925,
+				"end": 1980
+			},
+			"title": "Elina deal with your favourite site by accident.",
+			"id": 285,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Latrice Van der Meer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1941,
+				"end": 1998
+			},
+			"title": "Sunshine go against weed to survive.",
+			"id": 286,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Jeff Jansen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1919,
+				"end": 1962
+			},
+			"title": "Shaina bought yo mama , youknowha'mean?.",
+			"id": 287,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Ingeborg Bakker"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1923,
+				"end": 2020
+			},
+			"title": "Martin sell tattoos on the moon.",
+			"id": 288,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Latrice Smits"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1941,
+				"end": 2017
+			},
+			"title": "Chantell is like family values in his birthday suit.",
+			"id": 289,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Zane Jansen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1902,
+				"end": 2008
+			},
+			"title": "Angle represent  my skull in the future.",
+			"id": 290,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Kortney Bos"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1944,
+				"end": 1981
+			},
+			"title": "Martin tagged on midgets in the rain.",
+			"id": 291,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Corazon Jansen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1919,
+				"end": 1974
+			},
+			"title": "Latrice fry large breasts during the break.",
+			"id": 292,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Ingeborg Smit"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1939,
+				"end": 2003
+			},
+			"title": "Deonna died for balloons near the station.",
+			"id": 293,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Ingeborg Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1930,
+				"end": 1951
+			},
+			"title": "Jeff found large breasts from Holland.",
+			"id": 294,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Corazon Visser"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1932,
+				"end": 1987
+			},
+			"title": "Sunshine pray for the army at first.",
+			"id": 295,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Chantell Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1940,
+				"end": 1969
+			},
+			"title": "Jeff fly over the blues in swimming pools.",
+			"id": 296,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Alysa De Groot"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1916,
+				"end": 1954
+			},
+			"title": "Angle sell Microsoft as if it's OK.",
+			"id": 297,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Lowell Visser"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1934,
+				"end": 1978
+			},
+			"title": "Corazon chuckle at coconuts for a living.",
+			"id": 298,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Martin Brouwer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1948,
+				"end": 1977
+			},
+			"title": "Queenie is down with the police , real funny.",
+			"id": 299,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Latrice Bakker"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1935,
+				"end": 1957
+			},
+			"title": "Shaina gave me the police by that tree there.",
+			"id": 300,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Zane Bos"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1924,
+				"end": 1963
+			},
+			"title": "Corazon taste of randomness by accident.",
+			"id": 301,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Elina De Wit"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1926,
+				"end": 1978
+			},
+			"title": "Martin throw mud at his egos in his sleep.",
+			"id": 302,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Climate",
+			"artist": "Chantell Van den Berg "
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1934,
+				"end": 1991
+			},
+			"title": "Shaina share files with his live back in the eighties.",
+			"id": 303,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Corazon Smits"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1947,
+				"end": 2007
+			},
+			"title": "Slyvia look up to your parents in shopping malls.",
+			"id": 304,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Ingeborg Hendriks"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1915,
+				"end": 1951
+			},
+			"title": "Corazon tagged on Microsoft on a regular basis.",
+			"id": 305,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Chantell Mulder"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1947,
+				"end": 2007
+			},
+			"title": "Chantell knows all about walls , can you dig it?.",
+			"id": 306,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Chantell Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1916,
+				"end": 2016
+			},
+			"title": "Queenie smile at his job , word!.",
+			"id": 307,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Zulma De Graaf"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1901,
+				"end": 2017
+			},
+			"title": "Corazon burn apples every other day.",
+			"id": 308,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Alysa De Vries"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1921,
+				"end": 1970
+			},
+			"title": "Diedre tell lies about women after midnight.",
+			"id": 309,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Kortney Brouwer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1950,
+				"end": 1976
+			},
+			"title": "Sunshine go against his comeback after dinner.",
+			"id": 310,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Lowell Van den Berg "
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1934,
+				"end": 1989
+			},
+			"title": "Chantell look up to his egos across the globe.",
+			"id": 311,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Latrice Mulder"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1907,
+				"end": 1970
+			},
+			"title": "Diedre throw darts at your place of birth in a theatre near you.",
+			"id": 312,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Slyvia De Vries"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1916,
+				"end": 1967
+			},
+			"title": "Deonna cuddle Microsoft in the cold.",
+			"id": 313,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Kortney De Groot"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1925,
+				"end": 1970
+			},
+			"title": "Lowell kill keywords after midnight.",
+			"id": 314,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Lowell De Graaf"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1942,
+				"end": 1958
+			},
+			"title": "Jeff had sex with the right answers just like you.",
+			"id": 315,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Slyvia Bos"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1906,
+				"end": 1991
+			},
+			"title": "Latrice cheer for tourists down by the waterside.",
+			"id": 316,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Alysa Van Dijk"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1932,
+				"end": 2004
+			},
+			"title": "Sunshine had sex with his job for my birthday.",
+			"id": 317,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Angle Jansen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1926,
+				"end": 1991
+			},
+			"title": "Jarrod hate electric boogie in cars.",
+			"id": 318,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Zulma Smits"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1929,
+				"end": 2012
+			},
+			"title": "Queenie move like the majority according to the media.",
+			"id": 319,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Lowell De Vries"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1912,
+				"end": 1956
+			},
+			"title": "Chantell look down on the unknown soldier , word!.",
+			"id": 320,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Shaina De Vries"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1921,
+				"end": 1959
+			},
+			"title": "Slyvia apologize about randomness in one go.",
+			"id": 321,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Chantell Visser"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1920,
+				"end": 1977
+			},
+			"title": "Kortney taste of knives in technicolor.",
+			"id": 322,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Angle De Jong"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1925,
+				"end": 1981
+			},
+			"title": "Shaina sell fashion near the station.",
+			"id": 323,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Angle Van den Berg "
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1909,
+				"end": 1963
+			},
+			"title": "Latrice eat George W's brain in the front seat.",
+			"id": 324,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Corazon Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1947,
+				"end": 1994
+			},
+			"title": "Zane wonder about all people in his dungeon.",
+			"id": 325,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Diedre Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1920,
+				"end": 1977
+			},
+			"title": "Slyvia crippled rubber duckies the way you like it.",
+			"id": 326,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Corazon Van den Berg "
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1932,
+				"end": 1966
+			},
+			"title": "Queenie throw darts at winos , real funny.",
+			"id": 327,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Elina Brouwer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1918,
+				"end": 2011
+			},
+			"title": "Jarrod trade in your source code , so what?.",
+			"id": 328,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Latrice De Graaf"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1941,
+				"end": 1959
+			},
+			"title": "Slyvia gave me fear in swimming pools.",
+			"id": 329,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Sunshine Bakker"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1930,
+				"end": 1978
+			},
+			"title": "Alysa lost cheese , yeah right....",
+			"id": 330,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Climate",
+			"artist": "Kortney Van den Berg "
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1922,
+				"end": 1998
+			},
+			"title": "Zane hack the revolution after dinner.",
+			"id": 331,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Latrice Visser"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1931,
+				"end": 1968
+			},
+			"title": "Queenie isn't about his bosses on a bike.",
+			"id": 332,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Zulma Van der Meer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1950,
+				"end": 1981
+			},
+			"title": "Slyvia chuckle at slogans , and you?.",
+			"id": 333,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Sunshine De Boer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1940,
+				"end": 1965
+			},
+			"title": "Elina carry women to appear confident.",
+			"id": 334,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Shaina Mulder"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1927,
+				"end": 1950
+			},
+			"title": "Zane wonder about my feet by that tree there.",
+			"id": 335,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Slyvia De Boer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1915,
+				"end": 1960
+			},
+			"title": "Queenie makes fun of the police on prime time tv.",
+			"id": 336,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Lowell De Groot"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1908,
+				"end": 1967
+			},
+			"title": "Chantell bite politicians in the front seat.",
+			"id": 337,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Climate",
+			"artist": "Deonna Peters"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1917,
+				"end": 2004
+			},
+			"title": "Zulma left your girlfriend on purpose.",
+			"id": 338,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Sunshine Van der Meer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1912,
+				"end": 2008
+			},
+			"title": "Martin steal coconuts on a bike.",
+			"id": 339,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Diedre Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1947,
+				"end": 1960
+			},
+			"title": "Kortney destroy windmills in Africa.",
+			"id": 340,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Deonna Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1943,
+				"end": 1969
+			},
+			"title": "Deonna makes fun of keywords under one roof.",
+			"id": 341,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Climate",
+			"artist": "Sunshine De Graaf"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1904,
+				"end": 2016
+			},
+			"title": "Jarrod vote against his live every other day.",
+			"id": 342,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Corazon Visser"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1944,
+				"end": 1983
+			},
+			"title": "Zane move like his bosses down by the waterside.",
+			"id": 343,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Lowell De Jong"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1937,
+				"end": 1974
+			},
+			"title": "Slyvia hang around with his friends , all in good taste.",
+			"id": 344,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Angle Bos"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1928,
+				"end": 1987
+			},
+			"title": "Deonna fry the common cause under eighteen.",
+			"id": 345,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Martin De Vries"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1906,
+				"end": 1990
+			},
+			"title": "Corazon flirt with the devil , unlike others.",
+			"id": 346,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Latrice Van den Berg "
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1923,
+				"end": 1986
+			},
+			"title": "Alysa represent  a ton of lettuce with passion.",
+			"id": 347,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Sunshine Meijer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1925,
+				"end": 1960
+			},
+			"title": "Latrice burn problems after dinner.",
+			"id": 348,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Jeff Smits"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1926,
+				"end": 1994
+			},
+			"title": "Jarrod throw mud at problems on the roof.",
+			"id": 349,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Queenie De Graaf"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1936,
+				"end": 1997
+			},
+			"title": "Alysa tried Microsoft in one go.",
+			"id": 350,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Zulma Hendriks"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1936,
+				"end": 1960
+			},
+			"title": "Elina is fan of my skull almost every night.",
+			"id": 351,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Zane Meijer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1926,
+				"end": 2017
+			},
+			"title": "Lowell deal with strong language , all in good taste.",
+			"id": 352,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Sunshine De Graaf"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1920,
+				"end": 1961
+			},
+			"title": "Martin isn't about your source code in Africa.",
+			"id": 353,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Martin De Groot"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1937,
+				"end": 1976
+			},
+			"title": "Deonna lived with empty bottles in his sleep.",
+			"id": 354,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Jarrod Smit"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1943,
+				"end": 1996
+			},
+			"title": "Latrice scream at rubber duckies to appear confident.",
+			"id": 355,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Slyvia Brouwer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1923,
+				"end": 1991
+			},
+			"title": "Kortney resemble tubesocks in the future.",
+			"id": 356,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Shaina Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1928,
+				"end": 1970
+			},
+			"title": "Jarrod squeeze large breasts on rollerskates.",
+			"id": 357,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Elina Smit"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1909,
+				"end": 1980
+			},
+			"title": "Zulma sing with dirty laundry as a hobby.",
+			"id": 358,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Shaina De Wit"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1919,
+				"end": 1981
+			},
+			"title": "Latrice tagged on the working classes beneath the surface.",
+			"id": 359,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Martin Peters"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1900,
+				"end": 2002
+			},
+			"title": "Shaina share files with your favourite site on the web.",
+			"id": 360,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Angle Van den Berg "
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1921,
+				"end": 1952
+			},
+			"title": "Shaina cheer for the common cause in the front seat.",
+			"id": 361,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Martin Vos"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1904,
+				"end": 1994
+			},
+			"title": "Lowell pray for yo mama on rollerskates.",
+			"id": 362,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Shaina Hendriks"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1905,
+				"end": 1984
+			},
+			"title": "Chantell poke it's fingers in the government in his dungeon.",
+			"id": 363,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Queenie Vos"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1913,
+				"end": 1961
+			},
+			"title": "Deonna is like the right answers during springtime.",
+			"id": 364,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Chantell De Jong"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1902,
+				"end": 1973
+			},
+			"title": "Jeff sell coconuts from Holland.",
+			"id": 365,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Diedre De Wit"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1942,
+				"end": 1994
+			},
+			"title": "Zane admire pencils from time to time.",
+			"id": 366,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Sunshine Mulder"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1917,
+				"end": 1994
+			},
+			"title": "Queenie gave me men after dinner.",
+			"id": 367,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Sunshine De Groot"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1931,
+				"end": 1969
+			},
+			"title": "Latrice talk about imaginary friends to appear confident.",
+			"id": 368,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Elina Peters"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1928,
+				"end": 1954
+			},
+			"title": "Latrice smoke older browsers , unlike others.",
+			"id": 369,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Slyvia Van den Berg "
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1947,
+				"end": 2003
+			},
+			"title": "Angle hate nobody under one roof.",
+			"id": 370,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Angle Meijer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1923,
+				"end": 1970
+			},
+			"title": "Shaina is like graphic design during springtime.",
+			"id": 371,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Jeff De Wit"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1917,
+				"end": 1960
+			},
+			"title": "Queenie apologize about politicians in the sky with diamonds.",
+			"id": 372,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Corazon De Boer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1942,
+				"end": 1997
+			},
+			"title": "Kortney went to school with the majority by accident.",
+			"id": 373,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Elina Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1942,
+				"end": 1960
+			},
+			"title": "Zulma sleep better because of your source code almost every night.",
+			"id": 374,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Deonna De Groot"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1929,
+				"end": 1986
+			},
+			"title": "Chantell resemble tubesocks for some time.",
+			"id": 375,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Alysa Smits"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1943,
+				"end": 1958
+			},
+			"title": "Jeff move like cookies in cars.",
+			"id": 376,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Deonna De Vries"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1926,
+				"end": 1953
+			},
+			"title": "Chantell hate amateurs under eighteen.",
+			"id": 377,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Elina Bakker"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1930,
+				"end": 1975
+			},
+			"title": "Queenie cook god almost every night.",
+			"id": 378,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Latrice Janssen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1941,
+				"end": 2015
+			},
+			"title": "Corazon pray for men in the dark.",
+			"id": 379,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Jeff Janssen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1926,
+				"end": 1982
+			},
+			"title": "Latrice kill the devil in the shower.",
+			"id": 380,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Elina Van der Meer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1935,
+				"end": 2017
+			},
+			"title": "Shaina apologize about windmills in Africa.",
+			"id": 381,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Lowell Peters"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1934,
+				"end": 1957
+			},
+			"title": "Diedre makes fun of his bosses full stop.",
+			"id": 382,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Zulma De Graaf"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1903,
+				"end": 2000
+			},
+			"title": "Zane cuddle tubesocks on the first date.",
+			"id": 383,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Shaina Visser"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1931,
+				"end": 1964
+			},
+			"title": "Angle love freaks for free.",
+			"id": 384,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Diedre De Vries"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1900,
+				"end": 1973
+			},
+			"title": "Corazon move like women without eyes.",
+			"id": 385,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Martin Janssen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1915,
+				"end": 1983
+			},
+			"title": "Angle welcome soccer dressed like clowns.",
+			"id": 386,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Diedre Hendriks"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1938,
+				"end": 1958
+			},
+			"title": "Zane despise his egos , can you dig it?.",
+			"id": 387,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Alysa De Graaf"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1908,
+				"end": 2011
+			},
+			"title": "Zulma fly over fashion in the future.",
+			"id": 388,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Slyvia Van den Berg "
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1925,
+				"end": 1976
+			},
+			"title": "Martin trade in soccer at home.",
+			"id": 389,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Martin Hendriks"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1950,
+				"end": 2012
+			},
+			"title": "Corazon knows all about robots in times of war.",
+			"id": 390,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Lowell Peters"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1925,
+				"end": 2010
+			},
+			"title": "Elina resemble slogans in the shower.",
+			"id": 391,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Deonna Dekker"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1940,
+				"end": 1966
+			},
+			"title": "Queenie move like beautiful flowers up above.",
+			"id": 392,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Deonna Mulder"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1907,
+				"end": 1960
+			},
+			"title": "Queenie recognized the light full stop.",
+			"id": 393,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Shaina Jansen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1931,
+				"end": 2007
+			},
+			"title": "Jeff sell alcohol in times of war.",
+			"id": 394,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Lowell Van den Berg "
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1922,
+				"end": 1957
+			},
+			"title": "Jeff feel like his comeback but only at home.",
+			"id": 395,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Latrice De Vries"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1937,
+				"end": 1970
+			},
+			"title": "Deonna spend some time with bug spray , but why?.",
+			"id": 396,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Corazon De Jong"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1922,
+				"end": 1950
+			},
+			"title": "Queenie sell a baboon in swimming pools.",
+			"id": 397,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Climate",
+			"artist": "Elina Vos"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1934,
+				"end": 1976
+			},
+			"title": "Latrice tagged on his worst enemies , real funny.",
+			"id": 398,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Jarrod Mulder"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1916,
+				"end": 1981
+			},
+			"title": "Alysa examined older browsers , unlike others.",
+			"id": 399,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Queenie De Boer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1941,
+				"end": 1958
+			},
+			"title": "Angle taste of midgets at every opportunity.",
+			"id": 400,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Deonna Van Dijk"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1907,
+				"end": 1994
+			},
+			"title": "Chantell change into randomness just for fun.",
+			"id": 401,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Latrice Van den Berg "
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1919,
+				"end": 1950
+			},
+			"title": "Corazon bite beautiful flowers without fear.",
+			"id": 402,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Corazon De Vries"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1945,
+				"end": 1981
+			},
+			"title": "Elina sound like one in ten lawyers in shopping malls.",
+			"id": 403,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Elina Visser"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1901,
+				"end": 1987
+			},
+			"title": "Jeff grew up with the light almost every night.",
+			"id": 404,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Elina Van der Meer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1927,
+				"end": 2000
+			},
+			"title": "Corazon is down with each other up above.",
+			"id": 405,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Diedre De Wit"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1934,
+				"end": 1986
+			},
+			"title": "Corazon taste of pencils in the dark.",
+			"id": 406,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Slyvia De Jong"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1942,
+				"end": 1995
+			},
+			"title": "Corazon remember his egos almost every night.",
+			"id": 407,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Chantell Mulder"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1933,
+				"end": 1954
+			},
+			"title": "Diedre left tattoos in his birthday suit.",
+			"id": 408,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Zulma Van der Meer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1900,
+				"end": 1972
+			},
+			"title": "Elina destroy tourists down south.",
+			"id": 409,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Alysa De Graaf"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1915,
+				"end": 1992
+			},
+			"title": "Diedre found the working classes by hand.",
+			"id": 410,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Martin De Boer"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1947,
+				"end": 1970
+			},
+			"title": "Latrice taste of a ton of lettuce once a week.",
+			"id": 411,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Sunshine Brouwer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1910,
+				"end": 1962
+			},
+			"title": "Corazon carry bug spray in the rain.",
+			"id": 412,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Sunshine Janssen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1940,
+				"end": 2004
+			},
+			"title": "Ingeborg share files with the police on the web.",
+			"id": 413,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Latrice Smits"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1948,
+				"end": 1996
+			},
+			"title": "Diedre own midgets by accident.",
+			"id": 414,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Deonna Meijer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1901,
+				"end": 1994
+			},
+			"title": "Zulma resemble the good life , can you dig it?.",
+			"id": 415,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Shaina Bos"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1939,
+				"end": 2017
+			},
+			"title": "Jarrod grew up with a bag of marbles in every bar.",
+			"id": 416,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Chantell Vos"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1916,
+				"end": 1966
+			},
+			"title": "Lowell chewed on coconuts for my birthday.",
+			"id": 417,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Chantell Jansen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1909,
+				"end": 1954
+			},
+			"title": "Alysa chuckle at windmills with passion.",
+			"id": 418,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Kortney Vos"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1915,
+				"end": 2011
+			},
+			"title": "Slyvia read about beautiful flowers but only at home.",
+			"id": 419,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Corazon Mulder"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1943,
+				"end": 2004
+			},
+			"title": "Latrice throw darts at the blues every other day.",
+			"id": 420,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Queenie De Groot"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1947,
+				"end": 2019
+			},
+			"title": "Ingeborg welcome dirty laundry in cars.",
+			"id": 421,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Elina De Wit"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1903,
+				"end": 1994
+			},
+			"title": "Lowell used to know each other on horseback.",
+			"id": 422,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Shaina Peters"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1921,
+				"end": 1972
+			},
+			"title": "Elina wonder about country music , as promised.",
+			"id": 423,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Nature",
+			"artist": "Kortney Dekker"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1919,
+				"end": 2015
+			},
+			"title": "Ingeborg made fish dressed like clowns.",
+			"id": 424,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Angle De Graaf"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1942,
+				"end": 2015
+			},
+			"title": "Jeff don't understand tattoos on a regular basis.",
+			"id": 425,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Alysa Peters"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1901,
+				"end": 1964
+			},
+			"title": "Lowell tried my feet after midnight.",
+			"id": 426,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Deonna Jansen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1924,
+				"end": 1970
+			},
+			"title": "Chantell is fan of the working classes in the cold.",
+			"id": 427,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Kortney Smits"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1901,
+				"end": 2009
+			},
+			"title": "Kortney share files with country music dressed like clowns.",
+			"id": 428,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Elina Janssen"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1925,
+				"end": 1967
+			},
+			"title": "Shaina sell his worst enemies in between shows.",
+			"id": 429,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Alysa Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1945,
+				"end": 2005
+			},
+			"title": "Zane had sex with glowsticks , as promised.",
+			"id": 430,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Zane Smits"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1941,
+				"end": 2000
+			},
+			"title": "Alysa chuckle at knives in them there hills.",
+			"id": 431,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Zulma Vos"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1918,
+				"end": 1970
+			},
+			"title": "Sunshine throw darts at your place of birth in his birthday suit.",
+			"id": 432,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Kortney Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1906,
+				"end": 1965
+			},
+			"title": "Martin spend some time with the army to appear confident.",
+			"id": 433,
+			"location": "Brussel",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Latrice Vos"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1905,
+				"end": 1991
+			},
+			"title": "Angle represent  fashion , as usual.",
+			"id": 434,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Ingeborg De Boer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1940,
+				"end": 1954
+			},
+			"title": "Martin keep up with bug spray beneath the surface.",
+			"id": 435,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Ingeborg Van den Berg "
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1916,
+				"end": 1998
+			},
+			"title": "Corazon throw mud at cookies and that's it.",
+			"id": 436,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Chantell Visser"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1910,
+				"end": 2008
+			},
+			"title": "Zulma made fun of soccer under one roof.",
+			"id": 437,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Lowell De Graaf"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1921,
+				"end": 1979
+			},
+			"title": "Sunshine cook the devil at every opportunity.",
+			"id": 438,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Elina De Groot"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1912,
+				"end": 2020
+			},
+			"title": "Jarrod squeeze glowsticks almost every night.",
+			"id": 439,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Elina Vos"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1919,
+				"end": 1976
+			},
+			"title": "Jeff invented your place of birth in the sky with diamonds.",
+			"id": 440,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Queenie Smit"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1917,
+				"end": 2000
+			},
+			"title": "Alysa found the police during the break.",
+			"id": 441,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Diedre De Vries"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1911,
+				"end": 1971
+			},
+			"title": "Queenie trade in my skull up north.",
+			"id": 442,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Climate",
+			"artist": "Zulma Meijer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1926,
+				"end": 1988
+			},
+			"title": "Corazon battled the government in the shower.",
+			"id": 443,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Queenie Peters"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1900,
+				"end": 1962
+			},
+			"title": "Angle listen to the working classes on the beach.",
+			"id": 444,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Ingeborg Brouwer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1906,
+				"end": 1984
+			},
+			"title": "Martin apologize about cheese according to the media.",
+			"id": 445,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Diedre Brouwer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1927,
+				"end": 1970
+			},
+			"title": "Chantell went to school with large breasts in his dungeon.",
+			"id": 446,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Alysa De Groot"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1925,
+				"end": 2015
+			},
+			"title": "Corazon sleep better because of the good life without protection.",
+			"id": 447,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Alysa Van den Berg "
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1945,
+				"end": 1954
+			},
+			"title": "Shaina is reborn as glowsticks by accident.",
+			"id": 448,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Innovation",
+			"artist": "Alysa Peters"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1902,
+				"end": 2003
+			},
+			"title": "Chantell welcome his live , youknowha'mean?.",
+			"id": 449,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Alysa Janssen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1906,
+				"end": 1983
+			},
+			"title": "Deonna smell of winos on the beach.",
+			"id": 450,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Alysa Van der Meer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1921,
+				"end": 1986
+			},
+			"title": "Jarrod destroy a ton of lettuce for my birthday.",
+			"id": 451,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Jeff Van Dijk"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1931,
+				"end": 1999
+			},
+			"title": "Jarrod admire the right answers across the globe.",
+			"id": 452,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Latrice Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1939,
+				"end": 2018
+			},
+			"title": "Diedre battled the police , unlike others.",
+			"id": 453,
+			"location": "Warsaw",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Jarrod Smit"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1906,
+				"end": 2020
+			},
+			"title": "Zane bought his teeth on the web.",
+			"id": 454,
+			"location": "Brussel",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Chantell Dekker"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1935,
+				"end": 2009
+			},
+			"title": "Corazon sweet talked the common cause just for fun.",
+			"id": 455,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Ingeborg De Boer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1923,
+				"end": 2016
+			},
+			"title": "Kortney steal cell phones after dinner.",
+			"id": 456,
+			"location": "Amsterdam",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Alysa De Wit"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1903,
+				"end": 1985
+			},
+			"title": "Martin love yo mama and why not.",
+			"id": 457,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Innovation",
+			"artist": "Slyvia De Groot"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1949,
+				"end": 2018
+			},
+			"title": "Jarrod keep up with George W's brain in between shows.",
+			"id": 458,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Slyvia Janssen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1948,
+				"end": 1978
+			},
+			"title": "Latrice bought my feet because they're like that.",
+			"id": 459,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Queenie Van der Meer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1904,
+				"end": 2014
+			},
+			"title": "Kortney left coconuts in broad daylight.",
+			"id": 460,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Deonna Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1931,
+				"end": 2000
+			},
+			"title": "Alysa used to know the police on prime time tv.",
+			"id": 461,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Sunshine Bakker"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1909,
+				"end": 1956
+			},
+			"title": "Slyvia kissed empty bottles in technicolor.",
+			"id": 462,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Alysa Jansen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1943,
+				"end": 2000
+			},
+			"title": "Jarrod lost beer during the break.",
+			"id": 463,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Climate",
+			"artist": "Martin Jansen"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1943,
+				"end": 2012
+			},
+			"title": "Jeff strangled the good life after midnight.",
+			"id": 464,
+			"location": "Brussel",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Diedre Bos"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1935,
+				"end": 1990
+			},
+			"title": "Alysa don't understand tourists , all in good taste.",
+			"id": 465,
+			"location": "Warsaw",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Shaina Dekker"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1942,
+				"end": 1989
+			},
+			"title": "Sunshine throw darts at his teeth by hand.",
+			"id": 466,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Zulma Vos"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1936,
+				"end": 1966
+			},
+			"title": "Zane hate the light for my birthday.",
+			"id": 467,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Ingeborg De Wit"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1930,
+				"end": 1976
+			},
+			"title": "Elina eat your place of birth on the first date.",
+			"id": 468,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Angle De Groot"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1930,
+				"end": 1996
+			},
+			"title": "Elina look up to the lord on the beach.",
+			"id": 469,
+			"location": "Warsaw",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Martin Bos"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1943,
+				"end": 1971
+			},
+			"title": "Alysa invented a baboon up north.",
+			"id": 470,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Deonna Smit"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1920,
+				"end": 1985
+			},
+			"title": "Jarrod fry freaks by hand.",
+			"id": 471,
+			"location": "Brussel",
+			"type": "Photography",
+			"theme": "Nature",
+			"artist": "Elina Mulder"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1942,
+				"end": 1987
+			},
+			"title": "Jarrod went to school with Cuban fruit , youknowha'mean?.",
+			"id": 472,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Innovation",
+			"artist": "Ingeborg Van Dijk"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1922,
+				"end": 1957
+			},
+			"title": "Jeff is down with problems on the beach.",
+			"id": 473,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Zulma Smits"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1941,
+				"end": 1987
+			},
+			"title": "Angle spend some time with keywords buttnaked.",
+			"id": 474,
+			"location": "Amsterdam",
+			"type": "Sculpture",
+			"theme": "Innovation",
+			"artist": "Jarrod De Boer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1948,
+				"end": 1993
+			},
+			"title": "Elina rap about apples near those bushes.",
+			"id": 475,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Chantell Smits"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1926,
+				"end": 1966
+			},
+			"title": "Zane sing with the army without fear.",
+			"id": 476,
+			"location": "Warsaw",
+			"type": "Commissioned work",
+			"theme": "Nature",
+			"artist": "Kortney Meijer"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1910,
+				"end": 1994
+			},
+			"title": "Jeff is better than Cuban fruit dressed like clowns.",
+			"id": 477,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Chantell De Vries"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1904,
+				"end": 2007
+			},
+			"title": "Jeff smoke midgets on purpose.",
+			"id": 478,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Martin Van Leeuwen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1934,
+				"end": 1998
+			},
+			"title": "Corazon vote against large breasts every other day.",
+			"id": 479,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Corazon Smits"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1932,
+				"end": 1972
+			},
+			"title": "Slyvia listen to a washing machine in a theatre near you.",
+			"id": 480,
+			"location": "Amsterdam",
+			"type": "Photography",
+			"theme": "Climate",
+			"artist": "Angle Janssen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1928,
+				"end": 1996
+			},
+			"title": "Lowell examined knives under eighteen.",
+			"id": 481,
+			"location": "Brussel",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Angle De Groot"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1916,
+				"end": 1964
+			},
+			"title": "Shaina sleep better because of your death the way you like it.",
+			"id": 482,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Jeff De Groot"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1943,
+				"end": 1985
+			},
+			"title": "Lowell hang around with the devil , all in good taste.",
+			"id": 483,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Zulma Visser"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1920,
+				"end": 2012
+			},
+			"title": "Angle chewed on fear on the moon.",
+			"id": 484,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Angle Visser"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1941,
+				"end": 1997
+			},
+			"title": "Alysa change into tubesocks in the rain.",
+			"id": 485,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Shaina Dijkstra"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1950,
+				"end": 1990
+			},
+			"title": "Elina loathe balloons dressed like clowns.",
+			"id": 486,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Elina Mulder"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1914,
+				"end": 1980
+			},
+			"title": "Jarrod sweet talked winos , all in good taste.",
+			"id": 487,
+			"location": "Brussel",
+			"type": "Sculpture",
+			"theme": "Climate",
+			"artist": "Alysa De Graaf"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1932,
+				"end": 1999
+			},
+			"title": "Zulma made fun of cookies with passion.",
+			"id": 488,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Innovation",
+			"artist": "Alysa Van den Berg "
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1923,
+				"end": 1987
+			},
+			"title": "Kortney hang around with your girlfriend on purpose.",
+			"id": 489,
+			"location": "Warsaw",
+			"type": "Sculpture",
+			"theme": "Nature",
+			"artist": "Queenie Peters"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1923,
+				"end": 1968
+			},
+			"title": "Alysa scream at the right answers beneath the surface.",
+			"id": 490,
+			"location": "Warsaw",
+			"type": "Work on paper",
+			"theme": "Innovation",
+			"artist": "Zulma Meijer"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1925,
+				"end": 1992
+			},
+			"title": "Angle sound like our leader in the rain.",
+			"id": 491,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Ingeborg Jansen"
+		},
+		{
+			"period": {
+				"name": "Post internet group",
+				"start": 1909,
+				"end": 1954
+			},
+			"title": "Zulma cook other people under eighteen.",
+			"id": 492,
+			"location": "Amsterdam",
+			"type": "Work on paper",
+			"theme": "Nature",
+			"artist": "Chantell Van der Meer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1930,
+				"end": 1979
+			},
+			"title": "Alysa fight for walls , as usual.",
+			"id": 493,
+			"location": "Amsterdam",
+			"type": "Video",
+			"theme": "Climate",
+			"artist": "Elina Jansen"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1933,
+				"end": 1997
+			},
+			"title": "Lowell don't understand the truth once a week.",
+			"id": 494,
+			"location": "Amsterdam",
+			"type": "Painting",
+			"theme": "Climate",
+			"artist": "Slyvia Bakker"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1924,
+				"end": 1968
+			},
+			"title": "Slyvia talk about strangers on the web.",
+			"id": 495,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Angle Hendriks"
+		},
+		{
+			"period": {
+				"name": "Cobra",
+				"start": 1908,
+				"end": 1994
+			},
+			"title": "Kortney vote against one in ten lawyers dressed like clowns.",
+			"id": 496,
+			"location": "Warsaw",
+			"type": "Graphic",
+			"theme": "Nature",
+			"artist": "Alysa Brouwer"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1920,
+				"end": 1966
+			},
+			"title": "Jarrod rap about midgets in his dungeon.",
+			"id": 497,
+			"location": "Amsterdam",
+			"type": "Graphic",
+			"theme": "Climate",
+			"artist": "Slyvia Mulder"
+		},
+		{
+			"period": {
+				"name": "Magische realisten",
+				"start": 1922,
+				"end": 1986
+			},
+			"title": "Corazon vote against tubesocks because they're like that.",
+			"id": 498,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Innovation",
+			"artist": "Jarrod De Jong"
+		},
+		{
+			"period": {
+				"name": "",
+				"start": 1931,
+				"end": 1950
+			},
+			"title": "Jarrod knows all about midgets and why not.",
+			"id": 499,
+			"location": "Brussel",
+			"type": "Painting",
+			"theme": "Nature",
+			"artist": "Latrice Peters"
+		}
+	]
+}
