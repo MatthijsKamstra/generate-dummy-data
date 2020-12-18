@@ -41,7 +41,7 @@ class Main {
 
 		var str = Json.stringify(json, null, '\t');
 
-		sys.io.File.saveContent('out.json', str);
+		sys.io.File.saveContent('data.json', str);
 	}
 
 	// ____________________________________ get values ____________________________________
