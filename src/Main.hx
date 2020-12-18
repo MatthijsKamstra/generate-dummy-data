@@ -34,6 +34,7 @@ class Main {
 			Reflect.setField(obj, 'period', getPeriod());
 			Reflect.setField(obj, 'theme', getTheme());
 			Reflect.setField(obj, 'location', getLocation());
+			Reflect.setField(obj, 'picture', getPicture(i));
 			arr.push(obj);
 		}
 		Reflect.setField(json, 'data', arr);
@@ -147,6 +148,16 @@ class Main {
 	function getLocation() {
 		var arr = ['Amsterdam', 'Warsaw', 'Brussel'];
 		return arr[Math.floor(Math.random() * arr.length)];
+	}
+
+	// 'thumb': 'https://picsum.photos/200/200?random=${id}',
+	function getPicture(id:Int = 0) {
+		var obj = {
+			'thumb': 'https://picsum.photos/seed/${id}/200/200',
+			'banner': 'https://picsum.photos/seed/${id}/500/200',
+			'large': 'https://picsum.photos/seed/${id}/1024/786',
+		}
+		return obj;
 	}
 
 	// ____________________________________ misc ____________________________________
