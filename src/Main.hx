@@ -165,7 +165,7 @@ class Main {
 
 	// 'thumb': 'https://picsum.photos/200/200?random=${id}',
 	function getPicture(id:Int = 0) {
-		id++;
+		id++; // make sure the value doesn't start at zero
 		var obj = {
 			'thumb': 'https://picsum.photos/seed/${id}/200/200',
 			'banner': 'https://picsum.photos/seed/${id}/500/200',
