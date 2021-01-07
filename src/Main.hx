@@ -42,7 +42,11 @@ class Main {
 
 			var _period = getPeriod();
 			Reflect.setField(obj, 'period', _period);
-			Reflect.setField(obj, 'year', getYear(_period));
+			var _year = getYear(_period);
+			Reflect.setField(obj, 'year', _year);
+			Reflect.setField(obj, 'creation_year', _year);
+			Reflect.setField(obj, 'purchase_year', getYearPurchase(_year));
+			Reflect.setField(obj, 'url', '#id=$i');
 
 			arr.push(obj);
 		}
@@ -151,6 +155,10 @@ class Main {
 
 	function getYear(period) {
 		return randomInteger(period.start, period.end);
+	}
+
+	function getYearPurchase(year) {
+		return randomInteger(year, Date.now().getFullYear());
 	}
 
 	function getTheme() {
