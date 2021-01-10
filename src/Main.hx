@@ -35,8 +35,12 @@ class Main {
 			Reflect.setField(obj, 'type', getType());
 			Reflect.setField(obj, 'theme', getTheme());
 			Reflect.setField(obj, 'location', getLocation());
-			Reflect.setField(obj, 'picture', getPicture(i));
-			Reflect.setField(obj, 'dimensions', getDimensions());
+
+			var dim = getDimensionsObj();
+			Reflect.setField(obj, 'picture', getPicture(i, dim));
+			Reflect.setField(obj, 'dimensions', '${dim.width} x ${dim.height} cm');
+			Reflect.setField(obj, 'dimension', dim);
+
 			Reflect.setField(obj, 'body', getBody());
 			Reflect.setField(obj, 'description', getDescription());
 
@@ -181,12 +185,15 @@ class Main {
 	}
 
 	// 'thumb': 'https://picsum.photos/200/200?random=${id}',
-	function getPicture(id:Int = 0) {
+	function getPicture(id:Int = 0, dim) {
+		var w = Std.int(dim.width);
+		var h = Std.int(dim.height);
+
 		id++; // make sure the value doesn't start at zero
 		var obj = {
 			'thumb': 'https://picsum.photos/seed/${id}/200/200',
-			'banner': 'https://picsum.photos/seed/${id}/500/200',
-			'large': 'https://picsum.photos/seed/${id}/1024/786',
+			'banner': 'https://picsum.photos/seed/${id}/${w}/${h}',
+			'large': 'https://picsum.photos/seed/${id}/${(w * 2)}/${(h * 2)}',
 		}
 		return obj;
 	}
@@ -195,6 +202,20 @@ class Main {
 		var w = randomInteger(10, 2000);
 		var h = randomInteger(10, 2000);
 		return '${w} x ${h} cm';
+	}
+
+	function getDimensionsObj() {
+		var w = randomInteger(295, 540);
+		var h = randomInteger(295, 540);
+		var direction = 'landscape';
+		if (w <= h) {
+			direction = 'portrait';
+		}
+		return {
+			'width': w,
+			'height': h,
+			'direction': direction
+		};
 	}
 
 	var text = "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. \"What's happened to me?\" he thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.";
