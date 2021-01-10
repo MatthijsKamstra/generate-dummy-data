@@ -59,6 +59,8 @@ class Main {
 		var str = Json.stringify(json, null, '\t');
 
 		sys.io.File.saveContent('data.json', str);
+
+		runTest();
 	}
 
 	// ____________________________________ get values ____________________________________
@@ -242,6 +244,54 @@ class Main {
 			min = 0;
 		}
 		return Math.floor(Math.random() * (max + 1 - min)) + min;
+	}
+
+	function runTest() {
+		var rowArr = [2, 3];
+		var rowCounter = 0;
+		var alignArr = ['right', 'center', 'left'];
+		var alignCounter = 0;
+		var current = 0;
+		var next = 0;
+		for (i in 0...100) {
+			// if the current count is equal to the next (2 or 3)
+			if (current == next) {
+				// after zero we always need to close the row!
+				if (i > 0)
+					trace('</row>');
+
+				// set alignment class on the 2 col rows
+				var alignClass = '${alignArr[alignCounter]}';
+				if (rowArr[rowCounter] == 3) {
+					alignClass = '';
+				} else {
+					alignCounter++;
+				}
+
+				// generate row
+				trace('<row className="${alignClass}" id="${i}" >');
+				// calculate the next row in x cols
+				next += rowArr[rowCounter];
+				rowCounter++;
+				// make sure the row doesn't count beyond the row
+				if (rowCounter >= rowArr.length) {
+					rowCounter = 0;
+				}
+				// idem
+				if (alignCounter >= alignArr.length) {
+					alignCounter = 0;
+				}
+				// trace(current, next);
+			}
+
+			// create the col
+			trace('\t<col id="$i">${i}</col>');
+
+			// update current
+			current++;
+		}
+		// last row need to be closed
+		trace('</row>');
 	}
 
 	// ____________________________________ main ____________________________________
