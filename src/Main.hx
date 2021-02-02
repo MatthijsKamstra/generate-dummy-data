@@ -37,7 +37,7 @@ class Main {
 			Reflect.setField(obj, 'location', getLocation());
 
 			var dim = getDimensionsObj();
-			Reflect.setField(obj, 'picture', getPicture(i, dim));
+			Reflect.setField(obj, 'images', getPicture(i, dim));
 			Reflect.setField(obj, 'dimensions', '${dim.width} x ${dim.height} cm');
 			Reflect.setField(obj, 'dimension', dim);
 
@@ -49,7 +49,10 @@ class Main {
 			var _year = getYear(_period);
 			Reflect.setField(obj, 'year', _year);
 			Reflect.setField(obj, 'creation_year', _year);
-			Reflect.setField(obj, 'purchase_year', getYearPurchase(_year));
+			var _purchase = getYearPurchase(_year);
+			Reflect.setField(obj, 'purchase_year', _purchase);
+			Reflect.setField(obj, 'artistBirthYear', getYearBirth(_year));
+			Reflect.setField(obj, 'artistDeathYear', getYearDeath(_purchase));
 			Reflect.setField(obj, 'url', '#id=$i');
 
 			arr.push(obj);
@@ -174,6 +177,14 @@ class Main {
 
 	function getYearPurchase(year) {
 		return randomInteger(year, Date.now().getFullYear());
+	}
+
+	function getYearBirth(year) {
+		return year + randomInteger(20, 50);
+	}
+
+	function getYearDeath(year) {
+		return year + randomInteger(1, 20);
 	}
 
 	function getTheme() {
