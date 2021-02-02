@@ -60,7 +60,7 @@ class Main {
 
 		sys.io.File.saveContent('data.json', str);
 
-		runTest();
+		// runTest();
 	}
 
 	// ____________________________________ get values ____________________________________
@@ -143,13 +143,22 @@ class Main {
 			'Sculpture',
 			'Graphic',
 			'Work on paper',
-			'Commissioned work'
+			'Commissioned work',
+			'Other'
 		];
 		return arr[Math.floor(Math.random() * arr.length)];
 	}
 
 	function getPeriod() {
-		var arr = ['', 'Post internet group', 'Cobra', 'Magische realisten'];
+		var arr = [
+			'Other',
+			'Magic realism',
+			'CoBrA',
+			'Photo realism',
+			'Pop-art',
+			'North Netherlands figuration',
+			'Post-internet'
+		];
 		var startY = randomInteger(1900, 1950);
 		var endY = randomInteger(1950, Date.now().getFullYear());
 		return {
@@ -168,12 +177,20 @@ class Main {
 	}
 
 	function getTheme() {
-		var arr = ['Innovation', 'Nature', 'Climate'];
+		var arr = [
+			'The human face',
+			'Digital world',
+			'Still life',
+			'Human vs. Nature',
+			'Society & Urban development',
+			'Colour & form',
+			'Other'
+		];
 		return arr[Math.floor(Math.random() * arr.length)];
 	}
 
 	function getLocation() {
-		var arr = ['Amsterdam', 'Warsaw', 'Brussel', 'Madrid', 'Singapore', 'Parijs'];
+		var arr = ["Amsterdam", "Brussel", "Madrid", "New York", "Parijs", "Singapore", "Other"];
 
 		// var arr = [
 		// 	'Australia', 'Austria', 'Argentina', 'Belgium', 'Brazil', 'Bulgaria', 'China', 'Colombia', 'Denmark', 'Estonia', 'Finland', 'France', 'Germany',
