@@ -180,7 +180,7 @@ class Main {
 	}
 
 	function getYearBirth(year) {
-		return year + randomInteger(20, 50);
+		return year - randomInteger(20, 50);
 	}
 
 	function getYearDeath(year) {
