@@ -154,13 +154,13 @@ class Main {
 
 	function getPeriod() {
 		var arr = [
-			'Other',
 			'Magic realism',
 			'CoBrA',
 			'Photo realism',
 			'Pop-art',
 			'North Netherlands figuration',
-			'Post-internet'
+			'Post-internet',
+			'Other',
 		];
 		var startY = randomInteger(1900, 1950);
 		var endY = randomInteger(1950, Date.now().getFullYear());
