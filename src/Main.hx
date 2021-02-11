@@ -38,22 +38,23 @@ class Main {
 
 			var dim = getDimensionsObj();
 			Reflect.setField(obj, 'images', getPicture(i, dim));
-			Reflect.setField(obj, 'dimensions', '${dim.width} x ${dim.height} cm');
-			Reflect.setField(obj, 'dimension', dim);
+			// Reflect.setField(obj, 'dimensions', '${dim.width} x ${dim.height} cm');
+			// Reflect.setField(obj, 'dimension', dim);
 
-			Reflect.setField(obj, 'body', getBody());
-			Reflect.setField(obj, 'description', getDescription());
+			// Reflect.setField(obj, 'body', getBody());
+			// Reflect.setField(obj, 'description', getDescription());
 
 			var _period = getPeriod();
-			Reflect.setField(obj, 'period', _period);
+			// Reflect.setField(obj, 'period', _period);
 			var _year = getYear(_period);
-			Reflect.setField(obj, 'year', _year);
+			// Reflect.setField(obj, 'year', _year);
 			Reflect.setField(obj, 'creation_year', _year);
 			var _purchase = getYearPurchase(_year);
 			Reflect.setField(obj, 'purchase_year', _purchase);
-			Reflect.setField(obj, 'artistBirthYear', getYearBirth(_year));
-			Reflect.setField(obj, 'artistDeathYear', getYearDeath(_purchase));
-			Reflect.setField(obj, 'url', '#id=$i');
+			// Reflect.setField(obj, 'artistBirthYear', getYearBirth(_year));
+			// Reflect.setField(obj, 'artistDeathYear', getYearDeath(_purchase));
+			// Reflect.setField(obj, 'url', '#id=$i');
+			Reflect.setField(obj, 'url', getRandomUrl());
 
 			arr.push(obj);
 		}
@@ -187,6 +188,19 @@ class Main {
 		return year + randomInteger(1, 20);
 	}
 
+	function getRandomUrl() {
+		var arr = [
+			'/artwork/still-life',
+			'/artwork/colour-composition-b',
+			'/artwork/the-food-chain-project',
+			'/artwork/seascapes',
+			'/artwork/fotoxannethisone',
+			'/artwork/reverse-osmosis-plant',
+			'/artwork/21-00'
+		];
+		return arr[Math.floor(Math.random() * arr.length)];
+	}
+
 	function getTheme() {
 		var arr = [
 			'The human face',
@@ -221,9 +235,9 @@ class Main {
 
 		id++; // make sure the value doesn't start at zero
 		var obj = {
-			'thumb': 'https://picsum.photos/seed/${id}/200/200',
+			// 'thumb': 'https://picsum.photos/seed/${id}/200/200',
 			'banner': 'https://picsum.photos/seed/${id}/${w}/${h}',
-			'large': 'https://picsum.photos/seed/${id}/${(w * 2)}/${(h * 2)}',
+			// 'large': 'https://picsum.photos/seed/${id}/${(w * 2)}/${(h * 2)}',
 		}
 		return obj;
 	}
