@@ -45,7 +45,7 @@ class Main {
 			// Reflect.setField(obj, 'description', getDescription());
 
 			var _period = getPeriod();
-			// Reflect.setField(obj, 'period', _period);
+			Reflect.setField(obj, 'period', _period.name);
 			var _year = getYear(_period);
 			// Reflect.setField(obj, 'year', _year);
 			Reflect.setField(obj, 'creation_year', _year);
