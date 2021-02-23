@@ -33,8 +33,11 @@ class Main {
 			Reflect.setField(obj, 'artist', getArtist());
 			Reflect.setField(obj, 'title', getTitle());
 			Reflect.setField(obj, 'type', getType());
-			Reflect.setField(obj, 'theme', getTheme());
 			Reflect.setField(obj, 'location', getLocation());
+
+			var theme = getTheme();
+			Reflect.setField(obj, 'theme', theme);
+			Reflect.setField(obj, 'themeImage', getThemePicture(theme));
 
 			var dim = getDimensionsObj();
 			Reflect.setField(obj, 'images', getPicture(i, dim));
@@ -240,6 +243,12 @@ class Main {
 			// 'large': 'https://picsum.photos/seed/${id}/${(w * 2)}/${(h * 2)}',
 		}
 		return obj;
+	}
+
+	function getThemePicture(theme:String) {
+		var w = 120;
+		var h = 120;
+		return 'https://picsum.photos/seed/${theme.replace(" ", "_").toLowerCase()}/${w}/${h}';
 	}
 
 	function getDimensions() {
