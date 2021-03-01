@@ -33,7 +33,7 @@ class Main {
 			Reflect.setField(obj, 'artist', getArtist());
 			Reflect.setField(obj, 'title', getTitle());
 			Reflect.setField(obj, 'type', getType());
-			Reflect.setField(obj, 'location', getLocation());
+			Reflect.setField(obj, 'location', getLocation(i));
 
 			var theme = getTheme();
 			Reflect.setField(obj, 'theme', theme);
@@ -218,8 +218,15 @@ class Main {
 		return arr[Math.floor(Math.random() * arr.length)];
 	}
 
-	function getLocation() {
-		var arr = ["Amsterdam", "Brussel", "Madrid", "New York", "Parijs", "Singapore", "Other"];
+	function getLocation(i) {
+		var arr = ["Amsterdam", "Brussel", "Madrid", "New York", "Parijs", "Singapore"];
+		var arr2 = [
+			'Tokyo', 'Jakarta', 'Delhi', 'Seoul', 'Manila', 'Mumbai', 'Karachi', 'Shanghai', 'New York', 'Sao Paolo', 'Beijing', 'Mexico City', 'Guangzhou',
+			'Osaka', 'Moscow', 'Shaka', 'Cairo', 'Bangkok', 'Los Angeles', 'Kolkata', 'Buenos Aires', 'Tehran', 'Istanbul', 'Lagos', 'Shenzhen',
+			'Rio de Janeiro', 'Kinshasa', 'Tianjin', 'Lima', 'Paris', 'Chengdu', 'Lahore', 'London', 'Bangalore', 'Ho Chi Minh City', 'Nagoya', 'Chennai',
+			'Bogota', 'Chicago', 'Johannesburg', 'Taipei', 'Dongguan', 'Hyderabad', 'Wuhan', 'Hangzhou', 'Hanoi', 'Chongqing', 'Onitsha', 'Ahmadabad',
+			'Kuala Lumpur',
+		];
 
 		// var arr = [
 		// 	'Australia', 'Austria', 'Argentina', 'Belgium', 'Brazil', 'Bulgaria', 'China', 'Colombia', 'Denmark', 'Estonia', 'Finland', 'France', 'Germany',
@@ -229,7 +236,12 @@ class Main {
 		// 	'Vietnam'
 		// ];
 
-		return arr[Math.floor(Math.random() * arr.length)];
+		var temp = arr;
+		if (i % 2 == 0) {
+			// row = "-even";
+			temp = arr2;
+		}
+		return temp[Math.floor(Math.random() * temp.length)];
 	}
 
 	// 'thumb': 'https://picsum.photos/200/200?random=${id}',
