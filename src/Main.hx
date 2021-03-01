@@ -144,13 +144,14 @@ class Main {
 
 	function getType() {
 		var arr = [
-			'Digital',
 			'Painting',
 			'Photography',
 			'Sculpture',
 			'Graphic',
+			'Mixed media',
 			'Work on paper',
-			'Commissioned work',
+			'Video',
+			'Commisioned',
 			'Other'
 		];
 		return arr[Math.floor(Math.random() * arr.length)];
