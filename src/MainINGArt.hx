@@ -17,7 +17,7 @@ using StringTools;
 		]
 	}
  */
-class Main {
+class MainINGArt {
 	public function new() {
 		trace("Create json!");
 
@@ -361,6 +361,6 @@ class Main {
 	// ____________________________________ main ____________________________________
 
 	static function main() {
-		var app = new Main();
+		var app = new MainINGArt();
 	}
 }
