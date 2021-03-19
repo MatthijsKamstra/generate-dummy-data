@@ -1,5 +1,7 @@
 package lorem;
 
+using StringTools;
+
 class Slogan {
 	static public function get(name:String = ''):String {
 		var ARRAY_1:Array<String> = [
@@ -57,6 +59,6 @@ class Slogan {
 
 		var _sentence = _ran1 + " " + _ran2 + " " + _ran3 + " " + _ran4 + ".";
 		// $cleansentence = str_replace(array(" , " , "!." ,"  ", "?."),array(", " , "!" , " " , "?") , $sentence);
-		return _sentence;
+		return _sentence.replace(' , ', ', ').replace('?.', '?');
 	}
 }
