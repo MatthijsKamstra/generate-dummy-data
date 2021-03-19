@@ -1,13 +1,15 @@
-import haxe.Json;
-import sys.FileSystem;
-import image.Image;
 import address.Address;
+import haxe.Json;
+import image.Image;
+import lorem.Lorem;
 import name.Name;
+import sys.FileSystem;
 
 class DummyData {
 	static public var address:Address = new Address();
 	static public var name:Name = new Name();
 	static public var image:Image = new Image();
+	static public var lorem:Lorem = new Lorem();
 
 	public function new() {}
 
