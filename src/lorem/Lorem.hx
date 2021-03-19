@@ -43,8 +43,8 @@ class Lorem {
 	 */
 	public function sentence(?total:Int):String {
 		if (total == null)
-			total = Util.Util.randomInteger(3, 10);
-		return Util.Util.capitalizeFirstLetter(lorem.Words.get(total)) + ".";
+			total = Util.randomInteger(3, 10);
+		return Util.capitalizeFirstLetter(lorem.Words.get(total)) + ".";
 	}
 
 	/**
@@ -54,7 +54,7 @@ class Lorem {
 	 */
 	public function sentences(?total:Int):String {
 		if (total == null)
-			total = Util.Util.randomInteger(2, 6);
+			total = Util.randomInteger(2, 6);
 		var str = '';
 		for (i in 0...total) {
 			var sentence = sentence();
