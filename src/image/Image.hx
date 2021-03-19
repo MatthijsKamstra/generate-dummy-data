@@ -23,6 +23,7 @@ import utils.Util;
 	- [ ] lorempixel
 	- [ ] unsplash
 	- [ ] lorempicsum
+	// https://avatars.dicebear.com/docs/http-api
  */
 class Image {
 	public function new() {}
@@ -49,9 +50,9 @@ class Image {
 		return 'https://picsum.photos/seed/${seed}/${w}/${h}';
 	}
 
-	public function imageUrl():String {
-		return 'https://picsum.photos/200';
-	}
+	// public function imageUrl():String {
+	// 	return 'https://picsum.photos/200';
+	// }
 
 	public function dimensions(min:Int = 10, max:Int = 2000):ImageObj {
 		var w = Util.randomInteger(min, max);
