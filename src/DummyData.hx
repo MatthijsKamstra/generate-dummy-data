@@ -1,4 +1,6 @@
+import art.Art;
 import address.Address;
+import date.Dates;
 import haxe.Json;
 import image.Image;
 import lorem.Lorem;
@@ -10,6 +12,8 @@ class DummyData {
 	static public var name:Name = new Name();
 	static public var image:Image = new Image();
 	static public var lorem:Lorem = new Lorem();
+	static public var art:Art = new Art();
+	static public var date:Dates = new Dates();
 
 	public function new() {}
 
