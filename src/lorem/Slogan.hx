@@ -1,7 +1,9 @@
 package lorem;
 
+using StringTools;
+
 class Slogan {
-	function get() {
+	static public function get(name:String = ''):String {
 		var ARRAY_1:Array<String> = [
 			"Elina", "Martin", "Lowell", "Corazon", "Diedre", "Slyvia", "Latrice", "Chantell", "Jeff", "Zulma", "Deonna", "Kortney", "Sunshine", "Alysa",
 			"Zane", "Shaina", "Queenie", "Ingeborg", "Jarrod", "Angle"
@@ -47,12 +49,16 @@ class Slogan {
 			"near the station", "up above", ", as promised", ", unlike others", "on a regular basis", "I presume", ", as usual"
 		];
 		var _ran1 = ARRAY_1[Std.random(ARRAY_1.length)];
+
+		if (name != '')
+			_ran1 = name;
+
 		var _ran2 = ARRAY_2[Std.random(ARRAY_2.length)];
 		var _ran3 = ARRAY_3[Std.random(ARRAY_3.length)];
 		var _ran4 = ARRAY_4[Std.random(ARRAY_4.length)];
 
 		var _sentence = _ran1 + " " + _ran2 + " " + _ran3 + " " + _ran4 + ".";
 		// $cleansentence = str_replace(array(" , " , "!." ,"  ", "?."),array(", " , "!" , " " , "?") , $sentence);
-		return _sentence;
+		return _sentence.replace(' , ', ', ').replace('?.', '?');
 	}
 }

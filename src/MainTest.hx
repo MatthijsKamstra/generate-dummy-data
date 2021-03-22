@@ -31,6 +31,16 @@ class MainTest {
 			Reflect.setField(obj, 'name', nameObj);
 			var dim = DummyData.image.dimensions();
 			Reflect.setField(obj, 'image', DummyData.image.imageSizes('$i', dim));
+
+			Reflect.setField(obj, 'slogan', DummyData.lorem.slogan(nameObj.firstName));
+			Reflect.setField(obj, 'word', DummyData.lorem.word());
+			Reflect.setField(obj, 'words', DummyData.lorem.words(200));
+			Reflect.setField(obj, 'sentence', DummyData.lorem.sentence());
+			Reflect.setField(obj, 'sentences', DummyData.lorem.sentences());
+			Reflect.setField(obj, 'paragraph', DummyData.lorem.paragraph());
+			Reflect.setField(obj, 'paragraphs', DummyData.lorem.paragraphs());
+
+			// collect for output
 			arr.push(obj);
 		}
 
