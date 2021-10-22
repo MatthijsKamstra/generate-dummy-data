@@ -10,7 +10,11 @@ class Util {
 			return capitalizeFirstLetter(text.substr(randomInteger(Math.round(l * 0.5), l)).trim());
 	 */
 	/**
-	 * [Description]
+	 * Capitulize the first character from the word
+	 *
+	 * @example
+	 * 		var name = Util.capitalizeFirstLetter(new Lorem().word());
+	 *
 	 * @param string
 	 * @return String
 	 */

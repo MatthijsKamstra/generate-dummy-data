@@ -28,4 +28,15 @@ class DummyData {
 		// trace(FileSystem.fullPath(fileName));
 		trace('File (${fileName}) saved at ${FileSystem.fullPath(fileName)}');
 	}
+
+	/**
+	 * [Description]
+	 * @param content
+	 * @param fileName
+	 */
+	public static function saveTextFile(content:String, fileName:String = 'data.txt') {
+		sys.io.File.saveContent(fileName, content);
+		// trace(FileSystem.fullPath(fileName));
+		trace('File (${fileName}) saved at ${FileSystem.fullPath(fileName)}');
+	}
 }

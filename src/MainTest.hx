@@ -46,7 +46,7 @@ class MainTest {
 
 		Reflect.setField(json, 'data', arr);
 
-		DummyData.saveFile(json, "test.json");
+		DummyData.saveFile(json, "export/test.json");
 	}
 
 	static public function main() {

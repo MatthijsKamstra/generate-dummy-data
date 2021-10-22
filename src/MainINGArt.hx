@@ -65,7 +65,7 @@ class MainINGArt {
 
 		var str = Json.stringify(json, null, '\t');
 
-		sys.io.File.saveContent('data.json', str);
+		sys.io.File.saveContent('export/data.json', str);
 
 		// runTest();
 	}
