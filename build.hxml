@@ -1,18 +1,25 @@
+# -cp src
+# -D analyzer-optimize
+# -main MainINGArt
+# --interp
+
+# --next
+
+# -cp src
+# -D analyzer-optimize
+# -main MainTest
+# --interp
+
+# --next
+
+# -cp src
+# -D analyzer-optimize
+# -main MainCSV
+# --interp
+
+# --next
+
 -cp src
 -D analyzer-optimize
--main MainINGArt
---interp
-
---next
-
--cp src
--D analyzer-optimize
--main MainTest
---interp
-
---next
-
--cp src
--D analyzer-optimize
--main MainCSV
+-main MainVideoland
 --interp
