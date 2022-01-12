@@ -17,10 +17,22 @@ package name;
 class Name {
 	public function new() {}
 
+	/**
+	 * @examle
+	 * 		new name.Name().firstName()
+	 *
+	 * @return String
+	 */
 	public function firstName():String {
 		return name.FirstName.get();
 	}
 
+	/**
+	 * @examle
+	 * 		new name.Name().lastName()
+	 *
+	 * @return String
+	 */
 	public function lastName():String {
 		return name.LastName.get();
 	}
