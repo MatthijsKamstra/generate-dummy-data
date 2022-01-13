@@ -27,7 +27,7 @@ class MainVideoland {
 			Reflect.setField(obj, 'uiid', UUID.uuid());
 
 			Reflect.setField(obj, 'title', new Video().title());
-			Reflect.setField(obj, 'discription', new Lorem().paragraph());
+			Reflect.setField(obj, 'description', new Lorem().paragraph());
 			Reflect.setField(obj, 'year', new Video().year());
 			Reflect.setField(obj, 'type', new Video().type());
 			Reflect.setField(obj, 'duration', new Video().duration());
@@ -43,7 +43,7 @@ class MainVideoland {
 			arr.push(obj);
 		}
 
-		Reflect.setField(json, 'data', arr);
+		Reflect.setField(json, 'items', arr);
 
 		var str = Json.stringify(json, null, '\t');
 
