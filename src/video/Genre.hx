@@ -13,7 +13,9 @@ class Genre {
 		var nr = Util.randomInteger(1, 3);
 		var genreArr = [];
 		for (i in 0...nr) {
-			genreArr.push(arr[Math.floor(Math.random() * arr.length)]);
+			var temp = arr[Math.floor(Math.random() * arr.length)];
+			if (!genreArr.contains(temp))
+				genreArr.push(temp);
 		}
 
 		return genreArr;

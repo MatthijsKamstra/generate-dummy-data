@@ -1,3 +1,4 @@
+import video.Kijkwijzer;
 import video.Genre;
 import utils.Util;
 import lorem.Lorem;
@@ -41,6 +42,12 @@ class MainVideoland {
 			Reflect.setField(obj, 'images', getPicture(i));
 			Reflect.setField(obj, 'videos', getVideo(i));
 
+			var kijkObj = {};
+			Reflect.setField(kijkObj, 'age', Kijkwijzer.getAge());
+			Reflect.setField(kijkObj, 'type', Kijkwijzer.getType());
+
+			Reflect.setField(obj, 'kijkwijzer', kijkObj);
+
 			arr.push(obj);
 		}
 
@@ -48,6 +55,7 @@ class MainVideoland {
 		Reflect.setField(json, 'type', video.Type.getAll());
 		Reflect.setField(json, 'genre', video.Genre.getAll());
 		Reflect.setField(json, 'language', video.Language.getAll());
+		Reflect.setField(json, 'kijkwijzer', Kijkwijzer.getAll());
 
 		var str = Json.stringify(json, null, '\t');
 
