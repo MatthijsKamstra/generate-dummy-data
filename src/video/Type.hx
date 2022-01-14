@@ -3,8 +3,13 @@ package video;
 import utils.Util;
 
 class Type {
+	static var arr = ['series', 'films', 'kids', 'programma\'s'];
+
 	public static function get() {
-		var arr = ['series', 'films', 'kids', 'programma\'s'];
 		return arr[Math.floor(Math.random() * arr.length)];
+	}
+
+	public static function getAll() {
+		return arr;
 	}
 }

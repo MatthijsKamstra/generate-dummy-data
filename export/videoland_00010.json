@@ -1,20 +1,58 @@
 {
+	"language": [
+		"Nederlands",
+		"Frans",
+		"Engels",
+		"Duits",
+		"Spaans"
+	],
+	"genre": [
+		"Actie",
+		"Animatie",
+		"Arthouse",
+		"Avontuur",
+		"Cabaret",
+		"Competitie",
+		"Consument",
+		"Documentaire",
+		"Drama",
+		"Familie",
+		"Fantasy",
+		"Horror",
+		"Informatief",
+		"Kids",
+		"Komedie",
+		"Lifestyle",
+		"Misdaad",
+		"Mysterie",
+		"Nieuws en Actualiteit",
+		"Reality",
+		"Romantiek",
+		"Sciencefiction",
+		"Spelshow",
+		"Sport",
+		"Talkshow en Interview",
+		"Thriller",
+		"Voorstelling"
+	],
 	"items": [
 		{
-			"description": "Voluptatem aspernatur ut et quo. Natus aut ipsam omnis fugit modi ex porro rem. Vero omnis id sit at vel esse nihil minus.",
-			"year": 1997,
-			"uiid": "554855d8-7c58-4970-b41e-09d6fcf05037",
-			"stars": 5,
-			"title": "Corazon flirt with fish without fear.",
+			"description": "Molestias et ratione quos quidem reprehenderit molestiae autem. Sit omnis praesentium. Accusantium sit est perspiciatis sed ducimus a quia.",
+			"year": 2006,
+			"uiid": "58fa51b8-b585-4c2f-af5d-3882384dd86a",
+			"stars": 2,
+			"title": "Zane cheer for country music on a regular basis.",
 			"images": {
 				"banner": "https://picsum.photos/seed/1/355/530",
 				"thumb": "https://picsum.photos/seed/1/277/415",
 				"large": "https://picsum.photos/seed/1_hero/1920/1080"
 			},
-			"language": "Duits",
-			"duration": 89,
+			"language": "Spaans",
+			"duration": 110,
 			"genre": [
-				"Drama"
+				"Fantasy",
+				"Arthouse",
+				"Spelshow"
 			],
 			"id": 0,
 			"videos": {
@@ -23,135 +61,131 @@
 			},
 			"type": "kids",
 			"actors": [
-				"Elina Mulder",
-				"Shaina Van den Berg ",
-				"Chantell Van den Berg ",
-				"Chantell De Groot"
+				"Kortney Bakker"
 			]
 		},
 		{
-			"description": "Sed est quae consequatur odit mollitia temporibus quaerat blanditiis sed. Porro molestiae ut incidunt ea tempora a. Aliquam est ea eum tempore.",
-			"year": 1988,
-			"uiid": "554855d8-e33d-4d1f-b6e2-a5c51f457fef",
-			"stars": 1,
-			"title": "Jarrod hack tattoos, all in good taste.",
+			"description": "Doloremque qui ex porro. In et at eos quo cupiditate et. Maiores perferendis at reiciendis dolorum odit enim.",
+			"year": 2011,
+			"uiid": "58fa51b8-5afb-4823-9910-82acc893ce79",
+			"stars": 3,
+			"title": "Jeff sleep better because of yo mama up above.",
 			"images": {
 				"banner": "https://picsum.photos/seed/2/355/530",
 				"thumb": "https://picsum.photos/seed/2/277/415",
 				"large": "https://picsum.photos/seed/2_hero/1920/1080"
 			},
 			"language": "Engels",
-			"duration": 188,
+			"duration": 175,
 			"genre": [
-				"Sciencefiction",
-				"Fantasy",
-				"Animatie"
+				"Spelshow"
 			],
 			"id": 1,
 			"videos": {
 				"movie": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
 				"trailer": "https://sample-videos.com/video123/mp4/240/big_buck_bunny_240p_1mb.mp4"
 			},
-			"type": "kids",
+			"type": "films",
 			"actors": [
-				"Angle De Boer"
+				"Lowell Van den Berg "
 			]
 		},
 		{
-			"description": "Voluptatem voluptates nulla odit sed et delectus. Repudiandae nam tempora est asperiores velit culpa nisi sed. Mollitia molestiae qui unde quam aut nulla.",
-			"year": 1989,
-			"uiid": "554855d8-b557-4597-bb14-8fc6d0365560",
-			"stars": 4,
-			"title": "Queenie always ask for tubesocks in the future.",
+			"description": "Iusto quaerat velit incidunt voluptatum officia doloremque commodi soluta sed. Id debitis neque amet ipsum est cum et ipsum sunt. Eius repellendus aperiam nemo.",
+			"year": 2021,
+			"uiid": "58fa51b8-7121-4ee7-837b-2724cb2db3fb",
+			"stars": 5,
+			"title": "Sunshine have beef with your place of birth after midnight.",
 			"images": {
 				"banner": "https://picsum.photos/seed/3/355/530",
 				"thumb": "https://picsum.photos/seed/3/277/415",
 				"large": "https://picsum.photos/seed/3_hero/1920/1080"
 			},
-			"language": "Nederlands",
-			"duration": 193,
+			"language": "Spaans",
+			"duration": 145,
 			"genre": [
-				"Competitie"
+				"Horror"
 			],
 			"id": 2,
 			"videos": {
 				"movie": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
 				"trailer": "https://sample-videos.com/video123/mp4/240/big_buck_bunny_240p_1mb.mp4"
 			},
-			"type": "kids",
+			"type": "films",
 			"actors": [
-				"Martin Bakker"
+				"Chantell De Jong"
 			]
 		},
 		{
-			"description": "Temporibus atque ipsam rerum culpa. Voluptates recusandae dolorem quod qui aut consequuntur repellendus aperiam. Perspiciatis voluptas eius qui.",
-			"year": 1993,
-			"uiid": "554855d8-3e70-457f-8115-6d0b271c74a3",
+			"description": "Quisquam odio cupiditate laborum dolor est distinctio nobis fugiat. Autem occaecati aperiam voluptas quidem earum vero nihil. Eum sed sunt accusamus fugiat quo.",
+			"year": 2010,
+			"uiid": "58fa51b8-d5a1-4f95-a3dd-1ac0877449c3",
 			"stars": 1,
-			"title": "Angle fry fish for some time.",
+			"title": "Zulma hate god in the dark.",
 			"images": {
 				"banner": "https://picsum.photos/seed/4/355/530",
 				"thumb": "https://picsum.photos/seed/4/277/415",
 				"large": "https://picsum.photos/seed/4_hero/1920/1080"
 			},
-			"language": "Frans",
-			"duration": 110,
+			"language": "Nederlands",
+			"duration": 161,
 			"genre": [
-				"Avontuur"
+				"Informatief",
+				"Animatie"
 			],
 			"id": 3,
 			"videos": {
 				"movie": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
 				"trailer": "https://sample-videos.com/video123/mp4/240/big_buck_bunny_240p_1mb.mp4"
 			},
-			"type": "films",
+			"type": "kids",
 			"actors": [
-				"Slyvia De Jong",
-				"Sunshine De Boer",
-				"Martin Bos"
+				"Zane Dekker"
 			]
 		},
 		{
-			"description": "Illo natus velit nisi quaerat ullam. Quasi eum cum alias minus sunt voluptatem ut. Sit omnis numquam unde tenetur velit ut.",
+			"description": "Corrupti dolores iste aut hic qui natus illo vel sint. Dicta itaque illo quibusdam incidunt. Consequatur vero ex placeat sit inventore modi sit.",
 			"year": 1991,
-			"uiid": "554855d8-4638-438f-8dcb-738af2807db8",
-			"stars": 1,
-			"title": "Corazon tried propaganda in one go.",
+			"uiid": "58fa51b8-a555-4e4f-a295-40cfe178d2ad",
+			"stars": 5,
+			"title": "Angle chewed on weed up above.",
 			"images": {
 				"banner": "https://picsum.photos/seed/5/355/530",
 				"thumb": "https://picsum.photos/seed/5/277/415",
 				"large": "https://picsum.photos/seed/5_hero/1920/1080"
 			},
 			"language": "Frans",
-			"duration": 162,
+			"duration": 167,
 			"genre": [
-				"Sciencefiction"
+				"Mysterie"
 			],
 			"id": 4,
 			"videos": {
 				"movie": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
 				"trailer": "https://sample-videos.com/video123/mp4/240/big_buck_bunny_240p_1mb.mp4"
 			},
-			"type": "films",
+			"type": "series",
 			"actors": [
-				"Lowell Bakker"
+				"Lowell Smit"
 			]
 		},
 		{
-			"description": "Quas asperiores vel est dolorem voluptatem harum cupiditate consequatur. Vero nulla nihil quidem quos. Corrupti dolores exercitationem cum repudiandae et dicta aut consequatur.",
-			"year": 2014,
-			"uiid": "554855d8-cc9b-46e5-9a07-f92c4830bf5a",
-			"stars": 4,
-			"title": "Sunshine is better than men just for fun.",
+			"description": "Eos cupiditate odit voluptatum id recusandae qui minima ea tempore. Ea vero vel rerum sint reprehenderit ullam. Laudantium corporis ut similique tempore quibusdam.",
+			"year": 1984,
+			"uiid": "58fa51b8-16be-4ba0-9486-e26eea46d4a2",
+			"stars": 5,
+			"title": "Corazon despise alcohol for a living.",
 			"images": {
 				"banner": "https://picsum.photos/seed/6/355/530",
 				"thumb": "https://picsum.photos/seed/6/277/415",
 				"large": "https://picsum.photos/seed/6_hero/1920/1080"
 			},
 			"language": "Spaans",
-			"duration": 152,
+			"duration": 188,
 			"genre": [
-				"Nieuws en Actualiteit"
+				"Competitie",
+				"Documentaire",
+				"Cabaret"
 			],
 			"id": 5,
 			"videos": {
@@ -160,134 +194,134 @@
 			},
 			"type": "films",
 			"actors": [
-				"Slyvia Van den Berg ",
-				"Zane Vos",
-				"Slyvia Smit"
+				"Ingeborg Dijkstra",
+				"Slyvia De Vries",
+				"Kortney Smit",
+				"Shaina Smit"
 			]
 		},
 		{
-			"description": "Illum labore aliquid non dicta fugit minima repellat aut sed. Quia ut dolorem iste fuga tenetur. Quo ut qui hic accusamus nihil ut eos.",
+			"description": "Cumque nemo nobis. Beatae commodi voluptatem sunt. Sapiente reprehenderit sint porro enim nobis a voluptatum vel qui.",
 			"year": 1990,
-			"uiid": "554855d8-ecc2-46c8-ae65-c386855bf6d7",
-			"stars": 2,
-			"title": "Alysa knows all about older browsers on rollerskates.",
+			"uiid": "58fa51b8-ecbe-4348-bdc3-49497d6066de",
+			"stars": 4,
+			"title": "Chantell chuckle at empty bottles without fear.",
 			"images": {
 				"banner": "https://picsum.photos/seed/7/355/530",
 				"thumb": "https://picsum.photos/seed/7/277/415",
 				"large": "https://picsum.photos/seed/7_hero/1920/1080"
 			},
-			"language": "Nederlands",
-			"duration": 126,
+			"language": "Engels",
+			"duration": 117,
 			"genre": [
-				"Avontuur",
-				"Romantiek"
+				"Kids",
+				"Horror",
+				"Lifestyle"
 			],
 			"id": 6,
 			"videos": {
 				"movie": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
 				"trailer": "https://sample-videos.com/video123/mp4/240/big_buck_bunny_240p_1mb.mp4"
 			},
-			"type": "series",
+			"type": "kids",
 			"actors": [
-				"Jeff Brouwer",
-				"Kortney Hendriks",
-				"Angle Dijkstra",
-				"Chantell Smits"
+				"Martin Bos"
 			]
 		},
 		{
-			"description": "Nobis eum qui eum nihil. Occaecati perferendis quia distinctio iste culpa iste corporis natus. Voluptatem unde sapiente fugit.",
-			"year": 2015,
-			"uiid": "554855d8-956c-446c-a363-6625338c1ce3",
-			"stars": 4,
-			"title": "Martin is fan of politicians under one roof.",
+			"description": "Et quia nobis saepe eos odio praesentium adipisci. Repellat exercitationem aliquam impedit natus alias esse omnis inventore. Ratione rerum nesciunt.",
+			"year": 2001,
+			"uiid": "58fa51b8-e766-4408-8cd1-52e7021b275a",
+			"stars": 2,
+			"title": "Deonna represent  slogans, word!.",
 			"images": {
 				"banner": "https://picsum.photos/seed/8/355/530",
 				"thumb": "https://picsum.photos/seed/8/277/415",
 				"large": "https://picsum.photos/seed/8_hero/1920/1080"
 			},
-			"language": "Nederlands",
-			"duration": 85,
+			"language": "Frans",
+			"duration": 181,
 			"genre": [
-				"Talkshow en Interview",
-				"Drama",
-				"Avontuur"
+				"Sciencefiction",
+				"Actie"
 			],
 			"id": 7,
 			"videos": {
 				"movie": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
 				"trailer": "https://sample-videos.com/video123/mp4/240/big_buck_bunny_240p_1mb.mp4"
 			},
-			"type": "films",
+			"type": "kids",
 			"actors": [
-				"Corazon Peters",
-				"Lowell Smit"
+				"Jeff Jansen",
+				"Angle Dekker",
+				"Sunshine Van Dijk",
+				"Lowell De Vries",
+				"Elina Jansen"
 			]
 		},
 		{
-			"description": "Accusantium necessitatibus aperiam. Unde distinctio sed molestiae dolor aliquam nesciunt molestiae. Quaerat est qui at sint voluptatem velit.",
-			"year": 1988,
-			"uiid": "554855d8-bb07-4af7-9aab-f3bee1946ee1",
-			"stars": 4,
-			"title": "Queenie love electric boogie on a bike.",
+			"description": "Quae sunt impedit sapiente dolores quia nihil quas. Voluptate ipsa eum sunt soluta aliquid ea dignissimos. Dolorum delectus corporis debitis sit.",
+			"year": 1992,
+			"uiid": "58fa51b8-c1a2-49c6-8147-7646ac86c0d2",
+			"stars": 2,
+			"title": "Jeff carry the working classes on a bike.",
 			"images": {
 				"banner": "https://picsum.photos/seed/9/355/530",
 				"thumb": "https://picsum.photos/seed/9/277/415",
 				"large": "https://picsum.photos/seed/9_hero/1920/1080"
 			},
-			"language": "Duits",
-			"duration": 93,
+			"language": "Spaans",
+			"duration": 118,
 			"genre": [
-				"Thriller",
-				"Talkshow en Interview",
-				"Lifestyle"
+				"Lifestyle",
+				"Competitie",
+				"Nieuws en Actualiteit"
 			],
 			"id": 8,
 			"videos": {
 				"movie": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
 				"trailer": "https://sample-videos.com/video123/mp4/240/big_buck_bunny_240p_1mb.mp4"
 			},
-			"type": "programma's",
+			"type": "kids",
 			"actors": [
-				"Zane Visser",
-				"Kortney Dijkstra",
-				"Zulma Bakker",
-				"Ingeborg Smit",
-				"Diedre Dekker"
+				"Lowell De Graaf"
 			]
 		},
 		{
-			"description": "Aperiam reiciendis exercitationem voluptates corrupti voluptate. Ab error optio maxime rerum in rem iure. Nam aut sunt ad et beatae porro.",
-			"year": 1992,
-			"uiid": "554855d8-cd5f-4900-b195-994e9b31f4fd",
-			"stars": 3,
-			"title": "Alysa always ask for Microsoft on the beach.",
+			"description": "Quia quaerat molestiae nihil consequatur. Consequuntur similique et minima quia deserunt necessitatibus praesentium qui et. Ullam iure magni fuga est quia soluta alias nemo.",
+			"year": 1995,
+			"uiid": "58fa51b8-259b-430e-a8a9-ddfc45c28535",
+			"stars": 1,
+			"title": "Elina burn the working classes from time to time.",
 			"images": {
 				"banner": "https://picsum.photos/seed/10/355/530",
 				"thumb": "https://picsum.photos/seed/10/277/415",
 				"large": "https://picsum.photos/seed/10_hero/1920/1080"
 			},
 			"language": "Nederlands",
-			"duration": 156,
+			"duration": 81,
 			"genre": [
-				"Sciencefiction",
-				"Kids",
-				"Competitie"
+				"Consument"
 			],
 			"id": 9,
 			"videos": {
 				"movie": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
 				"trailer": "https://sample-videos.com/video123/mp4/240/big_buck_bunny_240p_1mb.mp4"
 			},
-			"type": "series",
+			"type": "films",
 			"actors": [
-				"Martin De Graaf",
-				"Angle Van den Berg ",
-				"Diedre De Wit",
-				"Corazon Smit",
-				"Sunshine Visser"
+				"Sunshine De Groot",
+				"Chantell De Jong",
+				"Sunshine De Graaf",
+				"Kortney De Groot"
 			]
 		}
 	],
-	"created": "2022-01-13 22:11:51"
+	"created": "2022-01-14 15:25:07",
+	"type": [
+		"series",
+		"films",
+		"kids",
+		"programma's"
+	]
 }

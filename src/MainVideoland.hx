@@ -1,3 +1,4 @@
+import video.Genre;
 import utils.Util;
 import lorem.Lorem;
 import utils.UUID;
@@ -44,6 +45,9 @@ class MainVideoland {
 		}
 
 		Reflect.setField(json, 'items', arr);
+		Reflect.setField(json, 'type', video.Type.getAll());
+		Reflect.setField(json, 'genre', video.Genre.getAll());
+		Reflect.setField(json, 'language', video.Language.getAll());
 
 		var str = Json.stringify(json, null, '\t');
 
