@@ -4,7 +4,7 @@ import utils.Util;
 
 class Kijkwijzer {
 	static var arr = [
-		'al', '06', '09', '12', '14', '16', '18', 'violence', 'fear', 'sex', 'discrimination', 'drugs', 'coarse', 'schelden', 'vloeken'
+		'al', '06', '09', '12', '14', '16', '18', 'violence', 'fear', 'sex', 'discrimination', 'drugs', 'coarse'
 	];
 	static var age = ['al', '06', '09', '12', '14', '16', '18'];
 	static var type = ['violence', 'fear', 'sex', 'discrimination', 'drugs', 'coarse'];
