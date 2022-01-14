@@ -43,8 +43,13 @@ class MainVideoland {
 			Reflect.setField(obj, 'videos', getVideo(i));
 
 			var kijkObj = {};
-			Reflect.setField(kijkObj, 'age', Kijkwijzer.getAge());
-			Reflect.setField(kijkObj, 'type', Kijkwijzer.getType());
+			var _age:String = Kijkwijzer.getAge();
+			var _typeArr:Array<String> = Kijkwijzer.getType();
+			var _typeArrCopy = _typeArr.slice(0);
+			_typeArrCopy.unshift(_age);
+			Reflect.setField(kijkObj, 'age', _age);
+			Reflect.setField(kijkObj, 'type', _typeArr);
+			Reflect.setField(kijkObj, 'list', _typeArrCopy);
 
 			Reflect.setField(obj, 'kijkwijzer', kijkObj);
 
