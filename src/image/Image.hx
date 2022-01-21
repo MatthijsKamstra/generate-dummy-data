@@ -92,7 +92,7 @@ class Image {
 typedef ImageObj = {
 	var width:Int; // ': w,
 	var height:Int; // ': h,
-	var direction:Direction; // ': direction
+	@:optional var direction:Direction; // ': direction
 };
 
 enum Direction {
