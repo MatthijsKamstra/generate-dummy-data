@@ -19,7 +19,14 @@
 
 # --next
 
+# -cp src
+# -D analyzer-optimize
+# -main MainVideoland
+# --interp
+
+# --next
+
 -cp src
 -D analyzer-optimize
--main MainVideoland
+-main MainWhiskey
 --interp
