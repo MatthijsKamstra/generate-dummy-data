@@ -21,8 +21,9 @@ class Whisky {
 	}
 
 	public function price():String {
-		var temp:Int = Util.randomInteger(500, 2500);
-		return '${(temp / 100)}';
+		var temp:Int = utils.Util.randomInteger(500, 2500);
+		var str = '${temp}';
+		return str.substr(0, str.length - 2) + ',' + str.substr(str.length - 2, str.length);
 	}
 
 	public function flavor():String {

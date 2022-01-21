@@ -17,8 +17,9 @@ class Number {
 	 * @param min = 500
 	 * @param max = 2500
 	 */
-	public static function price(min = 500, max = 2500) {
-		var temp:Int = utils.Util.randomInteger(min, max);
-		return '${(temp / 100)}';
+	public function price():String {
+		var temp:Int = utils.Util.randomInteger(500, 2500);
+		var str = '${temp}';
+		return str.substr(0, str.length - 2) + ',' + str.substr(str.length - 2, str.length);
 	}
 }
