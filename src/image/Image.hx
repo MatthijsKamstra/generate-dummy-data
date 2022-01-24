@@ -77,6 +77,7 @@ class Image {
 		var obj = dimensions;
 		var _obj = {
 			'thumb': 'https://picsum.photos/seed/${seed}/200/200',
+			'blur': 'https://picsum.photos/seed/${seed}/${Std.int(obj.width / 4)}/${Std.int(obj.height / 4)}?blur=4',
 			'half': 'https://picsum.photos/seed/${seed}/${Std.int(obj.width / 2)}/${Std.int(obj.height / 2)}',
 			'original': 'https://picsum.photos/seed/${seed}/${obj.width}/${obj.height}',
 			'large': 'https://picsum.photos/seed/${seed}/${(obj.width * 2)}/${(obj.height * 2)}',
