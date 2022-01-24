@@ -5,6 +5,8 @@ import whisky.Country;
 import lorem.Slogan;
 import utils.Util;
 
+using StringTools;
+
 class Whisky {
 	public function new() {}
 
@@ -21,9 +23,15 @@ class Whisky {
 	}
 
 	public function price():String {
-		var temp:Int = utils.Util.randomInteger(500, 2500);
+		// between 5 and 250 a value (*100)
+		var temp:Int = utils.Util.randomInteger(500, 25000);
 		var str = '${temp}';
 		return str.substr(0, str.length - 2) + ',' + str.substr(str.length - 2, str.length);
+	}
+
+	public function priceValue(str:String):Float {
+		var temp = str.replace(',', '.');
+		return Std.parseFloat(temp);
 	}
 
 	public function flavor():String {

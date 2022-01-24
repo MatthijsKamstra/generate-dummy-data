@@ -42,7 +42,9 @@ class MainWhisky {
 			Reflect.setField(obj, 'flavor', new Whisky().flavor());
 			Reflect.setField(obj, 'type', new Whisky().type());
 			Reflect.setField(obj, 'volume', new Whisky().volume());
-			Reflect.setField(obj, 'price', new Whisky().price());
+			var price = new Whisky().price();
+			Reflect.setField(obj, 'price', price);
+			Reflect.setField(obj, 'pricevalue', new Whisky().priceValue(price));
 
 			// Reflect.setField(obj, 'year', new Video().year());
 			// Reflect.setField(obj, 'duration', new Video().duration());
