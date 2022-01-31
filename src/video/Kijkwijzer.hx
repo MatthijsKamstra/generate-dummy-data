@@ -1,6 +1,6 @@
 package video;
 
-import utils.Util;
+import utils.MathUtil;
 
 class Kijkwijzer {
 	static var arr = [
@@ -27,7 +27,7 @@ class Kijkwijzer {
 
 	public static function getType() {
 		// return type[Math.floor(Math.random() * type.length)];
-		var nr = Util.randomInteger(1, 3);
+		var nr = MathUtil.randomInteger(1, 3);
 		var typeArr = [];
 		for (i in 0...nr) {
 			var temp = type[Math.floor(Math.random() * type.length)];

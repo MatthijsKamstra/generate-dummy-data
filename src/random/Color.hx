@@ -1,9 +1,7 @@
-package whisky;
+package random;
 
-import utils.MathUtil;
-
-class Type {
-	static var arr = ['Malt', 'Blend', 'Bourbon'];
+class Color {
+	static var arr = ['Red', 'Green', 'White', 'Black', 'Golden'];
 
 	public static function get() {
 		return arr[Math.floor(Math.random() * arr.length)];

@@ -22,17 +22,5 @@ class Util {
 		return string.charAt(0).toUpperCase() + string.substr(1);
 	}
 
-	/**
-	 * [Description]
-	 * @param min
-	 * @param max
-	 * @return Int
-	 */
-	public static function randomInteger(min:Int, ?max:Int):Int {
-		if (max == null) {
-			max = min;
-			min = 0;
-		}
-		return Math.floor(Math.random() * (max + 1 - min)) + min;
-	}
+
 }

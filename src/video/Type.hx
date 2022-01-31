@@ -1,6 +1,6 @@
 package video;
 
-import utils.Util;
+import utils.MathUtil;
 
 class Type {
 	static var arr = ['series', 'films', 'kids', 'programma\'s'];

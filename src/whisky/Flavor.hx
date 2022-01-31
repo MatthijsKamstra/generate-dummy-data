@@ -1,6 +1,6 @@
 package whisky;
 
-import utils.Util;
+import utils.MathUtil;
 
 class Flavor {
 	static var arr = ['mild & zacht', 'krachtig & rokerig', 'medium & granig', 'vol & rijk'];

@@ -1,6 +1,6 @@
 package image;
 
-import utils.Util;
+import utils.MathUtil;
 
 /**
 	- [x] image
@@ -55,8 +55,8 @@ class Image {
 	// }
 
 	public function dimensions(min:Int = 10, max:Int = 2000):ImageObj {
-		var w = Util.randomInteger(min, max);
-		var h = Util.randomInteger(min, max);
+		var w = MathUtil.randomInteger(min, max);
+		var h = MathUtil.randomInteger(min, max);
 		var direction = Direction.Landscape;
 		if (w <= h) {
 			direction = Direction.Portrait;

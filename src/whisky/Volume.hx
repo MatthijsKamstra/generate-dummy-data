@@ -1,6 +1,6 @@
 package whisky;
 
-import utils.Util;
+import utils.MathUtil;
 
 class Volume {
 	static var arr = [

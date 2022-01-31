@@ -1,7 +1,7 @@
 package video;
 
 import lorem.Slogan;
-import utils.Util;
+import utils.MathUtil;
 
 class Video {
 	public function new() {}
@@ -31,10 +31,10 @@ class Video {
 	}
 
 	public function year():Int {
-		return Util.randomInteger(1980, Date.now().getFullYear());
+		return MathUtil.randomInteger(1980, Date.now().getFullYear());
 	}
 
 	public function duration():Int {
-		return Util.randomInteger(80, 200);
+		return MathUtil.randomInteger(80, 200);
 	}
 }

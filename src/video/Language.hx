@@ -1,6 +1,6 @@
 package video;
 
-import utils.Util;
+import utils.MathUtil;
 
 class Language {
 	static var arr = ['Nederlands', 'Frans', 'Engels', 'Duits', 'Spaans'];

@@ -3,7 +3,7 @@ package whisky;
 import whisky.Volume;
 import whisky.Country;
 import lorem.Slogan;
-import utils.Util;
+import utils.MathUtil;
 
 using StringTools;
 
@@ -24,7 +24,7 @@ class Whisky {
 
 	public function price():String {
 		// between 5 and 250 a value (*100)
-		var temp:Int = utils.Util.randomInteger(500, 25000);
+		var temp:Int = utils.MathUtil.randomInteger(500, 25000);
 		var str = '${temp}';
 		return str.substr(0, str.length - 2) + ',' + str.substr(str.length - 2, str.length);
 	}
@@ -61,10 +61,10 @@ class Whisky {
 	}
 
 	public function year():Int {
-		return Util.randomInteger(1980, Date.now().getFullYear());
+		return MathUtil.randomInteger(1980, Date.now().getFullYear());
 	}
 
 	// public function duration():Int {
-	// 	return Util.randomInteger(80, 200);
+	// 	return MathUtil.randomInteger(80, 200);
 	// }
 }

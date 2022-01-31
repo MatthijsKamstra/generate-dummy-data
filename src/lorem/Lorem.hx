@@ -1,6 +1,7 @@
 package lorem;
 
 import utils.Util;
+import utils.MathUtil;
 
 using StringTools;
 
@@ -43,7 +44,7 @@ class Lorem {
 	 */
 	public function sentence(?total:Int):String {
 		if (total == null)
-			total = Util.randomInteger(3, 10);
+			total = MathUtil.randomInteger(3, 10);
 		return Util.capitalizeFirstLetter(lorem.Words.get(total)) + ".";
 	}
 
@@ -54,7 +55,7 @@ class Lorem {
 	 */
 	public function sentences(?total:Int):String {
 		if (total == null)
-			total = Util.randomInteger(2, 6);
+			total = MathUtil.randomInteger(2, 6);
 		var str = '';
 		for (i in 0...total) {
 			var sentence = sentence();
@@ -86,11 +87,11 @@ class Lorem {
 
 	function getBody() {
 		var l = text.length;
-		return Util.capitalizeFirstLetter(text.substr(Util.randomInteger(Math.round(l * 0.5), l)).trim());
+		return Util.capitalizeFirstLetter(text.substr(MathUtil.randomInteger(Math.round(l * 0.5), l)).trim());
 	}
 
 	function getDescription() {
 		var l = text.length;
-		return Util.capitalizeFirstLetter(text.substr(Util.randomInteger(Math.round(l * 0.5), l)).trim());
+		return Util.capitalizeFirstLetter(text.substr(MathUtil.randomInteger(Math.round(l * 0.5), l)).trim());
 	}
 }

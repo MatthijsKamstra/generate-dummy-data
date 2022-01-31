@@ -1,3 +1,4 @@
+import utils.MathUtil;
 import image.Image;
 import whisky.Volume;
 import whisky.Flavor;
@@ -6,7 +7,7 @@ import whisky.Country;
 import whisky.Whisky;
 import video.Kijkwijzer;
 import video.Genre;
-import utils.Util;
+import utils.MathUtil;
 import lorem.Lorem;
 import utils.UUID;
 import video.Video;
@@ -35,7 +36,7 @@ class MainWhisky {
 			Reflect.setField(obj, 'uiid', UUID.uuid());
 
 			Reflect.setField(obj, 'title', new Video().title());
-			Reflect.setField(obj, 'description', new Lorem().paragraph());
+			Reflect.setField(obj, 'description', new Lorem().paragraph(5));
 
 			Reflect.setField(obj, 'brand', new Whisky().brand());
 			Reflect.setField(obj, 'country', new Whisky().country());
@@ -49,10 +50,13 @@ class MainWhisky {
 			// Reflect.setField(obj, 'year', new Video().year());
 			// Reflect.setField(obj, 'duration', new Video().duration());
 
-			// Reflect.setField(obj, 'stars', Util.randomInteger(1, 5));
+			// Reflect.setField(obj, 'stars', MathUtil.randomInteger(1, 5));
 			// Reflect.setField(obj, 'genre', new Video().genre());
 			// Reflect.setField(obj, 'actors', new Video().actors());
 			// Reflect.setField(obj, 'language', new Video().language());
+
+			Reflect.setField(obj, 'recommended', MathUtil.chance(20));
+			Reflect.setField(obj, 'rating', MathUtil.chance(20));
 
 			Reflect.setField(obj, 'image', new Image().image('${i + 1}', 200, 500));
 			Reflect.setField(obj, 'images', new Image().imageSizes('${i + 1}', {width: 200, height: 500}));

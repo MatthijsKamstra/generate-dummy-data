@@ -1,6 +1,6 @@
 package date;
 
-import utils.Util;
+import utils.MathUtil;
 
 /**
 	- [ ] past
@@ -16,18 +16,18 @@ class Dates {
 	public function new() {}
 
 	function getYear(period) {
-		return Util.randomInteger(period.start, period.end);
+		return MathUtil.randomInteger(period.start, period.end);
 	}
 
 	function getYearPurchase(year) {
-		return Util.randomInteger(year, Date.now().getFullYear());
+		return MathUtil.randomInteger(year, Date.now().getFullYear());
 	}
 
 	function getYearBirth(year) {
-		return year - Util.randomInteger(20, 50);
+		return year - MathUtil.randomInteger(20, 50);
 	}
 
 	function getYearDeath(year) {
-		return year + Util.randomInteger(1, 20);
+		return year + MathUtil.randomInteger(1, 20);
 	}
 }

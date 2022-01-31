@@ -1,6 +1,6 @@
 import video.Kijkwijzer;
 import video.Genre;
-import utils.Util;
+import utils.MathUtil;
 import lorem.Lorem;
 import utils.UUID;
 import video.Video;
@@ -34,7 +34,7 @@ class MainVideoland {
 			Reflect.setField(obj, 'type', new Video().type());
 			Reflect.setField(obj, 'duration', new Video().duration());
 
-			Reflect.setField(obj, 'stars', Util.randomInteger(1, 5));
+			Reflect.setField(obj, 'stars', MathUtil.randomInteger(1, 5));
 			Reflect.setField(obj, 'genre', new Video().genre());
 			Reflect.setField(obj, 'actors', new Video().actors());
 			Reflect.setField(obj, 'language', new Video().language());

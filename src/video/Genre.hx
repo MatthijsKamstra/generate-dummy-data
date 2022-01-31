@@ -1,6 +1,6 @@
 package video;
 
-import utils.Util;
+import utils.MathUtil;
 
 class Genre {
 	static var arr = [
@@ -10,7 +10,7 @@ class Genre {
 	];
 
 	public static function get() {
-		var nr = Util.randomInteger(1, 3);
+		var nr = MathUtil.randomInteger(1, 3);
 		var genreArr = [];
 		for (i in 0...nr) {
 			var temp = arr[Math.floor(Math.random() * arr.length)];
