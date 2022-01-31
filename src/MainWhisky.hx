@@ -38,11 +38,18 @@ class MainWhisky {
 			Reflect.setField(obj, 'title', new Video().title());
 			Reflect.setField(obj, 'description', new Lorem().paragraph(5));
 
-			Reflect.setField(obj, 'brand', new Whisky().brand());
+			var brand = new Whisky().brand();
+			Reflect.setField(obj, 'brand', brand);
+			var type = new Whisky().type();
+			Reflect.setField(obj, 'type', type);
+			var volume = new Whisky().volume();
+			Reflect.setField(obj, 'volume', volume);
+
+			Reflect.setField(obj, 'title', '${brand} ${type} ${volume}');
+
 			Reflect.setField(obj, 'country', new Whisky().country());
 			Reflect.setField(obj, 'flavor', new Whisky().flavor());
-			Reflect.setField(obj, 'type', new Whisky().type());
-			Reflect.setField(obj, 'volume', new Whisky().volume());
+
 			var price = new Whisky().price();
 			Reflect.setField(obj, 'price', price);
 			Reflect.setField(obj, 'pricevalue', new Whisky().priceValue(price));
@@ -56,7 +63,7 @@ class MainWhisky {
 			// Reflect.setField(obj, 'language', new Video().language());
 
 			Reflect.setField(obj, 'recommended', MathUtil.chance(20));
-			Reflect.setField(obj, 'rating', MathUtil.chance(20));
+			Reflect.setField(obj, 'rating', MathUtil.randomInteger(1, 5));
 
 			Reflect.setField(obj, 'image', new Image().image('${i + 1}', 200, 500));
 			Reflect.setField(obj, 'images', new Image().imageSizes('${i + 1}', {width: 200, height: 500}));
