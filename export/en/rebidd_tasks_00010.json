@@ -1,420 +1,36 @@
 {
-	"updated_date": "2022-04-11 15:35:35",
-	"created_date": "2022-04-01 15:35:35",
+	"updated_date": "2022-04-11 23:00:43",
+	"created_date": "2022-04-10 23:00:43",
 	"tasks": [
 		{
-			"description": "Nesciunt modi alias.",
-			"due_date": "2022-04-18 15:35:35",
-			"title": "Nihil vero aut dolorum aperiam",
+			"description": "Inventore ratione enim excepturi et ut facilis.",
+			"due_date": "2022-04-15 23:00:43",
+			"title": "Est repellendus id eum optio",
 			"property": {
-				"title": "Namspoor 319 Alphen aan den Rijn",
-				"updated_date": "2022-04-11 15:35:35",
-				"status": {
-					"name": "DRAFT_z",
-					"id": 2
-				},
-				"phase": {
-					"name": "Live",
-					"id": 1
-				},
-				"created_date": "2022-04-09 15:35:35",
-				"user": {
-					"name": "Queenie",
-					"role": [
-						{
-							"name": "Viewer",
-							"id": 2
-						},
-						{
-							"name": "Sales",
-							"id": 0
-						}
-					],
-					"id": "18d63c58-4204-42be-b362-cb48c0e43981",
-					"team": {
-						"name": "Netherlands",
-						"id": "2",
-						"parent": null
-					}
-				},
-				"type": {
-					"name": "TAKE_PHOTOS",
-					"id": 2
-				}
-			},
-			"updated_date": "2022-04-11 15:35:35",
-			"status": {
-				"name": "TODO",
-				"id": 3
-			},
-			"phase": {
-				"name": "Screening",
-				"id": 3
-			},
-			"created_date": "2022-04-08 15:35:35",
-			"priority": {
-				"name": "HIGH",
-				"id": 0
-			},
-			"user": {
-				"name": "Latrice",
-				"updated_date": "2022-04-11 15:35:35",
-				"role": [
-					{
-						"name": "Reviewer",
-						"id": 3
-					}
-				],
-				"created_date": "2022-04-11 15:35:35",
-				"id": "18d63c58-d335-4f93-aeea-63fc266f1065",
-				"team": {
-					"name": "Amsterdam",
-					"id": 0,
-					"parent": -1
-				}
-			},
-			"team": {
-				"name": "Amsterdam",
-				"id": 0,
-				"parent": -1
-			},
-			"type": {
-				"name": "Rental",
-				"id": 1
-			},
-			"tags": [
-				{
-					"name": "Discussions",
-					"id": 0
-				},
-				{
-					"name": "BarFoo",
-					"id": 3
-				},
-				{
-					"name": "Follow-up",
-					"id": 1
-				}
-			]
-		},
-		{
-			"description": "Sunt vitae ut eum explicabo tenetur beatae iste est incidunt.",
-			"due_date": "2022-04-16 15:35:35",
-			"title": "Aut quod recusandae voluptas blanditiis",
-			"property": {
-				"title": "Commodigracht 406 Leeuwarden",
-				"updated_date": "2022-04-11 15:35:35",
-				"status": {
-					"name": "TODO",
-					"id": 3
-				},
-				"phase": {
-					"name": "Draft",
-					"id": 0
-				},
-				"created_date": "2022-04-09 15:35:35",
-				"user": {
-					"name": "Chantell",
-					"role": [
-						{
-							"name": "Administrator",
-							"id": 1
-						},
-						{
-							"name": "Viewer",
-							"id": 2
-						},
-						{
-							"name": "Sales",
-							"id": 0
-						}
-					],
-					"id": "18d63c58-660b-4bcd-a7b9-b1cccf068e9a",
-					"team": {
-						"name": "Netherlands",
-						"id": "2",
-						"parent": null
-					}
-				},
-				"type": {
-					"name": "Maintenance",
-					"id": 0
-				}
-			},
-			"updated_date": "2022-04-11 15:35:35",
-			"status": {
-				"name": "DRAFT_y",
-				"id": 1
-			},
-			"phase": {
-				"name": "Live",
-				"id": 1
-			},
-			"created_date": "2022-04-02 15:35:35",
-			"priority": {
-				"name": "LOW",
-				"id": 2
-			},
-			"user": {
-				"name": "Lowell",
-				"updated_date": "2022-04-11 15:35:35",
-				"role": [
-					{
-						"name": "Viewer",
-						"id": 2
-					},
-					{
-						"name": "Reviewer",
-						"id": 3
-					}
-				],
-				"created_date": "2022-04-11 15:35:35",
-				"id": "18d63c58-63a5-4ee2-8319-f0a7b3ab7445",
-				"team": {
-					"name": "Rotterdam",
-					"id": 1,
-					"parent": -1
-				}
-			},
-			"team": {
-				"name": "Rotterdam",
-				"id": 1,
-				"parent": -1
-			},
-			"type": {
-				"name": "TAKE_PHOTOS",
-				"id": 2
-			},
-			"tags": [
-				{
-					"name": "Discussions",
-					"id": 0
-				}
-			]
-		},
-		{
-			"description": "Accusamus ratione inventore sed molestias.",
-			"due_date": "2022-04-11 15:35:35",
-			"title": "Ut quasi voluptate ut sapiente",
-			"property": {
-				"title": "Omnisgracht 473 Amsterdam",
-				"updated_date": "2022-04-11 15:35:35",
-				"status": {
-					"name": "DRAFT",
-					"id": 0
-				},
-				"phase": {
-					"name": "Rented",
-					"id": 2
-				},
-				"created_date": "2022-04-09 15:35:35",
-				"user": {
-					"name": "Jarrod",
-					"role": [
-						{
-							"name": "Reviewer",
-							"id": 3
-						}
-					],
-					"id": "18d63c58-8ea5-4102-b3f2-8e6abf879940",
-					"team": {
-						"name": "Netherlands",
-						"id": "2",
-						"parent": null
-					}
-				},
-				"type": {
-					"name": "TAKE_PHOTOS",
-					"id": 2
-				}
-			},
-			"updated_date": "2022-04-11 15:35:35",
-			"status": {
-				"name": "DRAFT",
-				"id": 0
-			},
-			"phase": {
-				"name": "Live",
-				"id": 1
-			},
-			"created_date": "2022-04-10 15:35:35",
-			"priority": {
-				"name": "LOW",
-				"id": 2
-			},
-			"user": {
-				"name": "Kortney",
-				"updated_date": "2022-04-11 15:35:35",
-				"role": [
-					{
-						"name": "Administrator",
-						"id": 1
-					},
-					{
-						"name": "Viewer",
-						"id": 2
-					},
-					{
-						"name": "Sales",
-						"id": 0
-					}
-				],
-				"created_date": "2022-04-11 15:35:35",
-				"id": "18d63c58-5975-437c-864a-19e3ec064387",
-				"team": {
-					"name": "Amsterdam",
-					"id": 0,
-					"parent": -1
-				}
-			},
-			"team": {
-				"name": "Amsterdam",
-				"id": 0,
-				"parent": -1
-			},
-			"type": {
-				"name": "Rental",
-				"id": 1
-			},
-			"tags": [
-				{
-					"name": "Follow-up",
-					"id": 1
-				},
-				{
-					"name": "Discussions",
-					"id": 0
-				},
-				{
-					"name": "Foobar",
-					"id": 2
-				}
-			]
-		},
-		{
-			"description": "Eius omnis dolorem qui voluptatem vitae.",
-			"due_date": "2022-04-20 15:35:35",
-			"title": "Non et quia inventore dicta",
-			"property": {
-				"title": "Utspoor 215 Breda",
-				"updated_date": "2022-04-11 15:35:35",
-				"status": {
-					"name": "DRAFT",
-					"id": 0
-				},
-				"phase": {
-					"name": "Rented",
-					"id": 2
-				},
-				"created_date": "2022-04-09 15:35:35",
-				"user": {
-					"name": "Lowell",
-					"role": [
-						{
-							"name": "Administrator",
-							"id": 1
-						},
-						{
-							"name": "Reviewer",
-							"id": 3
-						}
-					],
-					"id": "18d63c58-7a52-48c9-a7da-d302fc4fb2ee",
-					"team": {
-						"name": "Netherlands",
-						"id": "2",
-						"parent": null
-					}
-				},
-				"type": {
-					"name": "Maintenance",
-					"id": 0
-				}
-			},
-			"updated_date": "2022-04-11 15:35:35",
-			"status": {
-				"name": "TODO",
-				"id": 3
-			},
-			"phase": {
-				"name": "Live",
-				"id": 1
-			},
-			"created_date": "2022-04-11 15:35:35",
-			"priority": {
-				"name": "",
-				"id": 3
-			},
-			"user": {
-				"name": "Slyvia",
-				"updated_date": "2022-04-11 15:35:35",
-				"role": [
-					{
-						"name": "Reviewer",
-						"id": 3
-					}
-				],
-				"created_date": "2022-04-11 15:35:35",
-				"id": "18d63c58-e8fb-4d41-9d4f-c20f2cbac8f8",
-				"team": {
-					"name": "Rotterdam",
-					"id": 1,
-					"parent": -1
-				}
-			},
-			"team": {
-				"name": "Rotterdam",
-				"id": 1,
-				"parent": -1
-			},
-			"type": {
-				"name": "Rental",
-				"id": 1
-			},
-			"tags": [
-				{
-					"name": "Foobar",
-					"id": 2
-				},
-				{
-					"name": "Discussions",
-					"id": 0
-				},
-				{
-					"name": "BarFoo",
-					"id": 3
-				},
-				{
-					"name": "Follow-up",
-					"id": 1
-				}
-			]
-		},
-		{
-			"description": "Ea asperiores ducimus enim et quo qui.",
-			"due_date": "2022-04-18 15:35:35",
-			"title": "Debitis quo quis dignissimos rem",
-			"property": {
-				"title": "Est Park 200 Leiden",
-				"updated_date": "2022-04-11 15:35:35",
+				"title": "Quaestraat 216 Ede",
+				"updated_date": "2022-04-11 23:00:43",
 				"status": {
 					"name": "DRAFT_y",
 					"id": 1
 				},
 				"phase": {
-					"name": "Screening",
-					"id": 3
+					"name": "Landlord review",
+					"id": 1
 				},
-				"created_date": "2022-04-09 15:35:35",
+				"created_date": "2022-04-09 23:00:43",
 				"user": {
-					"name": "Chantell",
+					"name": "Corazon",
 					"role": [
+						{
+							"name": "Administrator",
+							"id": 1
+						},
 						{
 							"name": "Sales",
 							"id": 0
 						}
 					],
-					"id": "18d63c58-9507-478b-8870-bdcc406f914d",
+					"id": "1a6dc478-7582-4f90-a56d-67445a579210",
 					"team": {
 						"name": "Netherlands",
 						"id": "2",
@@ -426,7 +42,7 @@
 					"id": 1
 				}
 			},
-			"updated_date": "2022-04-11 15:35:35",
+			"updated_date": "2022-04-11 23:00:43",
 			"status": {
 				"name": "DRAFT_y",
 				"id": 1
@@ -435,26 +51,125 @@
 				"name": "Draft",
 				"id": 0
 			},
-			"created_date": "2022-04-01 15:35:35",
+			"created_date": "2022-04-06 23:00:43",
+			"priority": {
+				"name": "",
+				"id": 3
+			},
+			"user": {
+				"name": "Diedre",
+				"updated_date": "2022-04-11 23:00:43",
+				"role": [
+					{
+						"name": "Administrator",
+						"id": 1
+					}
+				],
+				"created_date": "2022-04-11 23:00:43",
+				"id": "1a6dc478-cd8a-4283-8ed1-e66025719b44",
+				"team": {
+					"name": "Rotterdam",
+					"id": 1,
+					"parent": -1
+				}
+			},
+			"team": {
+				"name": "Rotterdam",
+				"id": 1,
+				"parent": -1
+			},
+			"type": {
+				"name": "TAKE_PHOTOS",
+				"id": 2
+			},
+			"tags": [
+				{
+					"name": "BarFoo",
+					"id": 3
+				},
+				{
+					"name": "Foobar",
+					"id": 2
+				},
+				{
+					"name": "Follow-up",
+					"id": 1
+				}
+			]
+		},
+		{
+			"description": "Ut fugiat autem deserunt ipsum facere.",
+			"due_date": "2022-04-21 23:00:43",
+			"title": "Quas laboriosam debitis omnis aut",
+			"property": {
+				"title": "Doloresplein 164 Amersfoort",
+				"updated_date": "2022-04-11 23:00:43",
+				"status": {
+					"name": "DRAFT_y",
+					"id": 1
+				},
+				"phase": {
+					"name": "Draft",
+					"id": 0
+				},
+				"created_date": "2022-04-09 23:00:43",
+				"user": {
+					"name": "Corazon",
+					"role": [
+						{
+							"name": "Administrator",
+							"id": 1
+						},
+						{
+							"name": "Reviewer",
+							"id": 3
+						},
+						{
+							"name": "Sales",
+							"id": 0
+						}
+					],
+					"id": "1a6dc478-39c2-49cf-8cd2-615ecf86a7e6",
+					"team": {
+						"name": "Netherlands",
+						"id": "2",
+						"parent": null
+					}
+				},
+				"type": {
+					"name": "TAKE_PHOTOS",
+					"id": 2
+				}
+			},
+			"updated_date": "2022-04-11 23:00:43",
+			"status": {
+				"name": "DRAFT",
+				"id": 0
+			},
+			"phase": {
+				"name": "Draft",
+				"id": 0
+			},
+			"created_date": "2022-04-01 23:00:43",
 			"priority": {
 				"name": "MEDIUM",
 				"id": 1
 			},
 			"user": {
 				"name": "Angle",
-				"updated_date": "2022-04-11 15:35:35",
+				"updated_date": "2022-04-11 23:00:43",
 				"role": [
 					{
-						"name": "Administrator",
-						"id": 1
+						"name": "Reviewer",
+						"id": 3
 					},
 					{
-						"name": "Sales",
-						"id": 0
+						"name": "Viewer",
+						"id": 2
 					}
 				],
-				"created_date": "2022-04-11 15:35:35",
-				"id": "18d63c58-07da-43dc-b668-e3ba194b4661",
+				"created_date": "2022-04-11 23:00:43",
+				"id": "1a6dc478-2f0f-4cac-b20a-225c0504285d",
 				"team": {
 					"name": "Amsterdam",
 					"id": 0,
@@ -467,8 +182,8 @@
 				"parent": -1
 			},
 			"type": {
-				"name": "Maintenance",
-				"id": 0
+				"name": "Rental",
+				"id": 1
 			},
 			"tags": [
 				{
@@ -476,44 +191,40 @@
 					"id": 2
 				},
 				{
-					"name": "Follow-up",
-					"id": 1
+					"name": "BarFoo",
+					"id": 3
 				}
 			]
 		},
 		{
-			"description": "Autem sunt dolor provident amet accusantium praesentium sit quia in.",
-			"due_date": "2022-04-12 15:35:35",
-			"title": "Enim doloribus consequatur ullam vero",
+			"description": "Enim cum quia doloribus ex suscipit nostrum voluptas.",
+			"due_date": "2022-04-11 23:00:43",
+			"title": "Soluta laborum accusantium neque modi",
 			"property": {
-				"title": "Nongracht 359 Westland",
-				"updated_date": "2022-04-11 15:35:35",
+				"title": "Aliasweg 16 Amsterdam",
+				"updated_date": "2022-04-11 23:00:43",
 				"status": {
-					"name": "DRAFT",
-					"id": 0
+					"name": "TODO",
+					"id": 3
 				},
 				"phase": {
 					"name": "Rented",
-					"id": 2
+					"id": 3
 				},
-				"created_date": "2022-04-09 15:35:35",
+				"created_date": "2022-04-09 23:00:43",
 				"user": {
-					"name": "Chantell",
+					"name": "Latrice",
 					"role": [
 						{
 							"name": "Viewer",
 							"id": 2
 						},
 						{
-							"name": "Administrator",
-							"id": 1
-						},
-						{
-							"name": "Reviewer",
-							"id": 3
+							"name": "Sales",
+							"id": 0
 						}
 					],
-					"id": "18d63c58-853f-4541-9b19-f1be45554c8e",
+					"id": "1a6dc478-0feb-4708-a52a-66054eda8a80",
 					"team": {
 						"name": "Netherlands",
 						"id": "2",
@@ -521,35 +232,39 @@
 					}
 				},
 				"type": {
-					"name": "Rental",
-					"id": 1
+					"name": "Retail",
+					"id": 3
 				}
 			},
-			"updated_date": "2022-04-11 15:35:35",
+			"updated_date": "2022-04-11 23:00:43",
 			"status": {
-				"name": "TODO",
-				"id": 3
+				"name": "DRAFT",
+				"id": 0
 			},
 			"phase": {
-				"name": "Screening",
+				"name": "Rented",
 				"id": 3
 			},
-			"created_date": "2022-04-01 15:35:35",
+			"created_date": "2022-04-10 23:00:43",
 			"priority": {
-				"name": "LOW",
-				"id": 2
+				"name": "",
+				"id": 3
 			},
 			"user": {
-				"name": "Shaina",
-				"updated_date": "2022-04-11 15:35:35",
+				"name": "Latrice",
+				"updated_date": "2022-04-11 23:00:43",
 				"role": [
+					{
+						"name": "Administrator",
+						"id": 1
+					},
 					{
 						"name": "Reviewer",
 						"id": 3
 					}
 				],
-				"created_date": "2022-04-11 15:35:35",
-				"id": "18d63c58-33c6-4465-9246-eeb080db9358",
+				"created_date": "2022-04-11 23:00:43",
+				"id": "1a6dc478-4615-4d5e-ae0b-3ac2ee68daae",
 				"team": {
 					"name": "Rotterdam",
 					"id": 1,
@@ -571,8 +286,8 @@
 					"id": 2
 				},
 				{
-					"name": "Follow-up",
-					"id": 1
+					"name": "Discussions",
+					"id": 0
 				},
 				{
 					"name": "BarFoo",
@@ -581,117 +296,34 @@
 			]
 		},
 		{
-			"description": "Et occaecati inventore ea quas omnis asperiores ut.",
-			"due_date": "2022-04-19 15:35:35",
-			"title": "Atque quia modi magni quod",
+			"description": "Quisquam cupiditate pariatur explicabo saepe tempore ducimus eaque facere sunt.",
+			"due_date": "2022-04-18 23:00:43",
+			"title": "Non illum beatae deserunt et",
 			"property": {
-				"title": "Sunt Park 463 Delft",
-				"updated_date": "2022-04-11 15:35:35",
+				"title": "Quipark 67 Emmen",
+				"updated_date": "2022-04-11 23:00:43",
 				"status": {
-					"name": "DRAFT_y",
+					"name": "TODO",
+					"id": 3
+				},
+				"phase": {
+					"name": "Landlord review",
 					"id": 1
 				},
-				"phase": {
-					"name": "Draft",
-					"id": 0
-				},
-				"created_date": "2022-04-09 15:35:35",
+				"created_date": "2022-04-09 23:00:43",
 				"user": {
-					"name": "Kortney",
+					"name": "Chantell",
 					"role": [
 						{
-							"name": "Reviewer",
-							"id": 3
-						}
-					],
-					"id": "18d63c58-8d62-47c1-89b0-b60d4235b481",
-					"team": {
-						"name": "Netherlands",
-						"id": "2",
-						"parent": null
-					}
-				},
-				"type": {
-					"name": "TAKE_PHOTOS",
-					"id": 2
-				}
-			},
-			"updated_date": "2022-04-11 15:35:35",
-			"status": {
-				"name": "DRAFT_y",
-				"id": 1
-			},
-			"phase": {
-				"name": "Screening",
-				"id": 3
-			},
-			"created_date": "2022-04-09 15:35:35",
-			"priority": {
-				"name": "MEDIUM",
-				"id": 1
-			},
-			"user": {
-				"name": "Lowell",
-				"updated_date": "2022-04-11 15:35:35",
-				"role": [
-					{
-						"name": "Sales",
-						"id": 0
-					}
-				],
-				"created_date": "2022-04-11 15:35:35",
-				"id": "18d63c58-60f4-4f64-a272-935245561e6d",
-				"team": {
-					"name": "Rotterdam",
-					"id": 1,
-					"parent": -1
-				}
-			},
-			"team": {
-				"name": "Rotterdam",
-				"id": 1,
-				"parent": -1
-			},
-			"type": {
-				"name": "TAKE_PHOTOS",
-				"id": 2
-			},
-			"tags": [
-				{
-					"name": "Discussions",
-					"id": 0
-				}
-			]
-		},
-		{
-			"description": "Nam quo autem omnis odit eligendi.",
-			"due_date": "2022-04-21 15:35:35",
-			"title": "Soluta labore et et id",
-			"property": {
-				"title": "Eapark 0 Zoetermeer",
-				"updated_date": "2022-04-11 15:35:35",
-				"status": {
-					"name": "DRAFT",
-					"id": 0
-				},
-				"phase": {
-					"name": "Draft",
-					"id": 0
-				},
-				"created_date": "2022-04-09 15:35:35",
-				"user": {
-					"name": "Queenie",
-					"role": [
-						{
-							"name": "Reviewer",
-							"id": 3
+							"name": "Viewer",
+							"id": 2
 						},
 						{
 							"name": "Administrator",
 							"id": 1
 						}
 					],
-					"id": "18d63c58-db4c-4a0b-973c-5d952eda26d4",
+					"id": "1a6dc478-8452-44b0-b107-62bff6e2d008",
 					"team": {
 						"name": "Netherlands",
 						"id": "2",
@@ -703,221 +335,130 @@
 					"id": 1
 				}
 			},
-			"updated_date": "2022-04-11 15:35:35",
-			"status": {
-				"name": "DRAFT_y",
-				"id": 1
-			},
-			"phase": {
-				"name": "Rented",
-				"id": 2
-			},
-			"created_date": "2022-04-03 15:35:35",
-			"priority": {
-				"name": "HIGH",
-				"id": 0
-			},
-			"user": {
-				"name": "Chantell",
-				"updated_date": "2022-04-11 15:35:35",
-				"role": [
-					{
-						"name": "Reviewer",
-						"id": 3
-					}
-				],
-				"created_date": "2022-04-11 15:35:35",
-				"id": "18d63c58-39d8-44af-9cda-3f0cd7d97b39",
-				"team": {
-					"name": "Amsterdam",
-					"id": 0,
-					"parent": -1
-				}
-			},
-			"team": {
-				"name": "Amsterdam",
-				"id": 0,
-				"parent": -1
-			},
-			"type": {
-				"name": "Maintenance",
-				"id": 0
-			},
-			"tags": [
-				{
-					"name": "Follow-up",
-					"id": 1
-				},
-				{
-					"name": "Discussions",
-					"id": 0
-				},
-				{
-					"name": "BarFoo",
-					"id": 3
-				}
-			]
-		},
-		{
-			"description": "Qui veniam totam omnis distinctio odit.",
-			"due_date": "2022-04-16 15:35:35",
-			"title": "Rem ex dolorem et vel",
-			"property": {
-				"title": "Delenitilaan 395 Enschede",
-				"updated_date": "2022-04-11 15:35:35",
-				"status": {
-					"name": "DRAFT",
-					"id": 0
-				},
-				"phase": {
-					"name": "Live",
-					"id": 1
-				},
-				"created_date": "2022-04-09 15:35:35",
-				"user": {
-					"name": "Angle",
-					"role": [
-						{
-							"name": "Sales",
-							"id": 0
-						},
-						{
-							"name": "Administrator",
-							"id": 1
-						}
-					],
-					"id": "18d63c58-6ed1-4569-bba5-fbee7b543602",
-					"team": {
-						"name": "Netherlands",
-						"id": "2",
-						"parent": null
-					}
-				},
-				"type": {
-					"name": "Rental",
-					"id": 1
-				}
-			},
-			"updated_date": "2022-04-11 15:35:35",
-			"status": {
-				"name": "DRAFT",
-				"id": 0
-			},
-			"phase": {
-				"name": "Screening",
-				"id": 3
-			},
-			"created_date": "2022-04-09 15:35:35",
-			"priority": {
-				"name": "HIGH",
-				"id": 0
-			},
-			"user": {
-				"name": "Martin",
-				"updated_date": "2022-04-11 15:35:35",
-				"role": [
-					{
-						"name": "Sales",
-						"id": 0
-					},
-					{
-						"name": "Reviewer",
-						"id": 3
-					}
-				],
-				"created_date": "2022-04-11 15:35:35",
-				"id": "18d63c58-9c47-413b-af44-d9df2cfae5cd",
-				"team": {
-					"name": "Amsterdam",
-					"id": 0,
-					"parent": -1
-				}
-			},
-			"team": {
-				"name": "Amsterdam",
-				"id": 0,
-				"parent": -1
-			},
-			"type": {
-				"name": "Maintenance",
-				"id": 0
-			},
-			"tags": [
-				{
-					"name": "Discussions",
-					"id": 0
-				},
-				{
-					"name": "Follow-up",
-					"id": 1
-				}
-			]
-		},
-		{
-			"description": "Aliquam aut in.",
-			"due_date": "2022-04-21 15:35:35",
-			"title": "Accusantium temporibus et rerum neque",
-			"property": {
-				"title": "Aperiampark 159 's-Hertogenbosch",
-				"updated_date": "2022-04-11 15:35:35",
-				"status": {
-					"name": "DRAFT",
-					"id": 0
-				},
-				"phase": {
-					"name": "Draft",
-					"id": 0
-				},
-				"created_date": "2022-04-09 15:35:35",
-				"user": {
-					"name": "Elina",
-					"role": [
-						{
-							"name": "Sales",
-							"id": 0
-						}
-					],
-					"id": "18d63c58-943c-4b83-b916-a0fba4954d76",
-					"team": {
-						"name": "Netherlands",
-						"id": "2",
-						"parent": null
-					}
-				},
-				"type": {
-					"name": "TAKE_PHOTOS",
-					"id": 2
-				}
-			},
-			"updated_date": "2022-04-11 15:35:35",
+			"updated_date": "2022-04-11 23:00:43",
 			"status": {
 				"name": "TODO",
 				"id": 3
 			},
 			"phase": {
-				"name": "Rented",
-				"id": 2
+				"name": "Draft",
+				"id": 0
 			},
-			"created_date": "2022-04-03 15:35:35",
+			"created_date": "2022-04-05 23:00:43",
 			"priority": {
 				"name": "HIGH",
 				"id": 0
 			},
 			"user": {
 				"name": "Sunshine",
-				"updated_date": "2022-04-11 15:35:35",
+				"updated_date": "2022-04-11 23:00:43",
 				"role": [
+					{
+						"name": "Administrator",
+						"id": 1
+					},
 					{
 						"name": "Viewer",
 						"id": 2
-					},
+					}
+				],
+				"created_date": "2022-04-11 23:00:43",
+				"id": "1a6dc478-0fc6-4c81-8e1a-ff9f1e38656a",
+				"team": {
+					"name": "Amsterdam",
+					"id": 0,
+					"parent": -1
+				}
+			},
+			"team": {
+				"name": "Amsterdam",
+				"id": 0,
+				"parent": -1
+			},
+			"type": {
+				"name": "TAKE_PHOTOS",
+				"id": 2
+			},
+			"tags": [
+				{
+					"name": "Discussions",
+					"id": 0
+				},
+				{
+					"name": "BarFoo",
+					"id": 3
+				}
+			]
+		},
+		{
+			"description": "Sit aspernatur in similique maxime.",
+			"due_date": "2022-04-17 23:00:43",
+			"title": "Debitis consequatur porro quo sint",
+			"property": {
+				"title": "Atweg 42 Zoetermeer",
+				"updated_date": "2022-04-11 23:00:43",
+				"status": {
+					"name": "DRAFT",
+					"id": 0
+				},
+				"phase": {
+					"name": "Draft",
+					"id": 0
+				},
+				"created_date": "2022-04-09 23:00:43",
+				"user": {
+					"name": "Lowell",
+					"role": [
+						{
+							"name": "Viewer",
+							"id": 2
+						},
+						{
+							"name": "Administrator",
+							"id": 1
+						}
+					],
+					"id": "1a6dc478-64b8-42f9-b350-25bd0e5475b1",
+					"team": {
+						"name": "Netherlands",
+						"id": "2",
+						"parent": null
+					}
+				},
+				"type": {
+					"name": "Maintenance",
+					"id": 0
+				}
+			},
+			"updated_date": "2022-04-11 23:00:43",
+			"status": {
+				"name": "DRAFT_z",
+				"id": 2
+			},
+			"phase": {
+				"name": "Draft",
+				"id": 0
+			},
+			"created_date": "2022-04-04 23:00:43",
+			"priority": {
+				"name": "MEDIUM",
+				"id": 1
+			},
+			"user": {
+				"name": "Latrice",
+				"updated_date": "2022-04-11 23:00:43",
+				"role": [
 					{
 						"name": "Sales",
 						"id": 0
+					},
+					{
+						"name": "Administrator",
+						"id": 1
 					}
 				],
-				"created_date": "2022-04-11 15:35:35",
-				"id": "18d63c58-a645-408a-86a6-4ef9bddb95c5",
+				"created_date": "2022-04-11 23:00:43",
+				"id": "1a6dc478-67d9-4d0c-a64a-cd0fb964296c",
 				"team": {
 					"name": "Rotterdam",
 					"id": 1,
@@ -932,6 +473,283 @@
 			"type": {
 				"name": "TAKE_PHOTOS",
 				"id": 2
+			},
+			"tags": [
+				{
+					"name": "BarFoo",
+					"id": 3
+				},
+				{
+					"name": "Follow-up",
+					"id": 1
+				}
+			]
+		},
+		{
+			"description": "Sed tempore ut quasi vero.",
+			"due_date": "2022-04-20 23:00:43",
+			"title": "In et et asperiores voluptate",
+			"property": {
+				"title": "Natusplein 366 Rotterdam",
+				"updated_date": "2022-04-11 23:00:43",
+				"status": {
+					"name": "DRAFT_y",
+					"id": 1
+				},
+				"phase": {
+					"name": "Landlord review",
+					"id": 1
+				},
+				"created_date": "2022-04-09 23:00:43",
+				"user": {
+					"name": "Shaina",
+					"role": [
+						{
+							"name": "Administrator",
+							"id": 1
+						},
+						{
+							"name": "Viewer",
+							"id": 2
+						}
+					],
+					"id": "1a6dc478-e475-4aa9-91cc-a976f4b0c539",
+					"team": {
+						"name": "Netherlands",
+						"id": "2",
+						"parent": null
+					}
+				},
+				"type": {
+					"name": "Rental",
+					"id": 1
+				}
+			},
+			"updated_date": "2022-04-11 23:00:43",
+			"status": {
+				"name": "TODO",
+				"id": 3
+			},
+			"phase": {
+				"name": "Landlord review",
+				"id": 1
+			},
+			"created_date": "2022-04-01 23:00:43",
+			"priority": {
+				"name": "LOW",
+				"id": 2
+			},
+			"user": {
+				"name": "Alysa",
+				"updated_date": "2022-04-11 23:00:43",
+				"role": [
+					{
+						"name": "Sales",
+						"id": 0
+					}
+				],
+				"created_date": "2022-04-11 23:00:43",
+				"id": "1a6dc478-be49-4871-9ad5-1200548f27a0",
+				"team": {
+					"name": "Amsterdam",
+					"id": 0,
+					"parent": -1
+				}
+			},
+			"team": {
+				"name": "Amsterdam",
+				"id": 0,
+				"parent": -1
+			},
+			"type": {
+				"name": "TAKE_PHOTOS",
+				"id": 2
+			},
+			"tags": [
+				{
+					"name": "Discussions",
+					"id": 0
+				},
+				{
+					"name": "BarFoo",
+					"id": 3
+				},
+				{
+					"name": "Follow-up",
+					"id": 1
+				}
+			]
+		},
+		{
+			"description": "Voluptas recusandae ducimus dolor sint atque dolore maxime id.",
+			"due_date": "2022-04-13 23:00:43",
+			"title": "Quia omnis minima et reiciendis",
+			"property": {
+				"title": "Doloresgracht 246 Zaanstad",
+				"updated_date": "2022-04-11 23:00:43",
+				"status": {
+					"name": "DRAFT",
+					"id": 0
+				},
+				"phase": {
+					"name": "Screening & contract",
+					"id": 4
+				},
+				"created_date": "2022-04-09 23:00:43",
+				"user": {
+					"name": "Chantell",
+					"role": [
+						{
+							"name": "Reviewer",
+							"id": 3
+						}
+					],
+					"id": "1a6dc478-5421-446e-9f0c-cdbcf578172a",
+					"team": {
+						"name": "Netherlands",
+						"id": "2",
+						"parent": null
+					}
+				},
+				"type": {
+					"name": "Maintenance",
+					"id": 0
+				}
+			},
+			"updated_date": "2022-04-11 23:00:43",
+			"status": {
+				"name": "DRAFT_y",
+				"id": 1
+			},
+			"phase": {
+				"name": "Landlord review",
+				"id": 1
+			},
+			"created_date": "2022-04-08 23:00:43",
+			"priority": {
+				"name": "",
+				"id": 3
+			},
+			"user": {
+				"name": "Kortney",
+				"updated_date": "2022-04-11 23:00:43",
+				"role": [
+					{
+						"name": "Administrator",
+						"id": 1
+					},
+					{
+						"name": "Sales",
+						"id": 0
+					}
+				],
+				"created_date": "2022-04-11 23:00:43",
+				"id": "1a6dc478-cd8a-4d1e-845e-5d519085b63b",
+				"team": {
+					"name": "Amsterdam",
+					"id": 0,
+					"parent": -1
+				}
+			},
+			"team": {
+				"name": "Amsterdam",
+				"id": 0,
+				"parent": -1
+			},
+			"type": {
+				"name": "Retail",
+				"id": 3
+			},
+			"tags": [
+				{
+					"name": "Follow-up",
+					"id": 1
+				},
+				{
+					"name": "BarFoo",
+					"id": 3
+				}
+			]
+		},
+		{
+			"description": "Ut quo veritatis voluptas doloremque et qui modi reiciendis.",
+			"due_date": "2022-04-21 23:00:43",
+			"title": "Eveniet aspernatur consequatur ut quaerat",
+			"property": {
+				"title": "Delenitihof 204 Delft",
+				"updated_date": "2022-04-11 23:00:43",
+				"status": {
+					"name": "DRAFT_z",
+					"id": 2
+				},
+				"phase": {
+					"name": "Live",
+					"id": 2
+				},
+				"created_date": "2022-04-09 23:00:43",
+				"user": {
+					"name": "Zane",
+					"role": [
+						{
+							"name": "Reviewer",
+							"id": 3
+						},
+						{
+							"name": "Viewer",
+							"id": 2
+						}
+					],
+					"id": "1a6dc478-bdfe-4967-8f6b-a2493b55d74f",
+					"team": {
+						"name": "Netherlands",
+						"id": "2",
+						"parent": null
+					}
+				},
+				"type": {
+					"name": "TAKE_PHOTOS",
+					"id": 2
+				}
+			},
+			"updated_date": "2022-04-11 23:00:43",
+			"status": {
+				"name": "DRAFT_z",
+				"id": 2
+			},
+			"phase": {
+				"name": "Landlord review",
+				"id": 1
+			},
+			"created_date": "2022-04-04 23:00:43",
+			"priority": {
+				"name": "MEDIUM",
+				"id": 1
+			},
+			"user": {
+				"name": "Corazon",
+				"updated_date": "2022-04-11 23:00:43",
+				"role": [
+					{
+						"name": "Administrator",
+						"id": 1
+					}
+				],
+				"created_date": "2022-04-11 23:00:43",
+				"id": "1a6dc478-4258-4aeb-b0ef-394a4fdfc21f",
+				"team": {
+					"name": "Amsterdam",
+					"id": 0,
+					"parent": -1
+				}
+			},
+			"team": {
+				"name": "Amsterdam",
+				"id": 0,
+				"parent": -1
+			},
+			"type": {
+				"name": "Maintenance",
+				"id": 0
 			},
 			"tags": [
 				{
@@ -939,12 +757,198 @@
 					"id": 2
 				},
 				{
-					"name": "Discussions",
+					"name": "BarFoo",
+					"id": 3
+				}
+			]
+		},
+		{
+			"description": "Eum doloremque quidem.",
+			"due_date": "2022-04-13 23:00:43",
+			"title": "Possimus commodi excepturi voluptatem sit",
+			"property": {
+				"title": "Quasgracht 462 Haarlemmermeer",
+				"updated_date": "2022-04-11 23:00:43",
+				"status": {
+					"name": "DRAFT",
 					"id": 0
+				},
+				"phase": {
+					"name": "Live",
+					"id": 2
+				},
+				"created_date": "2022-04-09 23:00:43",
+				"user": {
+					"name": "Lowell",
+					"role": [
+						{
+							"name": "Reviewer",
+							"id": 3
+						},
+						{
+							"name": "Sales",
+							"id": 0
+						}
+					],
+					"id": "1a6dc478-52fe-430e-8312-bfec5d3e4bf7",
+					"team": {
+						"name": "Netherlands",
+						"id": "2",
+						"parent": null
+					}
+				},
+				"type": {
+					"name": "Retail",
+					"id": 3
+				}
+			},
+			"updated_date": "2022-04-11 23:00:43",
+			"status": {
+				"name": "DRAFT_y",
+				"id": 1
+			},
+			"phase": {
+				"name": "Live",
+				"id": 2
+			},
+			"created_date": "2022-04-11 23:00:43",
+			"priority": {
+				"name": "",
+				"id": 3
+			},
+			"user": {
+				"name": "Kortney",
+				"updated_date": "2022-04-11 23:00:43",
+				"role": [
+					{
+						"name": "Sales",
+						"id": 0
+					},
+					{
+						"name": "Reviewer",
+						"id": 3
+					}
+				],
+				"created_date": "2022-04-11 23:00:43",
+				"id": "1a6dc478-fa5d-4e9a-8eaf-a9f507c5e0aa",
+				"team": {
+					"name": "Rotterdam",
+					"id": 1,
+					"parent": -1
+				}
+			},
+			"team": {
+				"name": "Rotterdam",
+				"id": 1,
+				"parent": -1
+			},
+			"type": {
+				"name": "Maintenance",
+				"id": 0
+			},
+			"tags": [
+				{
+					"name": "Foobar",
+					"id": 2
 				},
 				{
 					"name": "BarFoo",
 					"id": 3
+				},
+				{
+					"name": "Follow-up",
+					"id": 1
+				}
+			]
+		},
+		{
+			"description": "Maxime repudiandae nihil et accusantium.",
+			"due_date": "2022-04-18 23:00:43",
+			"title": "Qui perferendis ea veritatis amet",
+			"property": {
+				"title": "Nihilgracht 432 Delft",
+				"updated_date": "2022-04-11 23:00:43",
+				"status": {
+					"name": "DRAFT_y",
+					"id": 1
+				},
+				"phase": {
+					"name": "Rented",
+					"id": 3
+				},
+				"created_date": "2022-04-09 23:00:43",
+				"user": {
+					"name": "Zane",
+					"role": [
+						{
+							"name": "Viewer",
+							"id": 2
+						}
+					],
+					"id": "1a6dc478-857f-4d19-8f85-f2b879c48d02",
+					"team": {
+						"name": "Netherlands",
+						"id": "2",
+						"parent": null
+					}
+				},
+				"type": {
+					"name": "Maintenance",
+					"id": 0
+				}
+			},
+			"updated_date": "2022-04-11 23:00:43",
+			"status": {
+				"name": "DRAFT_y",
+				"id": 1
+			},
+			"phase": {
+				"name": "Screening & contract",
+				"id": 4
+			},
+			"created_date": "2022-04-03 23:00:43",
+			"priority": {
+				"name": "",
+				"id": 3
+			},
+			"user": {
+				"name": "Ingeborg",
+				"updated_date": "2022-04-11 23:00:43",
+				"role": [
+					{
+						"name": "Viewer",
+						"id": 2
+					}
+				],
+				"created_date": "2022-04-11 23:00:43",
+				"id": "1a6dc478-ba35-4bd6-a98f-20493a85a507",
+				"team": {
+					"name": "Amsterdam",
+					"id": 0,
+					"parent": -1
+				}
+			},
+			"team": {
+				"name": "Amsterdam",
+				"id": 0,
+				"parent": -1
+			},
+			"type": {
+				"name": "Retail",
+				"id": 3
+			},
+			"tags": [
+				{
+					"name": "Foobar",
+					"id": 2
+				},
+				{
+					"name": "BarFoo",
+					"id": 3
+				},
+				{
+					"name": "Discussions",
+					"id": 0
 				}
 			]
 		}
