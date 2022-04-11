@@ -1,20 +1,10 @@
+import haxe.Json;
+import lorem.Lorem;
 import date.Dates;
 import name.Name;
 import rebidd.Rebidd;
-import utils.MathUtil;
-import image.Image;
-import whisky.Volume;
-import whisky.Flavor;
-import whisky.Brands;
-import whisky.Country;
-import whisky.Whisky;
-import video.Kijkwijzer;
-import video.Genre;
-import utils.MathUtil;
-import lorem.Lorem;
 import utils.UUID;
 import video.Video;
-import haxe.Json;
 
 using StringTools;
 
@@ -23,8 +13,8 @@ class MainRebidd {
 		trace('MainRebidd');
 
 		generate("export/en/rebidd_tasks_00010.json", 10);
-		// generate("export/en/rebidd_tasks_00100.json", 100);
-		// generate("export/en/rebidd_tasks_01000.json", 1000);
+		generate("export/en/rebidd_tasks_00100.json", 100);
+		generate("export/en/rebidd_tasks_01000.json", 1000);
 		// generate("export/en/rebidd_tasks_10000.json", 10000);
 	}
 
