@@ -1,0 +1,89 @@
+{
+  "title": "Do something",
+  "description": "Have to do something",
+  "due_date": "2022-04-08T07:47:44.188Z",
+  "property": {
+    "title": "123 Test Avenue",
+    "user": {
+      "id": "1",
+      "name": "Steve",
+      "team": {
+        "id": "2",
+        "name": "Netherlands",
+        "parent": null
+      },
+      "role": [
+        {
+          "id": "1",
+          "name": "Administrator"
+        },
+        {
+          "id": "2",
+          "name": "Sales"
+        }
+      ]
+    },
+    "status": {
+      "id": 1,
+      "name": "DRAFT"
+    },
+    "phase": {
+      "id": 1,
+      "name": "RENTING"
+    },
+    "type": {
+      "id": 1,
+      "name": "MAINTENANCE"
+    },
+    "created_date": "2022-04-08T07:47:44.188Z",
+    "updated_date": "2022-04-08T07:47:44.188Z"
+  },
+  "status": {
+    "id": 1,
+    "name": "TODO"
+  },
+  "phase": {
+    "id": 1,
+    "name": "LIVE"
+  },
+  "priority": {
+    "id": 1,
+    "name": "HIGH"
+  },
+  "type": {
+    "id": 1,
+    "name": "TAKE_PHOTOS"
+  },
+  "user": {
+    "id": "1",
+    "name": "John",
+    "team": {
+      "id": 1,
+      "name": "Amsterdam Team",
+      "parent": 2
+    },
+    "role": [
+      {
+        "id": "2",
+        "name": "Sales"
+      }
+    ]
+  },
+  "team": {
+    "id": 1,
+    "name": "Amsterdam Team",
+    "parent": 2
+  },
+  "tags": [
+    {
+      "id": 1,
+      "name": "Discussions"
+    },
+    {
+      "id": 2,
+      "name": "Follow-up"
+    }
+  ],
+  "created_date": "2022-04-08T07:47:44.188Z",
+  "updated_date": "2022-04-08T07:47:44.188Z"
+}

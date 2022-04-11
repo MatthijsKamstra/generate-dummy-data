@@ -26,7 +26,12 @@
 
 # --next
 
+# -cp src
+# -D analyzer-optimize
+# -main MainWhisky
+# --interp
+
 -cp src
 -D analyzer-optimize
--main MainWhisky
+-main MainRebidd
 --interp

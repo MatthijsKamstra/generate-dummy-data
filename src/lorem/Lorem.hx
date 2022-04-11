@@ -30,7 +30,7 @@ class Lorem {
 
 	/**
 	 * get words
-	 * @param total 		total number of works (default 3)
+	 * @param total 		total number of words (default 3)
 	 * @return String
 	 */
 	public function words(total:Int = 3):String {
@@ -38,7 +38,28 @@ class Lorem {
 	}
 
 	/**
-	 * get a sentence with total number of works
+	 * get title (start with cap, without periode)
+	 *
+	 * @param total 		total number of words (default 5)
+	 * @return String
+	 */
+	public function title(total:Int = 5):String {
+		return Util.capitalizeFirstLetter(lorem.Words.get(total));
+	}
+
+	/**
+	 *
+	 * same as sentence
+	 *
+	 * @param total
+	 * @return String
+	 */
+	public function description(?total:Int):String {
+		return sentence(total);
+	}
+
+	/**
+	 * get a sentence with total number of words
 	 * @param total 	total words (default random between 3 and 10)
 	 * @return String
 	 */
@@ -49,7 +70,7 @@ class Lorem {
 	}
 
 	/**
-	 * get a sentence with total number of works
+	 * get a sentence with total number of words
 	 * @param total 	total words (default random between 3 and 10)
 	 * @return String
 	 */
