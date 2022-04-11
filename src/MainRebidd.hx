@@ -1,3 +1,4 @@
+import utils.MathUtil;
 import haxe.Json;
 import lorem.Lorem;
 import date.Dates;
@@ -20,7 +21,7 @@ class MainRebidd {
 
 	function generate(path:String = "export/data.json", total:Int = 11) {
 		var json = {};
-		Reflect.setField(json, 'created_date', Date.now());
+		Reflect.setField(json, 'created_date', new Dates().past(MathUtil.randomInteger(0, 10)));
 		Reflect.setField(json, 'updated_date', Date.now());
 
 		var arr = [];
@@ -30,8 +31,8 @@ class MainRebidd {
 			Reflect.setField(obj, 'description', new Lorem().description());
 			// Reflect.setField(obj, 'description', new Lorem().paragraph(5));
 
-			Reflect.setField(obj, 'due_date', new Dates().future(2)); // TODO: today, future, chance
-			Reflect.setField(obj, 'created_date', new Dates().past(2));
+			Reflect.setField(obj, 'due_date', new Dates().future(MathUtil.randomInteger(0, 10))); // TODO: today, future, chance
+			Reflect.setField(obj, 'created_date', new Dates().past(MathUtil.randomInteger(0, 10)));
 			Reflect.setField(obj, 'updated_date', Date.now());
 
 			var property = {};

@@ -21,7 +21,9 @@ class Dates {
 	 * @param days    number of days in the past
 	 */
 	public function past(days:Int = 1) {
-		return Date.now();
+		var today = Date.now();
+		var past = DateTools.delta(today, -DateTools.days(days));
+		return past;
 	}
 
 	/**
@@ -30,7 +32,10 @@ class Dates {
 	 * @param days    number of days in the past
 	 */
 	public function future(days:Int = 1) {
-		return Date.now();
+		var today = Date.now();
+		trace(DateTools.days(days));
+		var future = DateTools.delta(today, DateTools.days(days));
+		return future;
 	}
 
 	/**
