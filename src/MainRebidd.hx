@@ -24,18 +24,23 @@ class MainRebidd {
 		Reflect.setField(json, 'created_date', new Dates().past(MathUtil.randomInteger(0, 10)));
 		Reflect.setField(json, 'updated_date', Date.now());
 
+		var propertyArr = [];
 		var arr = [];
 		for (i in 0...total) {
 			var obj = {};
+			Reflect.setField(obj, 'id', UUID.uuid()); // added because we need this, probably changing in the future
 			Reflect.setField(obj, 'title', new Lorem().title());
 			Reflect.setField(obj, 'description', new Lorem().description());
 			// Reflect.setField(obj, 'description', new Lorem().paragraph(5));
+
+			Reflect.setField(obj, 'is_todo', MathUtil.chance());
 
 			Reflect.setField(obj, 'due_date', new Dates().future(MathUtil.randomInteger(0, 10))); // TODO: today, future, chance
 			Reflect.setField(obj, 'created_date', new Dates().past(MathUtil.randomInteger(0, 10)));
 			Reflect.setField(obj, 'updated_date', Date.now());
 
 			var property = {};
+			Reflect.setField(property, 'id', UUID.uuid()); // added because we need this, probably changing in the future
 			Reflect.setField(property, 'title', new Rebidd().propertyTitle()); // 123 Test avueneu
 			Reflect.setField(property, 'user', new Rebidd().user()); // <----- not sure of the relationship  with the other user (below)
 			Reflect.setField(property, 'status', new Rebidd().status());
@@ -44,6 +49,8 @@ class MainRebidd {
 			Reflect.setField(property, 'created_date', new Dates().past(2));
 			Reflect.setField(property, 'updated_date', Date.now());
 			Reflect.setField(obj, 'property', property);
+
+			propertyArr.push(property);
 
 			var status = new Rebidd().status();
 			Reflect.setField(obj, 'status', status);
@@ -81,6 +88,16 @@ class MainRebidd {
 		var str = Json.stringify(json, null, '\t');
 
 		DummyData.saveTextFile(str, path);
+
+		var jsonProperty = {};
+		Reflect.setField(jsonProperty, 'created_date', new Dates().past(MathUtil.randomInteger(0, 10)));
+		Reflect.setField(jsonProperty, 'updated_date', Date.now());
+
+		Reflect.setField(jsonProperty, 'properties', propertyArr);
+
+		var str = Json.stringify(jsonProperty, null, '\t');
+
+		DummyData.saveTextFile(str, path.replace('tasks', 'properties'));
 	}
 
 	// ____________________________________ main ____________________________________
