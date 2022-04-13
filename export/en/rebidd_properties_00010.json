@@ -1,0 +1,360 @@
+{
+	"updated_date": "2022-04-13 11:33:25",
+	"created_date": "2022-04-07 11:33:25",
+	"properties": [
+		{
+			"title": "Facilisweg 115 Leiden",
+			"updated_date": "2022-04-13 11:33:25",
+			"status": {
+				"name": "DRAFT",
+				"id": 0
+			},
+			"phase": {
+				"name": "Rented",
+				"id": 3
+			},
+			"created_date": "2022-04-11 11:33:25",
+			"id": "22453e88-8bb5-4e54-9317-f9220d8accad",
+			"user": {
+				"name": "Shaina",
+				"role": [
+					{
+						"name": "Administrator",
+						"id": 1
+					},
+					{
+						"name": "Reviewer",
+						"id": 3
+					},
+					{
+						"name": "Viewer",
+						"id": 2
+					}
+				],
+				"id": "22453e88-2e27-4694-b243-48b3dab449f8",
+				"team": {
+					"name": "Netherlands",
+					"id": "2",
+					"parent": null
+				}
+			},
+			"type": {
+				"name": "Rental",
+				"id": 1
+			}
+		},
+		{
+			"title": "Vitaedijk 25 Dordrecht",
+			"updated_date": "2022-04-13 11:33:25",
+			"status": {
+				"name": "DRAFT_z",
+				"id": 2
+			},
+			"phase": {
+				"name": "Live",
+				"id": 2
+			},
+			"created_date": "2022-04-11 11:33:25",
+			"id": "22453e88-0874-4ec6-8f8c-a24475ea6a20",
+			"user": {
+				"name": "Jarrod",
+				"role": [
+					{
+						"name": "Reviewer",
+						"id": 3
+					}
+				],
+				"id": "22453e88-8f2f-4fce-b43c-5f1bf3664469",
+				"team": {
+					"name": "Netherlands",
+					"id": "2",
+					"parent": null
+				}
+			},
+			"type": {
+				"name": "Maintenance",
+				"id": 0
+			}
+		},
+		{
+			"title": "Estpark 263 Eindhoven",
+			"updated_date": "2022-04-13 11:33:25",
+			"status": {
+				"name": "DRAFT",
+				"id": 0
+			},
+			"phase": {
+				"name": "Live",
+				"id": 2
+			},
+			"created_date": "2022-04-11 11:33:25",
+			"id": "22453e88-e799-4349-b7f8-e877a601198a",
+			"user": {
+				"name": "Zane",
+				"role": [
+					{
+						"name": "Sales",
+						"id": 0
+					},
+					{
+						"name": "Reviewer",
+						"id": 3
+					}
+				],
+				"id": "22453e88-819c-4c2e-b825-123f52f131e4",
+				"team": {
+					"name": "Netherlands",
+					"id": "2",
+					"parent": null
+				}
+			},
+			"type": {
+				"name": "Rental",
+				"id": 1
+			}
+		},
+		{
+			"title": "Veniamplein 125 Amsterdam",
+			"updated_date": "2022-04-13 11:33:25",
+			"status": {
+				"name": "TODO",
+				"id": 3
+			},
+			"phase": {
+				"name": "Live",
+				"id": 2
+			},
+			"created_date": "2022-04-11 11:33:25",
+			"id": "22453e88-e353-43f4-9ab1-f58eee575811",
+			"user": {
+				"name": "Shaina",
+				"role": [
+					{
+						"name": "Sales",
+						"id": 0
+					}
+				],
+				"id": "22453e88-51b5-41b2-aa79-8c10bbf04f4a",
+				"team": {
+					"name": "Netherlands",
+					"id": "2",
+					"parent": null
+				}
+			},
+			"type": {
+				"name": "Retail",
+				"id": 3
+			}
+		},
+		{
+			"title": "Accusantiumdijk 427 Nijmegen",
+			"updated_date": "2022-04-13 11:33:25",
+			"status": {
+				"name": "DRAFT_y",
+				"id": 1
+			},
+			"phase": {
+				"name": "Rented",
+				"id": 3
+			},
+			"created_date": "2022-04-11 11:33:25",
+			"id": "22453e88-47dc-4eb3-aa85-b48a62676c5d",
+			"user": {
+				"name": "Queenie",
+				"role": [
+					{
+						"name": "Administrator",
+						"id": 1
+					}
+				],
+				"id": "22453e88-801c-40cf-ada1-2e65fb2e3ded",
+				"team": {
+					"name": "Netherlands",
+					"id": "2",
+					"parent": null
+				}
+			},
+			"type": {
+				"name": "TAKE_PHOTOS",
+				"id": 2
+			}
+		},
+		{
+			"title": "Eadijk 62 Zoetermeer",
+			"updated_date": "2022-04-13 11:33:25",
+			"status": {
+				"name": "TODO",
+				"id": 3
+			},
+			"phase": {
+				"name": "Screening & contract",
+				"id": 4
+			},
+			"created_date": "2022-04-11 11:33:25",
+			"id": "22453e88-59e1-4234-8385-edcbc43efcd7",
+			"user": {
+				"name": "Jeff",
+				"role": [
+					{
+						"name": "Viewer",
+						"id": 2
+					}
+				],
+				"id": "22453e88-bbbc-4c91-a359-4251de8d7bd2",
+				"team": {
+					"name": "Netherlands",
+					"id": "2",
+					"parent": null
+				}
+			},
+			"type": {
+				"name": "Retail",
+				"id": 3
+			}
+		},
+		{
+			"title": "Iustoplein 259 Deventer",
+			"updated_date": "2022-04-13 11:33:25",
+			"status": {
+				"name": "DRAFT_z",
+				"id": 2
+			},
+			"phase": {
+				"name": "Landlord review",
+				"id": 1
+			},
+			"created_date": "2022-04-11 11:33:25",
+			"id": "22453e88-2f57-49bc-b630-ace3e0685f8c",
+			"user": {
+				"name": "Slyvia",
+				"role": [
+					{
+						"name": "Reviewer",
+						"id": 3
+					}
+				],
+				"id": "22453e88-3f17-4f50-83e0-5fe008ab6549",
+				"team": {
+					"name": "Netherlands",
+					"id": "2",
+					"parent": null
+				}
+			},
+			"type": {
+				"name": "Retail",
+				"id": 3
+			}
+		},
+		{
+			"title": "Asperioresspoor 320 Zaanstad",
+			"updated_date": "2022-04-13 11:33:25",
+			"status": {
+				"name": "DRAFT_y",
+				"id": 1
+			},
+			"phase": {
+				"name": "Draft",
+				"id": 0
+			},
+			"created_date": "2022-04-11 11:33:25",
+			"id": "22453e88-0601-44bc-bc54-c420107be084",
+			"user": {
+				"name": "Deonna",
+				"role": [
+					{
+						"name": "Reviewer",
+						"id": 3
+					},
+					{
+						"name": "Viewer",
+						"id": 2
+					}
+				],
+				"id": "22453e88-51e2-4dd8-bbab-0a4bdc4b4d04",
+				"team": {
+					"name": "Netherlands",
+					"id": "2",
+					"parent": null
+				}
+			},
+			"type": {
+				"name": "Retail",
+				"id": 3
+			}
+		},
+		{
+			"title": "Voluptatumlaan 39 Westland",
+			"updated_date": "2022-04-13 11:33:25",
+			"status": {
+				"name": "DRAFT",
+				"id": 0
+			},
+			"phase": {
+				"name": "Screening & contract",
+				"id": 4
+			},
+			"created_date": "2022-04-11 11:33:25",
+			"id": "22453e88-49f8-41e5-9cbd-537ea3df96df",
+			"user": {
+				"name": "Lowell",
+				"role": [
+					{
+						"name": "Sales",
+						"id": 0
+					},
+					{
+						"name": "Viewer",
+						"id": 2
+					}
+				],
+				"id": "22453e88-30a4-47f8-b419-19a7b1c475ba",
+				"team": {
+					"name": "Netherlands",
+					"id": "2",
+					"parent": null
+				}
+			},
+			"type": {
+				"name": "Maintenance",
+				"id": 0
+			}
+		},
+		{
+			"title": "Nobisspoor 250 Groningen",
+			"updated_date": "2022-04-13 11:33:25",
+			"status": {
+				"name": "DRAFT",
+				"id": 0
+			},
+			"phase": {
+				"name": "Rented",
+				"id": 3
+			},
+			"created_date": "2022-04-11 11:33:25",
+			"id": "22453e88-784a-4ab4-9598-1435130c988f",
+			"user": {
+				"name": "Jeff",
+				"role": [
+					{
+						"name": "Administrator",
+						"id": 1
+					},
+					{
+						"name": "Reviewer",
+						"id": 3
+					}
+				],
+				"id": "22453e88-d181-48f9-bef9-cb71af3ac22c",
+				"team": {
+					"name": "Netherlands",
+					"id": "2",
+					"parent": null
+				}
+			},
+			"type": {
+				"name": "Retail",
+				"id": 3
+			}
+		}
+	]
+}
