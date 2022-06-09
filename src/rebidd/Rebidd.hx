@@ -31,6 +31,18 @@ class Rebidd {
 		return Team.get();
 	}
 
+	public function lead() {
+		return Lead.get();
+	}
+
+	// public function comment() {
+	// 	return Comment.get();
+	// }
+
+	public function landlord() {
+		return Landlord.get();
+	}
+
 	public function propertyTitle() {
 		return '${new Address().streetAddress()} ${NLCity.get()}';
 	}
@@ -77,6 +89,20 @@ class Rebidd {
 		var arr = [];
 		for (i in 0...random) {
 			var tag = Tag.get();
+			// trace(tag);
+			// trace(containsObject(tag, arr));
+			if (!containsObject(tag, arr)) {
+				arr.push(tag);
+			}
+		}
+		return arr;
+	}
+
+	public function comment():Array<Dynamic> {
+		var random = MathUtil.randomInteger(1, 5);
+		var arr = [];
+		for (i in 0...random) {
+			var tag = Comment.get();
 			// trace(tag);
 			// trace(containsObject(tag, arr));
 			if (!containsObject(tag, arr)) {

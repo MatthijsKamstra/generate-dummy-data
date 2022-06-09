@@ -33,7 +33,7 @@ class Dates {
 	 */
 	public function future(days:Int = 1) {
 		var today = Date.now();
-		trace(DateTools.days(days));
+		// trace(DateTools.days(days));
 		var future = DateTools.delta(today, DateTools.days(days));
 		return future;
 	}
