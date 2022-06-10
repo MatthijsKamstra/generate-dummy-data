@@ -48,18 +48,7 @@ class Rebidd {
 	}
 
 	public function user():Dynamic {
-		var user = {};
-		Reflect.setField(user, 'id', UUID.uuid());
-		Reflect.setField(user, 'name', new Name().firstName());
-		Reflect.setField(user, 'team', {
-			"id": "2",
-			"name": "Netherlands",
-			"parent": null
-		});
-		Reflect.setField(user, 'role', new Rebidd().role());
-		// Reflect.setField(user, 'created_date', Date.now());
-		// Reflect.setField(user, 'updated_date', Date.now());
-		return user;
+		return User.get();
 	}
 
 	public function role() {
