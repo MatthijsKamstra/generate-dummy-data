@@ -56,9 +56,11 @@ class MainRebidd {
 
 			// PROPERTY
 			var property = {};
-			var id = UUID.uuid();
-			Reflect.setField(property, 'id', id);
-			Reflect.setField(property, 'title', new Rebidd().propertyTitle()); // 123 Test avueneu
+			// var id = UUID.uuid(); // maybe fake id? easier to overwrite data `fake-id-`
+			var property_id = 'fake-id-${Std.string(i).lpad('0', 10)}'; // maybe fake id? easier to overwrite data `fake-id-`
+			var property_title = new Rebidd().propertyTitle();
+			Reflect.setField(property, 'id', property_id);
+			Reflect.setField(property, 'title', property_title); // 123 Test avueneu
 			Reflect.setField(property, 'user', new Rebidd().user()); // <----- not sure of the relationship with the other user (below)
 			Reflect.setField(property, 'status', new Rebidd().status());
 			Reflect.setField(property, 'phase', new Rebidd().phase());
@@ -76,7 +78,7 @@ class MainRebidd {
 			Reflect.setField(property_overview, 'id', UUID.uuid());
 			Reflect.setField(property_overview, 'created_date', toISOString(new Dates().past(2)));
 			Reflect.setField(property_overview, 'updated_date', toISOString(Date.now()));
-			Reflect.setField(property_overview, 'title', new Rebidd().propertyTitle());
+			Reflect.setField(property_overview, 'title', property_title);
 			Reflect.setField(property_overview, 'User', new Rebidd().user());
 			Reflect.setField(property_overview, 'Team', new Rebidd().team());
 			Reflect.setField(property_overview, 'Status', new Rebidd().status());
@@ -91,7 +93,7 @@ class MainRebidd {
 			Reflect.setField(property_tasks, 'created_date', toISOString(new Dates().past(2)));
 			Reflect.setField(property_tasks, 'updated_date', toISOString(Date.now()));
 			Reflect.setField(property_tasks, 'due_date', toISOString(new Dates().future(6)));
-			Reflect.setField(property_tasks, 'title', new Rebidd().propertyTitle());
+			Reflect.setField(property_tasks, 'title', property_title);
 			Reflect.setField(property_tasks, 'description', new Lorem().description(4));
 			Reflect.setField(property_tasks, 'Property', property);
 			Reflect.setField(property_tasks, 'User', new Rebidd().user());
@@ -110,9 +112,9 @@ class MainRebidd {
 			Reflect.setField(property_details, 'updated_date', toISOString(Date.now()));
 			Reflect.setField(property_details, 'WIP', {});
 
-			DummyData.saveTextFile(Json.stringify(property_overview, null, '\t'), '${propertyOverviewPath}/${id}.json');
-			DummyData.saveTextFile(Json.stringify(property_tasks, null, '\t'), '${propertyTasksPath}/${id}.json');
-			DummyData.saveTextFile(Json.stringify(property_details, null, '\t'), '${propertyDetailsPath}/${id}.json');
+			DummyData.saveTextFile(Json.stringify(property_overview, null, '\t'), '${propertyOverviewPath}/${property_id}.json');
+			DummyData.saveTextFile(Json.stringify(property_tasks, null, '\t'), '${propertyTasksPath}/${property_id}.json');
+			DummyData.saveTextFile(Json.stringify(property_details, null, '\t'), '${propertyDetailsPath}/${property_id}.json');
 
 			var status = new Rebidd().status();
 			Reflect.setField(obj, 'status', status);
