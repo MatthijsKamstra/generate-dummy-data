@@ -16,8 +16,8 @@ class Comment {
 		return {
 			id: utils.UUID.uuid(),
 			text: new Lorem().title(),
-			'created_date': toISOString(Date.now()),
-			'updated_date': toISOString(Date.now()),
+			created_date: toISOString(Date.now()),
+			updated_date: toISOString(Date.now()),
 			"User": new Rebidd().user()
 		};
 	}

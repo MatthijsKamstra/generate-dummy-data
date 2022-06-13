@@ -87,6 +87,10 @@ class Rebidd {
 		return arr;
 	}
 
+	public function note():Array<Dynamic> {
+		return comment();
+	}
+
 	public function comment():Array<Dynamic> {
 		var random = MathUtil.randomInteger(1, 5);
 		var arr = [];
