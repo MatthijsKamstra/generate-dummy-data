@@ -7,10 +7,9 @@ class Phone {
 	public function new() {}
 
 	/**
-		* @examle
-
-		*
-		* @return String
+	 * @examle	new Phone().mobile_nl(); //
+	 *
+	 * @return String
 	 */
 	public function mobile_nl():String {
 		var nr = '';
@@ -21,10 +20,9 @@ class Phone {
 	}
 
 	/**
-		* @examle
-
-		*
-		* @return String
+	 * @examle 	new Phone().landline_nl(); //
+	 *
+	 * @return String
 	 */
 	public function landline_nl():String {
 		var nr = '';
