@@ -59,13 +59,16 @@ class MainRebidd {
 			// var id = UUID.uuid(); // maybe fake id? easier to overwrite data `fake-id-`
 			var property_id = 'fake-id-${Std.string(i).lpad('0', 10)}'; // maybe fake id? easier to overwrite data `fake-id-`
 			var property_title = new Rebidd().propertyTitle();
+			var property_phase = new Rebidd().phase();
+			var property_landlord = new Rebidd().landlord();
 			Reflect.setField(property, 'id', property_id);
 			Reflect.setField(property, 'title', property_title); // 123 Test avueneu
 			Reflect.setField(property, 'user', new Rebidd().user()); // <----- not sure of the relationship with the other user (below)
 			Reflect.setField(property, 'status', new Rebidd().status());
-			Reflect.setField(property, 'phase', new Rebidd().phase());
+			Reflect.setField(property, 'phase', property_phase);
 			Reflect.setField(property, 'type', new Rebidd().type());
 			Reflect.setField(property, 'priority', new Rebidd().priority());
+			Reflect.setField(property, 'Landlord', property_landlord);
 			Reflect.setField(property, 'created_date', toISOString(new Dates().past(2)));
 			Reflect.setField(property, 'updated_date', toISOString(Date.now()));
 			// set it also in the task
@@ -82,11 +85,11 @@ class MainRebidd {
 			Reflect.setField(property_overview, 'User', new Rebidd().user());
 			Reflect.setField(property_overview, 'Team', new Rebidd().team());
 			Reflect.setField(property_overview, 'Status', new Rebidd().status());
-			Reflect.setField(property_overview, 'Phase', new Rebidd().phase());
+			Reflect.setField(property_overview, 'Phase', property_phase);
 			Reflect.setField(property_overview, 'Type', new Rebidd().type());
 			Reflect.setField(property_overview, 'Lead', new Rebidd().lead());
 			Reflect.setField(property_overview, 'Comment', new Rebidd().comment());
-			Reflect.setField(property_overview, 'Landlord', new Rebidd().landlord());
+			Reflect.setField(property_overview, 'Landlord', property_landlord);
 
 			var property_tasks = {};
 			Reflect.setField(property_tasks, 'id', UUID.uuid());
