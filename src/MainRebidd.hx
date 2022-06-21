@@ -67,12 +67,12 @@ class MainRebidd {
 			Reflect.setField(propertyObj, 'Status', new Rebidd().status());
 			Reflect.setField(propertyObj, 'Phase', property_phase);
 			Reflect.setField(propertyObj, 'Type', new Rebidd().type());
-			Reflect.setField(propertyObj, 'priority', new Rebidd().priority());
+			Reflect.setField(propertyObj, 'Priority', new Rebidd().priority());
 			Reflect.setField(propertyObj, 'Landlord', property_landlord);
 			Reflect.setField(propertyObj, 'created_date', toISOString(new Dates().past(2)));
 			Reflect.setField(propertyObj, 'updated_date', toISOString(Date.now()));
 			// set it also in the task
-			Reflect.setField(taskObj, 'property', propertyObj);
+			Reflect.setField(taskObj, 'Property', propertyObj);
 
 			propertyArr.push(propertyObj);
 
