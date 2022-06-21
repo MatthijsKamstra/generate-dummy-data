@@ -63,10 +63,10 @@ class MainRebidd {
 			var propertyObj = {};
 			Reflect.setField(propertyObj, 'id', property_id);
 			Reflect.setField(propertyObj, 'title', property_title); // 123 Test avueneu
-			Reflect.setField(propertyObj, 'user', new Rebidd().user()); // <----- not sure of the relationship with the other user (below)
-			Reflect.setField(propertyObj, 'status', new Rebidd().status());
-			Reflect.setField(propertyObj, 'phase', property_phase);
-			Reflect.setField(propertyObj, 'type', new Rebidd().type());
+			Reflect.setField(propertyObj, 'User', new Rebidd().user()); // <----- not sure of the relationship with the other user (below)
+			Reflect.setField(propertyObj, 'Status', new Rebidd().status());
+			Reflect.setField(propertyObj, 'Phase', property_phase);
+			Reflect.setField(propertyObj, 'Type', new Rebidd().type());
 			Reflect.setField(propertyObj, 'priority', new Rebidd().priority());
 			Reflect.setField(propertyObj, 'Landlord', property_landlord);
 			Reflect.setField(propertyObj, 'created_date', toISOString(new Dates().past(2)));
@@ -140,25 +140,25 @@ class MainRebidd {
 			DummyData.saveTextFile(Json.stringify(property_detailsObj, null, '\t'), '${propertyDetailsPath}/${property_id}.json');
 
 			var status = new Rebidd().status();
-			Reflect.setField(taskObj, 'status', status);
+			Reflect.setField(taskObj, 'Status', status);
 
 			var phase = new Rebidd().phase();
-			Reflect.setField(taskObj, 'phase', phase);
+			Reflect.setField(taskObj, 'Phase', phase);
 
 			var priority = new Rebidd().priority();
-			Reflect.setField(taskObj, 'priority', priority);
+			Reflect.setField(taskObj, 'Priority', priority);
 
 			var type = new Rebidd().type();
-			Reflect.setField(taskObj, 'type', type);
+			Reflect.setField(taskObj, 'Type', type);
 
 			var team = new Rebidd().team();
-			Reflect.setField(taskObj, 'team', team);
+			Reflect.setField(taskObj, 'Team', team);
 
 			var user = new Rebidd().user();
-			Reflect.setField(taskObj, 'user', user);
+			Reflect.setField(taskObj, 'User', user);
 
 			var tags = Json.parse(Json.stringify(new Rebidd().tag()));
-			Reflect.setField(taskObj, 'tags', tags);
+			Reflect.setField(taskObj, 'Tags', tags);
 
 			tasksArr.push(taskObj);
 
