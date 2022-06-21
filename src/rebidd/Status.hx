@@ -3,7 +3,7 @@ package rebidd;
 import utils.MathUtil;
 
 class Status {
-	static var arr = ['DRAFT', 'DRAFT_y', 'DRAFT_z', 'TODO'];
+	static var arr = ['Draft', 'Draft_y', 'Draft_z', 'Todo'];
 
 	public static function get():Dynamic {
 		var val = Math.floor(Math.random() * arr.length);

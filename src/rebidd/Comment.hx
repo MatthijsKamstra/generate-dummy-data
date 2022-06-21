@@ -12,6 +12,20 @@ import utils.MathUtil;
 import utils.UUID;
 
 class Comment {
+	/**
+		* ```
+				  {
+				  "id": 1,
+				  "text": "We should contact the landlord",
+				  "created_date": "2022-05-27T11:15:49.700Z",
+				  "updated_date": "2022-05-27T11:15:49.700Z",
+				  "User": {}
+				},
+
+		* ```
+		*
+		* @return Dynamic
+	 */
 	public static function get():Dynamic {
 		return {
 			id: utils.UUID.uuid(),

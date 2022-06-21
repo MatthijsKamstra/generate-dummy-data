@@ -43,6 +43,10 @@ class Rebidd {
 		return Landlord.get();
 	}
 
+	public function linkedObject() {
+		return LinkedObject.get();
+	}
+
 	public function propertyTitle() {
 		return '${new Address().streetAddress()} ${NLCity.get()}';
 	}

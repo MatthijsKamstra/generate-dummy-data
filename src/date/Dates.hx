@@ -18,23 +18,26 @@ class Dates {
 	/**
 	 * get a date in the past
 	 *
-	 * @param days    number of days in the past
+	 * @param days    	number of days in the past (default 1)
+	 * @param hours		number of hours in the past (default 0)
+	 * @param minutes	number of minutes in the past (default 0)
 	 */
-	public function past(days:Int = 1) {
+	public function past(days:Int = 1, hours:Int = 0, minutes:Int = 0) {
 		var today = Date.now();
-		var past = DateTools.delta(today, -DateTools.days(days));
+		var past = DateTools.delta(today, -(DateTools.days(days) + DateTools.hours(hours) + DateTools.minutes(minutes)));
 		return past;
 	}
 
 	/**
 	 * get a date in the future
 	 *
-	 * @param days    number of days in the past
+	 * @param days    	number of days in the future (default 1)
+	 * @param hours		number of hours in the future (default 0)
+	 * @param minutes	number of minutes in the future (default 0)
 	 */
-	public function future(days:Int = 1) {
+	public function future(days:Int = 1, hours:Int = 0, minutes:Int = 0) {
 		var today = Date.now();
-		// trace(DateTools.days(days));
-		var future = DateTools.delta(today, DateTools.days(days));
+		var future = DateTools.delta(today, DateTools.days(days) + DateTools.hours(hours) + DateTools.minutes(minutes));
 		return future;
 	}
 
