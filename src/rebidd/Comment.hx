@@ -30,8 +30,8 @@ class Comment {
 		return {
 			id: utils.UUID.uuid(),
 			text: new Lorem().title(),
-			created_date: toISOString(new Dates().past(MathUtil.randomInteger(10, 20))),
-			updated_date: toISOString(new Dates().past(MathUtil.randomInteger(0, 10))),
+			created_date: toISOString(new Dates().past(MathUtil.randomInteger(10, 20), MathUtil.randomInteger(23), MathUtil.randomInteger(59))),
+			updated_date: toISOString(new Dates().past(MathUtil.randomInteger(0, 10), MathUtil.randomInteger(23), MathUtil.randomInteger(59))),
 			"User": new Rebidd().user()
 		};
 	}
