@@ -3,7 +3,7 @@ package rebidd;
 import utils.MathUtil;
 
 class Priority {
-	static var arr = ['High', 'Medium', 'Low', ''];
+	static var arr = ['High', 'Mid', 'Low'];
 
 	public static function get():Dynamic {
 		var val = Math.floor(Math.random() * arr.length);

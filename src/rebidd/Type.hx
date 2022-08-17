@@ -3,7 +3,7 @@ package rebidd;
 import utils.MathUtil;
 
 class Type {
-	static var arr = ['Maintenance', 'Rental', 'Take photos', 'Retail'];
+	static var arr = ['Apartment', 'Storage', 'House', 'Studio', 'Retail space'];
 
 	public static function get():Dynamic {
 		var val = Math.floor(Math.random() * arr.length);

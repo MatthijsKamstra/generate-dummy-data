@@ -3,7 +3,15 @@ package rebidd;
 import utils.MathUtil;
 
 class Phase {
-	static var arr = ['Draft', 'Landlord review', 'Live', 'Rented', 'Screening & contract'];
+	static var arr = [
+		'Draft',
+		'Pending',
+		'Live',
+		'Screening & contract',
+		'Check-in',
+		'Expired',
+		'Rented'
+	];
 
 	public static function get():Dynamic {
 		var val = Math.floor(Math.random() * arr.length);
