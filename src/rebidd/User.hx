@@ -27,12 +27,12 @@ class User {
 						"parent": null
 					}
 				],
-				"created_date": "2022-05-27T11:03:35.005Z",
-				"updated_date": "2022-05-27T11:03:35.005Z",
+				"createdTimestamp": "2022-05-27T11:03:35.005Z",
+				"updatedTimestamp": "2022-05-27T11:03:35.005Z",
 				"ContactDetails": {
 					"id": 1,
 					"email": "test@email.com",
-					"contact_number": "+273334445555"
+					"contactNumber": "+273334445555"
 				},
 				"UserRoles": [
 					{
@@ -56,11 +56,12 @@ class User {
 			id: UUID.uuid(),
 			name: nameObj.firstName,
 			surname: nameObj.lastName,
-			created_date: toISOString(Date.now()),
-			updated_date: toISOString(Date.now()),
-			'Team': new Rebidd().team(),
-			'ContactDetails': ContactDetails.get(nameObj),
-			'UserRoles': new Rebidd().role(),
+			creationTimestamp: toISOString(Date.now()),
+			updatedTimestamp: toISOString(Date.now()),
+			'contactDetailsDTO': ContactDetails.get(nameObj),
+			'teamDTO': new Rebidd().team(),
+			"cognitoUsername": '${nameObj.firstName}.${nameObj.lastName}@gmail.com',
+			'roleDTOS': new Rebidd().role(),
 		};
 	}
 }

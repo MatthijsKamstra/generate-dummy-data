@@ -43,8 +43,8 @@ class Rebidd {
 		return Landlord.get();
 	}
 
-	public function landlordCondensed() {
-		return Landlord.getCondensed();
+	public function landlordCondensed(val) {
+		return Landlord.getCondensed(val);
 	}
 
 	public function linkedObject() {
@@ -53,6 +53,26 @@ class Rebidd {
 
 	public function propertyTitle() {
 		return '${new Address().streetAddress()} ${NLCity.get()}';
+	}
+
+	public function paymentStatus() {
+		return PaymentStatus.get();
+	}
+
+	public function propertyDetails() {
+		return Property.details();
+	}
+
+	public function propertyFeatures() {
+		return Property.features();
+	}
+
+	public function propertyMedia() {
+		return Property.media();
+	}
+
+	public function propertyDocuments() {
+		return Property.documents();
 	}
 
 	public function user():Dynamic {

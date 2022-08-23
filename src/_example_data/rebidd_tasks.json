@@ -35,8 +35,8 @@
       "id": 1,
       "name": "MAINTENANCE"
     },
-    "created_date": "2022-04-08T07:47:44.188Z",
-    "updated_date": "2022-04-08T07:47:44.188Z"
+    "createdTimestamp": "2022-04-08T07:47:44.188Z",
+    "updatedTimestamp": "2022-04-08T07:47:44.188Z"
   },
   "status": {
     "id": 1,
@@ -84,6 +84,6 @@
       "name": "Follow-up"
     }
   ],
-  "created_date": "2022-04-08T07:47:44.188Z",
-  "updated_date": "2022-04-08T07:47:44.188Z"
+  "createdTimestamp": "2022-04-08T07:47:44.188Z",
+  "updatedTimestamp": "2022-04-08T07:47:44.188Z"
 }

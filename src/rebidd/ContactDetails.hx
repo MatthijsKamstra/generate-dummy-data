@@ -17,7 +17,7 @@ class ContactDetails {
 		{
 			"id": 1,
 			"email": "test@email.com",
-			"contact_number": "+273334445555"
+			"contactNumber": "+273334445555"
 		}
 		* ```
 		* @return Dynamic
@@ -28,7 +28,7 @@ class ContactDetails {
 		return {
 			id: utils.UUID.uuid(),
 			email: '${_nameObj.firstName.replace(' ', '')}@${_nameObj.lastName.replace(' ', '')}.nl'.toLowerCase(),
-			contact_number: new Phone().mobile_nl()
+			contactNumber: new Phone().mobile_nl()
 		};
 	}
 }
