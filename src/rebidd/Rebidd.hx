@@ -43,6 +43,10 @@ class Rebidd {
 		return Landlord.get();
 	}
 
+	public function landlordCondensed() {
+		return Landlord.getCondensed();
+	}
+
 	public function linkedObject() {
 		return LinkedObject.get();
 	}

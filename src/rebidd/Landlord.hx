@@ -35,4 +35,13 @@ class Landlord {
 			'ContactDetails': ContactDetails.get(nameObj),
 		};
 	}
+
+	public static function getCondensed():Dynamic {
+		// one object to use in others values
+		var nameObj = new Name().obj();
+		return {
+			landlordId: utils.UUID.uuid(),
+			name: '${nameObj.firstName} ${nameObj.lastName}',
+		};
+	}
 }

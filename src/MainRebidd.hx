@@ -40,6 +40,7 @@ class MainRebidd {
 		var tasksArr = [];
 		var notificationArr = [];
 		for (i in 0...total) {
+			// TASKS
 			var taskObj = {};
 			Reflect.setField(taskObj, 'id', UUID.uuid()); // added because we need this, probably changing in the future
 			Reflect.setField(taskObj, 'title', new Lorem().title());
@@ -58,19 +59,20 @@ class MainRebidd {
 			var property_title = new Rebidd().propertyTitle();
 			var property_phase = new Rebidd().phase();
 			var property_landlord = new Rebidd().landlord();
+			var property_landlord_condensed = new Rebidd().landlordCondensed();
 
 			// PROPERTY
 			var propertyObj = {};
-			Reflect.setField(propertyObj, 'id', property_id);
+			Reflect.setField(propertyObj, 'propertyId', property_id);
 			Reflect.setField(propertyObj, 'title', property_title); // 123 Test avueneu
-			Reflect.setField(propertyObj, 'User', new Rebidd().user()); // <----- not sure of the relationship with the other user (below)
-			Reflect.setField(propertyObj, 'Status', new Rebidd().status());
-			Reflect.setField(propertyObj, 'Phase', property_phase);
-			Reflect.setField(propertyObj, 'Type', new Rebidd().type());
-			Reflect.setField(propertyObj, 'Priority', new Rebidd().priority());
-			Reflect.setField(propertyObj, 'Landlord', property_landlord);
-			Reflect.setField(propertyObj, 'created_date', toISOString(new Dates().past(2)));
-			Reflect.setField(propertyObj, 'updated_date', toISOString(Date.now()));
+			// Reflect.setField(propertyObj, 'User', new Rebidd().user()); // <----- not sure of the relationship with the other user (below)
+			// Reflect.setField(propertyObj, 'Status', new Rebidd().status());
+			Reflect.setField(propertyObj, 'phaseDTO', property_phase);
+			// Reflect.setField(propertyObj, 'Type', new Rebidd().type());
+			Reflect.setField(propertyObj, 'priorityDTO', new Rebidd().priority());
+			Reflect.setField(propertyObj, 'landlordCondensedDTO', property_landlord_condensed);
+			// Reflect.setField(propertyObj, 'created_date', toISOString(new Dates().past(2)));
+			// Reflect.setField(propertyObj, 'updated_date', toISOString(Date.now()));
 			// set it also in the task
 			Reflect.setField(taskObj, 'Property', propertyObj);
 
@@ -195,10 +197,11 @@ class MainRebidd {
 		DummyData.saveTextFile(Json.stringify(jsonTasks, null, '\t'), pathTasks);
 
 		// property
-		Reflect.setField(jsonProperty, 'created_date', toISOString(new Dates().past(MathUtil.randomInteger(0, 10))));
-		Reflect.setField(jsonProperty, 'updated_date', toISOString(Date.now()));
-		Reflect.setField(jsonProperty, 'properties', propertyArr);
-		DummyData.saveTextFile(Json.stringify(jsonProperty, null, '\t'), pathProperty);
+		// Reflect.setField(jsonProperty, 'created_date', toISOString(new Dates().past(MathUtil.randomInteger(0, 10))));
+		// Reflect.setField(jsonProperty, 'updated_date', toISOString(Date.now()));
+		// Reflect.setField(jsonProperty, 'properties', propertyArr);
+		// DummyData.saveTextFile(Json.stringify(jsonProperty, null, '\t'), pathProperty);
+		DummyData.saveTextFile(Json.stringify(propertyArr, null, '\t'), pathProperty);
 
 		// notification
 		Reflect.setField(jsonNotification, 'created_date', toISOString(new Dates().past(MathUtil.randomInteger(0, 10))));
