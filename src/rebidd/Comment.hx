@@ -32,7 +32,8 @@ class Comment {
 			text: new Lorem().title(),
 			createdTimestamp: toISOString(new Dates().past(MathUtil.randomInteger(10, 20), MathUtil.randomInteger(23), MathUtil.randomInteger(59))),
 			updatedTimestamp: toISOString(new Dates().past(MathUtil.randomInteger(0, 10), MathUtil.randomInteger(23), MathUtil.randomInteger(59))),
-			"User": new Rebidd().user()
+			"userDTO": new Rebidd().user(),
+			hasBeenEdited:false
 		};
 	}
 }

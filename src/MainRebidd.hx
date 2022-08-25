@@ -26,7 +26,7 @@ class MainRebidd {
 		// var notificationPath = 'export/rebidd/notification';
 		var propertyOverviewPath = 'export/rebidd/property/overview';
 		var propertyTasksPath = 'export/rebidd/property/tasks';
-		var propertyDetailsPath = 'export/rebidd/property/details';
+		// var propertyDetailsPath = 'export/rebidd/property/details';
 
 		if (FileSystem.exists(propertyPath)) {
 			FileSystem.rename(propertyPath, '${propertyPath}_${Date.now().toString()}');
@@ -34,7 +34,7 @@ class MainRebidd {
 		FileSystem.createDirectory(propertyPath);
 		FileSystem.createDirectory(propertyOverviewPath);
 		FileSystem.createDirectory(propertyTasksPath);
-		FileSystem.createDirectory(propertyDetailsPath);
+		// FileSystem.createDirectory(propertyDetailsPath);
 
 		var propertyArr = [];
 		var tasksArr = [];
@@ -139,14 +139,14 @@ class MainRebidd {
 			// export
 			DummyData.saveTextFile(Json.stringify(property_tasksJson, null, '\t'), '${propertyTasksPath}/${property_id}.json');
 
-			var property_detailsObj = {};
-			Reflect.setField(property_detailsObj, 'id', UUID.uuid());
-			Reflect.setField(property_detailsObj, 'createdTimestamp', toISOString(new Dates().past(2)));
-			Reflect.setField(property_detailsObj, 'updatedTimestamp', toISOString(Date.now()));
-			Reflect.setField(property_detailsObj, 'WIP', {});
+			// var property_detailsObj = {};
+			// Reflect.setField(property_detailsObj, 'id', UUID.uuid());
+			// Reflect.setField(property_detailsObj, 'createdTimestamp', toISOString(new Dates().past(2)));
+			// Reflect.setField(property_detailsObj, 'updatedTimestamp', toISOString(Date.now()));
+			// Reflect.setField(property_detailsObj, 'WIP', {});
 
 			// export
-			DummyData.saveTextFile(Json.stringify(property_detailsObj, null, '\t'), '${propertyDetailsPath}/${property_id}.json');
+			// DummyData.saveTextFile(Json.stringify(property_detailsObj, null, '\t'), '${propertyDetailsPath}/${property_id}.json');
 
 			var status = new Rebidd().status();
 			Reflect.setField(taskObj, 'Status', status);
