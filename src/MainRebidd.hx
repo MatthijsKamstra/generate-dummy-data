@@ -1,3 +1,5 @@
+import utils.converter.TypescriptJsonDef;
+import utils.converter.HaxeJsonDef;
 import date.Dates;
 import haxe.Json;
 import lorem.Lorem;
@@ -102,6 +104,17 @@ class MainRebidd {
 
 			// export
 			DummyData.saveTextFile(Json.stringify(property_overviewObj, null, '\t'), '${propertyOverviewPath}/${property_id}.json');
+			// export only one `.ts`/`.hx`
+			if (i == 0) {
+				// haxe typedef
+				var hxjsondef = new HaxeJsonDef();
+				var str = hxjsondef.convert('RootObj', Json.stringify(property_overviewObj));
+				DummyData.saveTextFile(str, '${propertyOverviewPath}/${property_id}.hx');
+				// typescript typedef
+				var tsjsondef = new TypescriptJsonDef();
+				var str = tsjsondef.convert('RootObj', Json.stringify(property_overviewObj));
+				DummyData.saveTextFile(str, '${propertyOverviewPath}/${property_id}.ts');
+			}
 
 			// CREATE PROPERTY TASKS DATA
 			// this creates one single task... that is incorrect
@@ -138,6 +151,17 @@ class MainRebidd {
 			Reflect.setField(property_tasksJson, 'tasks', property_tasksArr);
 			// export
 			DummyData.saveTextFile(Json.stringify(property_tasksJson, null, '\t'), '${propertyTasksPath}/${property_id}.json');
+			// export only one `.ts`/`.hx`
+			if (i == 0) {
+				// haxe typedef
+				var hxjsondef = new HaxeJsonDef();
+				var str = hxjsondef.convert('RootObj', Json.stringify(property_tasksJson));
+				DummyData.saveTextFile(str, '${propertyTasksPath}/${property_id}.hx');
+				// typescript typedef
+				var tsjsondef = new TypescriptJsonDef();
+				var str = tsjsondef.convert('RootObj', Json.stringify(property_tasksJson));
+				DummyData.saveTextFile(str, '${propertyTasksPath}/${property_id}.ts');
+			}
 
 			// var property_detailsObj = {};
 			// Reflect.setField(property_detailsObj, 'id', UUID.uuid());
@@ -203,6 +227,15 @@ class MainRebidd {
 		Reflect.setField(jsonTasks, 'tasks', tasksArr);
 		DummyData.saveTextFile(Json.stringify(jsonTasks, null, '\t'), pathTasks);
 
+		// haxe typedef
+		var hxjsondef = new HaxeJsonDef();
+		var str = hxjsondef.convert('RootObj', Json.stringify(jsonTasks));
+		DummyData.saveTextFile(str, 'export/rebidd/Tasks.hx');
+		// typescript typedef
+		var tsjsondef = new TypescriptJsonDef();
+		var str = tsjsondef.convert('RootObj', Json.stringify(jsonTasks));
+		DummyData.saveTextFile(str, 'export/rebidd/tasks.d.ts');
+
 		// property
 		// Reflect.setField(jsonProperty, 'createdTimestamp', toISOString(new Dates().past(MathUtil.randomInteger(0, 10))));
 		// Reflect.setField(jsonProperty, 'updatedTimestamp', toISOString(Date.now()));
@@ -210,11 +243,27 @@ class MainRebidd {
 		// DummyData.saveTextFile(Json.stringify(jsonProperty, null, '\t'), pathProperty);
 		DummyData.saveTextFile(Json.stringify(propertyArr, null, '\t'), pathProperty);
 
+		var hxjsondef = new HaxeJsonDef();
+		var str = hxjsondef.convert('RootObj', Json.stringify(propertyArr));
+		DummyData.saveTextFile(str, 'export/rebidd/Properties.hx');
+		// typescript typedef
+		var tsjsondef = new TypescriptJsonDef();
+		var str = tsjsondef.convert('RootObj', Json.stringify(propertyArr));
+		DummyData.saveTextFile(str, 'export/rebidd/properties.d.ts');
+
 		// notification
 		Reflect.setField(jsonNotification, 'createdTimestamp', toISOString(new Dates().past(MathUtil.randomInteger(0, 10))));
 		Reflect.setField(jsonNotification, 'updatedTimestamp', toISOString(Date.now()));
 		Reflect.setField(jsonNotification, 'notifications', notificationArr);
 		DummyData.saveTextFile(Json.stringify(jsonNotification, null, '\t'), pathNotification);
+
+		var hxjsondef = new HaxeJsonDef();
+		var str = hxjsondef.convert('RootObj', Json.stringify(jsonNotification));
+		DummyData.saveTextFile(str, 'export/rebidd/Notifications.hx');
+		// typescript typedef
+		var tsjsondef = new TypescriptJsonDef();
+		var str = tsjsondef.convert('RootObj', Json.stringify(jsonNotification));
+		DummyData.saveTextFile(str, 'export/rebidd/notifications.d.ts');
 	}
 
 	// /**
