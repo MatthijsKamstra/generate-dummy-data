@@ -28,6 +28,8 @@ class MainRebidd {
 		// var notificationPath = 'export/rebidd/notification';
 		var propertyOverviewPath = 'export/rebidd/property/overview';
 		var propertyTasksPath = 'export/rebidd/property/tasks';
+		var convertTsPath = 'export/rebidd/property/ts';
+		var convertHxPath = 'export/rebidd/property/hx';
 		// var propertyDetailsPath = 'export/rebidd/property/details';
 
 		if (FileSystem.exists(propertyPath)) {
@@ -36,6 +38,8 @@ class MainRebidd {
 		FileSystem.createDirectory(propertyPath);
 		FileSystem.createDirectory(propertyOverviewPath);
 		FileSystem.createDirectory(propertyTasksPath);
+		FileSystem.createDirectory(convertTsPath);
+		FileSystem.createDirectory(convertHxPath);
 		// FileSystem.createDirectory(propertyDetailsPath);
 
 		var propertyArr = [];
@@ -75,12 +79,12 @@ class MainRebidd {
 			if (i == 0) {
 				// haxe typedef
 				var hxjsondef = new HaxeJsonDef();
-				var str = hxjsondef.convert('Root', Json.stringify(taskObj));
-				DummyData.saveTextFile(str, '${propertyTasksPath}/_${property_id}.hx');
+				var str = hxjsondef.convert(Json.stringify(taskObj), 'Task');
+				DummyData.saveTextFile(str, '${convertHxPath}/Task.hx');
 				// typescript typedef
 				var tsjsondef = new TypescriptJsonDef();
-				var str = tsjsondef.convert(Json.stringify(taskObj), 'Root');
-				DummyData.saveTextFile(str, '${propertyTasksPath}/_${property_id}.ts');
+				var str = tsjsondef.convert(Json.stringify(taskObj), 'Task');
+				DummyData.saveTextFile(str, '${convertTsPath}/task.d.ts');
 			}
 
 			// PROPERTY
@@ -126,12 +130,12 @@ class MainRebidd {
 			if (i == 0) {
 				// haxe typedef
 				var hxjsondef = new HaxeJsonDef();
-				var str = hxjsondef.convert('PropertyOverview', Json.stringify(property_overviewObj));
-				DummyData.saveTextFile(str, '${propertyOverviewPath}/_${property_id}.hx');
+				var str = hxjsondef.convert(Json.stringify(property_overviewObj), 'PropertyOverview');
+				DummyData.saveTextFile(str, '${convertHxPath}/PropertyOverview.hx');
 				// typescript typedef
 				var tsjsondef = new TypescriptJsonDef();
 				var str = tsjsondef.convert(Json.stringify(property_overviewObj), 'PropertyOverview');
-				DummyData.saveTextFile(str, '${propertyOverviewPath}/_${property_id}.ts');
+				DummyData.saveTextFile(str, '${convertTsPath}/propertyOverview.d.ts');
 			}
 
 			// CREATE PROPERTY TASKS DATA
@@ -226,12 +230,12 @@ class MainRebidd {
 
 		// haxe typedef
 		var hxjsondef = new HaxeJsonDef();
-		var str = hxjsondef.convert('Root', Json.stringify(jsonTasks));
-		DummyData.saveTextFile(str, 'export/rebidd/Tasks.hx');
+		var str = hxjsondef.convert(Json.stringify(jsonTasks), 'Tasks');
+		DummyData.saveTextFile(str, '${convertHxPath}/Tasks.hx');
 		// typescript typedef
 		var tsjsondef = new TypescriptJsonDef();
-		var str = tsjsondef.convert(Json.stringify(jsonTasks), 'Root');
-		DummyData.saveTextFile(str, 'export/rebidd/tasks.d.ts');
+		var str = tsjsondef.convert(Json.stringify(jsonTasks), 'Tasks');
+		DummyData.saveTextFile(str, '${convertTsPath}/tasks.d.ts');
 
 		// property
 		// Reflect.setField(jsonProperty, 'createdTimestamp', toISOString(new Dates().past(MathUtil.randomInteger(0, 10))));
@@ -241,12 +245,12 @@ class MainRebidd {
 		DummyData.saveTextFile(Json.stringify(propertyArr, null, '\t'), pathProperty);
 
 		var hxjsondef = new HaxeJsonDef();
-		var str = hxjsondef.convert('Properties', Json.stringify(propertyArr));
-		DummyData.saveTextFile(str, 'export/rebidd/Properties.hx');
+		var str = hxjsondef.convert(Json.stringify(propertyArr), 'Properties');
+		DummyData.saveTextFile(str, '${convertHxPath}/Properties.hx');
 		// typescript typedef
 		var tsjsondef = new TypescriptJsonDef();
 		var str = tsjsondef.convert(Json.stringify(propertyArr), 'Properties');
-		DummyData.saveTextFile(str, 'export/rebidd/properties.d.ts');
+		DummyData.saveTextFile(str, '${convertTsPath}/properties.d.ts');
 
 		// notification
 		Reflect.setField(jsonNotification, 'createdTimestamp', toISOString(new Dates().past(MathUtil.randomInteger(0, 10))));
@@ -255,12 +259,12 @@ class MainRebidd {
 		DummyData.saveTextFile(Json.stringify(jsonNotification, null, '\t'), pathNotification);
 
 		var hxjsondef = new HaxeJsonDef();
-		var str = hxjsondef.convert('Root', Json.stringify(jsonNotification));
-		DummyData.saveTextFile(str, 'export/rebidd/Notifications.hx');
+		var str = hxjsondef.convert(Json.stringify(jsonNotification), 'Notification');
+		DummyData.saveTextFile(str, '${convertHxPath}/Notifications.hx');
 		// typescript typedef
 		var tsjsondef = new TypescriptJsonDef();
-		var str = tsjsondef.convert(Json.stringify(jsonNotification), 'Root');
-		DummyData.saveTextFile(str, 'export/rebidd/notifications.d.ts');
+		var str = tsjsondef.convert(Json.stringify(jsonNotification), 'Notification');
+		DummyData.saveTextFile(str, '${convertTsPath}/notifications.d.ts');
 	}
 
 	// /**

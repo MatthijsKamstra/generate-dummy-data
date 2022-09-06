@@ -6,9 +6,10 @@ using StringTools;
 
 class HaxeJsonDef {
 	public static var NAME:String = "HaxeJsonDef";
-	public static var VERSION:String = "0.0.9";
+	public static var VERSION:String = "0.1.0";
 
 	/**
+	 * 0.1.0 - Introduction into datageneration, updates from typescript version
 	 * // https://raw.githubusercontent.com/MatthijsKamstra/hxjsondef/master/src/Hxjsondef.hx
 	 * 0.0.8 - macro
 	 * 0.0.7 - haxelib run command
@@ -37,11 +38,12 @@ class HaxeJsonDef {
 	/**
 	 * convert this for js/neko
 	 *
-	 * @param  name    json filename
 	 * @param  content json content
+	 * @param  name    (optional )root object name?
 	 * @return         String (haxe class with typedef)
 	 */
-	public function convert(name:String, content:String):String {
+	public function convert(content:String, ?name:String = "Root"):String {
+		fileName = name;
 		// [mck] reset defaults
 		str = '';
 		typeDefMap = new Map<String, Array<String>>();
@@ -58,7 +60,6 @@ class HaxeJsonDef {
 			for (i in 0...arr.length) {
 				str += '${arr[i]}\n';
 			}
-
 			str += '};\n';
 		}
 
