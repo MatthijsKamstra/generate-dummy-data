@@ -42,19 +42,6 @@ class MainRebidd {
 		var tasksArr = [];
 		var notificationArr = [];
 		for (i in 0...total) {
-			// TASKS
-			var taskObj = {};
-			Reflect.setField(taskObj, 'id', UUID.uuid()); // added because we need this, probably changing in the future
-			Reflect.setField(taskObj, 'title', new Lorem().title());
-			Reflect.setField(taskObj, 'description', new Lorem().description());
-			// Reflect.setField(taskObj, 'description', new Lorem().paragraph(5));
-
-			Reflect.setField(taskObj, 'is_todo', MathUtil.chance());
-
-			Reflect.setField(taskObj, 'due_date', toISOString(new Dates().future(MathUtil.randomInteger(0, 10)))); // TODO: today, future, chance
-			Reflect.setField(taskObj, 'createdTimestamp', toISOString(new Dates().past(MathUtil.randomInteger(0, 10))));
-			Reflect.setField(taskObj, 'updatedTimestamp', toISOString(Date.now()));
-
 			// PROPERTY VARS
 			// var property_id = UUID.uuid(); // maybe fake id? easier to overwrite data `fake-id-`
 			var property_id = 'fake-id-${Std.string(i).lpad('0', 10)}'; // maybe fake id? easier to overwrite data `fake-id-`
@@ -64,21 +51,52 @@ class MainRebidd {
 			var property_landlord = new Rebidd().landlord();
 			var property_landlord_condensed = new Rebidd().landlordCondensed(property_landlord);
 
+			// TASKS
+			var taskObj = {};
+			Reflect.setField(taskObj, 'id', UUID.uuid()); // added because we need this, probably changing in the future
+			Reflect.setField(taskObj, 'title', new Lorem().title());
+			Reflect.setField(taskObj, 'description', new Lorem().description());
+			// Reflect.setField(taskObj, 'is_todo', MathUtil.chance());
+			Reflect.setField(taskObj, 'dueDate', toISOString(new Dates().future(MathUtil.randomInteger(0, 10)))); // TODO: today, future, chance
+			Reflect.setField(taskObj, 'createdTimestamp', toISOString(new Dates().past(MathUtil.randomInteger(0, 10))));
+			Reflect.setField(taskObj, 'updatedTimestamp', toISOString(Date.now()));
+			Reflect.setField(taskObj, 'propertyId', property_id);
+			Reflect.setField(taskObj, 'userDTO', new Rebidd().user());
+			Reflect.setField(taskObj, 'statusDTO', new Rebidd().status());
+			Reflect.setField(taskObj, 'phaseDTO', new Rebidd().phase());
+			Reflect.setField(taskObj, 'priorityDTO', new Rebidd().priority());
+			Reflect.setField(taskObj, 'typeDTO', new Rebidd().type());
+			Reflect.setField(taskObj, 'comments', new Rebidd().comment());
+			Reflect.setField(taskObj, 'notes', new Rebidd().note());
+			// export
+			// /v1/task/property/{id}
+			DummyData.saveTextFile(Json.stringify(taskObj, null, '\t'), '${propertyTasksPath}/${property_id}.json');
+			// export only one `.ts`/`.hx`
+			if (i == 0) {
+				// haxe typedef
+				var hxjsondef = new HaxeJsonDef();
+				var str = hxjsondef.convert('Root', Json.stringify(taskObj));
+				DummyData.saveTextFile(str, '${propertyTasksPath}/_${property_id}.hx');
+				// typescript typedef
+				var tsjsondef = new TypescriptJsonDef();
+				var str = tsjsondef.convert(Json.stringify(taskObj), 'Root');
+				DummyData.saveTextFile(str, '${propertyTasksPath}/_${property_id}.ts');
+			}
+
 			// PROPERTY
 			var propertyObj = {};
 			Reflect.setField(propertyObj, 'propertyId', property_id);
 			Reflect.setField(propertyObj, 'title', property_title); // 123 Test avueneu
-			// Reflect.setField(propertyObj, 'User', new Rebidd().user()); // <----- not sure of the relationship with the other user (below)
-			// Reflect.setField(propertyObj, 'Status', new Rebidd().status());
 			Reflect.setField(propertyObj, 'phaseDTO', property_phase);
-			// Reflect.setField(propertyObj, 'Type', new Rebidd().type());
 			Reflect.setField(propertyObj, 'priorityDTO', property_priority);
 			Reflect.setField(propertyObj, 'landlordCondensedDTO', property_landlord_condensed);
+			// Reflect.setField(propertyObj, 'User', new Rebidd().user()); // <----- not sure of the relationship with the other user (below)
+			// Reflect.setField(propertyObj, 'Status', new Rebidd().status());
+			// Reflect.setField(propertyObj, 'Type', new Rebidd().type());
 			// Reflect.setField(propertyObj, 'createdTimestamp', toISOString(new Dates().past(2)));
 			// Reflect.setField(propertyObj, 'updatedTimestamp', toISOString(Date.now()));
 			// set it also in the task
-			Reflect.setField(taskObj, 'Property', propertyObj);
-
+			// Reflect.setField(taskObj, 'Property', propertyObj);
 			propertyArr.push(propertyObj);
 
 			// CREATE PROPERTY OVERVIEW DATA
@@ -108,60 +126,60 @@ class MainRebidd {
 			if (i == 0) {
 				// haxe typedef
 				var hxjsondef = new HaxeJsonDef();
-				var str = hxjsondef.convert('RootObj', Json.stringify(property_overviewObj));
-				DummyData.saveTextFile(str, '${propertyOverviewPath}/${property_id}.hx');
+				var str = hxjsondef.convert('PropertyOverview', Json.stringify(property_overviewObj));
+				DummyData.saveTextFile(str, '${propertyOverviewPath}/_${property_id}.hx');
 				// typescript typedef
 				var tsjsondef = new TypescriptJsonDef();
-				var str = tsjsondef.convert('RootObj', Json.stringify(property_overviewObj));
-				DummyData.saveTextFile(str, '${propertyOverviewPath}/${property_id}.ts');
+				var str = tsjsondef.convert(Json.stringify(property_overviewObj), 'PropertyOverview');
+				DummyData.saveTextFile(str, '${propertyOverviewPath}/_${property_id}.ts');
 			}
 
 			// CREATE PROPERTY TASKS DATA
 			// this creates one single task... that is incorrect
-			var property_tasksJson = {};
-			Reflect.setField(property_tasksJson, 'createdTimestamp', toISOString(new Dates().past(2)));
-			Reflect.setField(property_tasksJson, 'updatedTimestamp', toISOString(Date.now()));
-			var property_tasksArr = [];
+			// var property_tasksJson = {};
+			// Reflect.setField(property_tasksJson, 'createdTimestamp', toISOString(new Dates().past(2)));
+			// Reflect.setField(property_tasksJson, 'updatedTimestamp', toISOString(Date.now()));
+			// var property_tasksArr = [];
 
-			// lets start with 20 issues
-			for (i in 0...20) {
-				var property_tasksObj = {};
-				Reflect.setField(property_tasksObj, 'id', UUID.uuid());
-				Reflect.setField(property_tasksObj, 'createdTimestamp', toISOString(new Dates().past(2)));
-				Reflect.setField(property_tasksObj, 'updatedTimestamp', toISOString(Date.now()));
-				Reflect.setField(property_tasksObj, 'due_date', toISOString(new Dates().future(6)));
-				Reflect.setField(property_tasksObj, 'title', property_title);
-				Reflect.setField(property_tasksObj, 'description', new Lorem().description(4));
-				Reflect.setField(property_tasksObj, 'Property', propertyObj);
-				Reflect.setField(property_tasksObj, 'User', new Rebidd().user());
-				Reflect.setField(property_tasksObj, 'Status', new Rebidd().status());
-				Reflect.setField(property_tasksObj, 'Phase', new Rebidd().phase());
-				Reflect.setField(property_tasksObj, 'Type', new Rebidd().type());
-				Reflect.setField(property_tasksObj, 'Priority', new Rebidd().priority());
-				Reflect.setField(property_tasksObj, 'Note', new Rebidd().note());
-				Reflect.setField(property_tasksObj, 'Comment', new Rebidd().comment());
-				var tags = Json.parse(Json.stringify(new Rebidd().tag()));
-				Reflect.setField(property_tasksObj, 'Tag', tags);
+			// // lets start with 20 issues
+			// for (i in 0...20) {
+			// 	var property_tasksObj = {};
+			// 	Reflect.setField(property_tasksObj, 'id', UUID.uuid());
+			// 	Reflect.setField(property_tasksObj, 'createdTimestamp', toISOString(new Dates().past(2)));
+			// 	Reflect.setField(property_tasksObj, 'updatedTimestamp', toISOString(Date.now()));
+			// 	Reflect.setField(property_tasksObj, 'due_date', toISOString(new Dates().future(6)));
+			// 	Reflect.setField(property_tasksObj, 'title', property_title);
+			// 	Reflect.setField(property_tasksObj, 'description', new Lorem().description(4));
+			// 	Reflect.setField(property_tasksObj, 'Property', propertyObj);
+			// 	Reflect.setField(property_tasksObj, 'User', new Rebidd().user());
+			// 	Reflect.setField(property_tasksObj, 'Status', new Rebidd().status());
+			// 	Reflect.setField(property_tasksObj, 'Phase', new Rebidd().phase());
+			// 	Reflect.setField(property_tasksObj, 'Type', new Rebidd().type());
+			// 	Reflect.setField(property_tasksObj, 'Priority', new Rebidd().priority());
+			// 	Reflect.setField(property_tasksObj, 'Note', new Rebidd().note());
+			// 	Reflect.setField(property_tasksObj, 'Comment', new Rebidd().comment());
+			// 	var tags = Json.parse(Json.stringify(new Rebidd().tag()));
+			// 	Reflect.setField(property_tasksObj, 'Tag', tags);
 
-				property_tasksArr.push(property_tasksObj);
-				// // export
-				// DummyData.saveTextFile(Json.stringify(property_tasksObj, null, '\t'), '${propertyTasksPath}/${property_id}.json');
-			}
+			// 	property_tasksArr.push(property_tasksObj);
+			// 	// // export
+			// 	// DummyData.saveTextFile(Json.stringify(property_tasksObj, null, '\t'), '${propertyTasksPath}/${property_id}.json');
+			// }
 
-			Reflect.setField(property_tasksJson, 'tasks', property_tasksArr);
-			// export
-			DummyData.saveTextFile(Json.stringify(property_tasksJson, null, '\t'), '${propertyTasksPath}/${property_id}.json');
-			// export only one `.ts`/`.hx`
-			if (i == 0) {
-				// haxe typedef
-				var hxjsondef = new HaxeJsonDef();
-				var str = hxjsondef.convert('RootObj', Json.stringify(property_tasksJson));
-				DummyData.saveTextFile(str, '${propertyTasksPath}/${property_id}.hx');
-				// typescript typedef
-				var tsjsondef = new TypescriptJsonDef();
-				var str = tsjsondef.convert('RootObj', Json.stringify(property_tasksJson));
-				DummyData.saveTextFile(str, '${propertyTasksPath}/${property_id}.ts');
-			}
+			// Reflect.setField(property_tasksJson, 'tasks', property_tasksArr);
+			// // export
+			// DummyData.saveTextFile(Json.stringify(property_tasksJson, null, '\t'), '${propertyTasksPath}/${property_id}.json');
+			// // export only one `.ts`/`.hx`
+			// if (i == 0) {
+			// 	// haxe typedef
+			// 	var hxjsondef = new HaxeJsonDef();
+			// 	var str = hxjsondef.convert('Root', Json.stringify(property_tasksJson));
+			// 	DummyData.saveTextFile(str, '${propertyTasksPath}/${property_id}.hx');
+			// 	// typescript typedef
+			// 	var tsjsondef = new TypescriptJsonDef();
+			// 	var str = tsjsondef.convert(Json.stringify(property_tasksJson), 'Root');
+			// 	DummyData.saveTextFile(str, '${propertyTasksPath}/${property_id}.ts');
+			// }
 
 			// var property_detailsObj = {};
 			// Reflect.setField(property_detailsObj, 'id', UUID.uuid());
@@ -171,27 +189,6 @@ class MainRebidd {
 
 			// export
 			// DummyData.saveTextFile(Json.stringify(property_detailsObj, null, '\t'), '${propertyDetailsPath}/${property_id}.json');
-
-			var status = new Rebidd().status();
-			Reflect.setField(taskObj, 'Status', status);
-
-			var phase = new Rebidd().phase();
-			Reflect.setField(taskObj, 'Phase', phase);
-
-			var priority = new Rebidd().priority();
-			Reflect.setField(taskObj, 'Priority', priority);
-
-			var type = new Rebidd().type();
-			Reflect.setField(taskObj, 'Type', type);
-
-			var team = new Rebidd().team();
-			Reflect.setField(taskObj, 'Team', team);
-
-			var user = new Rebidd().user();
-			Reflect.setField(taskObj, 'User', user);
-
-			var tags = Json.parse(Json.stringify(new Rebidd().tag()));
-			Reflect.setField(taskObj, 'Tags', tags);
 
 			tasksArr.push(taskObj);
 
@@ -229,11 +226,11 @@ class MainRebidd {
 
 		// haxe typedef
 		var hxjsondef = new HaxeJsonDef();
-		var str = hxjsondef.convert('RootObj', Json.stringify(jsonTasks));
+		var str = hxjsondef.convert('Root', Json.stringify(jsonTasks));
 		DummyData.saveTextFile(str, 'export/rebidd/Tasks.hx');
 		// typescript typedef
 		var tsjsondef = new TypescriptJsonDef();
-		var str = tsjsondef.convert('RootObj', Json.stringify(jsonTasks));
+		var str = tsjsondef.convert(Json.stringify(jsonTasks), 'Root');
 		DummyData.saveTextFile(str, 'export/rebidd/tasks.d.ts');
 
 		// property
@@ -244,11 +241,11 @@ class MainRebidd {
 		DummyData.saveTextFile(Json.stringify(propertyArr, null, '\t'), pathProperty);
 
 		var hxjsondef = new HaxeJsonDef();
-		var str = hxjsondef.convert('RootObj', Json.stringify(propertyArr));
+		var str = hxjsondef.convert('Properties', Json.stringify(propertyArr));
 		DummyData.saveTextFile(str, 'export/rebidd/Properties.hx');
 		// typescript typedef
 		var tsjsondef = new TypescriptJsonDef();
-		var str = tsjsondef.convert('RootObj', Json.stringify(propertyArr));
+		var str = tsjsondef.convert(Json.stringify(propertyArr), 'Properties');
 		DummyData.saveTextFile(str, 'export/rebidd/properties.d.ts');
 
 		// notification
@@ -258,11 +255,11 @@ class MainRebidd {
 		DummyData.saveTextFile(Json.stringify(jsonNotification, null, '\t'), pathNotification);
 
 		var hxjsondef = new HaxeJsonDef();
-		var str = hxjsondef.convert('RootObj', Json.stringify(jsonNotification));
+		var str = hxjsondef.convert('Root', Json.stringify(jsonNotification));
 		DummyData.saveTextFile(str, 'export/rebidd/Notifications.hx');
 		// typescript typedef
 		var tsjsondef = new TypescriptJsonDef();
-		var str = tsjsondef.convert('RootObj', Json.stringify(jsonNotification));
+		var str = tsjsondef.convert(Json.stringify(jsonNotification), 'Root');
 		DummyData.saveTextFile(str, 'export/rebidd/notifications.d.ts');
 	}
 

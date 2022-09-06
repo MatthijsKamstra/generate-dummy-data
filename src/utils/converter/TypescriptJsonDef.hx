@@ -6,9 +6,11 @@ using StringTools;
 
 class TypescriptJsonDef {
 	public static var NAME:String = "TypescriptJsonDef";
-	public static var VERSION:String = "0.0.9";
+	public static var VERSION:String = "0.1.1";
 
 	/**
+	 * 0.1.1 - fix dublicates in rootobjec
+	 * 0.1.0 - convert to typescript
 	 * // https://raw.githubusercontent.com/MatthijsKamstra/hxjsondef/master/src/Hxjsondef.hx
 	 * 0.0.8 - macro
 	 * 0.0.7 - haxelib run command
@@ -37,11 +39,12 @@ class TypescriptJsonDef {
 	/**
 	 * convert this for js/neko
 	 *
-	 * @param  name    json filename
 	 * @param  content json content
+	 * @param  name    (optional )root object name?
 	 * @return         String (haxe class with typedef)
 	 */
-	public function convert(name:String, content:String):String {
+	public function convert(content:String, ?name:String = "Root"):String {
+		fileName = name;
 		// [mck] reset defaults
 		str = '';
 		typeDefMap = new Map<String, Array<String>>();
@@ -120,8 +123,10 @@ class TypescriptJsonDef {
 					trace("[FIXME] type: " + Type.typeof(Reflect.field(pjson, varName)) + ' / ${varName}: ' + Reflect.field(pjson, varName));
 			}
 
-			var arr = typeDefMap.get('${typeName}');
-			arr.push(store);
+			var arr:Array<String> = typeDefMap.get('${typeName}');
+			if (arr.indexOf(store) == -1) {
+				arr.push(store);
+			}
 			typeDefMap.set('${typeName}', arr);
 
 			// trace(i + ":" + Reflect.field(pjson,i));
@@ -184,13 +189,21 @@ class TypescriptJsonDef {
 
 	private function headerInfo():String {
 		var temp = '';
+		var imp = '\n'; // import { PropertyDataObject } from "./properties";
+		imp += ' * ```js\n';
+		imp += ' * import { ';
 		for (key in typeDefMap.keys()) {
 			temp += '\n * \t\t${key}';
+			imp += '${key}, ';
 		}
+		imp += ' } from "./${fileName.toLowerCase()}";\n';
+		imp += ' * ```';
+
+		imp = imp.replace(',  } from', ' } from');
 
 		var str = '';
 		if (!isComment) {
-			str += '\n\n'
+			str += ''
 				+ '/**'
 				+ '\n * Generated with ${NAME} (version ${VERSION}) on '
 				+ Date.now()
@@ -203,7 +216,11 @@ class TypescriptJsonDef {
 				+ '\n * comments in this document show you the values that need to be changed!'
 				+ '\n * '
 				+ '\n * Some (backend)-developers choose to hide empty/null values, you can add them:'
-				+ '\n * \t\t@:optional var _id: Int;'
+				+ '\n * \t\t_id?: number;'
+				+ '\n * '
+				+ '\n * Import data into project:'
+				+ '\n * '
+				+ '$imp'
 				+ '\n * '
 				+ '\n * Name(s) that you possibly need to change:'
 				+ '$temp'
