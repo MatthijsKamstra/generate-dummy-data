@@ -55,35 +55,55 @@ class MainRebidd {
 			var property_landlord = new Rebidd().landlord();
 			var property_landlord_condensed = new Rebidd().landlordCondensed(property_landlord);
 
-			// TASKS
-			var taskObj = {};
-			Reflect.setField(taskObj, 'id', UUID.uuid()); // added because we need this, probably changing in the future
-			Reflect.setField(taskObj, 'title', new Lorem().title());
-			Reflect.setField(taskObj, 'description', new Lorem().description());
-			// Reflect.setField(taskObj, 'is_todo', MathUtil.chance());
-			Reflect.setField(taskObj, 'dueDate', toISOString(new Dates().future(MathUtil.randomInteger(0, 10)))); // TODO: today, future, chance
-			Reflect.setField(taskObj, 'createdTimestamp', toISOString(new Dates().past(MathUtil.randomInteger(0, 10))));
-			Reflect.setField(taskObj, 'updatedTimestamp', toISOString(Date.now()));
-			Reflect.setField(taskObj, 'propertyId', property_id);
-			Reflect.setField(taskObj, 'userDTO', new Rebidd().user());
-			Reflect.setField(taskObj, 'statusDTO', new Rebidd().status());
-			Reflect.setField(taskObj, 'phaseDTO', new Rebidd().phase());
-			Reflect.setField(taskObj, 'priorityDTO', new Rebidd().priority());
-			Reflect.setField(taskObj, 'typeDTO', new Rebidd().type());
-			Reflect.setField(taskObj, 'comments', new Rebidd().comment());
-			Reflect.setField(taskObj, 'notes', new Rebidd().note());
+			var random = MathUtil.randomInteger(4, 10);
+			var tasksArr2 = [];
+			for (i in 0...random) {
+				// TASKS
+				var taskObj = {};
+				Reflect.setField(taskObj, 'id', UUID.uuid()); // added because we need this, probably changing in the future
+				Reflect.setField(taskObj, 'title', new Lorem().title());
+				Reflect.setField(taskObj, 'description', new Lorem().description());
+				// Reflect.setField(taskObj, 'is_todo', MathUtil.chance());
+				Reflect.setField(taskObj, 'dueDate', toISOString(new Dates().future(MathUtil.randomInteger(0, 10)))); // TODO: today, future, chance
+				Reflect.setField(taskObj, 'createdTimestamp', toISOString(new Dates().past(MathUtil.randomInteger(0, 10))));
+				Reflect.setField(taskObj, 'updatedTimestamp', toISOString(Date.now()));
+				Reflect.setField(taskObj, 'propertyId', property_id);
+				Reflect.setField(taskObj, 'userDTO', new Rebidd().user());
+				Reflect.setField(taskObj, 'statusDTO', new Rebidd().status());
+				Reflect.setField(taskObj, 'phaseDTO', new Rebidd().phase());
+				Reflect.setField(taskObj, 'priorityDTO', new Rebidd().priority());
+				Reflect.setField(taskObj, 'typeDTO', new Rebidd().type());
+				Reflect.setField(taskObj, 'comments', new Rebidd().comment());
+				Reflect.setField(taskObj, 'notes', new Rebidd().note());
+				// // export
+				// // /v1/task/property/{id}
+				// DummyData.saveTextFile(Json.stringify(taskObj, null, '\t'), '${propertyTasksPath}/${property_id}.json');
+				// // export only one `.ts`/`.hx`
+				// if (i == 0) {
+				// 	// haxe typedef
+				// 	var hxjsondef = new HaxeJsonDef();
+				// 	var str = hxjsondef.convert(Json.stringify(taskObj), 'Task');
+				// 	DummyData.saveTextFile(str, '${convertHxPath}/Task.hx');
+				// 	// typescript typedef
+				// 	var tsjsondef = new TypescriptJsonDef();
+				// 	var str = tsjsondef.convert(Json.stringify(taskObj), 'Task');
+				// 	DummyData.saveTextFile(str, '${convertTsPath}/task.d.ts');
+				// }
+
+				tasksArr2.push(taskObj);
+			}
 			// export
 			// /v1/task/property/{id}
-			DummyData.saveTextFile(Json.stringify(taskObj, null, '\t'), '${propertyTasksPath}/${property_id}.json');
+			DummyData.saveTextFile(Json.stringify(tasksArr2, null, '\t'), '${propertyTasksPath}/${property_id}.json');
 			// export only one `.ts`/`.hx`
 			if (i == 0) {
 				// haxe typedef
 				var hxjsondef = new HaxeJsonDef();
-				var str = hxjsondef.convert(Json.stringify(taskObj), 'Task');
+				var str = hxjsondef.convert(Json.stringify(tasksArr2), 'Task');
 				DummyData.saveTextFile(str, '${convertHxPath}/Task.hx');
 				// typescript typedef
 				var tsjsondef = new TypescriptJsonDef();
-				var str = tsjsondef.convert(Json.stringify(taskObj), 'Task');
+				var str = tsjsondef.convert(Json.stringify(tasksArr2), 'Task');
 				DummyData.saveTextFile(str, '${convertTsPath}/task.d.ts');
 			}
 
@@ -194,7 +214,7 @@ class MainRebidd {
 			// export
 			// DummyData.saveTextFile(Json.stringify(property_detailsObj, null, '\t'), '${propertyDetailsPath}/${property_id}.json');
 
-			tasksArr.push(taskObj);
+			// tasksArr.push(taskObj);
 
 			// Notification
 			var notificationObj = {};
