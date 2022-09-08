@@ -8,9 +8,10 @@ using StringTools;
 
 class TypescriptJsonDef {
 	public static var NAME:String = "TypescriptJsonDef";
-	public static var VERSION:String = "0.1.1";
+	public static var VERSION:String = "0.1.2";
 
 	/**
+	 * 0.1.2 - add documenation to the interfaces
 	 * 0.1.1 - fix dublicates in rootobjec
 	 * 0.1.0 - convert to typescript
 	 * // https://raw.githubusercontent.com/MatthijsKamstra/hxjsondef/master/src/Hxjsondef.hx
