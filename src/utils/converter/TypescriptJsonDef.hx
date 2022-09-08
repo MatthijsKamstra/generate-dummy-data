@@ -1,5 +1,7 @@
 package utils.converter;
 
+import haxe.Log;
+import haxe.Json;
 import utils.StringUtil.*;
 
 using StringTools;
@@ -33,6 +35,7 @@ class TypescriptJsonDef {
 	// private var path:String;
 	// private var fileName:String;
 	private var typeDefMap:Map<String, Array<String>> = new Map<String, Array<String>>();
+	private var typeObjMap:Map<String, Array<Dynamic>> = new Map<String, Array<Dynamic>>();
 
 	public function new() {}
 
@@ -48,15 +51,27 @@ class TypescriptJsonDef {
 		// [mck] reset defaults
 		str = '';
 		typeDefMap = new Map<String, Array<String>>();
+		typeObjMap = new Map<String, Array<Dynamic>>();
 
 		content = content.replace('\n', '');
 
 		// [mck] start everything from here
 		convert2Typedef('${capString(name)}Obj', content);
 
-		// [mck] create the content for the .hx file
+		// [mck] create the content for the .ts file
 		for (key in typeDefMap.keys()) {
 			var arr = typeDefMap.get(key);
+			var obj = typeObjMap.get(key);
+			// trace('-------> obj: ' + obj);
+			if (Json.stringify(obj).split('').length <= 500) {
+				str += '\n/**\n${Json.stringify(obj, null, '  ')}\n*/';
+			} else {
+				if (key == '${fileName}Obj') {
+					str += '\n/**\n* Root 👈\n*/';
+				} else {
+					str += '\n/**\n* ⚠️ Here be dragons\n*/';
+				}
+			}
 			str += '\nexport interface ${key} {\n';
 			for (i in 0...arr.length) {
 				str += '${arr[i]}\n';
@@ -71,6 +86,11 @@ class TypescriptJsonDef {
 
 	function convert2Typedef(typeName:String, pjson:String) {
 		typeDefMap.set(typeName, []);
+
+		// objects are interesting for documentation
+		typeObjMap.set(typeName, Json.parse(pjson));
+		// trace('---> varName: ' + varName);
+		// trace('---> pjson: ' + pjson);
 
 		readJson(typeName, haxe.Json.parse(pjson));
 	}
@@ -88,6 +108,7 @@ class TypescriptJsonDef {
 		for (varName in Reflect.fields(pjson)) {
 			var store = '';
 			var c = '';
+
 			if (isComment)
 				c = ' // ${varName}:${Reflect.field(pjson, varName)}';
 
