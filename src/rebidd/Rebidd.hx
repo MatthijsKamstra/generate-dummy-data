@@ -59,12 +59,12 @@ class Rebidd {
 		return PaymentStatus.get();
 	}
 
-	public function propertyDetails() {
-		return Property.details();
+	public function propertyDetails(id:String, val:String) {
+		return Property.details(id, val);
 	}
 
-	public function propertyFeatures() {
-		return Property.features();
+	public function propertyFeatures(id:String) {
+		return Property.features(id);
 	}
 
 	public function propertyMedia() {

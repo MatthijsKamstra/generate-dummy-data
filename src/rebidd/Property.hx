@@ -19,38 +19,40 @@ class Property {
 		"https://picsum.photos/id/1059/300/200?index=7"
 	];
 
-	public static function details():Dynamic {
+	public static function details(id:String, title:String):Dynamic {
 		return {
-			"id": 1,
-			"minimumRent": '${MathUtil.randomInteger(100, 300)} Euros',
-			"capPrice": '${MathUtil.randomInteger(100, 1000)} Euros',
-			"tenants": "Currently tenanted",
+			"id": id,
+			"minimumRent": ${MathUtil.randomInteger(100, 300)},
+			"capPrice": ${MathUtil.randomInteger(100, 1000)},
+			"tenants": "*Currently tenanted",
 			"contractDuration": '${MathUtil.randomInteger(1, 12)} Month',
 			"type": typeArr[Math.floor(Math.random() * typeArr.length)],
-			"streetAddress": "123 Fjord Avenue",
-			"zipcode": "15252",
-			"city": "Amsterdam",
-			"state": "Norther",
+			"streetAddress": "*123 Fjord Avenue",
+			"zipcode": "*15252",
+			"city": "*Amsterdam",
+			"state": "*Norther",
+			"country": "*Netherlands",
+			"availableFromDate": "2022-08-28",
 			"location": locationArr[Math.floor(Math.random() * locationArr.length)],
-			"description": new Lorem().description(4)
+			"description": new Lorem().description(20)
 		};
 	}
 
-	public static function features():Dynamic {
+	public static function features(id:String):Dynamic {
 		return {
-			"id": 1,
-			"livingArea": ${MathUtil.randomInteger(20, 100)},
-			"plotArea": ${MathUtil.randomInteger(100, 200)},
-			"noOfRooms": ${MathUtil.randomInteger(1, 5)},
-			"noOfFloors": ${MathUtil.randomInteger(1, 3)},
-			"noOfBedrooms": ${MathUtil.randomInteger(1, 3)},
-			"noOfBathrooms": "4",
+			"id": id,
+			"livingArea": '${MathUtil.randomInteger(20, 100)}',
+			"plotArea": '${MathUtil.randomInteger(100, 200)}',
+			"noOfRooms": '${MathUtil.randomInteger(1, 5)}',
+			"noOfFloors": '${MathUtil.randomInteger(1, 3)}',
+			"noOfBedrooms": '${MathUtil.randomInteger(1, 3)}',
+			"noOfBathrooms": '${MathUtil.randomInteger(1, 3)}',
 			"constructionType": "Existing Building",
 			"constructionYear": "1906-1930",
-			"finalRentalAmount": "1000 Euros",
-			"depositAmount": "1 x Monthly Rent",
-			"minimumIncomePerYear": "43000 Euros",
-			"serviceCharge": "200 Cows",
+			"finalRentalAmount": '${MathUtil.randomInteger(1000, 3000)}',
+			"depositAmount": "*1 x Monthly Rent",
+			"minimumIncomePerYear": '${MathUtil.randomInteger(1000, 3000)}',
+			"serviceCharge": '${MathUtil.randomInteger(100, 300)}',
 			"televisionAndInternet": "Included",
 			"utilities": "Included",
 			"bathroomAmenities": "Double sinks, Bathtub",

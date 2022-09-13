@@ -158,7 +158,8 @@ class MainRebidd {
 
 			// CREATE PROPERTY OVERVIEW DATA
 			var property_overviewObj = {};
-			Reflect.setField(property_overviewObj, 'id', UUID.uuid());
+			var __id = UUID.uuid();
+			Reflect.setField(property_overviewObj, 'id', __id);
 			Reflect.setField(property_overviewObj, 'title', property_title);
 			Reflect.setField(property_overviewObj, 'userDTO', new Rebidd().user());
 			Reflect.setField(property_overviewObj, 'teamDTO', new Rebidd().team());
@@ -168,8 +169,8 @@ class MainRebidd {
 			Reflect.setField(property_overviewObj, 'paymentStatus', new Rebidd().paymentStatus());
 			Reflect.setField(property_overviewObj, 'phase', property_phase);
 			Reflect.setField(property_overviewObj, 'priority', property_priority);
-			Reflect.setField(property_overviewObj, 'propertyDetails', new Rebidd().propertyDetails());
-			Reflect.setField(property_overviewObj, 'propertyFeatures', new Rebidd().propertyFeatures());
+			Reflect.setField(property_overviewObj, 'propertyDetails', new Rebidd().propertyDetails(__id, property_title));
+			Reflect.setField(property_overviewObj, 'propertyFeatures', new Rebidd().propertyFeatures(__id));
 			Reflect.setField(property_overviewObj, 'propertyMedia', new Rebidd().propertyMedia());
 			Reflect.setField(property_overviewObj, 'propertyDocuments', new Rebidd().propertyDocuments());
 			Reflect.setField(property_overviewObj, 'comments', new Rebidd().comment());
