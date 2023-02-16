@@ -1,11 +1,18 @@
 package utils.converter;
 
-import haxe.Log;
 import haxe.Json;
-import utils.StringUtil.*;
 
 using StringTools;
 
+/**
+ * @example
+ * ```
+ * 		// typescript typedef
+ *		var tsjsondef = new TypescriptJsonDef();
+ *		var str = tsjsondef.convert(Json.stringify(tasksArr), 'TaskOverview');
+ *		DummyData.saveTextFile(str, '${convertTsPath}/taskOverview.d.ts');
+ * ```
+ */
 class TypescriptJsonDef {
 	public static var NAME:String = "TypescriptJsonDef";
 	public static var VERSION:String = "0.1.2";

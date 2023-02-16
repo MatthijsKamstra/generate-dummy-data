@@ -31,7 +31,12 @@
 # -main MainWhisky
 # --interp
 
+# -cp src
+# -D analyzer-optimize
+# -main MainRebidd
+# --interp
+
 -cp src
 -D analyzer-optimize
--main MainRebidd
+-main MainRawGenius
 --interp
