@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-71fb-41c9-8e86-8d5fe8a07452",
+	"uuid": "5fdfa9f8-3313-48ac-ac1a-5230f003e912",
 	"bio": {
-		"name": "Martin",
-		"surname": "De Boer",
-		"uuid": "5fd26f40-201b-4f13-b8c8-7726a71f0ea1",
-		"bio": "Voluptatem sed sit reprehenderit qui.",
+		"name": "Alysa",
+		"surname": "De Vries",
+		"uuid": "5fdfa9f8-1c2e-4d07-9c82-65dba2e4e605",
+		"bio": "Et adipisci veniam repellat molestias occaecati ipsum voluptatem qui explicabo aut molestiae sed maiores quis culpa maiores deleniti at earum placeat ut qui tempora quis harum quod aut enim in sed et aut ex rerum sit qui aperiam ipsum vero fuga labore sit eum aspernatur quo sunt et velit possimus ut aperiam dolorem impedit dolores ut esse optio atque iusto.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/alysa_de_vries",
+			"github": "https://github.com/alysa_de_vries",
+			"instagram": "https://www.instagram.com/alysa_de_vries",
+			"twitter": "https://twitter.com/alysa_de_vries"
+		},
 		"id": "3-5",
 		"image": {
-			"banner": "https://picsum.photos/seed/martin_de_boer/400/200",
-			"thumb": "https://picsum.photos/seed/martin_de_boer/200/200",
-			"large": "https://picsum.photos/seed/martin_de_boer/800/400"
+			"banner": "https://picsum.photos/seed/alysa_de_vries/400/200",
+			"thumb": "https://picsum.photos/seed/alysa_de_vries/200/200",
+			"large": "https://picsum.photos/seed/alysa_de_vries/800/400"
 		}
 	},
 	"id": "3-5",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

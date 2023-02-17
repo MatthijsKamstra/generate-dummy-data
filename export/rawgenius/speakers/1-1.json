@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-0231-4fa1-8d0f-3970fd295ad7",
+	"uuid": "5fdfa9f8-175e-41b6-92ef-e9ab44559e96",
 	"bio": {
-		"name": "Angle",
-		"surname": "Dekker",
-		"uuid": "5fd26f40-b9fe-43d0-b73d-d1b07fb55a52",
-		"bio": "Similique modi eligendi aliquam vero.",
+		"name": "Shaina",
+		"surname": "Bos",
+		"uuid": "5fdfa9f8-518f-4b5e-9e44-bef087dac035",
+		"bio": "Placeat impedit quia ad enim atque doloremque vero aut fugit libero iure architecto possimus laudantium quibusdam non repellendus id est vitae doloremque et voluptas aliquam aut ea id mollitia quisquam est voluptatibus ipsa officiis itaque sed quod aliquid et cum voluptatem et sit unde et molestiae est nostrum est deserunt repudiandae voluptatem fuga accusantium dolorem eligendi dolorum laudantium quia rem.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/shaina_bos",
+			"github": "https://github.com/shaina_bos",
+			"instagram": "https://www.instagram.com/shaina_bos",
+			"twitter": "https://twitter.com/shaina_bos"
+		},
 		"id": "1-1",
 		"image": {
-			"banner": "https://picsum.photos/seed/angle_dekker/400/200",
-			"thumb": "https://picsum.photos/seed/angle_dekker/200/200",
-			"large": "https://picsum.photos/seed/angle_dekker/800/400"
+			"banner": "https://picsum.photos/seed/shaina_bos/400/200",
+			"thumb": "https://picsum.photos/seed/shaina_bos/200/200",
+			"large": "https://picsum.photos/seed/shaina_bos/800/400"
 		}
 	},
 	"id": "1-1",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

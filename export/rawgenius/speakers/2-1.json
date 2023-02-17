@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-8928-47b4-9354-c3cd26ceee73",
+	"uuid": "5fdfa9f8-91fe-4681-a499-7c71d99bf3f1",
 	"bio": {
-		"name": "Martin",
-		"surname": "Dekker",
-		"uuid": "5fd26f40-ff64-4fe4-90b2-5bfd0543ac3f",
-		"bio": "Asperiores in recusandae velit est.",
+		"name": "Angle",
+		"surname": "De Boer",
+		"uuid": "5fdfa9f8-e4cd-4fe4-ad19-ed06ebf8eb89",
+		"bio": "Eligendi velit voluptatem harum sapiente cum voluptatem dolorem rerum eveniet eos voluptatem et magnam est voluptas placeat sit hic facere est esse dolore voluptatem corrupti sint rerum odit deleniti voluptatum aliquam optio sequi rem similique pariatur totam rem voluptas quia inventore enim veniam beatae fugiat eveniet inventore voluptates porro sed sit magni et sequi ea sint sapiente voluptatem et omnis.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/angle_de_boer",
+			"github": "https://github.com/angle_de_boer",
+			"instagram": "https://www.instagram.com/angle_de_boer",
+			"twitter": "https://twitter.com/angle_de_boer"
+		},
 		"id": "2-1",
 		"image": {
-			"banner": "https://picsum.photos/seed/martin_dekker/400/200",
-			"thumb": "https://picsum.photos/seed/martin_dekker/200/200",
-			"large": "https://picsum.photos/seed/martin_dekker/800/400"
+			"banner": "https://picsum.photos/seed/angle_de_boer/400/200",
+			"thumb": "https://picsum.photos/seed/angle_de_boer/200/200",
+			"large": "https://picsum.photos/seed/angle_de_boer/800/400"
 		}
 	},
 	"id": "2-1",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-eb26-473a-b677-e56365e2cc2a",
+	"uuid": "5fdfa9f8-51c6-4398-bc0c-ba3a7f5794e8",
 	"bio": {
-		"name": "Shaina",
-		"surname": "De Vries",
-		"uuid": "5fd26f40-93fa-4418-b900-e9fceedb2107",
-		"bio": "Optio non sint aliquid commodi sunt eum.",
+		"name": "Elina",
+		"surname": "Smit",
+		"uuid": "5fdfa9f8-436c-4100-8363-d47af67b6049",
+		"bio": "Et quaerat hic aut ullam aut dolorem rerum tempore sed modi excepturi rerum culpa eaque est sunt quidem numquam expedita aut quos quae et vitae dolorum repellat qui necessitatibus rem quam praesentium voluptatem ea fuga id eum dolorem minima recusandae sed fugit libero rem et sint qui laudantium quis aliquam ipsa qui occaecati facilis aliquid quia mollitia rem pariatur reiciendis.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/elina_smit",
+			"github": "https://github.com/elina_smit",
+			"instagram": "https://www.instagram.com/elina_smit",
+			"twitter": "https://twitter.com/elina_smit"
+		},
 		"id": "2-2",
 		"image": {
-			"banner": "https://picsum.photos/seed/shaina_de_vries/400/200",
-			"thumb": "https://picsum.photos/seed/shaina_de_vries/200/200",
-			"large": "https://picsum.photos/seed/shaina_de_vries/800/400"
+			"banner": "https://picsum.photos/seed/elina_smit/400/200",
+			"thumb": "https://picsum.photos/seed/elina_smit/200/200",
+			"large": "https://picsum.photos/seed/elina_smit/800/400"
 		}
 	},
 	"id": "2-2",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

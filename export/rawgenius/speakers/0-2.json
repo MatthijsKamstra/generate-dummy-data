@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-b0cb-42c5-bdeb-b9073016e0ab",
+	"uuid": "5fdfa9f8-069f-4587-9e36-6211cb8c1eb6",
 	"bio": {
-		"name": "Chantell",
-		"surname": "Hendriks",
-		"uuid": "5fd26f40-cbe5-478b-8e63-19d762779e21",
-		"bio": "Quia soluta dolor voluptatum ea.",
+		"name": "Jarrod",
+		"surname": "Bakker",
+		"uuid": "5fdfa9f8-a7a6-4ceb-932f-11c7cce623eb",
+		"bio": "Id repellendus quam hic qui earum numquam illo asperiores odit excepturi quia mollitia aperiam dolores deleniti harum facilis et dolor doloribus voluptatum distinctio ut autem cum et nulla sed in voluptatem non magnam at sapiente doloremque maiores consequatur omnis amet iure qui voluptatem aut et minima inventore placeat illum iste voluptas quia suscipit sapiente in assumenda veritatis rerum amet dolorum.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/jarrod_bakker",
+			"github": "https://github.com/jarrod_bakker",
+			"instagram": "https://www.instagram.com/jarrod_bakker",
+			"twitter": "https://twitter.com/jarrod_bakker"
+		},
 		"id": "0-2",
 		"image": {
-			"banner": "https://picsum.photos/seed/chantell_hendriks/400/200",
-			"thumb": "https://picsum.photos/seed/chantell_hendriks/200/200",
-			"large": "https://picsum.photos/seed/chantell_hendriks/800/400"
+			"banner": "https://picsum.photos/seed/jarrod_bakker/400/200",
+			"thumb": "https://picsum.photos/seed/jarrod_bakker/200/200",
+			"large": "https://picsum.photos/seed/jarrod_bakker/800/400"
 		}
 	},
 	"id": "0-2",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

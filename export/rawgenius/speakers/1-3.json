@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-585b-4b35-b1b0-8f9db80d0268",
+	"uuid": "5fdfa9f8-ff6d-4e2e-a305-95fdc1929dfd",
 	"bio": {
-		"name": "Jeff",
-		"surname": "Dijkstra",
-		"uuid": "5fd26f40-9aae-4bfd-9a9a-38479b598f38",
-		"bio": "Eligendi quae quia.",
+		"name": "Elina",
+		"surname": "Brouwer",
+		"uuid": "5fdfa9f8-9940-4483-bb5b-69fdd7c31577",
+		"bio": "Et omnis ab vero nobis est ut eos explicabo at accusantium aut laborum nulla tempore similique id ut voluptatem omnis et enim quae non rerum dolorem aut fugiat minus incidunt ipsa molestiae suscipit tempora ratione vitae ratione cumque alias aut ratione rerum voluptatum eum delectus saepe iste sequi sed unde sed dignissimos aut asperiores qui odio ea sunt ratione aliquam.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/elina_brouwer",
+			"github": "https://github.com/elina_brouwer",
+			"instagram": "https://www.instagram.com/elina_brouwer",
+			"twitter": "https://twitter.com/elina_brouwer"
+		},
 		"id": "1-3",
 		"image": {
-			"banner": "https://picsum.photos/seed/jeff_dijkstra/400/200",
-			"thumb": "https://picsum.photos/seed/jeff_dijkstra/200/200",
-			"large": "https://picsum.photos/seed/jeff_dijkstra/800/400"
+			"banner": "https://picsum.photos/seed/elina_brouwer/400/200",
+			"thumb": "https://picsum.photos/seed/elina_brouwer/200/200",
+			"large": "https://picsum.photos/seed/elina_brouwer/800/400"
 		}
 	},
 	"id": "1-3",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

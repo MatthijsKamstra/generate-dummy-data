@@ -20,13 +20,15 @@ class Tag {
 	}
 
 	public static function getRandomSet():Array<String> {
-		var temp = [];
+		var setArr = [];
 		var total = Math.floor(Math.random() * arr.length);
 		for (i in 0...total) {
-			temp.push(Tag.get());
+			var tag = Tag.get();
+			if (setArr.indexOf(tag) == -1)
+				setArr.push(tag);
 		}
 
-		return temp;
+		return setArr;
 	}
 
 	public static function getAll() {

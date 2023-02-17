@@ -44,7 +44,15 @@ class User {
 	public static function getBio(i:Int, j:Int, speaker:SpeakerInfo):Dynamic {
 		var json = Json.parse(Json.stringify(speaker));
 
-		Reflect.setProperty(json, 'bio', new Lorem().description());
+		var userName = '${speaker.name}_${speaker.surname}'.replace(' ', '_').toLowerCase();
+
+		Reflect.setProperty(json, 'bio', new Lorem().description(60));
+		Reflect.setProperty(json, 'socials', {
+			'twitter': 'https://twitter.com/${userName}',
+			'github': 'https://github.com/${userName}',
+			'instagram': 'https://www.instagram.com/${userName}',
+			'linkedin': 'https://www.linkedin.com/in/${userName}'
+		});
 
 		return json;
 	}

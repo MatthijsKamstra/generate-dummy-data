@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-16f7-4d96-a335-a9a81dc07132",
+	"uuid": "5fdfa9f8-5d50-4e26-ae5f-683317448715",
 	"bio": {
-		"name": "Deonna",
-		"surname": "Smits",
-		"uuid": "5fd26f40-117a-49a5-bb1e-d1a36e7f4c3c",
-		"bio": "Quis deserunt quae minima provident quos illo.",
+		"name": "Shaina",
+		"surname": "De Graaf",
+		"uuid": "5fdfa9f8-392f-4682-b38e-8310dd455ff0",
+		"bio": "Et qui cupiditate voluptas error vero consequatur reiciendis vero nihil minus possimus aspernatur maxime facilis ut laborum nihil quas rerum hic quo quae commodi ut ea et nihil quisquam sunt veritatis sed dolor itaque delectus animi quis beatae mollitia magnam aliquid fugiat cum harum in necessitatibus aut quod aliquam occaecati culpa accusamus ab culpa et culpa dolore qui ipsam dicta.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/shaina_de_graaf",
+			"github": "https://github.com/shaina_de_graaf",
+			"instagram": "https://www.instagram.com/shaina_de_graaf",
+			"twitter": "https://twitter.com/shaina_de_graaf"
+		},
 		"id": "1-4",
 		"image": {
-			"banner": "https://picsum.photos/seed/deonna_smits/400/200",
-			"thumb": "https://picsum.photos/seed/deonna_smits/200/200",
-			"large": "https://picsum.photos/seed/deonna_smits/800/400"
+			"banner": "https://picsum.photos/seed/shaina_de_graaf/400/200",
+			"thumb": "https://picsum.photos/seed/shaina_de_graaf/200/200",
+			"large": "https://picsum.photos/seed/shaina_de_graaf/800/400"
 		}
 	},
 	"id": "1-4",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

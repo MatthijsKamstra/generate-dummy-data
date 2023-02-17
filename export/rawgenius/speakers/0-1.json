@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-5cb2-4f8f-8012-8c9cc5559a55",
+	"uuid": "5fdfa9f8-f45c-4cb1-8282-fa9a56b5741e",
 	"bio": {
-		"name": "Diedre",
-		"surname": "De Wit",
-		"uuid": "5fd26f40-302e-4ef0-b3e8-84e0a5172400",
-		"bio": "Maxime et enim.",
+		"name": "Zane",
+		"surname": "Janssen",
+		"uuid": "5fdfa9f8-79f4-4bb1-ab10-0af0b2fdc4cb",
+		"bio": "Iure voluptatem ex itaque veritatis ea a et consequuntur incidunt at iure unde aut ipsa repellendus fugit provident itaque ducimus aliquam illum voluptas repellendus tempora rerum velit et illo ratione possimus vitae unde modi sed pariatur voluptatum incidunt molestiae velit aliquam occaecati quia molestiae dolor incidunt rem ad aliquam aliquam optio iste beatae ea voluptatem magni distinctio ab impedit error.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/zane_janssen",
+			"github": "https://github.com/zane_janssen",
+			"instagram": "https://www.instagram.com/zane_janssen",
+			"twitter": "https://twitter.com/zane_janssen"
+		},
 		"id": "0-1",
 		"image": {
-			"banner": "https://picsum.photos/seed/diedre_de_wit/400/200",
-			"thumb": "https://picsum.photos/seed/diedre_de_wit/200/200",
-			"large": "https://picsum.photos/seed/diedre_de_wit/800/400"
+			"banner": "https://picsum.photos/seed/zane_janssen/400/200",
+			"thumb": "https://picsum.photos/seed/zane_janssen/200/200",
+			"large": "https://picsum.photos/seed/zane_janssen/800/400"
 		}
 	},
 	"id": "0-1",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-1411-4ae0-bfcc-d6f66caead93",
+	"uuid": "5fdfa9f8-a347-4153-b3e5-d9915fd2eb6f",
 	"bio": {
-		"name": "Corazon",
-		"surname": "Janssen",
-		"uuid": "5fd26f40-5b82-490d-9df0-d60a0f9ad2fa",
-		"bio": "Inventore eius maxime quam ipsa quis eos et id.",
+		"name": "Kortney",
+		"surname": "Bakker",
+		"uuid": "5fdfa9f8-d580-4694-b041-93ed20a7f179",
+		"bio": "Quaerat perspiciatis corrupti explicabo ipsam commodi velit aut sit non aut quidem blanditiis deleniti reiciendis illum et ut culpa molestiae voluptatem voluptas tempore voluptatem voluptas enim aliquam quis perferendis atque aspernatur autem repellat et accusantium culpa maxime magni eum quis expedita aut accusantium accusamus et molestiae a aperiam ut fugit porro laboriosam amet vel sint odio est numquam fuga quidem.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/kortney_bakker",
+			"github": "https://github.com/kortney_bakker",
+			"instagram": "https://www.instagram.com/kortney_bakker",
+			"twitter": "https://twitter.com/kortney_bakker"
+		},
 		"id": "2-4",
 		"image": {
-			"banner": "https://picsum.photos/seed/corazon_janssen/400/200",
-			"thumb": "https://picsum.photos/seed/corazon_janssen/200/200",
-			"large": "https://picsum.photos/seed/corazon_janssen/800/400"
+			"banner": "https://picsum.photos/seed/kortney_bakker/400/200",
+			"thumb": "https://picsum.photos/seed/kortney_bakker/200/200",
+			"large": "https://picsum.photos/seed/kortney_bakker/800/400"
 		}
 	},
 	"id": "2-4",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

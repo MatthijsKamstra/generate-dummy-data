@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-928c-4e49-96ef-5da7fbc991ad",
+	"uuid": "5fdfa9f8-d870-4c32-99cd-c773df68b9da",
 	"bio": {
-		"name": "Kortney",
+		"name": "Diedre",
 		"surname": "Janssen",
-		"uuid": "5fd26f40-f8a8-446c-875e-4c0ee24d6ce0",
-		"bio": "Ut eveniet et voluptatibus velit non.",
+		"uuid": "5fdfa9f8-1c2b-400a-abe4-c0fc5025282c",
+		"bio": "Incidunt possimus id magnam id eos id libero rerum aperiam sit rerum sunt ab vel voluptas aut est dolorem aliquam minima nesciunt consequatur blanditiis dicta quo inventore distinctio nulla quas est molestiae sunt animi dolores perferendis voluptas excepturi odit ut veniam consequatur molestiae quos sapiente nobis quis cumque porro voluptatibus et neque et reprehenderit fugit assumenda vitae necessitatibus nesciunt et.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/diedre_janssen",
+			"github": "https://github.com/diedre_janssen",
+			"instagram": "https://www.instagram.com/diedre_janssen",
+			"twitter": "https://twitter.com/diedre_janssen"
+		},
 		"id": "0-3",
 		"image": {
-			"banner": "https://picsum.photos/seed/kortney_janssen/400/200",
-			"thumb": "https://picsum.photos/seed/kortney_janssen/200/200",
-			"large": "https://picsum.photos/seed/kortney_janssen/800/400"
+			"banner": "https://picsum.photos/seed/diedre_janssen/400/200",
+			"thumb": "https://picsum.photos/seed/diedre_janssen/200/200",
+			"large": "https://picsum.photos/seed/diedre_janssen/800/400"
 		}
 	},
 	"id": "0-3",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

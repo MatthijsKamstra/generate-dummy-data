@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-4b91-4803-89ec-baaed0d21881",
+	"uuid": "5fdfa9f8-2ce7-46a8-bf14-dde2c3ce0c96",
 	"bio": {
-		"name": "Queenie",
-		"surname": "Van der Meer",
-		"uuid": "5fd26f40-ab3b-4f42-9bbc-058cc8f2149b",
-		"bio": "Sequi nulla impedit ipsum non corrupti officiis eum eos porro.",
+		"name": "Zane",
+		"surname": "De Vries",
+		"uuid": "5fdfa9f8-8b22-40b5-9cb8-bbd495daa815",
+		"bio": "Aut minus rem qui inventore et eligendi adipisci dolorum eligendi provident voluptas ducimus et blanditiis beatae ad eveniet id pariatur praesentium nostrum rerum aperiam est et error blanditiis est in nulla veniam et omnis officia omnis tempora quia voluptas occaecati voluptatem ipsa autem nam reprehenderit repellat illo aliquid et quia deleniti laboriosam nobis tempore nostrum vel ut earum omnis saepe.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/zane_de_vries",
+			"github": "https://github.com/zane_de_vries",
+			"instagram": "https://www.instagram.com/zane_de_vries",
+			"twitter": "https://twitter.com/zane_de_vries"
+		},
 		"id": "3-1",
 		"image": {
-			"banner": "https://picsum.photos/seed/queenie_van_der_meer/400/200",
-			"thumb": "https://picsum.photos/seed/queenie_van_der_meer/200/200",
-			"large": "https://picsum.photos/seed/queenie_van_der_meer/800/400"
+			"banner": "https://picsum.photos/seed/zane_de_vries/400/200",
+			"thumb": "https://picsum.photos/seed/zane_de_vries/200/200",
+			"large": "https://picsum.photos/seed/zane_de_vries/800/400"
 		}
 	},
 	"id": "3-1",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

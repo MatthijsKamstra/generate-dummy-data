@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-6283-449f-a8df-3d9382aaab4a",
+	"uuid": "5fdfa9f8-d684-4e30-896f-82e63c4124ce",
 	"bio": {
-		"name": "Latrice",
-		"surname": "Hendriks",
-		"uuid": "5fd26f40-2f57-451b-8983-71612b905068",
-		"bio": "Quia temporibus iure numquam placeat illum ab voluptatem unde in.",
+		"name": "Deonna",
+		"surname": "Brouwer",
+		"uuid": "5fdfa9f8-53c9-481f-8296-c22659b39386",
+		"bio": "Molestias minima dolor consequatur neque error qui adipisci voluptate dolorem vel perspiciatis voluptate qui autem in numquam voluptates id voluptas beatae sed non omnis voluptatem dicta aut nihil dolores nostrum hic qui eum consequatur laboriosam suscipit et exercitationem fugiat voluptas quas cupiditate et aut aut natus aut laborum ut qui fuga qui est quasi vel consequatur ipsa modi eos omnis.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/deonna_brouwer",
+			"github": "https://github.com/deonna_brouwer",
+			"instagram": "https://www.instagram.com/deonna_brouwer",
+			"twitter": "https://twitter.com/deonna_brouwer"
+		},
 		"id": "0-4",
 		"image": {
-			"banner": "https://picsum.photos/seed/latrice_hendriks/400/200",
-			"thumb": "https://picsum.photos/seed/latrice_hendriks/200/200",
-			"large": "https://picsum.photos/seed/latrice_hendriks/800/400"
+			"banner": "https://picsum.photos/seed/deonna_brouwer/400/200",
+			"thumb": "https://picsum.photos/seed/deonna_brouwer/200/200",
+			"large": "https://picsum.photos/seed/deonna_brouwer/800/400"
 		}
 	},
 	"id": "0-4",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

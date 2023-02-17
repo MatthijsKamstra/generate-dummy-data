@@ -1,5 +1,5 @@
 /**
- * Generated with TypescriptJsonDef (version 0.1.2) on 2023-02-17 15:41:12
+ * Generated with TypescriptJsonDef (version 0.1.2) on 2023-02-17 15:55:39
  * from: ISchedule
  * 
  * AST = Abstract Syntax Tree
@@ -42,14 +42,14 @@ export interface Time {
 
 /**
 {
-  "name": "Chantell",
-  "surname": "Van Dijk",
-  "uuid": "5fd26f40-2826-499a-b520-6f9deeca97d1",
+  "name": "Kortney",
+  "surname": "Dijkstra",
+  "uuid": "5fdfa9f8-0b3f-47b3-bb82-87004b99270b",
   "id": "0-0",
   "image": {
-    "banner": "https://picsum.photos/seed/chantell_van_dijk/400/200",
-    "thumb": "https://picsum.photos/seed/chantell_van_dijk/200/200",
-    "large": "https://picsum.photos/seed/chantell_van_dijk/800/400"
+    "banner": "https://picsum.photos/seed/kortney_dijkstra/400/200",
+    "thumb": "https://picsum.photos/seed/kortney_dijkstra/200/200",
+    "large": "https://picsum.photos/seed/kortney_dijkstra/800/400"
   }
 }
 */
@@ -91,9 +91,9 @@ export interface Rooms {
 
 /**
 {
-  "banner": "https://picsum.photos/seed/chantell_van_dijk/400/200",
-  "thumb": "https://picsum.photos/seed/chantell_van_dijk/200/200",
-  "large": "https://picsum.photos/seed/chantell_van_dijk/800/400"
+  "banner": "https://picsum.photos/seed/kortney_dijkstra/400/200",
+  "thumb": "https://picsum.photos/seed/kortney_dijkstra/200/200",
+  "large": "https://picsum.photos/seed/kortney_dijkstra/800/400"
 }
 */
 export interface Image {

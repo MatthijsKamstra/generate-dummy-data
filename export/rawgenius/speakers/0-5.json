@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-9a2a-4ccd-8b3b-93f52a5cbc8b",
+	"uuid": "5fdfa9f8-3b87-4092-a121-f6c92f33c818",
 	"bio": {
-		"name": "Zulma",
-		"surname": "Van der Meer",
-		"uuid": "5fd26f40-b6e5-4983-806b-2c55199ef4ec",
-		"bio": "Ea eaque rerum et rem excepturi.",
+		"name": "Ingeborg",
+		"surname": "De Jong",
+		"uuid": "5fdfa9f8-2bbf-44bc-9aad-3994a8b50668",
+		"bio": "Aspernatur eum vel veritatis dolor est qui blanditiis officiis aspernatur delectus exercitationem praesentium nihil laboriosam nam blanditiis dolorem ex molestias non ab tempora eum omnis sunt in incidunt aperiam quia aperiam occaecati odio iusto sed deserunt aut aliquam facilis asperiores eos ad sed laudantium sit reiciendis facilis nihil ipsa eum dolorem quaerat sunt vel veniam molestiae porro voluptate magnam rerum.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/ingeborg_de_jong",
+			"github": "https://github.com/ingeborg_de_jong",
+			"instagram": "https://www.instagram.com/ingeborg_de_jong",
+			"twitter": "https://twitter.com/ingeborg_de_jong"
+		},
 		"id": "0-5",
 		"image": {
-			"banner": "https://picsum.photos/seed/zulma_van_der_meer/400/200",
-			"thumb": "https://picsum.photos/seed/zulma_van_der_meer/200/200",
-			"large": "https://picsum.photos/seed/zulma_van_der_meer/800/400"
+			"banner": "https://picsum.photos/seed/ingeborg_de_jong/400/200",
+			"thumb": "https://picsum.photos/seed/ingeborg_de_jong/200/200",
+			"large": "https://picsum.photos/seed/ingeborg_de_jong/800/400"
 		}
 	},
 	"id": "0-5",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

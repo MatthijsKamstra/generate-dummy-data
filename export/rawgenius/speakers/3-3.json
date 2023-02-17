@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-2bcc-4981-bc70-2efd750a13bc",
+	"uuid": "5fdfa9f8-d046-4d86-b568-0ace688dbe26",
 	"bio": {
-		"name": "Slyvia",
-		"surname": "Van Dijk",
-		"uuid": "5fd26f40-e026-4d62-993d-20c96bec069e",
-		"bio": "Rerum qui est.",
+		"name": "Zane",
+		"surname": "Smits",
+		"uuid": "5fdfa9f8-9a92-4354-a470-f0df93cde1dc",
+		"bio": "Ut sunt tenetur harum inventore numquam officiis animi occaecati quas nostrum natus harum cumque dolores occaecati voluptatem illo minus esse eos consequuntur est non error consequatur minima alias ipsa adipisci alias et adipisci in possimus blanditiis ratione pariatur dignissimos perspiciatis nostrum omnis totam eos maxime velit occaecati sint porro consequatur quod sit natus ut odit aliquam illo magnam beatae unde.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/zane_smits",
+			"github": "https://github.com/zane_smits",
+			"instagram": "https://www.instagram.com/zane_smits",
+			"twitter": "https://twitter.com/zane_smits"
+		},
 		"id": "3-3",
 		"image": {
-			"banner": "https://picsum.photos/seed/slyvia_van_dijk/400/200",
-			"thumb": "https://picsum.photos/seed/slyvia_van_dijk/200/200",
-			"large": "https://picsum.photos/seed/slyvia_van_dijk/800/400"
+			"banner": "https://picsum.photos/seed/zane_smits/400/200",
+			"thumb": "https://picsum.photos/seed/zane_smits/200/200",
+			"large": "https://picsum.photos/seed/zane_smits/800/400"
 		}
 	},
 	"id": "3-3",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

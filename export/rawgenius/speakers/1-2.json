@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-ae70-4470-84b0-d745099bb981",
+	"uuid": "5fdfa9f8-451d-49de-90ac-5c5738f371d9",
 	"bio": {
-		"name": "Chantell",
-		"surname": "Smit",
-		"uuid": "5fd26f40-9c13-48ab-9d9b-7e69f2283473",
-		"bio": "In consequatur nulla dolores.",
+		"name": "Elina",
+		"surname": "Visser",
+		"uuid": "5fdfa9f8-9452-442b-8c04-7744f01bb0f8",
+		"bio": "Alias sunt similique velit natus dolorem impedit ab dolor voluptas eum recusandae necessitatibus qui ab itaque non incidunt repellendus laudantium quos sit nulla praesentium dolores modi a tempore ut esse quam hic quaerat voluptatibus ullam est voluptas dolores illum aut placeat qui facere possimus aperiam ullam ut ducimus est debitis ipsam soluta tenetur nihil adipisci repellendus accusamus dolores sit rerum.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/elina_visser",
+			"github": "https://github.com/elina_visser",
+			"instagram": "https://www.instagram.com/elina_visser",
+			"twitter": "https://twitter.com/elina_visser"
+		},
 		"id": "1-2",
 		"image": {
-			"banner": "https://picsum.photos/seed/chantell_smit/400/200",
-			"thumb": "https://picsum.photos/seed/chantell_smit/200/200",
-			"large": "https://picsum.photos/seed/chantell_smit/800/400"
+			"banner": "https://picsum.photos/seed/elina_visser/400/200",
+			"thumb": "https://picsum.photos/seed/elina_visser/200/200",
+			"large": "https://picsum.photos/seed/elina_visser/800/400"
 		}
 	},
 	"id": "1-2",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

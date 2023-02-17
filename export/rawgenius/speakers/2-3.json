@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-64f3-49b7-acd4-168f715613bb",
+	"uuid": "5fdfa9f8-7708-40cd-a5ac-65c23554ffa8",
 	"bio": {
-		"name": "Latrice",
-		"surname": "Visser",
-		"uuid": "5fd26f40-0419-43b9-9ff1-b42f8fd3ab4d",
-		"bio": "Error ratione qui eaque.",
+		"name": "Deonna",
+		"surname": "Dekker",
+		"uuid": "5fdfa9f8-36c9-4b05-9c6c-2de1e2880984",
+		"bio": "At neque quidem hic recusandae magni expedita sed a et beatae amet tempore nihil in necessitatibus maiores qui numquam sunt sed ducimus doloribus harum praesentium ad quia vel numquam ad debitis eligendi voluptatem delectus dolorum sed excepturi ad sit doloribus harum aspernatur in enim qui sit similique placeat quisquam deleniti enim at dicta molestiae voluptates expedita exercitationem deleniti omnis id.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/deonna_dekker",
+			"github": "https://github.com/deonna_dekker",
+			"instagram": "https://www.instagram.com/deonna_dekker",
+			"twitter": "https://twitter.com/deonna_dekker"
+		},
 		"id": "2-3",
 		"image": {
-			"banner": "https://picsum.photos/seed/latrice_visser/400/200",
-			"thumb": "https://picsum.photos/seed/latrice_visser/200/200",
-			"large": "https://picsum.photos/seed/latrice_visser/800/400"
+			"banner": "https://picsum.photos/seed/deonna_dekker/400/200",
+			"thumb": "https://picsum.photos/seed/deonna_dekker/200/200",
+			"large": "https://picsum.photos/seed/deonna_dekker/800/400"
 		}
 	},
 	"id": "2-3",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-c5de-473d-9c88-fa3e7b9eb289",
+	"uuid": "5fdfa9f8-ff7b-4e48-8b0d-7edce3066223",
 	"bio": {
-		"name": "Deonna",
-		"surname": "Dekker",
-		"uuid": "5fd26f40-3e65-4655-81b3-a751b37818ee",
-		"bio": "Earum animi magni laboriosam iure.",
+		"name": "Zulma",
+		"surname": "De Boer",
+		"uuid": "5fdfa9f8-9fbf-49a6-aad1-e07e88240871",
+		"bio": "Explicabo et veniam illum quidem quae ut aperiam quo recusandae quod a harum dolores vel doloribus minus voluptate eos laboriosam in aut aut molestias corporis atque rerum consequatur aut nulla voluptatem ipsa in incidunt enim sint dolor quos molestiae sequi accusamus molestias corporis incidunt quis vel voluptates quo quia praesentium quidem porro alias voluptate voluptatibus occaecati porro eos numquam quae.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/zulma_de_boer",
+			"github": "https://github.com/zulma_de_boer",
+			"instagram": "https://www.instagram.com/zulma_de_boer",
+			"twitter": "https://twitter.com/zulma_de_boer"
+		},
 		"id": "1-0",
 		"image": {
-			"banner": "https://picsum.photos/seed/deonna_dekker/400/200",
-			"thumb": "https://picsum.photos/seed/deonna_dekker/200/200",
-			"large": "https://picsum.photos/seed/deonna_dekker/800/400"
+			"banner": "https://picsum.photos/seed/zulma_de_boer/400/200",
+			"thumb": "https://picsum.photos/seed/zulma_de_boer/200/200",
+			"large": "https://picsum.photos/seed/zulma_de_boer/800/400"
 		}
 	},
 	"id": "1-0",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }

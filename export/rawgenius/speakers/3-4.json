@@ -1,17 +1,23 @@
 {
-	"uuid": "5fd26f40-81e7-4cf1-b012-cd3786a7b564",
+	"uuid": "5fdfa9f8-f329-4263-b8e1-abbdb109f8f2",
 	"bio": {
-		"name": "Chantell",
-		"surname": "Visser",
-		"uuid": "5fd26f40-4613-4eb8-8c5e-1f5d577eaa03",
-		"bio": "Officiis dolores qui provident quia est.",
+		"name": "Shaina",
+		"surname": "De Vries",
+		"uuid": "5fdfa9f8-df19-497b-a72c-0f6a5fe6d63c",
+		"bio": "Ratione aut nihil itaque voluptates nihil hic eum quidem voluptatem saepe iste enim vitae porro eum praesentium velit est cum officia quos quam tenetur animi inventore repellendus occaecati et eos temporibus ut incidunt temporibus atque soluta quo nesciunt odit architecto voluptatum repellat qui et qui laboriosam qui qui sed voluptatibus et enim repellat porro expedita soluta quia tempore tenetur delectus.",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/in/shaina_de_vries",
+			"github": "https://github.com/shaina_de_vries",
+			"instagram": "https://www.instagram.com/shaina_de_vries",
+			"twitter": "https://twitter.com/shaina_de_vries"
+		},
 		"id": "3-4",
 		"image": {
-			"banner": "https://picsum.photos/seed/chantell_visser/400/200",
-			"thumb": "https://picsum.photos/seed/chantell_visser/200/200",
-			"large": "https://picsum.photos/seed/chantell_visser/800/400"
+			"banner": "https://picsum.photos/seed/shaina_de_vries/400/200",
+			"thumb": "https://picsum.photos/seed/shaina_de_vries/200/200",
+			"large": "https://picsum.photos/seed/shaina_de_vries/800/400"
 		}
 	},
 	"id": "3-4",
-	"created": "2023-02-17 15:41:12"
+	"created": "2023-02-17 15:55:39"
 }
