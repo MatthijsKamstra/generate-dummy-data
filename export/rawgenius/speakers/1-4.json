@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-16f7-4d96-a335-a9a81dc07132",
+	"bio": {
+		"name": "Deonna",
+		"surname": "Smits",
+		"uuid": "5fd26f40-117a-49a5-bb1e-d1a36e7f4c3c",
+		"bio": "Quis deserunt quae minima provident quos illo.",
+		"id": "1-4",
+		"image": {
+			"banner": "https://picsum.photos/seed/deonna_smits/400/200",
+			"thumb": "https://picsum.photos/seed/deonna_smits/200/200",
+			"large": "https://picsum.photos/seed/deonna_smits/800/400"
+		}
+	},
+	"id": "1-4",
+	"created": "2023-02-17 15:41:12"
+}

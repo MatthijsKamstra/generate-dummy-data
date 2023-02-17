@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-eb26-473a-b677-e56365e2cc2a",
+	"bio": {
+		"name": "Shaina",
+		"surname": "De Vries",
+		"uuid": "5fd26f40-93fa-4418-b900-e9fceedb2107",
+		"bio": "Optio non sint aliquid commodi sunt eum.",
+		"id": "2-2",
+		"image": {
+			"banner": "https://picsum.photos/seed/shaina_de_vries/400/200",
+			"thumb": "https://picsum.photos/seed/shaina_de_vries/200/200",
+			"large": "https://picsum.photos/seed/shaina_de_vries/800/400"
+		}
+	},
+	"id": "2-2",
+	"created": "2023-02-17 15:41:12"
+}

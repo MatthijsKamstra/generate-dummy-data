@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-2bcc-4981-bc70-2efd750a13bc",
+	"bio": {
+		"name": "Slyvia",
+		"surname": "Van Dijk",
+		"uuid": "5fd26f40-e026-4d62-993d-20c96bec069e",
+		"bio": "Rerum qui est.",
+		"id": "3-3",
+		"image": {
+			"banner": "https://picsum.photos/seed/slyvia_van_dijk/400/200",
+			"thumb": "https://picsum.photos/seed/slyvia_van_dijk/200/200",
+			"large": "https://picsum.photos/seed/slyvia_van_dijk/800/400"
+		}
+	},
+	"id": "3-3",
+	"created": "2023-02-17 15:41:12"
+}

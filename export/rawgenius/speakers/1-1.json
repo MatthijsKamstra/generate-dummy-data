@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-0231-4fa1-8d0f-3970fd295ad7",
+	"bio": {
+		"name": "Angle",
+		"surname": "Dekker",
+		"uuid": "5fd26f40-b9fe-43d0-b73d-d1b07fb55a52",
+		"bio": "Similique modi eligendi aliquam vero.",
+		"id": "1-1",
+		"image": {
+			"banner": "https://picsum.photos/seed/angle_dekker/400/200",
+			"thumb": "https://picsum.photos/seed/angle_dekker/200/200",
+			"large": "https://picsum.photos/seed/angle_dekker/800/400"
+		}
+	},
+	"id": "1-1",
+	"created": "2023-02-17 15:41:12"
+}

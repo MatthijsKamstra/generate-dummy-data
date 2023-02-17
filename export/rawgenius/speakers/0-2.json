@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-b0cb-42c5-bdeb-b9073016e0ab",
+	"bio": {
+		"name": "Chantell",
+		"surname": "Hendriks",
+		"uuid": "5fd26f40-cbe5-478b-8e63-19d762779e21",
+		"bio": "Quia soluta dolor voluptatum ea.",
+		"id": "0-2",
+		"image": {
+			"banner": "https://picsum.photos/seed/chantell_hendriks/400/200",
+			"thumb": "https://picsum.photos/seed/chantell_hendriks/200/200",
+			"large": "https://picsum.photos/seed/chantell_hendriks/800/400"
+		}
+	},
+	"id": "0-2",
+	"created": "2023-02-17 15:41:12"
+}

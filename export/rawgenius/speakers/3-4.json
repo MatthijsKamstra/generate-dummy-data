@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-81e7-4cf1-b012-cd3786a7b564",
+	"bio": {
+		"name": "Chantell",
+		"surname": "Visser",
+		"uuid": "5fd26f40-4613-4eb8-8c5e-1f5d577eaa03",
+		"bio": "Officiis dolores qui provident quia est.",
+		"id": "3-4",
+		"image": {
+			"banner": "https://picsum.photos/seed/chantell_visser/400/200",
+			"thumb": "https://picsum.photos/seed/chantell_visser/200/200",
+			"large": "https://picsum.photos/seed/chantell_visser/800/400"
+		}
+	},
+	"id": "3-4",
+	"created": "2023-02-17 15:41:12"
+}

@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-1411-4ae0-bfcc-d6f66caead93",
+	"bio": {
+		"name": "Corazon",
+		"surname": "Janssen",
+		"uuid": "5fd26f40-5b82-490d-9df0-d60a0f9ad2fa",
+		"bio": "Inventore eius maxime quam ipsa quis eos et id.",
+		"id": "2-4",
+		"image": {
+			"banner": "https://picsum.photos/seed/corazon_janssen/400/200",
+			"thumb": "https://picsum.photos/seed/corazon_janssen/200/200",
+			"large": "https://picsum.photos/seed/corazon_janssen/800/400"
+		}
+	},
+	"id": "2-4",
+	"created": "2023-02-17 15:41:12"
+}

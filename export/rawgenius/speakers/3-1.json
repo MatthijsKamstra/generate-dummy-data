@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-4b91-4803-89ec-baaed0d21881",
+	"bio": {
+		"name": "Queenie",
+		"surname": "Van der Meer",
+		"uuid": "5fd26f40-ab3b-4f42-9bbc-058cc8f2149b",
+		"bio": "Sequi nulla impedit ipsum non corrupti officiis eum eos porro.",
+		"id": "3-1",
+		"image": {
+			"banner": "https://picsum.photos/seed/queenie_van_der_meer/400/200",
+			"thumb": "https://picsum.photos/seed/queenie_van_der_meer/200/200",
+			"large": "https://picsum.photos/seed/queenie_van_der_meer/800/400"
+		}
+	},
+	"id": "3-1",
+	"created": "2023-02-17 15:41:12"
+}

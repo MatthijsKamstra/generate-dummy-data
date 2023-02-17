@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-7344-4ba6-9bf2-d97024ec6648",
+	"bio": {
+		"name": "Lowell",
+		"surname": "Dijkstra",
+		"uuid": "5fd26f40-7ae4-46e0-abcd-1a55ca473989",
+		"bio": "Qui distinctio nulla quibusdam laborum et vitae laborum.",
+		"id": "3-0",
+		"image": {
+			"banner": "https://picsum.photos/seed/lowell_dijkstra/400/200",
+			"thumb": "https://picsum.photos/seed/lowell_dijkstra/200/200",
+			"large": "https://picsum.photos/seed/lowell_dijkstra/800/400"
+		}
+	},
+	"id": "3-0",
+	"created": "2023-02-17 15:41:12"
+}

@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-64f3-49b7-acd4-168f715613bb",
+	"bio": {
+		"name": "Latrice",
+		"surname": "Visser",
+		"uuid": "5fd26f40-0419-43b9-9ff1-b42f8fd3ab4d",
+		"bio": "Error ratione qui eaque.",
+		"id": "2-3",
+		"image": {
+			"banner": "https://picsum.photos/seed/latrice_visser/400/200",
+			"thumb": "https://picsum.photos/seed/latrice_visser/200/200",
+			"large": "https://picsum.photos/seed/latrice_visser/800/400"
+		}
+	},
+	"id": "2-3",
+	"created": "2023-02-17 15:41:12"
+}

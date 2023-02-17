@@ -1,5 +1,6 @@
 package;
 
+import rawgenius.Tag;
 import utils.converter.TypescriptJsonDef;
 import rawgenius.User;
 import lorem.Lorem;
@@ -16,18 +17,27 @@ class MainRawGenius {
 		'14:45-15:45',
 		'16:00-17:00'
 	];
+	var ROOT = 'export/rawgenius';
+	var TS = '';
+	var SPEAKERS = '';
 
 	public function new() {
 		trace('MainRawGenius');
+		setupFolder();
 
 		generate("export/rawgenius/rawgenius.json");
 	}
 
+	function setupFolder() {
+		TS = '${ROOT}/ts';
+		SPEAKERS = '${ROOT}/speakers';
+
+		FileSystem.createDirectory(ROOT);
+		FileSystem.createDirectory(TS);
+		FileSystem.createDirectory(SPEAKERS);
+	}
+
 	function generate(path:String) {
-		var propertyPath = 'export/rawgenius';
-
-		FileSystem.createDirectory(propertyPath);
-
 		trace("Create json!");
 		var json = {};
 
@@ -43,9 +53,14 @@ class MainRawGenius {
 				var _timeTable = timeTable[j];
 				var session = {
 					// time: getTime(j),
-					time: _timeTable,
-					title: 'Session ${j + 1}',
-					speaker: createSpeaker(j)
+					'time': {
+						'total': _timeTable,
+						'start': '${_timeTable.split('-')[0]}',
+						'end': '${_timeTable.split('-')[1]}',
+					},
+					'title': 'Session ${j + 1}',
+					'session': getSpeakerInfo(i, j),
+					'uuid': UUID.uuid(),
 				}
 				scheduleArr.push(session);
 			}
@@ -64,25 +79,41 @@ class MainRawGenius {
 		// typescript typedef
 		var tsjsondef = new TypescriptJsonDef();
 		var str = tsjsondef.convert(Json.stringify(json), 'ISchedule');
-		DummyData.saveTextFile(str, 'export/rawgenius/i-schedule.d.ts');
+		DummyData.saveTextFile(str, '${TS}/i-schedule.d.ts');
 	}
 
 	function getTime(i) {
 		return {};
 	}
 
-	function createSpeaker(id:Int) {
-		var json = {};
+	function getSpeakerInfo(i:Int, j:Int) {
+		var short = {};
+		var bio = {};
 		var uuid = UUID.uuid();
+		var id = '${i}-${j}';
 
-		var user = User.get();
-		Reflect.setField(json, 'user', user);
-		// Reflect.setField(json, 'uuid', uuid);
+		var speaker:SpeakerInfo = User.get(i, j);
+		var speakerBio = User.getBio(i, j, speaker);
 
-		Reflect.setField(json, 'title', new Lorem().title());
-		Reflect.setField(json, 'description', new Lorem().description());
+		// speaker
+		Reflect.setField(short, 'speaker', speaker);
+		Reflect.setField(short, 'title', new Lorem().title());
+		Reflect.setField(short, 'description', new Lorem().description(40));
+		Reflect.setField(short, 'tags', Tag.getRandomSet());
+		// Reflect.setField(short, 'tags', []);
 
-		return json;
+		// bio
+		Reflect.setField(bio, 'created', Date.now());
+		Reflect.setField(bio, 'id', id);
+		Reflect.setField(bio, 'uuid', uuid);
+		// Reflect.setField(bio, 'user', speaker);
+		Reflect.setField(bio, 'bio', speakerBio);
+
+		// output json
+		var str = Json.stringify(bio, null, '\t');
+		sys.io.File.saveContent('${SPEAKERS}/${id}.json', str);
+
+		return short;
 	}
 
 	// 'thumb': 'https://picsum.photos/200/200?random=${id}',

@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-8928-47b4-9354-c3cd26ceee73",
+	"bio": {
+		"name": "Martin",
+		"surname": "Dekker",
+		"uuid": "5fd26f40-ff64-4fe4-90b2-5bfd0543ac3f",
+		"bio": "Asperiores in recusandae velit est.",
+		"id": "2-1",
+		"image": {
+			"banner": "https://picsum.photos/seed/martin_dekker/400/200",
+			"thumb": "https://picsum.photos/seed/martin_dekker/200/200",
+			"large": "https://picsum.photos/seed/martin_dekker/800/400"
+		}
+	},
+	"id": "2-1",
+	"created": "2023-02-17 15:41:12"
+}

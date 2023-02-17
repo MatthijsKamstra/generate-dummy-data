@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-c5de-473d-9c88-fa3e7b9eb289",
+	"bio": {
+		"name": "Deonna",
+		"surname": "Dekker",
+		"uuid": "5fd26f40-3e65-4655-81b3-a751b37818ee",
+		"bio": "Earum animi magni laboriosam iure.",
+		"id": "1-0",
+		"image": {
+			"banner": "https://picsum.photos/seed/deonna_dekker/400/200",
+			"thumb": "https://picsum.photos/seed/deonna_dekker/200/200",
+			"large": "https://picsum.photos/seed/deonna_dekker/800/400"
+		}
+	},
+	"id": "1-0",
+	"created": "2023-02-17 15:41:12"
+}

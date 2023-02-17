@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-6283-449f-a8df-3d9382aaab4a",
+	"bio": {
+		"name": "Latrice",
+		"surname": "Hendriks",
+		"uuid": "5fd26f40-2f57-451b-8983-71612b905068",
+		"bio": "Quia temporibus iure numquam placeat illum ab voluptatem unde in.",
+		"id": "0-4",
+		"image": {
+			"banner": "https://picsum.photos/seed/latrice_hendriks/400/200",
+			"thumb": "https://picsum.photos/seed/latrice_hendriks/200/200",
+			"large": "https://picsum.photos/seed/latrice_hendriks/800/400"
+		}
+	},
+	"id": "0-4",
+	"created": "2023-02-17 15:41:12"
+}

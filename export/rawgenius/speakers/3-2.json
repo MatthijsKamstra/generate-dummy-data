@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-acd1-4d03-a9ac-56a77d828992",
+	"bio": {
+		"name": "Chantell",
+		"surname": "Jansen",
+		"uuid": "5fd26f40-3b14-46ce-a0bf-bfcc63be320d",
+		"bio": "Debitis necessitatibus est fugiat earum repellat sint.",
+		"id": "3-2",
+		"image": {
+			"banner": "https://picsum.photos/seed/chantell_jansen/400/200",
+			"thumb": "https://picsum.photos/seed/chantell_jansen/200/200",
+			"large": "https://picsum.photos/seed/chantell_jansen/800/400"
+		}
+	},
+	"id": "3-2",
+	"created": "2023-02-17 15:41:12"
+}

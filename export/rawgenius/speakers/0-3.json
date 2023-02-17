@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-928c-4e49-96ef-5da7fbc991ad",
+	"bio": {
+		"name": "Kortney",
+		"surname": "Janssen",
+		"uuid": "5fd26f40-f8a8-446c-875e-4c0ee24d6ce0",
+		"bio": "Ut eveniet et voluptatibus velit non.",
+		"id": "0-3",
+		"image": {
+			"banner": "https://picsum.photos/seed/kortney_janssen/400/200",
+			"thumb": "https://picsum.photos/seed/kortney_janssen/200/200",
+			"large": "https://picsum.photos/seed/kortney_janssen/800/400"
+		}
+	},
+	"id": "0-3",
+	"created": "2023-02-17 15:41:12"
+}

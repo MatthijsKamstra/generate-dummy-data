@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-34a7-4690-928f-192c38513a89",
+	"bio": {
+		"name": "Zulma",
+		"surname": "Meijer",
+		"uuid": "5fd26f40-1da9-4be1-a955-c90d6f015ed3",
+		"bio": "Fuga corporis et et.",
+		"id": "2-0",
+		"image": {
+			"banner": "https://picsum.photos/seed/zulma_meijer/400/200",
+			"thumb": "https://picsum.photos/seed/zulma_meijer/200/200",
+			"large": "https://picsum.photos/seed/zulma_meijer/800/400"
+		}
+	},
+	"id": "2-0",
+	"created": "2023-02-17 15:41:12"
+}

@@ -5,81 +5,186 @@
 			"schedule": [
 				{
 					"title": "Session 1",
-					"speaker": {
-						"description": "Porro minus incidunt nesciunt.",
-						"title": "Aliquid et repellendus tempore ratione",
-						"user": {
-							"name": "Jarrod",
-							"surname": "Visser",
-							"id": "5f0f6590-ddea-49b3-bd33-f5bfff4889e8"
-						}
+					"uuid": "5fd26f40-143f-444c-ac4f-2d7b31e21d5a",
+					"time": {
+						"start": "09:00",
+						"end": "10:00",
+						"total": "09:00-10:00"
 					},
-					"time": "09:00-10:00"
+					"session": {
+						"description": "Nulla asperiores delectus similique ut ex officia aspernatur cumque non quae blanditiis in ut quo fugiat vel nihil modi et placeat nam autem consectetur magnam dolorem est ut ipsum voluptatem sequi aliquid corporis eius accusantium molestiae aut quidem ab vitae.",
+						"title": "Odit nam harum deleniti quo",
+						"speaker": {
+							"name": "Chantell",
+							"surname": "Van Dijk",
+							"uuid": "5fd26f40-2826-499a-b520-6f9deeca97d1",
+							"id": "0-0",
+							"image": {
+								"banner": "https://picsum.photos/seed/chantell_van_dijk/400/200",
+								"thumb": "https://picsum.photos/seed/chantell_van_dijk/200/200",
+								"large": "https://picsum.photos/seed/chantell_van_dijk/800/400"
+							}
+						},
+						"tags": [
+							"AWS",
+							"Cloud",
+							"Advertisement",
+							"Advertisement"
+						]
+					}
 				},
 				{
 					"title": "Session 2",
-					"speaker": {
-						"description": "Laborum placeat dolorem laboriosam mollitia quidem.",
-						"title": "Et consectetur expedita voluptatem rerum",
-						"user": {
-							"name": "Martin",
-							"surname": "Meijer",
-							"id": "5f0f6590-a57b-4d11-be21-00917283f00a"
-						}
+					"uuid": "5fd26f40-6310-4fd8-b3a9-ee0c5f381ec2",
+					"time": {
+						"start": "10:15",
+						"end": "11:15",
+						"total": "10:15-11:15"
 					},
-					"time": "10:15-11:15"
+					"session": {
+						"description": "Quibusdam voluptas laudantium natus magni voluptate doloribus sed animi ullam explicabo soluta inventore et illum autem inventore error est voluptatem tempora enim minus nesciunt suscipit corrupti ipsa qui amet laudantium sed voluptas quaerat voluptatem suscipit error eum necessitatibus alias qui.",
+						"title": "Nobis suscipit corporis incidunt qui",
+						"speaker": {
+							"name": "Diedre",
+							"surname": "De Wit",
+							"uuid": "5fd26f40-302e-4ef0-b3e8-84e0a5172400",
+							"id": "0-1",
+							"image": {
+								"banner": "https://picsum.photos/seed/diedre_de_wit/400/200",
+								"thumb": "https://picsum.photos/seed/diedre_de_wit/200/200",
+								"large": "https://picsum.photos/seed/diedre_de_wit/800/400"
+							}
+						},
+						"tags": [
+							"Masterclass",
+							"Discussion",
+							"Discussion"
+						]
+					}
 				},
 				{
 					"title": "Session 3",
-					"speaker": {
-						"description": "Dolores architecto sunt adipisci sunt asperiores.",
-						"title": "Reiciendis itaque itaque omnis qui",
-						"user": {
-							"name": "Diedre",
-							"surname": "Brouwer",
-							"id": "5f0f6590-a347-43d2-b756-d4cd2c5b32f6"
-						}
+					"uuid": "5fd26f40-8da1-4bfa-bee0-b44bf295e432",
+					"time": {
+						"start": "11:30",
+						"end": "12:30",
+						"total": "11:30-12:30"
 					},
-					"time": "11:30-12:30"
+					"session": {
+						"description": "Impedit pariatur enim saepe dolorem exercitationem veniam occaecati in porro explicabo id voluptas quas impedit ipsam et qui facere consequatur esse eos laborum sint dolorem nulla quia aut odio expedita tenetur accusantium in quia facere perferendis esse et tempora laudantium.",
+						"title": "Non omnis velit voluptatem fugiat",
+						"speaker": {
+							"name": "Chantell",
+							"surname": "Hendriks",
+							"uuid": "5fd26f40-cbe5-478b-8e63-19d762779e21",
+							"id": "0-2",
+							"image": {
+								"banner": "https://picsum.photos/seed/chantell_hendriks/400/200",
+								"thumb": "https://picsum.photos/seed/chantell_hendriks/200/200",
+								"large": "https://picsum.photos/seed/chantell_hendriks/800/400"
+							}
+						},
+						"tags": [
+							"Tutorial",
+							"Discussion",
+							"Advertisement"
+						]
+					}
 				},
 				{
 					"title": "Session 4",
-					"speaker": {
-						"description": "Quisquam molestiae odio assumenda ut quae error dolor consequatur rerum.",
-						"title": "Eum nisi reiciendis adipisci voluptatem",
-						"user": {
-							"name": "Queenie",
-							"surname": "Mulder",
-							"id": "5f0f6590-9dfe-4f9e-bfa9-cc02c7226678"
-						}
+					"uuid": "5fd26f40-c7b7-4d4c-942e-6a99225c4c48",
+					"time": {
+						"start": "13:30",
+						"end": "14:30",
+						"total": "13:30-14:30"
 					},
-					"time": "13:30-14:30"
+					"session": {
+						"description": "Cumque incidunt nemo vel aut quam tempora quo sit nemo eos dignissimos necessitatibus vel at quia non est neque neque natus minima aliquid quidem voluptas illo harum assumenda molestias sit qui dolorem omnis eos hic et alias voluptatum sunt reiciendis.",
+						"title": "Dolorum unde ad incidunt consectetur",
+						"speaker": {
+							"name": "Kortney",
+							"surname": "Janssen",
+							"uuid": "5fd26f40-f8a8-446c-875e-4c0ee24d6ce0",
+							"id": "0-3",
+							"image": {
+								"banner": "https://picsum.photos/seed/kortney_janssen/400/200",
+								"thumb": "https://picsum.photos/seed/kortney_janssen/200/200",
+								"large": "https://picsum.photos/seed/kortney_janssen/800/400"
+							}
+						},
+						"tags": [
+							"Discussion",
+							"Discussion",
+							"Cloud",
+							"Cloud",
+							"Cloud"
+						]
+					}
 				},
 				{
 					"title": "Session 5",
-					"speaker": {
-						"description": "Iste id itaque voluptatem ipsa occaecati rem accusamus quia.",
-						"title": "Praesentium harum aspernatur est incidunt",
-						"user": {
-							"name": "Jarrod",
-							"surname": "Dekker",
-							"id": "5f0f6590-b0ad-4957-9681-da7361b78511"
-						}
+					"uuid": "5fd26f40-e84e-4901-9678-b1b416ec9a38",
+					"time": {
+						"start": "14:45",
+						"end": "15:45",
+						"total": "14:45-15:45"
 					},
-					"time": "14:45-15:45"
+					"session": {
+						"description": "Quae suscipit et ut sed est laborum harum minima esse non quidem qui dignissimos perspiciatis ut veniam quasi corrupti molestiae voluptates aut autem porro adipisci qui minus ad aperiam numquam qui provident sunt quia officia recusandae error dolorem aliquam dolore.",
+						"title": "Aut magnam laudantium fuga amet",
+						"speaker": {
+							"name": "Latrice",
+							"surname": "Hendriks",
+							"uuid": "5fd26f40-2f57-451b-8983-71612b905068",
+							"id": "0-4",
+							"image": {
+								"banner": "https://picsum.photos/seed/latrice_hendriks/400/200",
+								"thumb": "https://picsum.photos/seed/latrice_hendriks/200/200",
+								"large": "https://picsum.photos/seed/latrice_hendriks/800/400"
+							}
+						},
+						"tags": [
+							"AWS",
+							"Discussion",
+							"Tutorial",
+							"Masterclass",
+							"Discussion",
+							"Tutorial"
+						]
+					}
 				},
 				{
 					"title": "Session 6",
-					"speaker": {
-						"description": "Vel et nemo tempore sed.",
-						"title": "Id beatae dolorem id a",
-						"user": {
-							"name": "Deonna",
-							"surname": "De Graaf",
-							"id": "5f0f6590-df67-43ed-b0d1-f67800e76a41"
-						}
+					"uuid": "5fd26f40-3525-4af1-9351-b2fcb6a81f24",
+					"time": {
+						"start": "16:00",
+						"end": "17:00",
+						"total": "16:00-17:00"
 					},
-					"time": "16:00-17:00"
+					"session": {
+						"description": "Qui vitae adipisci mollitia mollitia magni itaque id impedit voluptate harum voluptate enim expedita saepe animi quae reprehenderit amet neque dicta fuga eveniet nesciunt placeat minima ea non voluptatum qui neque neque accusantium minus placeat dolorem non quia nulla est.",
+						"title": "Nam eos harum voluptate et",
+						"speaker": {
+							"name": "Zulma",
+							"surname": "Van der Meer",
+							"uuid": "5fd26f40-b6e5-4983-806b-2c55199ef4ec",
+							"id": "0-5",
+							"image": {
+								"banner": "https://picsum.photos/seed/zulma_van_der_meer/400/200",
+								"thumb": "https://picsum.photos/seed/zulma_van_der_meer/200/200",
+								"large": "https://picsum.photos/seed/zulma_van_der_meer/800/400"
+							}
+						},
+						"tags": [
+							"Tutorial",
+							"Cloud",
+							"Discussion",
+							"Advertisement",
+							"Cloud",
+							"Discussion"
+						]
+					}
 				}
 			]
 		},
@@ -88,81 +193,175 @@
 			"schedule": [
 				{
 					"title": "Session 1",
-					"speaker": {
-						"description": "Molestiae et rem autem maiores aliquid explicabo omnis.",
-						"title": "Eveniet ab non nihil nulla",
-						"user": {
-							"name": "Martin",
-							"surname": "Van Leeuwen",
-							"id": "5f0f6590-3ab4-41c8-9bcf-7059250d486a"
-						}
+					"uuid": "5fd26f40-2de9-4732-b6f8-91500286088d",
+					"time": {
+						"start": "09:00",
+						"end": "10:00",
+						"total": "09:00-10:00"
 					},
-					"time": "09:00-10:00"
+					"session": {
+						"description": "Enim aut quasi quia quibusdam libero minus odit quisquam reiciendis sint est nulla est est recusandae minus fugiat similique porro et consequatur sapiente consectetur quisquam velit corporis accusantium cumque quisquam quisquam velit autem doloribus explicabo molestias et ut corrupti nesciunt.",
+						"title": "Necessitatibus consequatur accusantium tempore aut",
+						"speaker": {
+							"name": "Deonna",
+							"surname": "Dekker",
+							"uuid": "5fd26f40-3e65-4655-81b3-a751b37818ee",
+							"id": "1-0",
+							"image": {
+								"banner": "https://picsum.photos/seed/deonna_dekker/400/200",
+								"thumb": "https://picsum.photos/seed/deonna_dekker/200/200",
+								"large": "https://picsum.photos/seed/deonna_dekker/800/400"
+							}
+						},
+						"tags": [
+							"Masterclass",
+							"Lecture"
+						]
+					}
 				},
 				{
 					"title": "Session 2",
-					"speaker": {
-						"description": "Voluptas deleniti accusamus commodi ea quia blanditiis doloremque temporibus.",
-						"title": "Aut est expedita ipsam et",
-						"user": {
-							"name": "Jeff",
-							"surname": "Vos",
-							"id": "5f0f6590-de6a-44fb-9d2e-03a65f1a8536"
-						}
+					"uuid": "5fd26f40-71e3-452e-b8b8-ee7bc257aeda",
+					"time": {
+						"start": "10:15",
+						"end": "11:15",
+						"total": "10:15-11:15"
 					},
-					"time": "10:15-11:15"
+					"session": {
+						"description": "Molestiae et iure accusantium pariatur id asperiores in voluptas sed temporibus rerum harum fugiat quo tempora quo incidunt sed ex at officia et animi rem quos praesentium libero iste reiciendis voluptates sint nam rerum voluptas quas odio ipsum assumenda excepturi.",
+						"title": "Aliquam aliquam sapiente enim soluta",
+						"speaker": {
+							"name": "Angle",
+							"surname": "Dekker",
+							"uuid": "5fd26f40-b9fe-43d0-b73d-d1b07fb55a52",
+							"id": "1-1",
+							"image": {
+								"banner": "https://picsum.photos/seed/angle_dekker/400/200",
+								"thumb": "https://picsum.photos/seed/angle_dekker/200/200",
+								"large": "https://picsum.photos/seed/angle_dekker/800/400"
+							}
+						},
+						"tags": [
+							"Discussion",
+							"Cloud",
+							"AWS",
+							"Masterclass"
+						]
+					}
 				},
 				{
 					"title": "Session 3",
-					"speaker": {
-						"description": "Molestiae animi officiis voluptatibus numquam.",
-						"title": "Corporis perspiciatis id quod molestias",
-						"user": {
-							"name": "Jeff",
-							"surname": "Dekker",
-							"id": "5f0f6590-1fd6-468e-8108-0c08dd15c795"
-						}
+					"uuid": "5fd26f40-01de-4b63-97e7-4674b9747691",
+					"time": {
+						"start": "11:30",
+						"end": "12:30",
+						"total": "11:30-12:30"
 					},
-					"time": "11:30-12:30"
+					"session": {
+						"description": "Suscipit id distinctio veniam dicta itaque ratione et cumque quaerat qui explicabo et autem est sit voluptatum velit et et quia dolore amet blanditiis architecto praesentium iste iste dolor voluptatem voluptates voluptate voluptatum voluptatem sed voluptatibus sit quis velit blanditiis.",
+						"title": "Vero ab voluptatem a ipsa",
+						"speaker": {
+							"name": "Chantell",
+							"surname": "Smit",
+							"uuid": "5fd26f40-9c13-48ab-9d9b-7e69f2283473",
+							"id": "1-2",
+							"image": {
+								"banner": "https://picsum.photos/seed/chantell_smit/400/200",
+								"thumb": "https://picsum.photos/seed/chantell_smit/200/200",
+								"large": "https://picsum.photos/seed/chantell_smit/800/400"
+							}
+						},
+						"tags": []
+					}
 				},
 				{
 					"title": "Session 4",
-					"speaker": {
-						"description": "Distinctio eos laudantium.",
-						"title": "Sit ipsum inventore iure fuga",
-						"user": {
-							"name": "Kortney",
-							"surname": "Jansen",
-							"id": "5f0f6590-14aa-4ad1-af0d-f15112443e76"
-						}
+					"uuid": "5fd26f40-8425-4370-a243-2f5434bbfba4",
+					"time": {
+						"start": "13:30",
+						"end": "14:30",
+						"total": "13:30-14:30"
 					},
-					"time": "13:30-14:30"
+					"session": {
+						"description": "Possimus quo porro sunt molestias tempora recusandae aspernatur non distinctio sint harum est natus omnis qui dolorem reprehenderit molestiae autem odio eligendi et nemo adipisci provident sit modi quia a enim optio minus earum aut qui ab corrupti quis porro.",
+						"title": "Quo eum minima alias voluptatem",
+						"speaker": {
+							"name": "Jeff",
+							"surname": "Dijkstra",
+							"uuid": "5fd26f40-9aae-4bfd-9a9a-38479b598f38",
+							"id": "1-3",
+							"image": {
+								"banner": "https://picsum.photos/seed/jeff_dijkstra/400/200",
+								"thumb": "https://picsum.photos/seed/jeff_dijkstra/200/200",
+								"large": "https://picsum.photos/seed/jeff_dijkstra/800/400"
+							}
+						},
+						"tags": [
+							"Tutorial",
+							"AWS",
+							"Masterclass"
+						]
+					}
 				},
 				{
 					"title": "Session 5",
-					"speaker": {
-						"description": "Dolorem corporis commodi placeat necessitatibus omnis.",
-						"title": "Provident pariatur ab repellat non",
-						"user": {
-							"name": "Diedre",
-							"surname": "Bakker",
-							"id": "5f0f6590-a2c9-4bd5-87ed-463c25805c52"
-						}
+					"uuid": "5fd26f40-06b8-458d-b3d9-33ab5d97c877",
+					"time": {
+						"start": "14:45",
+						"end": "15:45",
+						"total": "14:45-15:45"
 					},
-					"time": "14:45-15:45"
+					"session": {
+						"description": "Voluptatum voluptas sit non exercitationem quia nam optio alias ut consectetur laboriosam tempore ipsa enim esse voluptates quibusdam quia tenetur vero pariatur similique tempore accusamus amet veniam dolore ut exercitationem animi placeat voluptates veritatis est et ullam ut omnis laboriosam.",
+						"title": "Maxime facere facilis quis saepe",
+						"speaker": {
+							"name": "Deonna",
+							"surname": "Smits",
+							"uuid": "5fd26f40-117a-49a5-bb1e-d1a36e7f4c3c",
+							"id": "1-4",
+							"image": {
+								"banner": "https://picsum.photos/seed/deonna_smits/400/200",
+								"thumb": "https://picsum.photos/seed/deonna_smits/200/200",
+								"large": "https://picsum.photos/seed/deonna_smits/800/400"
+							}
+						},
+						"tags": [
+							"Tutorial",
+							"Cloud",
+							"Masterclass",
+							"Tutorial",
+							"Lecture",
+							"AWS"
+						]
+					}
 				},
 				{
 					"title": "Session 6",
-					"speaker": {
-						"description": "Veritatis facilis culpa necessitatibus ducimus consectetur voluptatibus culpa.",
-						"title": "Omnis dolores minima qui aliquam",
-						"user": {
-							"name": "Kortney",
-							"surname": "Hendriks",
-							"id": "5f0f6590-b66f-474d-ad28-81dc57502aec"
-						}
+					"uuid": "5fd26f40-7807-4f15-bb3d-7eb5f21680ec",
+					"time": {
+						"start": "16:00",
+						"end": "17:00",
+						"total": "16:00-17:00"
 					},
-					"time": "16:00-17:00"
+					"session": {
+						"description": "Eos maiores sed nostrum nulla recusandae qui suscipit blanditiis voluptatem quisquam nisi tempore iste ut dolorum quo nihil ipsa sed temporibus accusantium est at eveniet voluptas tempore velit asperiores praesentium molestias nihil accusamus quia nesciunt ut corrupti nulla praesentium autem.",
+						"title": "Iste quos ut qui rerum",
+						"speaker": {
+							"name": "Ingeborg",
+							"surname": "Janssen",
+							"uuid": "5fd26f40-953a-459e-b096-0c6317af4c9d",
+							"id": "1-5",
+							"image": {
+								"banner": "https://picsum.photos/seed/ingeborg_janssen/400/200",
+								"thumb": "https://picsum.photos/seed/ingeborg_janssen/200/200",
+								"large": "https://picsum.photos/seed/ingeborg_janssen/800/400"
+							}
+						},
+						"tags": [
+							"Masterclass",
+							"Lecture"
+						]
+					}
 				}
 			]
 		},
@@ -171,81 +370,175 @@
 			"schedule": [
 				{
 					"title": "Session 1",
-					"speaker": {
-						"description": "Praesentium qui ad voluptatem quaerat aut adipisci.",
-						"title": "Blanditiis minus distinctio corporis harum",
-						"user": {
-							"name": "Alysa",
-							"surname": "De Groot",
-							"id": "5f0f6590-393f-421c-9e36-611f3fbe41d3"
-						}
+					"uuid": "5fd26f40-d2df-49c5-a199-7a0162e817c3",
+					"time": {
+						"start": "09:00",
+						"end": "10:00",
+						"total": "09:00-10:00"
 					},
-					"time": "09:00-10:00"
+					"session": {
+						"description": "Delectus laudantium omnis provident nulla illo illo soluta id dicta eos nam ipsam animi totam est cumque non sed aut ipsam eveniet non est cumque est et enim ipsum et nihil sint deleniti magnam tempore expedita vero explicabo itaque quae.",
+						"title": "Aut et voluptas cum eveniet",
+						"speaker": {
+							"name": "Zulma",
+							"surname": "Meijer",
+							"uuid": "5fd26f40-1da9-4be1-a955-c90d6f015ed3",
+							"id": "2-0",
+							"image": {
+								"banner": "https://picsum.photos/seed/zulma_meijer/400/200",
+								"thumb": "https://picsum.photos/seed/zulma_meijer/200/200",
+								"large": "https://picsum.photos/seed/zulma_meijer/800/400"
+							}
+						},
+						"tags": [
+							"AWS",
+							"AWS",
+							"Masterclass",
+							"Tutorial",
+							"Tutorial"
+						]
+					}
 				},
 				{
 					"title": "Session 2",
-					"speaker": {
-						"description": "Expedita vel minus et voluptatum expedita.",
-						"title": "Adipisci alias et et quia",
-						"user": {
-							"name": "Zulma",
-							"surname": "Vos",
-							"id": "5f0f6590-aa27-47e6-ad41-06be5400280a"
-						}
+					"uuid": "5fd26f40-87e7-428c-9973-2626591729ba",
+					"time": {
+						"start": "10:15",
+						"end": "11:15",
+						"total": "10:15-11:15"
 					},
-					"time": "10:15-11:15"
+					"session": {
+						"description": "Esse voluptas eaque nostrum eligendi qui velit deleniti iste incidunt suscipit et eos expedita sequi saepe exercitationem praesentium voluptate repellendus eos rerum autem ut qui enim rerum voluptatem repellendus consectetur ea vel excepturi quam quia explicabo maxime aut autem maxime.",
+						"title": "Et deleniti aut beatae accusantium",
+						"speaker": {
+							"name": "Martin",
+							"surname": "Dekker",
+							"uuid": "5fd26f40-ff64-4fe4-90b2-5bfd0543ac3f",
+							"id": "2-1",
+							"image": {
+								"banner": "https://picsum.photos/seed/martin_dekker/400/200",
+								"thumb": "https://picsum.photos/seed/martin_dekker/200/200",
+								"large": "https://picsum.photos/seed/martin_dekker/800/400"
+							}
+						},
+						"tags": [
+							"AWS"
+						]
+					}
 				},
 				{
 					"title": "Session 3",
-					"speaker": {
-						"description": "Animi amet ex et minus eum at incidunt architecto aperiam.",
-						"title": "Incidunt aperiam facilis sint consequatur",
-						"user": {
-							"name": "Jeff",
-							"surname": "Bakker",
-							"id": "5f0f6590-42a6-4ea7-8d8b-0b088d120244"
-						}
+					"uuid": "5fd26f40-9bac-4d19-8161-295488d1942a",
+					"time": {
+						"start": "11:30",
+						"end": "12:30",
+						"total": "11:30-12:30"
 					},
-					"time": "11:30-12:30"
+					"session": {
+						"description": "Cumque veniam quia vel distinctio excepturi rerum unde sit voluptatibus veritatis aut autem eum praesentium qui dicta sequi voluptatem alias sint non et repellendus quos commodi soluta natus nulla consectetur illo minima et autem nihil similique nulla perferendis error deserunt.",
+						"title": "Et impedit dolorem nemo qui",
+						"speaker": {
+							"name": "Shaina",
+							"surname": "De Vries",
+							"uuid": "5fd26f40-93fa-4418-b900-e9fceedb2107",
+							"id": "2-2",
+							"image": {
+								"banner": "https://picsum.photos/seed/shaina_de_vries/400/200",
+								"thumb": "https://picsum.photos/seed/shaina_de_vries/200/200",
+								"large": "https://picsum.photos/seed/shaina_de_vries/800/400"
+							}
+						},
+						"tags": [
+							"Advertisement",
+							"Lecture",
+							"Tutorial",
+							"Advertisement",
+							"Discussion"
+						]
+					}
 				},
 				{
 					"title": "Session 4",
-					"speaker": {
-						"description": "Molestias aliquid qui.",
-						"title": "Corrupti corrupti quibusdam rerum repellendus",
-						"user": {
-							"name": "Deonna",
-							"surname": "Hendriks",
-							"id": "5f0f6590-310b-4134-b5cb-42d3c3355523"
-						}
+					"uuid": "5fd26f40-dc20-4372-bc11-69c06bea14c3",
+					"time": {
+						"start": "13:30",
+						"end": "14:30",
+						"total": "13:30-14:30"
 					},
-					"time": "13:30-14:30"
+					"session": {
+						"description": "Tempore necessitatibus soluta repellat quibusdam libero et amet quos fugiat sequi corrupti odit repellendus perspiciatis commodi sunt aspernatur vitae beatae enim corporis cum aspernatur vel repudiandae eos totam omnis labore eius non perferendis dolorum aliquid aut sed perspiciatis quis est.",
+						"title": "Enim quaerat eligendi cum est",
+						"speaker": {
+							"name": "Latrice",
+							"surname": "Visser",
+							"uuid": "5fd26f40-0419-43b9-9ff1-b42f8fd3ab4d",
+							"id": "2-3",
+							"image": {
+								"banner": "https://picsum.photos/seed/latrice_visser/400/200",
+								"thumb": "https://picsum.photos/seed/latrice_visser/200/200",
+								"large": "https://picsum.photos/seed/latrice_visser/800/400"
+							}
+						},
+						"tags": []
+					}
 				},
 				{
 					"title": "Session 5",
-					"speaker": {
-						"description": "Impedit doloremque optio.",
-						"title": "Reiciendis molestiae aliquid tempore quis",
-						"user": {
-							"name": "Zane",
-							"surname": "Smit",
-							"id": "5f0f6590-d9bd-4787-903f-ce8d08f4d772"
-						}
+					"uuid": "5fd26f40-899a-4e22-87b3-b5d2c9bd107c",
+					"time": {
+						"start": "14:45",
+						"end": "15:45",
+						"total": "14:45-15:45"
 					},
-					"time": "14:45-15:45"
+					"session": {
+						"description": "Repudiandae assumenda et quia optio facere voluptatem neque necessitatibus sed sapiente voluptatem voluptatem debitis deserunt aut voluptatem voluptates id molestiae maxime cupiditate iure odit molestiae nihil aut voluptate fugiat sed sed animi impedit error modi sed qui nesciunt reprehenderit accusantium.",
+						"title": "Architecto nemo dignissimos qui non",
+						"speaker": {
+							"name": "Corazon",
+							"surname": "Janssen",
+							"uuid": "5fd26f40-5b82-490d-9df0-d60a0f9ad2fa",
+							"id": "2-4",
+							"image": {
+								"banner": "https://picsum.photos/seed/corazon_janssen/400/200",
+								"thumb": "https://picsum.photos/seed/corazon_janssen/200/200",
+								"large": "https://picsum.photos/seed/corazon_janssen/800/400"
+							}
+						},
+						"tags": [
+							"Cloud",
+							"Discussion",
+							"Tutorial",
+							"AWS"
+						]
+					}
 				},
 				{
 					"title": "Session 6",
-					"speaker": {
-						"description": "Itaque accusamus eligendi maiores et voluptatem vitae vel deserunt qui.",
-						"title": "Corrupti et cupiditate quae molestiae",
-						"user": {
-							"name": "Zane",
-							"surname": "De Vries",
-							"id": "5f0f6590-b982-4239-8992-fbef3611b1b5"
-						}
+					"uuid": "5fd26f40-1530-4d2b-b632-42054e0cdb70",
+					"time": {
+						"start": "16:00",
+						"end": "17:00",
+						"total": "16:00-17:00"
 					},
-					"time": "16:00-17:00"
+					"session": {
+						"description": "Molestiae rerum sunt enim tempora dolorum sint et sed possimus nisi nostrum distinctio voluptatibus voluptatibus et omnis animi est pariatur alias cum nesciunt ut quo voluptas sapiente et cumque sapiente deserunt asperiores velit facere qui exercitationem placeat placeat architecto soluta.",
+						"title": "Facere illo iusto fugit neque",
+						"speaker": {
+							"name": "Slyvia",
+							"surname": "Dijkstra",
+							"uuid": "5fd26f40-f0f1-4aae-ba24-f8f14f6b46a4",
+							"id": "2-5",
+							"image": {
+								"banner": "https://picsum.photos/seed/slyvia_dijkstra/400/200",
+								"thumb": "https://picsum.photos/seed/slyvia_dijkstra/200/200",
+								"large": "https://picsum.photos/seed/slyvia_dijkstra/800/400"
+							}
+						},
+						"tags": [
+							"Cloud",
+							"Cloud"
+						]
+					}
 				}
 			]
 		},
@@ -254,85 +547,184 @@
 			"schedule": [
 				{
 					"title": "Session 1",
-					"speaker": {
-						"description": "Laborum et aut velit ea sed.",
-						"title": "Est incidunt consequuntur excepturi harum",
-						"user": {
-							"name": "Jeff",
-							"surname": "Mulder",
-							"id": "5f0f6590-a498-47e2-9326-59bccbb1bce0"
-						}
+					"uuid": "5fd26f40-ddaa-4794-b644-487c05579798",
+					"time": {
+						"start": "09:00",
+						"end": "10:00",
+						"total": "09:00-10:00"
 					},
-					"time": "09:00-10:00"
+					"session": {
+						"description": "Est expedita quis ratione aut inventore nihil earum est sed numquam magni adipisci rem et corporis molestias expedita nisi et nostrum expedita similique repellendus perferendis et magnam pariatur aut quis rerum enim libero aliquam aspernatur voluptates in laudantium ipsa iste.",
+						"title": "Deleniti sed unde ab et",
+						"speaker": {
+							"name": "Lowell",
+							"surname": "Dijkstra",
+							"uuid": "5fd26f40-7ae4-46e0-abcd-1a55ca473989",
+							"id": "3-0",
+							"image": {
+								"banner": "https://picsum.photos/seed/lowell_dijkstra/400/200",
+								"thumb": "https://picsum.photos/seed/lowell_dijkstra/200/200",
+								"large": "https://picsum.photos/seed/lowell_dijkstra/800/400"
+							}
+						},
+						"tags": [
+							"Lecture",
+							"Tutorial",
+							"Cloud",
+							"Tutorial",
+							"Cloud",
+							"Tutorial"
+						]
+					}
 				},
 				{
 					"title": "Session 2",
-					"speaker": {
-						"description": "Perspiciatis fugit aut sit molestiae voluptates ab.",
-						"title": "Sed et commodi aliquam architecto",
-						"user": {
-							"name": "Deonna",
-							"surname": "Bos",
-							"id": "5f0f6590-2ab9-4b4b-b420-496561430f76"
-						}
+					"uuid": "5fd26f40-4966-4fd5-b9d6-7280fb1f109f",
+					"time": {
+						"start": "10:15",
+						"end": "11:15",
+						"total": "10:15-11:15"
 					},
-					"time": "10:15-11:15"
+					"session": {
+						"description": "Quia laboriosam ut velit eaque dolores et temporibus iste accusamus cum doloremque officia est doloribus voluptas ut debitis explicabo molestiae sed aut tenetur perspiciatis sit excepturi illum recusandae optio quia est repellat amet illum amet eligendi eaque ab quidem culpa.",
+						"title": "Officiis ut voluptatem atque ea",
+						"speaker": {
+							"name": "Queenie",
+							"surname": "Van der Meer",
+							"uuid": "5fd26f40-ab3b-4f42-9bbc-058cc8f2149b",
+							"id": "3-1",
+							"image": {
+								"banner": "https://picsum.photos/seed/queenie_van_der_meer/400/200",
+								"thumb": "https://picsum.photos/seed/queenie_van_der_meer/200/200",
+								"large": "https://picsum.photos/seed/queenie_van_der_meer/800/400"
+							}
+						},
+						"tags": [
+							"Cloud",
+							"Cloud",
+							"Lecture",
+							"Masterclass"
+						]
+					}
 				},
 				{
 					"title": "Session 3",
-					"speaker": {
-						"description": "Et quia autem id dignissimos.",
-						"title": "Veniam voluptas explicabo minus nihil",
-						"user": {
-							"name": "Angle",
-							"surname": "De Boer",
-							"id": "5f0f6590-fcd4-4a67-83da-a045b53d0b08"
-						}
+					"uuid": "5fd26f40-3380-463c-baa2-3d2e833b979e",
+					"time": {
+						"start": "11:30",
+						"end": "12:30",
+						"total": "11:30-12:30"
 					},
-					"time": "11:30-12:30"
+					"session": {
+						"description": "Sed ut velit architecto eligendi vero molestias consequatur architecto odio est quia in suscipit voluptate ipsum non fuga delectus explicabo ut omnis necessitatibus molestiae quos est fuga aliquid officiis veritatis sed vel laborum corrupti illum eaque dolorum et nihil tenetur.",
+						"title": "Repudiandae officia velit cumque ipsam",
+						"speaker": {
+							"name": "Chantell",
+							"surname": "Jansen",
+							"uuid": "5fd26f40-3b14-46ce-a0bf-bfcc63be320d",
+							"id": "3-2",
+							"image": {
+								"banner": "https://picsum.photos/seed/chantell_jansen/400/200",
+								"thumb": "https://picsum.photos/seed/chantell_jansen/200/200",
+								"large": "https://picsum.photos/seed/chantell_jansen/800/400"
+							}
+						},
+						"tags": [
+							"Tutorial",
+							"Tutorial",
+							"AWS"
+						]
+					}
 				},
 				{
 					"title": "Session 4",
-					"speaker": {
-						"description": "Voluptatibus animi quas aliquam perferendis voluptatem atque.",
-						"title": "Id voluptatem aliquam dicta sint",
-						"user": {
-							"name": "Lowell",
-							"surname": "Van den Berg",
-							"id": "5f0f6590-18ac-43d2-b3bf-cc748d479507"
-						}
+					"uuid": "5fd26f40-056e-4305-a490-0feb81b6e701",
+					"time": {
+						"start": "13:30",
+						"end": "14:30",
+						"total": "13:30-14:30"
 					},
-					"time": "13:30-14:30"
+					"session": {
+						"description": "Iste recusandae corrupti laudantium corrupti voluptatibus qui veritatis beatae similique eveniet et sit accusantium itaque voluptatem itaque consectetur soluta optio neque magnam nesciunt eveniet quidem et sunt et excepturi beatae expedita temporibus eos sint qui omnis impedit molestiae veniam autem.",
+						"title": "Explicabo nihil quo quaerat voluptas",
+						"speaker": {
+							"name": "Slyvia",
+							"surname": "Van Dijk",
+							"uuid": "5fd26f40-e026-4d62-993d-20c96bec069e",
+							"id": "3-3",
+							"image": {
+								"banner": "https://picsum.photos/seed/slyvia_van_dijk/400/200",
+								"thumb": "https://picsum.photos/seed/slyvia_van_dijk/200/200",
+								"large": "https://picsum.photos/seed/slyvia_van_dijk/800/400"
+							}
+						},
+						"tags": []
+					}
 				},
 				{
 					"title": "Session 5",
-					"speaker": {
-						"description": "Qui aut libero odio nemo nulla ratione quia et.",
-						"title": "Voluptas dignissimos libero rem recusandae",
-						"user": {
-							"name": "Martin",
-							"surname": "De Wit",
-							"id": "5f0f6590-590f-40c9-8316-68a9d723eb2b"
-						}
+					"uuid": "5fd26f40-b926-472d-8ca8-cfa1662b9487",
+					"time": {
+						"start": "14:45",
+						"end": "15:45",
+						"total": "14:45-15:45"
 					},
-					"time": "14:45-15:45"
+					"session": {
+						"description": "Et id in dolores illo laboriosam qui maiores assumenda odit voluptates autem at in aut aut alias optio vel libero harum quia voluptatem nulla explicabo quis sit accusantium officiis et consequatur enim id ex est libero sit voluptatem sunt nam.",
+						"title": "Doloremque saepe eos est magnam",
+						"speaker": {
+							"name": "Chantell",
+							"surname": "Visser",
+							"uuid": "5fd26f40-4613-4eb8-8c5e-1f5d577eaa03",
+							"id": "3-4",
+							"image": {
+								"banner": "https://picsum.photos/seed/chantell_visser/400/200",
+								"thumb": "https://picsum.photos/seed/chantell_visser/200/200",
+								"large": "https://picsum.photos/seed/chantell_visser/800/400"
+							}
+						},
+						"tags": [
+							"Advertisement",
+							"Masterclass",
+							"Cloud",
+							"Tutorial",
+							"Discussion"
+						]
+					}
 				},
 				{
 					"title": "Session 6",
-					"speaker": {
-						"description": "Excepturi ut adipisci laudantium perspiciatis commodi sed enim.",
-						"title": "Eaque pariatur quibusdam et tenetur",
-						"user": {
-							"name": "Chantell",
-							"surname": "Van den Berg",
-							"id": "5f0f6590-dc61-4c1c-9e16-307d0cc85d57"
-						}
+					"uuid": "5fd26f40-5318-4a32-bf18-c38178c19737",
+					"time": {
+						"start": "16:00",
+						"end": "17:00",
+						"total": "16:00-17:00"
 					},
-					"time": "16:00-17:00"
+					"session": {
+						"description": "Et aut maiores ad a molestiae atque porro fugiat eveniet quidem accusantium vitae et esse aperiam veniam qui corporis voluptate est est perspiciatis et natus possimus ea minus et fugit perferendis fugit voluptatem quia id sit odit nihil aut reprehenderit.",
+						"title": "Dignissimos sit ratione voluptatem delectus",
+						"speaker": {
+							"name": "Martin",
+							"surname": "De Boer",
+							"uuid": "5fd26f40-201b-4f13-b8c8-7726a71f0ea1",
+							"id": "3-5",
+							"image": {
+								"banner": "https://picsum.photos/seed/martin_de_boer/400/200",
+								"thumb": "https://picsum.photos/seed/martin_de_boer/200/200",
+								"large": "https://picsum.photos/seed/martin_de_boer/800/400"
+							}
+						},
+						"tags": [
+							"Cloud",
+							"Cloud",
+							"Lecture",
+							"AWS"
+						]
+					}
 				}
 			]
 		}
 	],
-	"created": "2023-02-17 12:08:10",
+	"created": "2023-02-17 15:41:12",
 	"date": "2023-09-13"
 }

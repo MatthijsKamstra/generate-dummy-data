@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-9a2a-4ccd-8b3b-93f52a5cbc8b",
+	"bio": {
+		"name": "Zulma",
+		"surname": "Van der Meer",
+		"uuid": "5fd26f40-b6e5-4983-806b-2c55199ef4ec",
+		"bio": "Ea eaque rerum et rem excepturi.",
+		"id": "0-5",
+		"image": {
+			"banner": "https://picsum.photos/seed/zulma_van_der_meer/400/200",
+			"thumb": "https://picsum.photos/seed/zulma_van_der_meer/200/200",
+			"large": "https://picsum.photos/seed/zulma_van_der_meer/800/400"
+		}
+	},
+	"id": "0-5",
+	"created": "2023-02-17 15:41:12"
+}

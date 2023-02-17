@@ -1,0 +1,17 @@
+{
+	"uuid": "5fd26f40-5cb2-4f8f-8012-8c9cc5559a55",
+	"bio": {
+		"name": "Diedre",
+		"surname": "De Wit",
+		"uuid": "5fd26f40-302e-4ef0-b3e8-84e0a5172400",
+		"bio": "Maxime et enim.",
+		"id": "0-1",
+		"image": {
+			"banner": "https://picsum.photos/seed/diedre_de_wit/400/200",
+			"thumb": "https://picsum.photos/seed/diedre_de_wit/200/200",
+			"large": "https://picsum.photos/seed/diedre_de_wit/800/400"
+		}
+	},
+	"id": "0-1",
+	"created": "2023-02-17 15:41:12"
+}
