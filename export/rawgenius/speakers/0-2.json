@@ -1,23 +1,23 @@
 {
-	"uuid": "6e455d08-7e00-4e2a-8515-ded14a2eec3f",
+	"uuid": "6ef845d0-9346-4e76-a81a-4fc415409895",
 	"bio": {
-		"name": "Deonna",
-		"surname": "Van Dijk",
-		"uuid": "6e455d08-ee81-4840-a121-6b9b17e429ab",
-		"bio": "Neque distinctio consequatur id inventore non minus veniam voluptates est animi adipisci impedit qui doloremque voluptatem et nostrum aut veritatis eius temporibus mollitia magnam cupiditate quia exercitationem et aliquam ratione quaerat veritatis est voluptas iure quisquam doloremque debitis eligendi et odio explicabo non est perferendis id quia sequi dicta libero voluptatem nesciunt fugiat nam sint omnis exercitationem exercitationem et voluptas.",
+		"name": "Elina",
+		"surname": "Vos",
+		"uuid": "6ef845d0-7b8b-4289-8f52-8d3a790869c4",
+		"bio": "Est voluptas illo quam quam ipsam eos impedit delectus quo nam quibusdam impedit non non dolor expedita alias ab harum sunt ut nihil non aut quis qui cum odio quis tenetur occaecati esse nisi dolore laudantium rem nisi iste doloribus autem voluptatum dolor praesentium minima sint velit facilis autem consequatur sunt facere eaque dignissimos iure rerum doloremque dolor voluptas commodi.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/deonna_van_dijk",
-			"github": "https://github.com/deonna_van_dijk",
-			"instagram": "https://www.instagram.com/deonna_van_dijk",
-			"twitter": "https://twitter.com/deonna_van_dijk"
+			"linkedin": "https://www.linkedin.com/in/elina_vos",
+			"github": "https://github.com/elina_vos",
+			"instagram": "https://www.instagram.com/elina_vos",
+			"twitter": "https://twitter.com/elina_vos"
 		},
 		"id": "0-2",
 		"image": {
-			"banner": "https://picsum.photos/seed/deonna_van_dijk/400/200",
-			"thumb": "https://picsum.photos/seed/deonna_van_dijk/200/200",
-			"large": "https://picsum.photos/seed/deonna_van_dijk/800/400"
+			"banner": "https://picsum.photos/seed/elina_vos/400/200",
+			"thumb": "https://picsum.photos/seed/elina_vos/200/200",
+			"large": "https://picsum.photos/seed/elina_vos/800/400"
 		}
 	},
 	"id": "0-2",
-	"created": "2023-02-20 11:01:25"
+	"created": "2023-02-20 14:16:50"
 }

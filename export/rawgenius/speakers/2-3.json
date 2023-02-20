@@ -1,23 +1,23 @@
 {
-	"uuid": "6e455d08-82dd-4de0-9ab2-9671b2b25444",
+	"uuid": "6ef845d0-8fb1-4d4b-a4bb-334e1497c4dd",
 	"bio": {
-		"name": "Slyvia",
-		"surname": "Mulder",
-		"uuid": "6e455d08-b4cf-449b-ac91-7a80299a000d",
-		"bio": "Ea non sint aut cupiditate molestiae esse numquam rerum magnam nesciunt dolore veniam dolores rerum quas magnam quas sunt temporibus veniam eos est eius molestiae voluptatibus et et veniam nihil ea molestiae eos autem sit et eveniet animi quisquam magni nisi ea aspernatur non rerum cumque quis est soluta dolore adipisci voluptatem debitis rerum aut dicta debitis quia ut eum.",
+		"name": "Jeff",
+		"surname": "Visser",
+		"uuid": "6ef845d0-7375-4926-b1b8-cc878daaa61f",
+		"bio": "Facilis laboriosam veniam optio earum veritatis error tempore tenetur inventore quibusdam modi magni omnis ducimus magnam illum illo animi delectus officia sunt aperiam pariatur consequatur quam perferendis suscipit molestias quia in non rerum provident sed consequatur hic accusamus architecto atque dolores sed quis laborum cumque impedit ut sint consequatur sit ut odit itaque ducimus unde autem magni quibusdam dicta laudantium.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/slyvia_mulder",
-			"github": "https://github.com/slyvia_mulder",
-			"instagram": "https://www.instagram.com/slyvia_mulder",
-			"twitter": "https://twitter.com/slyvia_mulder"
+			"linkedin": "https://www.linkedin.com/in/jeff_visser",
+			"github": "https://github.com/jeff_visser",
+			"instagram": "https://www.instagram.com/jeff_visser",
+			"twitter": "https://twitter.com/jeff_visser"
 		},
 		"id": "2-3",
 		"image": {
-			"banner": "https://picsum.photos/seed/slyvia_mulder/400/200",
-			"thumb": "https://picsum.photos/seed/slyvia_mulder/200/200",
-			"large": "https://picsum.photos/seed/slyvia_mulder/800/400"
+			"banner": "https://picsum.photos/seed/jeff_visser/400/200",
+			"thumb": "https://picsum.photos/seed/jeff_visser/200/200",
+			"large": "https://picsum.photos/seed/jeff_visser/800/400"
 		}
 	},
 	"id": "2-3",
-	"created": "2023-02-20 11:01:25"
+	"created": "2023-02-20 14:16:50"
 }

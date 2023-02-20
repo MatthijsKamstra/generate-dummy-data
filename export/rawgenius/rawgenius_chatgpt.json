@@ -9,13 +9,11 @@
 						"total": "09:00-10:00"
 					},
 					"session": {
-						"description": "Cumque dicta facilis voluptates odio eaque illo sed autem eligendi voluptatem debitis impedit nesciunt assumenda architecto velit inventore voluptatem officiis reiciendis hic repellendus qui quo dolores totam ex vel quia illo similique enim et sunt veniam qui ipsa odit enim.",
-						"title": "Expedita quisquam quas est quibusdam",
+						"description": "Deleniti vel numquam voluptatum beatae fuga voluptatem voluptas voluptatibus itaque nam quo numquam velit non vero fugiat corporis libero magnam quo ut officia non facere omnis quis inventore dolorum rerum sunt placeat nemo sed tempora illo est exercitationem ut nemo.",
+						"title": "A dolor eaque nemo ullam",
 						"tags": [
-							"Masterclass",
-							"Discussion",
-							"AWS",
-							"Cloud"
+							"Cloud",
+							"Discussion"
 						]
 					}
 				},
@@ -25,10 +23,14 @@
 						"total": "10:15-11:15"
 					},
 					"session": {
-						"description": "Et provident debitis debitis et officiis eos odio tenetur cum corrupti temporibus cupiditate dolor quae neque cum quod suscipit ipsum sint corrupti similique ipsum omnis necessitatibus in fuga et velit adipisci aperiam rerum sit maxime nesciunt at excepturi odio cupiditate.",
-						"title": "Laborum aut ab ea quos",
+						"description": "In error et perferendis voluptas nihil aut non quasi labore est amet dolores reprehenderit aliquam et suscipit sunt modi pariatur consequuntur voluptatem ipsum perferendis molestias eum et rerum placeat qui eos et cum aut numquam nesciunt id nemo esse expedita.",
+						"title": "Quo doloribus dolores facere consequuntur",
 						"tags": [
-							"Lecture"
+							"Advertisement",
+							"Masterclass",
+							"AWS",
+							"Lecture",
+							"Discussion"
 						]
 					}
 				},
@@ -38,54 +40,63 @@
 						"total": "11:30-12:30"
 					},
 					"session": {
-						"description": "Qui dolorem quae et accusamus eum earum velit quia non dolor id illo vel atque non inventore et illum temporibus ducimus neque ex maiores esse iure aliquid veritatis ea ut eius accusamus sit ducimus est et officia eaque corporis sunt.",
-						"title": "Asperiores temporibus accusantium ipsa expedita",
+						"description": "Ut vel cupiditate minus minus ut porro voluptatem possimus ratione aut explicabo et voluptatem in et voluptatem velit aut sit eligendi delectus ratione optio vel qui atque aut exercitationem aliquid veniam facilis provident velit expedita unde fuga non est voluptatem.",
+						"title": "Culpa impedit voluptates quam quos",
 						"tags": [
+							"Tutorial",
 							"Cloud",
-							"Advertisement",
-							"Masterclass",
-							"Lecture"
-						]
-					}
-				},
-				{
-					"title": "Session 4",
-					"time": {
-						"total": "13:30-14:30"
-					},
-					"session": {
-						"description": "Facilis ea atque mollitia doloribus reiciendis earum autem sit eos sint ullam commodi alias ipsa perspiciatis odit nulla temporibus eveniet dolor maiores sunt vero consequuntur odit ducimus quia asperiores nulla consequatur ipsum ipsum eaque possimus ab recusandae sint itaque accusantium.",
-						"title": "Quam adipisci ratione soluta hic",
-						"tags": [
-							"Lecture",
 							"AWS"
 						]
 					}
 				},
 				{
+					"title": "Lunch Break",
+					"time": {
+						"total": "12:30-13:30"
+					}
+				},
+				{
 					"title": "Session 5",
 					"time": {
-						"total": "14:45-15:45"
+						"total": "13:30-14:30"
 					},
 					"session": {
-						"description": "Explicabo et quisquam est vitae dolorem quod soluta non labore consequatur ipsum adipisci nulla molestiae iusto pariatur et nemo pariatur rerum atque maiores ea nostrum mollitia ad illum nostrum sint dolores iusto aut libero quas unde officiis corporis voluptate voluptas.",
-						"title": "Ea et est et autem",
+						"description": "Magnam rerum harum dolorum voluptatem quaerat quia et eos odit omnis aliquam repellendus laudantium hic neque eum eos tempore nisi vitae excepturi hic nulla quia et optio alias quod eum quia sit id id consequatur quas vel distinctio quidem laboriosam.",
+						"title": "Ipsa at est consequuntur ut",
 						"tags": [
-							"Tutorial",
-							"Lecture",
-							"Discussion"
+							"Lecture"
 						]
 					}
 				},
 				{
 					"title": "Session 6",
 					"time": {
+						"total": "14:45-15:45"
+					},
+					"session": {
+						"description": "Repellendus aliquam reiciendis eum debitis ut modi aliquid iure animi repellat tenetur amet et nesciunt commodi adipisci dolorem veritatis aut reprehenderit enim iste delectus dolores blanditiis et iste iusto omnis mollitia nihil iure laboriosam nihil eius rerum nesciunt consequatur non.",
+						"title": "Aut ab accusantium eos est",
+						"tags": [
+							"Cloud",
+							"Lecture",
+							"Masterclass",
+							"Discussion",
+							"Advertisement"
+						]
+					}
+				},
+				{
+					"title": "Session 7",
+					"time": {
 						"total": "16:00-17:00"
 					},
 					"session": {
-						"description": "In enim non nisi corrupti inventore sint itaque iusto quis cupiditate qui esse deleniti fuga vel rerum hic quae omnis alias eum aperiam ullam ipsum sit est nemo aut eum facilis temporibus at aliquid placeat aut illum quia quia sed.",
-						"title": "Aut et aspernatur culpa eligendi",
-						"tags": []
+						"description": "Ullam eum neque adipisci in quia ea ex quo et mollitia iure nemo dolores a numquam aut ut saepe architecto qui modi quia minima et minus facilis et fugit quae eos sed sit ut quis provident minima repudiandae quam magnam.",
+						"title": "Aut quis autem minima eos",
+						"tags": [
+							"Cloud",
+							"Advertisement"
+						]
 					}
 				}
 			]
@@ -99,11 +110,11 @@
 						"total": "09:00-10:00"
 					},
 					"session": {
-						"description": "Sint labore cum nihil voluptatibus ea facilis distinctio explicabo explicabo explicabo voluptatem asperiores beatae voluptatem quaerat voluptatem occaecati ut fuga qui officiis officia debitis est et nostrum non quos labore dolores eum libero rerum consectetur quis explicabo dignissimos voluptas aliquam.",
-						"title": "Ipsam eum vero architecto non",
+						"description": "Error ab consequatur sed illum consequatur voluptas consequatur nemo consectetur voluptas iure ab nihil sunt laborum labore soluta reprehenderit magni voluptatem nostrum quia doloremque veniam id nam est doloremque asperiores veniam et voluptatem repudiandae ipsum autem eveniet autem et ut.",
+						"title": "Ratione expedita ab impedit odit",
 						"tags": [
-							"AWS",
-							"Discussion"
+							"Advertisement",
+							"Masterclass"
 						]
 					}
 				},
@@ -113,9 +124,12 @@
 						"total": "10:15-11:15"
 					},
 					"session": {
-						"description": "Aut et ut quia nihil voluptate consequuntur error tempora et aut officia nesciunt ab assumenda et maiores voluptatum dolorem eum quis repellendus et modi atque eos temporibus voluptatem quod et ut eaque quaerat ullam aliquid odio reiciendis facilis atque culpa.",
-						"title": "Occaecati voluptates et ea qui",
-						"tags": []
+						"description": "Eum aliquam quia impedit voluptatum molestiae inventore reiciendis quia ab fuga a quos fuga debitis blanditiis possimus iusto inventore consectetur officiis repellendus porro eum et laborum id perspiciatis est facere amet unde consequuntur voluptatem autem non non nobis repellendus voluptates.",
+						"title": "Nisi libero soluta est veniam",
+						"tags": [
+							"Cloud",
+							"Lecture"
+						]
 					}
 				},
 				{
@@ -124,54 +138,66 @@
 						"total": "11:30-12:30"
 					},
 					"session": {
-						"description": "Quos rem quis maiores ut quaerat nulla quia odit ut sint est quia quam sint illum dolores impedit itaque voluptas repudiandae quis error aperiam ducimus quis tempore ducimus consequatur et asperiores alias consequatur illo amet ut quisquam qui dolorem amet.",
-						"title": "Eum asperiores et reiciendis id",
-						"tags": [
-							"Advertisement"
-						]
+						"description": "Quia libero vero in deleniti non ea ducimus facilis aut commodi molestiae non soluta tempore incidunt quia est odit sed recusandae possimus sint ex et vel rerum possimus excepturi sapiente dolorem dolorum est et aut incidunt veniam sunt occaecati maiores.",
+						"title": "Expedita qui qui vel dolore",
+						"tags": []
 					}
 				},
 				{
-					"title": "Session 4",
+					"title": "Lunch Break",
 					"time": {
-						"total": "13:30-14:30"
-					},
-					"session": {
-						"description": "Qui qui ea dolorum autem cumque atque et voluptatibus inventore nihil deserunt velit animi delectus maiores totam ex dolorem mollitia quis dolorem sed quisquam sit dolores atque aliquid ipsa hic nulla atque harum nemo commodi non repellat quisquam reiciendis cum.",
-						"title": "Consequuntur aut quos non molestiae",
-						"tags": [
-							"Discussion"
-						]
+						"total": "12:30-13:30"
 					}
 				},
 				{
 					"title": "Session 5",
 					"time": {
-						"total": "14:45-15:45"
+						"total": "13:30-14:30"
 					},
 					"session": {
-						"description": "Et sed reiciendis qui nulla ut qui quis facilis commodi enim et velit temporibus autem eum nesciunt maiores voluptatem aliquam consectetur hic tempore est dolores officia facilis eum vel recusandae consequatur deserunt nulla sunt labore est dicta aut qui quis.",
-						"title": "Distinctio non quasi et sint",
-						"tags": []
+						"description": "Aliquam ut veritatis maxime sint est voluptatibus rerum aut facilis non id facere quia hic quia perspiciatis tempore dolores velit eos omnis illum cupiditate maiores eaque commodi iusto autem perferendis laboriosam quia iure maiores est consequuntur quas vel maiores enim.",
+						"title": "Veniam recusandae vel nisi numquam",
+						"tags": [
+							"Advertisement",
+							"Tutorial"
+						]
 					}
 				},
 				{
 					"title": "Session 6",
 					"time": {
+						"total": "14:45-15:45"
+					},
+					"session": {
+						"description": "Id aut vitae dolorem dicta laudantium et voluptatem consectetur sit ea corrupti totam culpa et itaque aliquam libero quis quia repellendus laudantium quae ipsam esse et dicta asperiores aliquam aliquam qui officia minima ea eos ut tempore quis qui maxime.",
+						"title": "Non necessitatibus ipsam quam odio",
+						"tags": [
+							"Advertisement",
+							"AWS",
+							"Tutorial"
+						]
+					}
+				},
+				{
+					"title": "Session 7",
+					"time": {
 						"total": "16:00-17:00"
 					},
 					"session": {
-						"description": "Ex porro rerum quia neque aspernatur in pariatur ea beatae reprehenderit suscipit ut vel facere sapiente labore reiciendis voluptas repudiandae voluptatem voluptatibus aliquid laboriosam fugit ut fugit error ut doloremque sint molestiae delectus quia magnam illo aperiam temporibus placeat dolor.",
-						"title": "Officiis cum ullam asperiores possimus",
+						"description": "Debitis eligendi laborum molestiae voluptatem quo sit animi et et et quasi eveniet quis incidunt voluptas consectetur quam tenetur ut nostrum suscipit nemo optio non amet possimus aut vero quia soluta repellendus et a est hic eum animi expedita libero.",
+						"title": "Consectetur ad ut numquam est",
 						"tags": [
-							"AWS",
-							"Masterclass"
+							"Lecture",
+							"Discussion",
+							"Advertisement",
+							"Masterclass",
+							"Cloud"
 						]
 					}
 				}
 			]
 		}
 	],
-	"created": "2023-02-20 11:01:25",
+	"created": "2023-02-20 14:16:50",
 	"date": "2023-09-13"
 }

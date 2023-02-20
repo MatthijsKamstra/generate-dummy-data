@@ -1,23 +1,23 @@
 {
-	"uuid": "6e455d08-2a81-4ae7-aa8e-a502ff099de9",
+	"uuid": "6ef845d0-6b24-4d08-aa8e-3272228277a5",
 	"bio": {
-		"name": "Jarrod",
-		"surname": "De Graaf",
-		"uuid": "6e455d08-ff48-4155-9131-388550d06e7f",
-		"bio": "Placeat ducimus non enim et sit laborum eum iste atque sit beatae voluptates repudiandae ea totam nostrum vel nemo omnis at dolores sed optio alias soluta consequatur provident rem dicta velit qui voluptates sit aut illo harum porro reiciendis quidem dolorem vel ex quo quia ut magni quod et vel porro ipsa nostrum blanditiis corrupti est perspiciatis earum in fugit.",
+		"name": "Queenie",
+		"surname": "De Boer",
+		"uuid": "6ef845d0-2033-42ca-afe0-6abbc1c9ad2e",
+		"bio": "Sunt nesciunt beatae esse eveniet unde eligendi earum mollitia consectetur autem nam aut et nihil nisi alias quia aut nesciunt similique animi ex porro perspiciatis reprehenderit sunt voluptatem nam necessitatibus quisquam et nesciunt est excepturi minus est aut quis cum qui sapiente aut deleniti qui magnam ipsa culpa dolorum vitae veniam eveniet commodi sint expedita quae ex quia fugiat non.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/jarrod_de_graaf",
-			"github": "https://github.com/jarrod_de_graaf",
-			"instagram": "https://www.instagram.com/jarrod_de_graaf",
-			"twitter": "https://twitter.com/jarrod_de_graaf"
+			"linkedin": "https://www.linkedin.com/in/queenie_de_boer",
+			"github": "https://github.com/queenie_de_boer",
+			"instagram": "https://www.instagram.com/queenie_de_boer",
+			"twitter": "https://twitter.com/queenie_de_boer"
 		},
 		"id": "0-1",
 		"image": {
-			"banner": "https://picsum.photos/seed/jarrod_de_graaf/400/200",
-			"thumb": "https://picsum.photos/seed/jarrod_de_graaf/200/200",
-			"large": "https://picsum.photos/seed/jarrod_de_graaf/800/400"
+			"banner": "https://picsum.photos/seed/queenie_de_boer/400/200",
+			"thumb": "https://picsum.photos/seed/queenie_de_boer/200/200",
+			"large": "https://picsum.photos/seed/queenie_de_boer/800/400"
 		}
 	},
 	"id": "0-1",
-	"created": "2023-02-20 11:01:25"
+	"created": "2023-02-20 14:16:50"
 }

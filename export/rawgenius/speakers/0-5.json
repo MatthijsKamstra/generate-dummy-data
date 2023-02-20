@@ -1,23 +1,23 @@
 {
-	"uuid": "6e455d08-eb89-4346-88af-5349e2aa4b45",
+	"uuid": "6ef845d0-1c9d-415d-9c92-a64ea3fb77bb",
 	"bio": {
-		"name": "Queenie",
-		"surname": "Dekker",
-		"uuid": "6e455d08-d3c5-4f07-a25f-abf0958c6e77",
-		"bio": "Laborum laborum cupiditate non dolor accusamus dolorem debitis reiciendis repellat laudantium sint id qui quod repellat odit quos et odit quaerat est officiis facilis et quia velit consequatur iusto voluptatem explicabo fuga doloremque nesciunt qui minus et quam aut voluptatibus quam consequatur dolores rerum maiores inventore ipsum ad voluptatem sunt doloremque est maxime sed velit aut rerum vero molestiae aut.",
+		"name": "Chantell",
+		"surname": "Meijer",
+		"uuid": "6ef845d0-5144-4199-a9ac-041f654a655f",
+		"bio": "Consequatur aut consequatur dignissimos mollitia doloribus quibusdam explicabo sunt facilis adipisci tenetur qui laudantium culpa expedita consequuntur cumque in autem minus ipsa explicabo similique accusantium voluptatibus distinctio est quos quo et veritatis quia et nulla eligendi ut aut voluptatum et et qui eum non odit eum ea et totam sed aliquam explicabo minima iste beatae nisi consequatur dolores vel necessitatibus.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/queenie_dekker",
-			"github": "https://github.com/queenie_dekker",
-			"instagram": "https://www.instagram.com/queenie_dekker",
-			"twitter": "https://twitter.com/queenie_dekker"
+			"linkedin": "https://www.linkedin.com/in/chantell_meijer",
+			"github": "https://github.com/chantell_meijer",
+			"instagram": "https://www.instagram.com/chantell_meijer",
+			"twitter": "https://twitter.com/chantell_meijer"
 		},
 		"id": "0-5",
 		"image": {
-			"banner": "https://picsum.photos/seed/queenie_dekker/400/200",
-			"thumb": "https://picsum.photos/seed/queenie_dekker/200/200",
-			"large": "https://picsum.photos/seed/queenie_dekker/800/400"
+			"banner": "https://picsum.photos/seed/chantell_meijer/400/200",
+			"thumb": "https://picsum.photos/seed/chantell_meijer/200/200",
+			"large": "https://picsum.photos/seed/chantell_meijer/800/400"
 		}
 	},
 	"id": "0-5",
-	"created": "2023-02-20 11:01:25"
+	"created": "2023-02-20 14:16:50"
 }

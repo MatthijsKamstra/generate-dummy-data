@@ -1,23 +1,23 @@
 {
-	"uuid": "6e455d08-8524-414d-a90e-67829cf501a9",
+	"uuid": "6ef845d0-c5c4-48ea-b464-7ad5628b1055",
 	"bio": {
-		"name": "Angle",
-		"surname": "Brouwer",
-		"uuid": "6e455d08-c953-4e43-84f9-14b86853032e",
-		"bio": "Eos sed qui soluta odit quas tempore ad dolorem quia quae alias incidunt similique saepe illum possimus eos alias accusantium voluptate non consectetur ullam sit similique labore fuga quia corrupti quas voluptatem quisquam dignissimos ut blanditiis esse et libero quo voluptas soluta expedita et quas quia provident occaecati in a iste praesentium vel ut rerum a amet aut cumque accusantium.",
+		"name": "Kortney",
+		"surname": "Dijkstra",
+		"uuid": "6ef845d0-20b0-4390-9c2b-7e316f469187",
+		"bio": "Nam voluptates tenetur qui modi magnam quia doloribus mollitia numquam rerum sunt vel temporibus asperiores quia laudantium maxime velit nostrum quam laborum qui consectetur aliquam libero eaque aliquid explicabo ad quis ut non laudantium numquam deleniti velit ut voluptas odio repudiandae omnis ducimus architecto accusamus repellendus numquam nesciunt quo odit commodi natus veniam rerum alias atque voluptatum vero voluptatibus alias.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/angle_brouwer",
-			"github": "https://github.com/angle_brouwer",
-			"instagram": "https://www.instagram.com/angle_brouwer",
-			"twitter": "https://twitter.com/angle_brouwer"
+			"linkedin": "https://www.linkedin.com/in/kortney_dijkstra",
+			"github": "https://github.com/kortney_dijkstra",
+			"instagram": "https://www.instagram.com/kortney_dijkstra",
+			"twitter": "https://twitter.com/kortney_dijkstra"
 		},
 		"id": "0-0",
 		"image": {
-			"banner": "https://picsum.photos/seed/angle_brouwer/400/200",
-			"thumb": "https://picsum.photos/seed/angle_brouwer/200/200",
-			"large": "https://picsum.photos/seed/angle_brouwer/800/400"
+			"banner": "https://picsum.photos/seed/kortney_dijkstra/400/200",
+			"thumb": "https://picsum.photos/seed/kortney_dijkstra/200/200",
+			"large": "https://picsum.photos/seed/kortney_dijkstra/800/400"
 		}
 	},
 	"id": "0-0",
-	"created": "2023-02-20 11:01:25"
+	"created": "2023-02-20 14:16:50"
 }

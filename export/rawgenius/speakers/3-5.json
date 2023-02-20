@@ -1,23 +1,23 @@
 {
-	"uuid": "6e455d08-dc91-41c2-ab8a-059333ee5646",
+	"uuid": "6ef845d0-5780-4ba5-a2d1-c6114bc72d6e",
 	"bio": {
-		"name": "Martin",
-		"surname": "De Wit",
-		"uuid": "6e455d08-111c-498b-b21c-b2bec3cb6f71",
-		"bio": "Dolor qui consequatur incidunt fugiat laboriosam eaque molestias eos voluptas veritatis dolores ab aliquam itaque quas officia reiciendis mollitia excepturi aliquid inventore omnis ipsa porro a omnis occaecati similique molestiae doloribus accusantium autem nulla et reiciendis recusandae qui et commodi modi quas fugit explicabo earum illo autem vitae quibusdam odio id non eius atque odio quia est at rerum magni.",
+		"name": "Shaina",
+		"surname": "Hendriks",
+		"uuid": "6ef845d0-8d6a-4b54-868e-d1af38bc9a75",
+		"bio": "Et necessitatibus impedit reiciendis hic et ut porro aut fugiat et ut provident illum illo tenetur sequi maiores sint et itaque quo eos quas et ipsa dicta voluptas tempora ex repellendus voluptatem commodi quia officiis voluptas laboriosam non nulla tempora consequuntur culpa ab optio aliquam nostrum recusandae eaque nisi inventore magnam adipisci beatae ad rerum inventore totam esse neque sunt.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/martin_de_wit",
-			"github": "https://github.com/martin_de_wit",
-			"instagram": "https://www.instagram.com/martin_de_wit",
-			"twitter": "https://twitter.com/martin_de_wit"
+			"linkedin": "https://www.linkedin.com/in/shaina_hendriks",
+			"github": "https://github.com/shaina_hendriks",
+			"instagram": "https://www.instagram.com/shaina_hendriks",
+			"twitter": "https://twitter.com/shaina_hendriks"
 		},
 		"id": "3-5",
 		"image": {
-			"banner": "https://picsum.photos/seed/martin_de_wit/400/200",
-			"thumb": "https://picsum.photos/seed/martin_de_wit/200/200",
-			"large": "https://picsum.photos/seed/martin_de_wit/800/400"
+			"banner": "https://picsum.photos/seed/shaina_hendriks/400/200",
+			"thumb": "https://picsum.photos/seed/shaina_hendriks/200/200",
+			"large": "https://picsum.photos/seed/shaina_hendriks/800/400"
 		}
 	},
 	"id": "3-5",
-	"created": "2023-02-20 11:01:25"
+	"created": "2023-02-20 14:16:50"
 }

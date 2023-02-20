@@ -1,23 +1,23 @@
 {
-	"uuid": "6e455d08-360b-4bd0-aa60-f76014e9a18d",
+	"uuid": "6ef845d0-d205-431d-a7ed-f75c45a96211",
 	"bio": {
-		"name": "Queenie",
-		"surname": "De Vries",
-		"uuid": "6e455d08-2fdd-48fd-9a3a-6b7c6eb5cb67",
-		"bio": "Rem commodi eum ducimus aut asperiores quia ea ab debitis est animi eius aspernatur nesciunt non ea voluptatem sed provident harum facere quia provident sunt sint ratione magnam sunt vel sunt dolorem sint ut iure aut magni qui enim minus repellat tempore est quo enim aut et magnam officia occaecati sit dignissimos veritatis error impedit iure rerum eum sed voluptatem.",
+		"name": "Alysa",
+		"surname": "Janssen",
+		"uuid": "6ef845d0-f840-46f4-b92b-a43850b5c649",
+		"bio": "Quis occaecati aut dolor blanditiis ut laudantium magni libero necessitatibus aut mollitia voluptatum recusandae quam aliquid temporibus dolores incidunt et esse voluptas in eos ratione deleniti ut sed sed aliquam unde est quo nemo aut dolorem est inventore consequatur quidem architecto nisi tenetur fugiat neque illum odio ut doloribus saepe nihil accusantium quia maiores error ut dicta sit porro sed.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/queenie_de_vries",
-			"github": "https://github.com/queenie_de_vries",
-			"instagram": "https://www.instagram.com/queenie_de_vries",
-			"twitter": "https://twitter.com/queenie_de_vries"
+			"linkedin": "https://www.linkedin.com/in/alysa_janssen",
+			"github": "https://github.com/alysa_janssen",
+			"instagram": "https://www.instagram.com/alysa_janssen",
+			"twitter": "https://twitter.com/alysa_janssen"
 		},
 		"id": "3-3",
 		"image": {
-			"banner": "https://picsum.photos/seed/queenie_de_vries/400/200",
-			"thumb": "https://picsum.photos/seed/queenie_de_vries/200/200",
-			"large": "https://picsum.photos/seed/queenie_de_vries/800/400"
+			"banner": "https://picsum.photos/seed/alysa_janssen/400/200",
+			"thumb": "https://picsum.photos/seed/alysa_janssen/200/200",
+			"large": "https://picsum.photos/seed/alysa_janssen/800/400"
 		}
 	},
 	"id": "3-3",
-	"created": "2023-02-20 11:01:25"
+	"created": "2023-02-20 14:16:50"
 }

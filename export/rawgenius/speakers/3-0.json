@@ -1,23 +1,23 @@
 {
-	"uuid": "6e455d08-18ea-4ad4-bc7b-6dcd5bc4420a",
+	"uuid": "6ef845d0-c7dc-46f9-b8ed-275f3d7f9636",
 	"bio": {
-		"name": "Lowell",
-		"surname": "Jansen",
-		"uuid": "6e455d08-f21e-4e1a-8a0c-1119c8227b55",
-		"bio": "Ducimus ad eaque fugit esse minima maxime neque accusamus est fugiat ducimus rerum nulla repellat iure nemo deleniti sed voluptatem corporis dolores animi quisquam dolorem voluptatem iure aut molestias incidunt maiores quo rerum omnis aliquid facere culpa earum deleniti quibusdam pariatur omnis repudiandae ut quisquam nobis dolor aut officiis voluptas vitae corrupti delectus laudantium est et minus suscipit velit vero.",
+		"name": "Corazon",
+		"surname": "Bos",
+		"uuid": "6ef845d0-fcca-48a6-9c3c-525174af2b14",
+		"bio": "Aut et sint perferendis autem autem veniam cupiditate nihil voluptate voluptate quis incidunt nulla optio laudantium et mollitia et quam odio labore vel quam voluptatibus sequi temporibus esse nisi quia quibusdam perspiciatis corporis est culpa voluptatem rem repellat nihil aliquam sint asperiores veritatis quis amet in id non iusto sed sunt aperiam laborum voluptates eius autem sequi minima necessitatibus rem.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/lowell_jansen",
-			"github": "https://github.com/lowell_jansen",
-			"instagram": "https://www.instagram.com/lowell_jansen",
-			"twitter": "https://twitter.com/lowell_jansen"
+			"linkedin": "https://www.linkedin.com/in/corazon_bos",
+			"github": "https://github.com/corazon_bos",
+			"instagram": "https://www.instagram.com/corazon_bos",
+			"twitter": "https://twitter.com/corazon_bos"
 		},
 		"id": "3-0",
 		"image": {
-			"banner": "https://picsum.photos/seed/lowell_jansen/400/200",
-			"thumb": "https://picsum.photos/seed/lowell_jansen/200/200",
-			"large": "https://picsum.photos/seed/lowell_jansen/800/400"
+			"banner": "https://picsum.photos/seed/corazon_bos/400/200",
+			"thumb": "https://picsum.photos/seed/corazon_bos/200/200",
+			"large": "https://picsum.photos/seed/corazon_bos/800/400"
 		}
 	},
 	"id": "3-0",
-	"created": "2023-02-20 11:01:25"
+	"created": "2023-02-20 14:16:50"
 }

@@ -1,5 +1,5 @@
 /**
- * Generated with TypescriptJsonDef (version 0.1.2) on 2023-02-20 11:01:25
+ * Generated with TypescriptJsonDef (version 0.1.2) on 2023-02-20 14:16:50
  * from: ISchedule
  * 
  * AST = Abstract Syntax Tree
@@ -42,14 +42,14 @@ export interface Time {
 
 /**
 {
-  "name": "Angle",
-  "surname": "Brouwer",
-  "uuid": "6e455d08-c953-4e43-84f9-14b86853032e",
+  "name": "Kortney",
+  "surname": "Dijkstra",
+  "uuid": "6ef845d0-20b0-4390-9c2b-7e316f469187",
   "id": "0-0",
   "image": {
-    "banner": "https://picsum.photos/seed/angle_brouwer/400/200",
-    "thumb": "https://picsum.photos/seed/angle_brouwer/200/200",
-    "large": "https://picsum.photos/seed/angle_brouwer/800/400"
+    "banner": "https://picsum.photos/seed/kortney_dijkstra/400/200",
+    "thumb": "https://picsum.photos/seed/kortney_dijkstra/200/200",
+    "large": "https://picsum.photos/seed/kortney_dijkstra/800/400"
   }
 }
 */
@@ -91,9 +91,9 @@ export interface Rooms {
 
 /**
 {
-  "banner": "https://picsum.photos/seed/angle_brouwer/400/200",
-  "thumb": "https://picsum.photos/seed/angle_brouwer/200/200",
-  "large": "https://picsum.photos/seed/angle_brouwer/800/400"
+  "banner": "https://picsum.photos/seed/kortney_dijkstra/400/200",
+  "thumb": "https://picsum.photos/seed/kortney_dijkstra/200/200",
+  "large": "https://picsum.photos/seed/kortney_dijkstra/800/400"
 }
 */
 export interface Image {

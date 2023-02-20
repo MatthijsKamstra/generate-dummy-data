@@ -1,23 +1,23 @@
 {
-	"uuid": "6e455d08-6edc-4a7a-a2a3-a02605924100",
+	"uuid": "6ef845d0-dbea-46d0-9def-120e350507fb",
 	"bio": {
-		"name": "Zulma",
-		"surname": "Mulder",
-		"uuid": "6e455d08-34cd-4953-8193-6d6cdae80aa7",
-		"bio": "Non ullam animi est beatae iure atque eum exercitationem qui delectus maiores et ex sunt quis assumenda sit alias voluptas aspernatur in aut sequi perferendis esse aliquid autem facilis eum aliquid soluta maiores magni deserunt aut et odit et nobis eum accusantium sed perferendis hic in aliquam sed rerum excepturi suscipit id est ut commodi pariatur alias et ad accusamus.",
+		"name": "Lowell",
+		"surname": "De Wit",
+		"uuid": "6ef845d0-a78d-4468-9304-224a1a30846c",
+		"bio": "Est maxime voluptate molestias maiores voluptas eligendi corporis sed hic ipsum temporibus et fuga reiciendis aut dolores eaque voluptate qui iusto pariatur nostrum perferendis nesciunt consequatur ipsam soluta dolorem et quis deserunt sed similique id quod et vel et et vel omnis et veniam quasi corrupti velit nulla laborum ad amet delectus laboriosam quae quam ea molestiae modi doloremque odio.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/zulma_mulder",
-			"github": "https://github.com/zulma_mulder",
-			"instagram": "https://www.instagram.com/zulma_mulder",
-			"twitter": "https://twitter.com/zulma_mulder"
+			"linkedin": "https://www.linkedin.com/in/lowell_de_wit",
+			"github": "https://github.com/lowell_de_wit",
+			"instagram": "https://www.instagram.com/lowell_de_wit",
+			"twitter": "https://twitter.com/lowell_de_wit"
 		},
 		"id": "2-1",
 		"image": {
-			"banner": "https://picsum.photos/seed/zulma_mulder/400/200",
-			"thumb": "https://picsum.photos/seed/zulma_mulder/200/200",
-			"large": "https://picsum.photos/seed/zulma_mulder/800/400"
+			"banner": "https://picsum.photos/seed/lowell_de_wit/400/200",
+			"thumb": "https://picsum.photos/seed/lowell_de_wit/200/200",
+			"large": "https://picsum.photos/seed/lowell_de_wit/800/400"
 		}
 	},
 	"id": "2-1",
-	"created": "2023-02-20 11:01:25"
+	"created": "2023-02-20 14:16:50"
 }

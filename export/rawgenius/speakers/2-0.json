@@ -1,23 +1,23 @@
 {
-	"uuid": "6e455d08-6e3f-4606-b3e8-d6571d5bcfc3",
+	"uuid": "6ef845d0-b32a-4538-9401-d678439ed036",
 	"bio": {
-		"name": "Zulma",
-		"surname": "Van der Meer",
-		"uuid": "6e455d08-a1db-4810-8d51-81c7c043e444",
-		"bio": "Explicabo vel odit est culpa necessitatibus natus ut tenetur quos quidem non ut fugiat quas libero deleniti et vel et accusamus ut corporis at voluptates tempora numquam accusantium sunt ut aut inventore et suscipit veniam minima qui vel harum aliquid et esse repellat non vero incidunt exercitationem aperiam fuga tenetur sunt est ea temporibus illo optio in est et voluptas.",
+		"name": "Queenie",
+		"surname": "Jansen",
+		"uuid": "6ef845d0-9cff-4d0a-bd60-9eea8212a638",
+		"bio": "Reprehenderit voluptate deleniti mollitia ducimus amet dolor et occaecati reprehenderit cupiditate id ea excepturi distinctio autem tempore deserunt ut placeat qui quia quos fugit aut porro vero autem neque ipsa est rem quis soluta omnis quia magni aut et laborum praesentium autem ea veritatis ex non quasi soluta explicabo tempora ab sit corrupti omnis qui minima dolorem culpa odio inventore.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/zulma_van_der_meer",
-			"github": "https://github.com/zulma_van_der_meer",
-			"instagram": "https://www.instagram.com/zulma_van_der_meer",
-			"twitter": "https://twitter.com/zulma_van_der_meer"
+			"linkedin": "https://www.linkedin.com/in/queenie_jansen",
+			"github": "https://github.com/queenie_jansen",
+			"instagram": "https://www.instagram.com/queenie_jansen",
+			"twitter": "https://twitter.com/queenie_jansen"
 		},
 		"id": "2-0",
 		"image": {
-			"banner": "https://picsum.photos/seed/zulma_van_der_meer/400/200",
-			"thumb": "https://picsum.photos/seed/zulma_van_der_meer/200/200",
-			"large": "https://picsum.photos/seed/zulma_van_der_meer/800/400"
+			"banner": "https://picsum.photos/seed/queenie_jansen/400/200",
+			"thumb": "https://picsum.photos/seed/queenie_jansen/200/200",
+			"large": "https://picsum.photos/seed/queenie_jansen/800/400"
 		}
 	},
 	"id": "2-0",
-	"created": "2023-02-20 11:01:25"
+	"created": "2023-02-20 14:16:50"
 }

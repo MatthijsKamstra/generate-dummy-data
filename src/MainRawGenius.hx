@@ -1,5 +1,6 @@
 package;
 
+import haxe.Log;
 import rawgenius.Tag;
 import utils.converter.TypescriptJsonDef;
 import rawgenius.User;
@@ -10,12 +11,13 @@ import utils.UUID;
 
 class MainRawGenius {
 	var timeTable = [
-		'09:00-10:00',
-		'10:15-11:15',
-		'11:30-12:30',
-		'13:30-14:30',
-		'14:45-15:45',
-		'16:00-17:00'
+		'09:00-10:00', // Opening Keynote
+		'10:15-11:15', // sesion 1
+		'11:30-12:30', // sesion 2
+		'12:30-13:30', // lunch
+		'13:30-14:30', // sesion 3
+		'14:45-15:45', // sesion 4
+		'16:00-17:00', // Closing Keynote
 	];
 	var ROOT = 'export/rawgenius';
 	var TS = '';
@@ -48,16 +50,24 @@ class MainRawGenius {
 		var roomsArr = [];
 		for (i in 0...roomNr) {
 			var name = 'Room ${i + 1}';
-			var scheduleArr = [];
+			var scheduleArr:Array<SessionObj> = [];
 			for (j in 0...timeTable.length) {
 				var _timeTable = timeTable[j];
-				var session = {
+				var session:SessionObj = {
 					// time: getTime(j),
 					'time': {
 						'total': _timeTable,
 					},
 					'title': 'Session ${j + 1}',
 					'session': getSpeakerInfoShort(i, j),
+				}
+				if (_timeTable == '12:30-13:30') {
+					session = {
+						'time': {
+							'total': _timeTable,
+						},
+						'title': 'Lunch Break',
+					}
 				}
 				scheduleArr.push(session);
 			}
@@ -85,10 +95,10 @@ class MainRawGenius {
 		var roomsArr = [];
 		for (i in 0...roomNr) {
 			var name = 'Room ${i + 1}';
-			var scheduleArr = [];
+			var scheduleArr:Array<SessionObj> = [];
 			for (j in 0...timeTable.length) {
 				var _timeTable = timeTable[j];
-				var session = {
+				var session:SessionObj = {
 					// time: getTime(j),
 					'time': {
 						'total': _timeTable,
@@ -98,6 +108,16 @@ class MainRawGenius {
 					'title': 'Session ${j + 1}',
 					'session': getSpeakerInfo(i, j),
 					'uuid': UUID.uuid(),
+				}
+				if (_timeTable == '12:30-13:30') {
+					session = {
+						'time': {
+							'total': _timeTable,
+							'start': '${_timeTable.split('-')[0]}',
+							'end': '${_timeTable.split('-')[1]}',
+						},
+						'title': 'Lunch Break',
+					}
 				}
 				scheduleArr.push(session);
 			}
@@ -137,13 +157,16 @@ class MainRawGenius {
 		var uuid = UUID.uuid();
 		var id = '${i}-${j}';
 
+		var roomName = 'Room ${i}';
+		var sessionName = 'Session ${j + 1}';
+
 		var speaker:SpeakerInfo = User.get(i, j);
 		var speakerBio = User.getBio(i, j, speaker);
 
 		// session info with speaker
 		Reflect.setField(short, 'speaker', speaker);
-		Reflect.setField(short, 'title', new Lorem().title());
-		Reflect.setField(short, 'description', new Lorem().description(40));
+		Reflect.setField(short, 'title', '[${roomName}/${sessionName}] ' + new Lorem().title());
+		Reflect.setField(short, 'description', '[${roomName}/${sessionName}] ' + new Lorem().description(40));
 		Reflect.setField(short, 'tags', Tag.getRandomSet());
 
 		// bio
@@ -183,4 +206,11 @@ class MainRawGenius {
 	static public function main() {
 		var app = new MainRawGenius();
 	}
+}
+
+typedef SessionObj = {
+	@:optional var uuid:String;
+	@:optional var session:{};
+	var title:String;
+	var time:{};
 }
