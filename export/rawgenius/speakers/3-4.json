@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-f329-4263-b8e1-abbdb109f8f2",
+	"uuid": "6e455d08-1074-478f-9975-744eaf2cbbc5",
 	"bio": {
-		"name": "Shaina",
-		"surname": "De Vries",
-		"uuid": "5fdfa9f8-df19-497b-a72c-0f6a5fe6d63c",
-		"bio": "Ratione aut nihil itaque voluptates nihil hic eum quidem voluptatem saepe iste enim vitae porro eum praesentium velit est cum officia quos quam tenetur animi inventore repellendus occaecati et eos temporibus ut incidunt temporibus atque soluta quo nesciunt odit architecto voluptatum repellat qui et qui laboriosam qui qui sed voluptatibus et enim repellat porro expedita soluta quia tempore tenetur delectus.",
+		"name": "Jarrod",
+		"surname": "Van der Meer",
+		"uuid": "6e455d08-7473-47ea-b3e6-eaf908a3f7bc",
+		"bio": "Aliquid cumque ducimus ab architecto hic quia ut nihil id sed reprehenderit odio sunt tempore at iusto inventore nam cum rerum qui magnam ipsum voluptatibus et quas aspernatur quisquam doloribus reiciendis velit iste voluptatibus esse autem minus dolor laudantium sed quo et neque omnis nulla aut alias tenetur eius necessitatibus dolor ut excepturi et deserunt pariatur sequi molestias explicabo impedit.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/shaina_de_vries",
-			"github": "https://github.com/shaina_de_vries",
-			"instagram": "https://www.instagram.com/shaina_de_vries",
-			"twitter": "https://twitter.com/shaina_de_vries"
+			"linkedin": "https://www.linkedin.com/in/jarrod_van_der_meer",
+			"github": "https://github.com/jarrod_van_der_meer",
+			"instagram": "https://www.instagram.com/jarrod_van_der_meer",
+			"twitter": "https://twitter.com/jarrod_van_der_meer"
 		},
 		"id": "3-4",
 		"image": {
-			"banner": "https://picsum.photos/seed/shaina_de_vries/400/200",
-			"thumb": "https://picsum.photos/seed/shaina_de_vries/200/200",
-			"large": "https://picsum.photos/seed/shaina_de_vries/800/400"
+			"banner": "https://picsum.photos/seed/jarrod_van_der_meer/400/200",
+			"thumb": "https://picsum.photos/seed/jarrod_van_der_meer/200/200",
+			"large": "https://picsum.photos/seed/jarrod_van_der_meer/800/400"
 		}
 	},
 	"id": "3-4",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

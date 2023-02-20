@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-66ce-4cbb-834f-dc2f00cc9341",
+	"uuid": "6e455d08-6e3f-4606-b3e8-d6571d5bcfc3",
 	"bio": {
-		"name": "Deonna",
-		"surname": "Smit",
-		"uuid": "5fdfa9f8-71ef-4915-9750-361f8a5302ab",
-		"bio": "Voluptas expedita omnis velit doloremque dolores et dolorem placeat et fugit fugit sunt quam dolorem ut eveniet esse voluptate quas recusandae et inventore rerum harum rerum velit provident voluptas repudiandae neque incidunt dolor assumenda natus ab veniam autem provident molestias suscipit quo sequi laboriosam quas a quisquam ab vitae eius eligendi magnam dolore occaecati quasi quia omnis qui rerum error.",
+		"name": "Zulma",
+		"surname": "Van der Meer",
+		"uuid": "6e455d08-a1db-4810-8d51-81c7c043e444",
+		"bio": "Explicabo vel odit est culpa necessitatibus natus ut tenetur quos quidem non ut fugiat quas libero deleniti et vel et accusamus ut corporis at voluptates tempora numquam accusantium sunt ut aut inventore et suscipit veniam minima qui vel harum aliquid et esse repellat non vero incidunt exercitationem aperiam fuga tenetur sunt est ea temporibus illo optio in est et voluptas.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/deonna_smit",
-			"github": "https://github.com/deonna_smit",
-			"instagram": "https://www.instagram.com/deonna_smit",
-			"twitter": "https://twitter.com/deonna_smit"
+			"linkedin": "https://www.linkedin.com/in/zulma_van_der_meer",
+			"github": "https://github.com/zulma_van_der_meer",
+			"instagram": "https://www.instagram.com/zulma_van_der_meer",
+			"twitter": "https://twitter.com/zulma_van_der_meer"
 		},
 		"id": "2-0",
 		"image": {
-			"banner": "https://picsum.photos/seed/deonna_smit/400/200",
-			"thumb": "https://picsum.photos/seed/deonna_smit/200/200",
-			"large": "https://picsum.photos/seed/deonna_smit/800/400"
+			"banner": "https://picsum.photos/seed/zulma_van_der_meer/400/200",
+			"thumb": "https://picsum.photos/seed/zulma_van_der_meer/200/200",
+			"large": "https://picsum.photos/seed/zulma_van_der_meer/800/400"
 		}
 	},
 	"id": "2-0",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

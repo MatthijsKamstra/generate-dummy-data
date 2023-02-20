@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-2ce7-46a8-bf14-dde2c3ce0c96",
+	"uuid": "6e455d08-cb1d-4fb2-80c4-9de04465a88e",
 	"bio": {
-		"name": "Zane",
-		"surname": "De Vries",
-		"uuid": "5fdfa9f8-8b22-40b5-9cb8-bbd495daa815",
-		"bio": "Aut minus rem qui inventore et eligendi adipisci dolorum eligendi provident voluptas ducimus et blanditiis beatae ad eveniet id pariatur praesentium nostrum rerum aperiam est et error blanditiis est in nulla veniam et omnis officia omnis tempora quia voluptas occaecati voluptatem ipsa autem nam reprehenderit repellat illo aliquid et quia deleniti laboriosam nobis tempore nostrum vel ut earum omnis saepe.",
+		"name": "Martin",
+		"surname": "Vos",
+		"uuid": "6e455d08-395b-45b8-b945-34a4d128ff18",
+		"bio": "Quibusdam accusamus voluptatum ex et vel delectus consequatur sapiente qui maxime blanditiis voluptatem id sequi nihil dolorem quisquam atque ut voluptatum aut assumenda hic nemo molestias earum modi numquam explicabo magni libero molestiae eum aperiam blanditiis iusto qui laborum qui voluptas ipsa et beatae mollitia facere fugit esse voluptatem eum dolore ipsa voluptatum fuga totam iste ipsa exercitationem quia est.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/zane_de_vries",
-			"github": "https://github.com/zane_de_vries",
-			"instagram": "https://www.instagram.com/zane_de_vries",
-			"twitter": "https://twitter.com/zane_de_vries"
+			"linkedin": "https://www.linkedin.com/in/martin_vos",
+			"github": "https://github.com/martin_vos",
+			"instagram": "https://www.instagram.com/martin_vos",
+			"twitter": "https://twitter.com/martin_vos"
 		},
 		"id": "3-1",
 		"image": {
-			"banner": "https://picsum.photos/seed/zane_de_vries/400/200",
-			"thumb": "https://picsum.photos/seed/zane_de_vries/200/200",
-			"large": "https://picsum.photos/seed/zane_de_vries/800/400"
+			"banner": "https://picsum.photos/seed/martin_vos/400/200",
+			"thumb": "https://picsum.photos/seed/martin_vos/200/200",
+			"large": "https://picsum.photos/seed/martin_vos/800/400"
 		}
 	},
 	"id": "3-1",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

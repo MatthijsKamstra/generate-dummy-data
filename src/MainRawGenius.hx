@@ -26,6 +26,7 @@ class MainRawGenius {
 		setupFolder();
 
 		generate("export/rawgenius/rawgenius.json");
+		generateChatGPT("export/rawgenius/rawgenius_chatgpt.json");
 	}
 
 	function setupFolder() {
@@ -35,6 +36,42 @@ class MainRawGenius {
 		FileSystem.createDirectory(ROOT);
 		FileSystem.createDirectory(TS);
 		FileSystem.createDirectory(SPEAKERS);
+	}
+
+	function generateChatGPT(path:String) {
+		trace("Create CHATGPT json!");
+		var json = {};
+		Reflect.setField(json, 'created', Date.now());
+		Reflect.setField(json, 'date', '2023-09-13');
+
+		var roomNr = 2;
+		var roomsArr = [];
+		for (i in 0...roomNr) {
+			var name = 'Room ${i + 1}';
+			var scheduleArr = [];
+			for (j in 0...timeTable.length) {
+				var _timeTable = timeTable[j];
+				var session = {
+					// time: getTime(j),
+					'time': {
+						'total': _timeTable,
+					},
+					'title': 'Session ${j + 1}',
+					'session': getSpeakerInfoShort(i, j),
+				}
+				scheduleArr.push(session);
+			}
+			var room = {
+				'name': name,
+				'schedule': scheduleArr
+			}
+			roomsArr.push(room);
+		}
+		Reflect.setField(json, 'rooms', roomsArr);
+
+		// output json
+		var str = Json.stringify(json, null, '\t');
+		sys.io.File.saveContent(path, str);
 	}
 
 	function generate(path:String) {
@@ -82,8 +119,16 @@ class MainRawGenius {
 		DummyData.saveTextFile(str, '${TS}/i-schedule.d.ts');
 	}
 
-	function getTime(i) {
-		return {};
+	function getSpeakerInfoShort(i:Int, j:Int) {
+		var short = {};
+
+		// session info with speaker
+		// Reflect.setField(short, 'speaker', speaker);
+		Reflect.setField(short, 'title', new Lorem().title());
+		Reflect.setField(short, 'description', new Lorem().description(40));
+		Reflect.setField(short, 'tags', Tag.getRandomSet());
+
+		return short;
 	}
 
 	function getSpeakerInfo(i:Int, j:Int) {
@@ -95,12 +140,11 @@ class MainRawGenius {
 		var speaker:SpeakerInfo = User.get(i, j);
 		var speakerBio = User.getBio(i, j, speaker);
 
-		// speaker
+		// session info with speaker
 		Reflect.setField(short, 'speaker', speaker);
 		Reflect.setField(short, 'title', new Lorem().title());
 		Reflect.setField(short, 'description', new Lorem().description(40));
 		Reflect.setField(short, 'tags', Tag.getRandomSet());
-		// Reflect.setField(short, 'tags', []);
 
 		// bio
 		Reflect.setField(bio, 'created', Date.now());
@@ -114,6 +158,12 @@ class MainRawGenius {
 		sys.io.File.saveContent('${SPEAKERS}/${id}.json', str);
 
 		return short;
+	}
+
+	// ____________________________________ utils ____________________________________
+
+	function getTime(i) {
+		return {};
 	}
 
 	// 'thumb': 'https://picsum.photos/200/200?random=${id}',

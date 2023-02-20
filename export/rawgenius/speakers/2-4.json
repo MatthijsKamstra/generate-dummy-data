@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-a347-4153-b3e5-d9915fd2eb6f",
+	"uuid": "6e455d08-5864-4c61-bbe7-254b8103a373",
 	"bio": {
-		"name": "Kortney",
-		"surname": "Bakker",
-		"uuid": "5fdfa9f8-d580-4694-b041-93ed20a7f179",
-		"bio": "Quaerat perspiciatis corrupti explicabo ipsam commodi velit aut sit non aut quidem blanditiis deleniti reiciendis illum et ut culpa molestiae voluptatem voluptas tempore voluptatem voluptas enim aliquam quis perferendis atque aspernatur autem repellat et accusantium culpa maxime magni eum quis expedita aut accusantium accusamus et molestiae a aperiam ut fugit porro laboriosam amet vel sint odio est numquam fuga quidem.",
+		"name": "Elina",
+		"surname": "Meijer",
+		"uuid": "6e455d08-3dbc-49a2-828c-6a8d9613d764",
+		"bio": "Voluptatibus iusto eaque iste deleniti dolores autem magni corrupti minus quo est velit ratione ut molestiae cumque veritatis error rerum numquam dignissimos aliquam tenetur voluptate voluptatum et aliquid consequatur repudiandae libero commodi et quia ducimus unde ratione mollitia officia explicabo qui deleniti recusandae eum distinctio sint reiciendis consectetur enim nihil aperiam in harum natus ratione molestiae et autem rem praesentium.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/kortney_bakker",
-			"github": "https://github.com/kortney_bakker",
-			"instagram": "https://www.instagram.com/kortney_bakker",
-			"twitter": "https://twitter.com/kortney_bakker"
+			"linkedin": "https://www.linkedin.com/in/elina_meijer",
+			"github": "https://github.com/elina_meijer",
+			"instagram": "https://www.instagram.com/elina_meijer",
+			"twitter": "https://twitter.com/elina_meijer"
 		},
 		"id": "2-4",
 		"image": {
-			"banner": "https://picsum.photos/seed/kortney_bakker/400/200",
-			"thumb": "https://picsum.photos/seed/kortney_bakker/200/200",
-			"large": "https://picsum.photos/seed/kortney_bakker/800/400"
+			"banner": "https://picsum.photos/seed/elina_meijer/400/200",
+			"thumb": "https://picsum.photos/seed/elina_meijer/200/200",
+			"large": "https://picsum.photos/seed/elina_meijer/800/400"
 		}
 	},
 	"id": "2-4",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

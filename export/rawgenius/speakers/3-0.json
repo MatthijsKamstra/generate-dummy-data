@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-c8ac-4d8a-b6d3-9b536ca0cab4",
+	"uuid": "6e455d08-18ea-4ad4-bc7b-6dcd5bc4420a",
 	"bio": {
-		"name": "Angle",
-		"surname": "Vos",
-		"uuid": "5fdfa9f8-d612-45ff-b82f-ab2da45f5c19",
-		"bio": "Ea pariatur consequuntur nostrum dolor nostrum porro molestiae laborum asperiores nesciunt officia dolor quod harum eligendi sed dolores laboriosam quidem illum dolores qui cumque quibusdam voluptatem eos voluptatum nostrum enim quas non harum et odio animi laborum dolorem dolorem quis aut optio provident eius ut sit possimus aperiam non tempora et facere aliquid itaque incidunt ut ullam optio omnis omnis.",
+		"name": "Lowell",
+		"surname": "Jansen",
+		"uuid": "6e455d08-f21e-4e1a-8a0c-1119c8227b55",
+		"bio": "Ducimus ad eaque fugit esse minima maxime neque accusamus est fugiat ducimus rerum nulla repellat iure nemo deleniti sed voluptatem corporis dolores animi quisquam dolorem voluptatem iure aut molestias incidunt maiores quo rerum omnis aliquid facere culpa earum deleniti quibusdam pariatur omnis repudiandae ut quisquam nobis dolor aut officiis voluptas vitae corrupti delectus laudantium est et minus suscipit velit vero.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/angle_vos",
-			"github": "https://github.com/angle_vos",
-			"instagram": "https://www.instagram.com/angle_vos",
-			"twitter": "https://twitter.com/angle_vos"
+			"linkedin": "https://www.linkedin.com/in/lowell_jansen",
+			"github": "https://github.com/lowell_jansen",
+			"instagram": "https://www.instagram.com/lowell_jansen",
+			"twitter": "https://twitter.com/lowell_jansen"
 		},
 		"id": "3-0",
 		"image": {
-			"banner": "https://picsum.photos/seed/angle_vos/400/200",
-			"thumb": "https://picsum.photos/seed/angle_vos/200/200",
-			"large": "https://picsum.photos/seed/angle_vos/800/400"
+			"banner": "https://picsum.photos/seed/lowell_jansen/400/200",
+			"thumb": "https://picsum.photos/seed/lowell_jansen/200/200",
+			"large": "https://picsum.photos/seed/lowell_jansen/800/400"
 		}
 	},
 	"id": "3-0",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

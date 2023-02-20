@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-d684-4e30-896f-82e63c4124ce",
+	"uuid": "6e455d08-1950-4fa5-92db-8ab9bca4e12a",
 	"bio": {
-		"name": "Deonna",
-		"surname": "Brouwer",
-		"uuid": "5fdfa9f8-53c9-481f-8296-c22659b39386",
-		"bio": "Molestias minima dolor consequatur neque error qui adipisci voluptate dolorem vel perspiciatis voluptate qui autem in numquam voluptates id voluptas beatae sed non omnis voluptatem dicta aut nihil dolores nostrum hic qui eum consequatur laboriosam suscipit et exercitationem fugiat voluptas quas cupiditate et aut aut natus aut laborum ut qui fuga qui est quasi vel consequatur ipsa modi eos omnis.",
+		"name": "Sunshine",
+		"surname": "Mulder",
+		"uuid": "6e455d08-8327-4e16-85ef-59df6c4dd373",
+		"bio": "Temporibus est soluta adipisci nihil velit id delectus reiciendis dolore autem quae debitis laboriosam maxime sunt non eligendi veritatis accusantium enim facilis quasi recusandae iste rerum reprehenderit quia incidunt suscipit architecto non qui consequatur non enim velit nihil sunt ipsa sint vero quod distinctio corrupti optio ut soluta nisi vel aspernatur atque et nobis nostrum deleniti quidem eaque velit et.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/deonna_brouwer",
-			"github": "https://github.com/deonna_brouwer",
-			"instagram": "https://www.instagram.com/deonna_brouwer",
-			"twitter": "https://twitter.com/deonna_brouwer"
+			"linkedin": "https://www.linkedin.com/in/sunshine_mulder",
+			"github": "https://github.com/sunshine_mulder",
+			"instagram": "https://www.instagram.com/sunshine_mulder",
+			"twitter": "https://twitter.com/sunshine_mulder"
 		},
 		"id": "0-4",
 		"image": {
-			"banner": "https://picsum.photos/seed/deonna_brouwer/400/200",
-			"thumb": "https://picsum.photos/seed/deonna_brouwer/200/200",
-			"large": "https://picsum.photos/seed/deonna_brouwer/800/400"
+			"banner": "https://picsum.photos/seed/sunshine_mulder/400/200",
+			"thumb": "https://picsum.photos/seed/sunshine_mulder/200/200",
+			"large": "https://picsum.photos/seed/sunshine_mulder/800/400"
 		}
 	},
 	"id": "0-4",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-1ed6-41ad-bb7a-8df762bcf11c",
+	"uuid": "6e455d08-e285-4ba0-816e-e9fe66fe5b54",
 	"bio": {
-		"name": "Zane",
-		"surname": "Hendriks",
-		"uuid": "5fdfa9f8-e88c-42ce-9561-dcb39ebda95a",
-		"bio": "Aut vel veritatis aperiam voluptatem blanditiis suscipit dignissimos similique quia ratione dicta sequi hic magni eum ducimus illum qui occaecati enim beatae voluptatem harum quod deserunt voluptatem exercitationem incidunt porro minima nesciunt aut dolorum veniam minus maxime labore ut fugit quae eveniet molestiae dolorum aut qui laudantium praesentium ullam sed ipsa quis ut et dolor aut consequatur ullam et minus.",
+		"name": "Elina",
+		"surname": "Janssen",
+		"uuid": "6e455d08-1716-4a6a-995c-3af128b31e15",
+		"bio": "Neque impedit rerum molestiae exercitationem aut itaque vel ut et quisquam et aut praesentium repellendus voluptatem esse amet est eveniet enim et ut nostrum minima ducimus ipsum eligendi quia quasi rerum dolorum laboriosam totam ex quisquam aut sed unde quo similique harum pariatur qui adipisci nemo at minus dolorum architecto eveniet veniam ab dolorum dignissimos iste est et qui et.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/zane_hendriks",
-			"github": "https://github.com/zane_hendriks",
-			"instagram": "https://www.instagram.com/zane_hendriks",
-			"twitter": "https://twitter.com/zane_hendriks"
+			"linkedin": "https://www.linkedin.com/in/elina_janssen",
+			"github": "https://github.com/elina_janssen",
+			"instagram": "https://www.instagram.com/elina_janssen",
+			"twitter": "https://twitter.com/elina_janssen"
 		},
 		"id": "2-5",
 		"image": {
-			"banner": "https://picsum.photos/seed/zane_hendriks/400/200",
-			"thumb": "https://picsum.photos/seed/zane_hendriks/200/200",
-			"large": "https://picsum.photos/seed/zane_hendriks/800/400"
+			"banner": "https://picsum.photos/seed/elina_janssen/400/200",
+			"thumb": "https://picsum.photos/seed/elina_janssen/200/200",
+			"large": "https://picsum.photos/seed/elina_janssen/800/400"
 		}
 	},
 	"id": "2-5",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

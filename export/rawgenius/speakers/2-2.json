@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-51c6-4398-bc0c-ba3a7f5794e8",
+	"uuid": "6e455d08-b019-4c5c-8781-1d95ef537c52",
 	"bio": {
-		"name": "Elina",
-		"surname": "Smit",
-		"uuid": "5fdfa9f8-436c-4100-8363-d47af67b6049",
-		"bio": "Et quaerat hic aut ullam aut dolorem rerum tempore sed modi excepturi rerum culpa eaque est sunt quidem numquam expedita aut quos quae et vitae dolorum repellat qui necessitatibus rem quam praesentium voluptatem ea fuga id eum dolorem minima recusandae sed fugit libero rem et sint qui laudantium quis aliquam ipsa qui occaecati facilis aliquid quia mollitia rem pariatur reiciendis.",
+		"name": "Zulma",
+		"surname": "Meijer",
+		"uuid": "6e455d08-2f7c-4370-9578-40a9f81445ef",
+		"bio": "Molestias exercitationem qui voluptatum fugit eligendi iure consequatur laborum dolorem totam et alias et a est facere error omnis numquam qui aut saepe officiis et repellat sed dignissimos repellat harum aspernatur tempore dolores dolores optio quae corporis occaecati at ut aliquid architecto ut modi necessitatibus doloremque illo necessitatibus qui facere quas eveniet occaecati ab ut dolor et vel sit distinctio.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/elina_smit",
-			"github": "https://github.com/elina_smit",
-			"instagram": "https://www.instagram.com/elina_smit",
-			"twitter": "https://twitter.com/elina_smit"
+			"linkedin": "https://www.linkedin.com/in/zulma_meijer",
+			"github": "https://github.com/zulma_meijer",
+			"instagram": "https://www.instagram.com/zulma_meijer",
+			"twitter": "https://twitter.com/zulma_meijer"
 		},
 		"id": "2-2",
 		"image": {
-			"banner": "https://picsum.photos/seed/elina_smit/400/200",
-			"thumb": "https://picsum.photos/seed/elina_smit/200/200",
-			"large": "https://picsum.photos/seed/elina_smit/800/400"
+			"banner": "https://picsum.photos/seed/zulma_meijer/400/200",
+			"thumb": "https://picsum.photos/seed/zulma_meijer/200/200",
+			"large": "https://picsum.photos/seed/zulma_meijer/800/400"
 		}
 	},
 	"id": "2-2",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

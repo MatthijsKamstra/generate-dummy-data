@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-ff7b-4e48-8b0d-7edce3066223",
+	"uuid": "6e455d08-9fd7-4f79-8ca8-043e1a5052ed",
 	"bio": {
-		"name": "Zulma",
-		"surname": "De Boer",
-		"uuid": "5fdfa9f8-9fbf-49a6-aad1-e07e88240871",
-		"bio": "Explicabo et veniam illum quidem quae ut aperiam quo recusandae quod a harum dolores vel doloribus minus voluptate eos laboriosam in aut aut molestias corporis atque rerum consequatur aut nulla voluptatem ipsa in incidunt enim sint dolor quos molestiae sequi accusamus molestias corporis incidunt quis vel voluptates quo quia praesentium quidem porro alias voluptate voluptatibus occaecati porro eos numquam quae.",
+		"name": "Sunshine",
+		"surname": "Van den Berg",
+		"uuid": "6e455d08-b420-402e-bde3-0a5f1da65f2b",
+		"bio": "Perferendis maxime praesentium voluptatum fuga dignissimos quasi nulla voluptatum harum nostrum cupiditate sunt soluta perspiciatis cum cumque debitis nulla soluta occaecati magni est eligendi perspiciatis blanditiis nostrum quibusdam dolorem voluptatem cupiditate qui sint aperiam ut ut molestias consequuntur est quis dolorem quo voluptas officiis quia est et et nemo qui laboriosam quas omnis voluptates ducimus ipsam minus quidem dolores temporibus.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/zulma_de_boer",
-			"github": "https://github.com/zulma_de_boer",
-			"instagram": "https://www.instagram.com/zulma_de_boer",
-			"twitter": "https://twitter.com/zulma_de_boer"
+			"linkedin": "https://www.linkedin.com/in/sunshine_van_den_berg",
+			"github": "https://github.com/sunshine_van_den_berg",
+			"instagram": "https://www.instagram.com/sunshine_van_den_berg",
+			"twitter": "https://twitter.com/sunshine_van_den_berg"
 		},
 		"id": "1-0",
 		"image": {
-			"banner": "https://picsum.photos/seed/zulma_de_boer/400/200",
-			"thumb": "https://picsum.photos/seed/zulma_de_boer/200/200",
-			"large": "https://picsum.photos/seed/zulma_de_boer/800/400"
+			"banner": "https://picsum.photos/seed/sunshine_van_den_berg/400/200",
+			"thumb": "https://picsum.photos/seed/sunshine_van_den_berg/200/200",
+			"large": "https://picsum.photos/seed/sunshine_van_den_berg/800/400"
 		}
 	},
 	"id": "1-0",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

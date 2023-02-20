@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-3b87-4092-a121-f6c92f33c818",
+	"uuid": "6e455d08-eb89-4346-88af-5349e2aa4b45",
 	"bio": {
-		"name": "Ingeborg",
-		"surname": "De Jong",
-		"uuid": "5fdfa9f8-2bbf-44bc-9aad-3994a8b50668",
-		"bio": "Aspernatur eum vel veritatis dolor est qui blanditiis officiis aspernatur delectus exercitationem praesentium nihil laboriosam nam blanditiis dolorem ex molestias non ab tempora eum omnis sunt in incidunt aperiam quia aperiam occaecati odio iusto sed deserunt aut aliquam facilis asperiores eos ad sed laudantium sit reiciendis facilis nihil ipsa eum dolorem quaerat sunt vel veniam molestiae porro voluptate magnam rerum.",
+		"name": "Queenie",
+		"surname": "Dekker",
+		"uuid": "6e455d08-d3c5-4f07-a25f-abf0958c6e77",
+		"bio": "Laborum laborum cupiditate non dolor accusamus dolorem debitis reiciendis repellat laudantium sint id qui quod repellat odit quos et odit quaerat est officiis facilis et quia velit consequatur iusto voluptatem explicabo fuga doloremque nesciunt qui minus et quam aut voluptatibus quam consequatur dolores rerum maiores inventore ipsum ad voluptatem sunt doloremque est maxime sed velit aut rerum vero molestiae aut.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/ingeborg_de_jong",
-			"github": "https://github.com/ingeborg_de_jong",
-			"instagram": "https://www.instagram.com/ingeborg_de_jong",
-			"twitter": "https://twitter.com/ingeborg_de_jong"
+			"linkedin": "https://www.linkedin.com/in/queenie_dekker",
+			"github": "https://github.com/queenie_dekker",
+			"instagram": "https://www.instagram.com/queenie_dekker",
+			"twitter": "https://twitter.com/queenie_dekker"
 		},
 		"id": "0-5",
 		"image": {
-			"banner": "https://picsum.photos/seed/ingeborg_de_jong/400/200",
-			"thumb": "https://picsum.photos/seed/ingeborg_de_jong/200/200",
-			"large": "https://picsum.photos/seed/ingeborg_de_jong/800/400"
+			"banner": "https://picsum.photos/seed/queenie_dekker/400/200",
+			"thumb": "https://picsum.photos/seed/queenie_dekker/200/200",
+			"large": "https://picsum.photos/seed/queenie_dekker/800/400"
 		}
 	},
 	"id": "0-5",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

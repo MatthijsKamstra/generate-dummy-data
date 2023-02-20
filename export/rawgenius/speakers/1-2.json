@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-451d-49de-90ac-5c5738f371d9",
+	"uuid": "6e455d08-46e0-46eb-ae5d-3b5047ee50e7",
 	"bio": {
 		"name": "Elina",
-		"surname": "Visser",
-		"uuid": "5fdfa9f8-9452-442b-8c04-7744f01bb0f8",
-		"bio": "Alias sunt similique velit natus dolorem impedit ab dolor voluptas eum recusandae necessitatibus qui ab itaque non incidunt repellendus laudantium quos sit nulla praesentium dolores modi a tempore ut esse quam hic quaerat voluptatibus ullam est voluptas dolores illum aut placeat qui facere possimus aperiam ullam ut ducimus est debitis ipsam soluta tenetur nihil adipisci repellendus accusamus dolores sit rerum.",
+		"surname": "De Jong",
+		"uuid": "6e455d08-74f7-4131-8622-a99253aa6f77",
+		"bio": "Illum omnis ullam libero repellat id dolores vel ad impedit veritatis quia non voluptas voluptatem aliquam quas excepturi porro accusamus animi quae hic eos sunt est maxime ducimus ipsa laudantium corporis velit veniam totam expedita aut similique mollitia libero non eum mollitia fugit enim corrupti rerum rem nesciunt cumque id et recusandae aut omnis repudiandae id iusto libero repellat iusto.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/elina_visser",
-			"github": "https://github.com/elina_visser",
-			"instagram": "https://www.instagram.com/elina_visser",
-			"twitter": "https://twitter.com/elina_visser"
+			"linkedin": "https://www.linkedin.com/in/elina_de_jong",
+			"github": "https://github.com/elina_de_jong",
+			"instagram": "https://www.instagram.com/elina_de_jong",
+			"twitter": "https://twitter.com/elina_de_jong"
 		},
 		"id": "1-2",
 		"image": {
-			"banner": "https://picsum.photos/seed/elina_visser/400/200",
-			"thumb": "https://picsum.photos/seed/elina_visser/200/200",
-			"large": "https://picsum.photos/seed/elina_visser/800/400"
+			"banner": "https://picsum.photos/seed/elina_de_jong/400/200",
+			"thumb": "https://picsum.photos/seed/elina_de_jong/200/200",
+			"large": "https://picsum.photos/seed/elina_de_jong/800/400"
 		}
 	},
 	"id": "1-2",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

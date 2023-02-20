@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-5d50-4e26-ae5f-683317448715",
+	"uuid": "6e455d08-1594-4f9b-baee-2fc7caf1d511",
 	"bio": {
-		"name": "Shaina",
-		"surname": "De Graaf",
-		"uuid": "5fdfa9f8-392f-4682-b38e-8310dd455ff0",
-		"bio": "Et qui cupiditate voluptas error vero consequatur reiciendis vero nihil minus possimus aspernatur maxime facilis ut laborum nihil quas rerum hic quo quae commodi ut ea et nihil quisquam sunt veritatis sed dolor itaque delectus animi quis beatae mollitia magnam aliquid fugiat cum harum in necessitatibus aut quod aliquam occaecati culpa accusamus ab culpa et culpa dolore qui ipsam dicta.",
+		"name": "Queenie",
+		"surname": "Bos",
+		"uuid": "6e455d08-10b7-42ba-9a2a-5ef9d2faf8ed",
+		"bio": "Placeat autem vel modi incidunt laudantium ea omnis aliquam consequatur rerum omnis repellendus dolores voluptatum tenetur quaerat veniam laudantium harum omnis et vel quia officiis eos commodi sit saepe non deserunt molestias blanditiis vitae et voluptatem eum ut possimus doloribus quae velit aut repellat sed minus illum aut incidunt aut esse sed quia quod dolor quis autem in incidunt non.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/shaina_de_graaf",
-			"github": "https://github.com/shaina_de_graaf",
-			"instagram": "https://www.instagram.com/shaina_de_graaf",
-			"twitter": "https://twitter.com/shaina_de_graaf"
+			"linkedin": "https://www.linkedin.com/in/queenie_bos",
+			"github": "https://github.com/queenie_bos",
+			"instagram": "https://www.instagram.com/queenie_bos",
+			"twitter": "https://twitter.com/queenie_bos"
 		},
 		"id": "1-4",
 		"image": {
-			"banner": "https://picsum.photos/seed/shaina_de_graaf/400/200",
-			"thumb": "https://picsum.photos/seed/shaina_de_graaf/200/200",
-			"large": "https://picsum.photos/seed/shaina_de_graaf/800/400"
+			"banner": "https://picsum.photos/seed/queenie_bos/400/200",
+			"thumb": "https://picsum.photos/seed/queenie_bos/200/200",
+			"large": "https://picsum.photos/seed/queenie_bos/800/400"
 		}
 	},
 	"id": "1-4",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

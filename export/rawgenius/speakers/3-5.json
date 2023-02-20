@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-3313-48ac-ac1a-5230f003e912",
+	"uuid": "6e455d08-dc91-41c2-ab8a-059333ee5646",
 	"bio": {
-		"name": "Alysa",
-		"surname": "De Vries",
-		"uuid": "5fdfa9f8-1c2e-4d07-9c82-65dba2e4e605",
-		"bio": "Et adipisci veniam repellat molestias occaecati ipsum voluptatem qui explicabo aut molestiae sed maiores quis culpa maiores deleniti at earum placeat ut qui tempora quis harum quod aut enim in sed et aut ex rerum sit qui aperiam ipsum vero fuga labore sit eum aspernatur quo sunt et velit possimus ut aperiam dolorem impedit dolores ut esse optio atque iusto.",
+		"name": "Martin",
+		"surname": "De Wit",
+		"uuid": "6e455d08-111c-498b-b21c-b2bec3cb6f71",
+		"bio": "Dolor qui consequatur incidunt fugiat laboriosam eaque molestias eos voluptas veritatis dolores ab aliquam itaque quas officia reiciendis mollitia excepturi aliquid inventore omnis ipsa porro a omnis occaecati similique molestiae doloribus accusantium autem nulla et reiciendis recusandae qui et commodi modi quas fugit explicabo earum illo autem vitae quibusdam odio id non eius atque odio quia est at rerum magni.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/alysa_de_vries",
-			"github": "https://github.com/alysa_de_vries",
-			"instagram": "https://www.instagram.com/alysa_de_vries",
-			"twitter": "https://twitter.com/alysa_de_vries"
+			"linkedin": "https://www.linkedin.com/in/martin_de_wit",
+			"github": "https://github.com/martin_de_wit",
+			"instagram": "https://www.instagram.com/martin_de_wit",
+			"twitter": "https://twitter.com/martin_de_wit"
 		},
 		"id": "3-5",
 		"image": {
-			"banner": "https://picsum.photos/seed/alysa_de_vries/400/200",
-			"thumb": "https://picsum.photos/seed/alysa_de_vries/200/200",
-			"large": "https://picsum.photos/seed/alysa_de_vries/800/400"
+			"banner": "https://picsum.photos/seed/martin_de_wit/400/200",
+			"thumb": "https://picsum.photos/seed/martin_de_wit/200/200",
+			"large": "https://picsum.photos/seed/martin_de_wit/800/400"
 		}
 	},
 	"id": "3-5",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

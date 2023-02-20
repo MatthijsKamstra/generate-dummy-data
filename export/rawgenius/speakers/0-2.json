@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-069f-4587-9e36-6211cb8c1eb6",
+	"uuid": "6e455d08-7e00-4e2a-8515-ded14a2eec3f",
 	"bio": {
-		"name": "Jarrod",
-		"surname": "Bakker",
-		"uuid": "5fdfa9f8-a7a6-4ceb-932f-11c7cce623eb",
-		"bio": "Id repellendus quam hic qui earum numquam illo asperiores odit excepturi quia mollitia aperiam dolores deleniti harum facilis et dolor doloribus voluptatum distinctio ut autem cum et nulla sed in voluptatem non magnam at sapiente doloremque maiores consequatur omnis amet iure qui voluptatem aut et minima inventore placeat illum iste voluptas quia suscipit sapiente in assumenda veritatis rerum amet dolorum.",
+		"name": "Deonna",
+		"surname": "Van Dijk",
+		"uuid": "6e455d08-ee81-4840-a121-6b9b17e429ab",
+		"bio": "Neque distinctio consequatur id inventore non minus veniam voluptates est animi adipisci impedit qui doloremque voluptatem et nostrum aut veritatis eius temporibus mollitia magnam cupiditate quia exercitationem et aliquam ratione quaerat veritatis est voluptas iure quisquam doloremque debitis eligendi et odio explicabo non est perferendis id quia sequi dicta libero voluptatem nesciunt fugiat nam sint omnis exercitationem exercitationem et voluptas.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/jarrod_bakker",
-			"github": "https://github.com/jarrod_bakker",
-			"instagram": "https://www.instagram.com/jarrod_bakker",
-			"twitter": "https://twitter.com/jarrod_bakker"
+			"linkedin": "https://www.linkedin.com/in/deonna_van_dijk",
+			"github": "https://github.com/deonna_van_dijk",
+			"instagram": "https://www.instagram.com/deonna_van_dijk",
+			"twitter": "https://twitter.com/deonna_van_dijk"
 		},
 		"id": "0-2",
 		"image": {
-			"banner": "https://picsum.photos/seed/jarrod_bakker/400/200",
-			"thumb": "https://picsum.photos/seed/jarrod_bakker/200/200",
-			"large": "https://picsum.photos/seed/jarrod_bakker/800/400"
+			"banner": "https://picsum.photos/seed/deonna_van_dijk/400/200",
+			"thumb": "https://picsum.photos/seed/deonna_van_dijk/200/200",
+			"large": "https://picsum.photos/seed/deonna_van_dijk/800/400"
 		}
 	},
 	"id": "0-2",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-1342-4fed-b984-221268cccfa1",
+	"uuid": "6e455d08-1e32-4199-80ef-da14e80b0492",
 	"bio": {
-		"name": "Deonna",
-		"surname": "Meijer",
-		"uuid": "5fdfa9f8-e2b4-46a6-bb53-63c17aeb2b81",
-		"bio": "Vero iure optio cumque sequi id voluptas perspiciatis numquam quis adipisci dolor quas et ad debitis necessitatibus qui est laboriosam est vero tenetur voluptatum omnis ut dolores maiores rerum qui magnam cupiditate delectus delectus suscipit in pariatur sunt veniam molestiae ea enim expedita quis sit optio eum perferendis voluptatem et molestiae blanditiis est beatae voluptatem id libero veritatis quibusdam labore.",
+		"name": "Zulma",
+		"surname": "Bos",
+		"uuid": "6e455d08-2169-4597-a2bb-4b50960322e4",
+		"bio": "Sit labore laudantium consectetur beatae rerum quia temporibus sed dolores ipsum et praesentium quis in hic quod accusantium tempore alias maiores unde id sed delectus explicabo sunt quis aspernatur non voluptas minima accusantium maiores corrupti rerum minima culpa corrupti quae ut nisi a nesciunt id cumque sint quia sed quia et illo id perferendis eveniet aut mollitia sit dolore tempore.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/deonna_meijer",
-			"github": "https://github.com/deonna_meijer",
-			"instagram": "https://www.instagram.com/deonna_meijer",
-			"twitter": "https://twitter.com/deonna_meijer"
+			"linkedin": "https://www.linkedin.com/in/zulma_bos",
+			"github": "https://github.com/zulma_bos",
+			"instagram": "https://www.instagram.com/zulma_bos",
+			"twitter": "https://twitter.com/zulma_bos"
 		},
 		"id": "1-5",
 		"image": {
-			"banner": "https://picsum.photos/seed/deonna_meijer/400/200",
-			"thumb": "https://picsum.photos/seed/deonna_meijer/200/200",
-			"large": "https://picsum.photos/seed/deonna_meijer/800/400"
+			"banner": "https://picsum.photos/seed/zulma_bos/400/200",
+			"thumb": "https://picsum.photos/seed/zulma_bos/200/200",
+			"large": "https://picsum.photos/seed/zulma_bos/800/400"
 		}
 	},
 	"id": "1-5",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

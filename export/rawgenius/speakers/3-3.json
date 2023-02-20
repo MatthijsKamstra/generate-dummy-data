@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-d046-4d86-b568-0ace688dbe26",
+	"uuid": "6e455d08-360b-4bd0-aa60-f76014e9a18d",
 	"bio": {
-		"name": "Zane",
-		"surname": "Smits",
-		"uuid": "5fdfa9f8-9a92-4354-a470-f0df93cde1dc",
-		"bio": "Ut sunt tenetur harum inventore numquam officiis animi occaecati quas nostrum natus harum cumque dolores occaecati voluptatem illo minus esse eos consequuntur est non error consequatur minima alias ipsa adipisci alias et adipisci in possimus blanditiis ratione pariatur dignissimos perspiciatis nostrum omnis totam eos maxime velit occaecati sint porro consequatur quod sit natus ut odit aliquam illo magnam beatae unde.",
+		"name": "Queenie",
+		"surname": "De Vries",
+		"uuid": "6e455d08-2fdd-48fd-9a3a-6b7c6eb5cb67",
+		"bio": "Rem commodi eum ducimus aut asperiores quia ea ab debitis est animi eius aspernatur nesciunt non ea voluptatem sed provident harum facere quia provident sunt sint ratione magnam sunt vel sunt dolorem sint ut iure aut magni qui enim minus repellat tempore est quo enim aut et magnam officia occaecati sit dignissimos veritatis error impedit iure rerum eum sed voluptatem.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/zane_smits",
-			"github": "https://github.com/zane_smits",
-			"instagram": "https://www.instagram.com/zane_smits",
-			"twitter": "https://twitter.com/zane_smits"
+			"linkedin": "https://www.linkedin.com/in/queenie_de_vries",
+			"github": "https://github.com/queenie_de_vries",
+			"instagram": "https://www.instagram.com/queenie_de_vries",
+			"twitter": "https://twitter.com/queenie_de_vries"
 		},
 		"id": "3-3",
 		"image": {
-			"banner": "https://picsum.photos/seed/zane_smits/400/200",
-			"thumb": "https://picsum.photos/seed/zane_smits/200/200",
-			"large": "https://picsum.photos/seed/zane_smits/800/400"
+			"banner": "https://picsum.photos/seed/queenie_de_vries/400/200",
+			"thumb": "https://picsum.photos/seed/queenie_de_vries/200/200",
+			"large": "https://picsum.photos/seed/queenie_de_vries/800/400"
 		}
 	},
 	"id": "3-3",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

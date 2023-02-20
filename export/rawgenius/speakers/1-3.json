@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-ff6d-4e2e-a305-95fdc1929dfd",
+	"uuid": "6e455d08-25b0-4f09-a50c-e39ae4f9a32b",
 	"bio": {
-		"name": "Elina",
-		"surname": "Brouwer",
-		"uuid": "5fdfa9f8-9940-4483-bb5b-69fdd7c31577",
-		"bio": "Et omnis ab vero nobis est ut eos explicabo at accusantium aut laborum nulla tempore similique id ut voluptatem omnis et enim quae non rerum dolorem aut fugiat minus incidunt ipsa molestiae suscipit tempora ratione vitae ratione cumque alias aut ratione rerum voluptatum eum delectus saepe iste sequi sed unde sed dignissimos aut asperiores qui odio ea sunt ratione aliquam.",
+		"name": "Zulma",
+		"surname": "De Wit",
+		"uuid": "6e455d08-387f-4450-b50f-f22496c01f03",
+		"bio": "Eligendi quia dignissimos qui quasi voluptatem sit voluptate sunt ipsa qui autem voluptas ea voluptas dolores voluptas qui alias eos eligendi quia qui eligendi natus omnis laboriosam accusantium libero aut a ut repudiandae similique velit aut in incidunt quaerat at possimus in molestias dignissimos accusantium sint rerum rem dolor sit aut autem ut nulla ratione culpa neque ad ad inventore.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/elina_brouwer",
-			"github": "https://github.com/elina_brouwer",
-			"instagram": "https://www.instagram.com/elina_brouwer",
-			"twitter": "https://twitter.com/elina_brouwer"
+			"linkedin": "https://www.linkedin.com/in/zulma_de_wit",
+			"github": "https://github.com/zulma_de_wit",
+			"instagram": "https://www.instagram.com/zulma_de_wit",
+			"twitter": "https://twitter.com/zulma_de_wit"
 		},
 		"id": "1-3",
 		"image": {
-			"banner": "https://picsum.photos/seed/elina_brouwer/400/200",
-			"thumb": "https://picsum.photos/seed/elina_brouwer/200/200",
-			"large": "https://picsum.photos/seed/elina_brouwer/800/400"
+			"banner": "https://picsum.photos/seed/zulma_de_wit/400/200",
+			"thumb": "https://picsum.photos/seed/zulma_de_wit/200/200",
+			"large": "https://picsum.photos/seed/zulma_de_wit/800/400"
 		}
 	},
 	"id": "1-3",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

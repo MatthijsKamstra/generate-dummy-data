@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-d870-4c32-99cd-c773df68b9da",
+	"uuid": "6e455d08-6477-4e36-8e80-efaf181bc318",
 	"bio": {
-		"name": "Diedre",
-		"surname": "Janssen",
-		"uuid": "5fdfa9f8-1c2b-400a-abe4-c0fc5025282c",
-		"bio": "Incidunt possimus id magnam id eos id libero rerum aperiam sit rerum sunt ab vel voluptas aut est dolorem aliquam minima nesciunt consequatur blanditiis dicta quo inventore distinctio nulla quas est molestiae sunt animi dolores perferendis voluptas excepturi odit ut veniam consequatur molestiae quos sapiente nobis quis cumque porro voluptatibus et neque et reprehenderit fugit assumenda vitae necessitatibus nesciunt et.",
+		"name": "Latrice",
+		"surname": "Van Dijk",
+		"uuid": "6e455d08-1a5b-48a7-9677-94a6ee6afbad",
+		"bio": "Pariatur ipsa inventore dolores in modi beatae at maiores impedit vel cupiditate autem voluptates veritatis quidem esse aspernatur debitis hic voluptas tenetur dolorem nam ratione impedit ut aspernatur culpa eius dolor itaque vel molestiae beatae explicabo ut doloribus enim voluptas laudantium quidem et tenetur recusandae et cum error sit ipsa aut qui voluptate inventore officia minus accusantium accusantium repudiandae consequatur.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/diedre_janssen",
-			"github": "https://github.com/diedre_janssen",
-			"instagram": "https://www.instagram.com/diedre_janssen",
-			"twitter": "https://twitter.com/diedre_janssen"
+			"linkedin": "https://www.linkedin.com/in/latrice_van_dijk",
+			"github": "https://github.com/latrice_van_dijk",
+			"instagram": "https://www.instagram.com/latrice_van_dijk",
+			"twitter": "https://twitter.com/latrice_van_dijk"
 		},
 		"id": "0-3",
 		"image": {
-			"banner": "https://picsum.photos/seed/diedre_janssen/400/200",
-			"thumb": "https://picsum.photos/seed/diedre_janssen/200/200",
-			"large": "https://picsum.photos/seed/diedre_janssen/800/400"
+			"banner": "https://picsum.photos/seed/latrice_van_dijk/400/200",
+			"thumb": "https://picsum.photos/seed/latrice_van_dijk/200/200",
+			"large": "https://picsum.photos/seed/latrice_van_dijk/800/400"
 		}
 	},
 	"id": "0-3",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

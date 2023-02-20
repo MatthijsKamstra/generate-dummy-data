@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-b011-41b0-8b57-f62a6d12c66c",
+	"uuid": "6e455d08-8524-414d-a90e-67829cf501a9",
 	"bio": {
-		"name": "Kortney",
-		"surname": "Dijkstra",
-		"uuid": "5fdfa9f8-0b3f-47b3-bb82-87004b99270b",
-		"bio": "Molestiae et laudantium libero consequatur expedita officia quia occaecati enim repellat sit facilis odit provident minus fugiat laboriosam velit sit quod magnam molestias rerum sit ea quia dolor consequatur hic quidem ipsum esse quia quas eum quibusdam blanditiis enim illo delectus vero a voluptas et voluptas ut veniam facilis sed provident eligendi labore rerum sint quas molestiae autem quo ipsum.",
+		"name": "Angle",
+		"surname": "Brouwer",
+		"uuid": "6e455d08-c953-4e43-84f9-14b86853032e",
+		"bio": "Eos sed qui soluta odit quas tempore ad dolorem quia quae alias incidunt similique saepe illum possimus eos alias accusantium voluptate non consectetur ullam sit similique labore fuga quia corrupti quas voluptatem quisquam dignissimos ut blanditiis esse et libero quo voluptas soluta expedita et quas quia provident occaecati in a iste praesentium vel ut rerum a amet aut cumque accusantium.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/kortney_dijkstra",
-			"github": "https://github.com/kortney_dijkstra",
-			"instagram": "https://www.instagram.com/kortney_dijkstra",
-			"twitter": "https://twitter.com/kortney_dijkstra"
+			"linkedin": "https://www.linkedin.com/in/angle_brouwer",
+			"github": "https://github.com/angle_brouwer",
+			"instagram": "https://www.instagram.com/angle_brouwer",
+			"twitter": "https://twitter.com/angle_brouwer"
 		},
 		"id": "0-0",
 		"image": {
-			"banner": "https://picsum.photos/seed/kortney_dijkstra/400/200",
-			"thumb": "https://picsum.photos/seed/kortney_dijkstra/200/200",
-			"large": "https://picsum.photos/seed/kortney_dijkstra/800/400"
+			"banner": "https://picsum.photos/seed/angle_brouwer/400/200",
+			"thumb": "https://picsum.photos/seed/angle_brouwer/200/200",
+			"large": "https://picsum.photos/seed/angle_brouwer/800/400"
 		}
 	},
 	"id": "0-0",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

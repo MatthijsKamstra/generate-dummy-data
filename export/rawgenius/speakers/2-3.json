@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-7708-40cd-a5ac-65c23554ffa8",
+	"uuid": "6e455d08-82dd-4de0-9ab2-9671b2b25444",
 	"bio": {
-		"name": "Deonna",
-		"surname": "Dekker",
-		"uuid": "5fdfa9f8-36c9-4b05-9c6c-2de1e2880984",
-		"bio": "At neque quidem hic recusandae magni expedita sed a et beatae amet tempore nihil in necessitatibus maiores qui numquam sunt sed ducimus doloribus harum praesentium ad quia vel numquam ad debitis eligendi voluptatem delectus dolorum sed excepturi ad sit doloribus harum aspernatur in enim qui sit similique placeat quisquam deleniti enim at dicta molestiae voluptates expedita exercitationem deleniti omnis id.",
+		"name": "Slyvia",
+		"surname": "Mulder",
+		"uuid": "6e455d08-b4cf-449b-ac91-7a80299a000d",
+		"bio": "Ea non sint aut cupiditate molestiae esse numquam rerum magnam nesciunt dolore veniam dolores rerum quas magnam quas sunt temporibus veniam eos est eius molestiae voluptatibus et et veniam nihil ea molestiae eos autem sit et eveniet animi quisquam magni nisi ea aspernatur non rerum cumque quis est soluta dolore adipisci voluptatem debitis rerum aut dicta debitis quia ut eum.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/deonna_dekker",
-			"github": "https://github.com/deonna_dekker",
-			"instagram": "https://www.instagram.com/deonna_dekker",
-			"twitter": "https://twitter.com/deonna_dekker"
+			"linkedin": "https://www.linkedin.com/in/slyvia_mulder",
+			"github": "https://github.com/slyvia_mulder",
+			"instagram": "https://www.instagram.com/slyvia_mulder",
+			"twitter": "https://twitter.com/slyvia_mulder"
 		},
 		"id": "2-3",
 		"image": {
-			"banner": "https://picsum.photos/seed/deonna_dekker/400/200",
-			"thumb": "https://picsum.photos/seed/deonna_dekker/200/200",
-			"large": "https://picsum.photos/seed/deonna_dekker/800/400"
+			"banner": "https://picsum.photos/seed/slyvia_mulder/400/200",
+			"thumb": "https://picsum.photos/seed/slyvia_mulder/200/200",
+			"large": "https://picsum.photos/seed/slyvia_mulder/800/400"
 		}
 	},
 	"id": "2-3",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

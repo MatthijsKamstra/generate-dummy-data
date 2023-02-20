@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-3873-471b-a03a-4e64ed044d66",
+	"uuid": "6e455d08-b47b-444c-8199-9d5ffa0aca4f",
 	"bio": {
-		"name": "Martin",
-		"surname": "Smit",
-		"uuid": "5fdfa9f8-d4a7-49b2-8779-d8138b84ed37",
-		"bio": "Doloribus at totam aut harum qui sapiente quia atque quia quia labore inventore nulla consequatur eligendi ullam sed eligendi ab eos rerum iusto distinctio ad nostrum qui recusandae dolore consequatur ducimus illum commodi ut aut eum porro temporibus enim non est quam neque labore alias commodi fuga eligendi est delectus reprehenderit adipisci tenetur atque unde in a minima et quia.",
+		"name": "Jarrod",
+		"surname": "Smits",
+		"uuid": "6e455d08-ff0e-4a4d-81dd-a83338a8cbae",
+		"bio": "Vel sint omnis aut sunt expedita non et aut qui facere modi beatae ut recusandae harum veritatis et earum cupiditate voluptate excepturi animi suscipit aut quam repellat sed ut iste excepturi ducimus animi quis eos minus voluptatibus nostrum in mollitia tenetur id enim quis aut expedita et quaerat id quaerat molestiae voluptates est ducimus molestiae dolorem necessitatibus consequuntur id fugit.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/martin_smit",
-			"github": "https://github.com/martin_smit",
-			"instagram": "https://www.instagram.com/martin_smit",
-			"twitter": "https://twitter.com/martin_smit"
+			"linkedin": "https://www.linkedin.com/in/jarrod_smits",
+			"github": "https://github.com/jarrod_smits",
+			"instagram": "https://www.instagram.com/jarrod_smits",
+			"twitter": "https://twitter.com/jarrod_smits"
 		},
 		"id": "3-2",
 		"image": {
-			"banner": "https://picsum.photos/seed/martin_smit/400/200",
-			"thumb": "https://picsum.photos/seed/martin_smit/200/200",
-			"large": "https://picsum.photos/seed/martin_smit/800/400"
+			"banner": "https://picsum.photos/seed/jarrod_smits/400/200",
+			"thumb": "https://picsum.photos/seed/jarrod_smits/200/200",
+			"large": "https://picsum.photos/seed/jarrod_smits/800/400"
 		}
 	},
 	"id": "3-2",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }

@@ -1,23 +1,23 @@
 {
-	"uuid": "5fdfa9f8-f45c-4cb1-8282-fa9a56b5741e",
+	"uuid": "6e455d08-2a81-4ae7-aa8e-a502ff099de9",
 	"bio": {
-		"name": "Zane",
-		"surname": "Janssen",
-		"uuid": "5fdfa9f8-79f4-4bb1-ab10-0af0b2fdc4cb",
-		"bio": "Iure voluptatem ex itaque veritatis ea a et consequuntur incidunt at iure unde aut ipsa repellendus fugit provident itaque ducimus aliquam illum voluptas repellendus tempora rerum velit et illo ratione possimus vitae unde modi sed pariatur voluptatum incidunt molestiae velit aliquam occaecati quia molestiae dolor incidunt rem ad aliquam aliquam optio iste beatae ea voluptatem magni distinctio ab impedit error.",
+		"name": "Jarrod",
+		"surname": "De Graaf",
+		"uuid": "6e455d08-ff48-4155-9131-388550d06e7f",
+		"bio": "Placeat ducimus non enim et sit laborum eum iste atque sit beatae voluptates repudiandae ea totam nostrum vel nemo omnis at dolores sed optio alias soluta consequatur provident rem dicta velit qui voluptates sit aut illo harum porro reiciendis quidem dolorem vel ex quo quia ut magni quod et vel porro ipsa nostrum blanditiis corrupti est perspiciatis earum in fugit.",
 		"socials": {
-			"linkedin": "https://www.linkedin.com/in/zane_janssen",
-			"github": "https://github.com/zane_janssen",
-			"instagram": "https://www.instagram.com/zane_janssen",
-			"twitter": "https://twitter.com/zane_janssen"
+			"linkedin": "https://www.linkedin.com/in/jarrod_de_graaf",
+			"github": "https://github.com/jarrod_de_graaf",
+			"instagram": "https://www.instagram.com/jarrod_de_graaf",
+			"twitter": "https://twitter.com/jarrod_de_graaf"
 		},
 		"id": "0-1",
 		"image": {
-			"banner": "https://picsum.photos/seed/zane_janssen/400/200",
-			"thumb": "https://picsum.photos/seed/zane_janssen/200/200",
-			"large": "https://picsum.photos/seed/zane_janssen/800/400"
+			"banner": "https://picsum.photos/seed/jarrod_de_graaf/400/200",
+			"thumb": "https://picsum.photos/seed/jarrod_de_graaf/200/200",
+			"large": "https://picsum.photos/seed/jarrod_de_graaf/800/400"
 		}
 	},
 	"id": "0-1",
-	"created": "2023-02-17 15:55:39"
+	"created": "2023-02-20 11:01:25"
 }
