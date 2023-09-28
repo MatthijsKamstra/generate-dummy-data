@@ -1,0 +1,37 @@
+{
+  "contents": [
+    {
+      "id": "LianderNetManagement",
+      "name": "LianderNetManagement",
+      "code": "LIA",
+      "functionGroup": "ADMIN",
+      "isEnabled": true,
+      "isSubstationManagement": true,
+      "expiryDate": null,
+      "domains": ["COMMON", "PUBLIC_LIGHTING", "TARIFF_SWITCHING"]
+    },
+    {
+      "id": "test-org",
+      "name": "test-org",
+      "code": "TSO",
+      "functionGroup": "ADMIN",
+      "isEnabled": true,
+      "isSubstationManagement": true,
+      "expiryDate": null,
+      "domains": ["COMMON", "PUBLIC_LIGHTING"]
+    },
+    {
+      "id": "TST-SomeCity",
+      "name": "TST-SomeCity",
+      "code": "SCT",
+      "functionGroup": "ADMIN",
+      "isEnabled": true,
+      "isSubstationManagement": false,
+      "expiryDate": null,
+      "domains": ["COMMON"]
+    }
+  ],
+  "totalItems": 3,
+  "totalPages": 10,
+  "pageSize": 10
+}

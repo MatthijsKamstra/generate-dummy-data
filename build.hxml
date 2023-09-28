@@ -36,7 +36,12 @@
 # -main MainRebidd
 # --interp
 
+# -cp src
+# -D analyzer-optimize
+# -main MainRawGenius
+# --interp
+
 -cp src
 -D analyzer-optimize
--main MainRawGenius
+-main MainAlli
 --interp

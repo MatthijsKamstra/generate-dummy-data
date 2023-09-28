@@ -1,0 +1,134 @@
+{
+	"totalItems": 10,
+	"totalPages": 1,
+	"content": [
+		{
+			"functionGroup": [],
+			"name": "Doetinchem",
+			"code": "DOE",
+			"domains": [],
+			"id": "Doetinchem_0",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-03-29 10:44:00"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Amersfoort",
+			"code": "AME",
+			"domains": [],
+			"id": "Amersfoort_1",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-01-13 10:44:00"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Elburg",
+			"code": "ELB",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Elburg_2",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-01-21 10:44:00"
+		},
+		{
+			"functionGroup": [],
+			"name": "Purmerend",
+			"code": "PUR",
+			"domains": [],
+			"id": "Purmerend_3",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-03-02 10:44:00"
+		},
+		{
+			"functionGroup": [],
+			"name": "Lochem",
+			"code": "LOC",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Lochem_4",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-03-21 10:44:00"
+		},
+		{
+			"functionGroup": [],
+			"name": "Den Helder ",
+			"code": "DEN",
+			"domains": [
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"id": "Den Helder _5",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-04-10 11:44:00"
+		},
+		{
+			"functionGroup": [],
+			"name": "Zaanstad",
+			"code": "ZAA",
+			"domains": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Zaanstad_6",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-01-30 10:44:00"
+		},
+		{
+			"functionGroup": [],
+			"name": "Putten",
+			"code": "PUT",
+			"domains": [
+				"TARIFF_SWITCHING"
+			],
+			"id": "Putten_7",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-01-25 10:44:00"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Schagen",
+			"code": "SCH",
+			"domains": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"id": "Schagen_8",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-03-22 10:44:00"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Berkelland",
+			"code": "BER",
+			"domains": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"id": "Berkelland_9",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-01-17 10:44:00"
+		}
+	],
+	"created": "2023-09-28 11:44:00",
+	"pageSize": 10
+}
