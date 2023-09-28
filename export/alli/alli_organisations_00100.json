@@ -1,0 +1,1287 @@
+{
+	"totalItems": 100,
+	"totalPages": 1,
+	"created": "2023-09-28 12:15:19",
+	"pageSize": 100,
+	"contents": [
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Zutphen",
+			"code": "ZUT",
+			"domains": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Zutphen_0",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-03-25 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Oldebroek",
+			"code": "OLD",
+			"domains": [],
+			"id": "Oldebroek_1",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-04-05 12:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Oost Gelre ",
+			"code": "OOS",
+			"domains": [],
+			"id": "Oost Gelre _2",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-04-03 12:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Flevoland",
+			"code": "FLE",
+			"domains": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"id": "Flevoland_3",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-02-03 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Wassenaar",
+			"code": "WAS",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Wassenaar_4",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-01-15 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Zoeterwoude",
+			"code": "ZOE",
+			"domains": [],
+			"id": "Zoeterwoude_5",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-03-19 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Zoeterwoude",
+			"code": "ZOE",
+			"domains": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"id": "Zoeterwoude_6",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-02-07 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Bronckhorst",
+			"code": "BRO",
+			"domains": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Bronckhorst_7",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-03-10 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Harderwijk",
+			"code": "HAR",
+			"domains": [],
+			"id": "Harderwijk_8",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-03-17 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Alphen aan den Rijn",
+			"code": "ALP",
+			"domains": [
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"id": "Alphen aan den Rijn_9",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-04-14 12:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Lelystad",
+			"code": "LEL",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Lelystad_10",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-04-11 12:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Leiden",
+			"code": "LEI",
+			"domains": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"id": "Leiden_11",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-02-26 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Berkelland",
+			"code": "BER",
+			"domains": [],
+			"id": "Berkelland_12",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-02-17 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Kaag en Braassem",
+			"code": "KAA",
+			"domains": [],
+			"id": "Kaag en Braassem_13",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-03-03 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Lisse",
+			"code": "LIS",
+			"domains": [
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"id": "Lisse_14",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-01-16 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "West Betuwe",
+			"code": "WES",
+			"domains": [
+				"TARIFF_SWITCHING"
+			],
+			"id": "West Betuwe_15",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-02-12 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Oost Gelre ",
+			"code": "OOS",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Oost Gelre _16",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-02-07 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Putten",
+			"code": "PUT",
+			"domains": [],
+			"id": "Putten_17",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-01-09 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Voorschoten",
+			"code": "VOO",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Voorschoten_18",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-03-20 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Waterland",
+			"code": "WAT",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Waterland_19",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-03-16 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Oldebroek",
+			"code": "OLD",
+			"domains": [
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Oldebroek_20",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-01-21 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Kaag en Braassem",
+			"code": "KAA",
+			"domains": [],
+			"id": "Kaag en Braassem_21",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-02-20 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Voorschoten",
+			"code": "VOO",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Voorschoten_22",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-01-11 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Haarlem",
+			"code": "HAA",
+			"domains": [],
+			"id": "Haarlem_23",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-03-01 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Noordwijk",
+			"code": "NOO",
+			"domains": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"id": "Noordwijk_24",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-03-07 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Enkhuizen",
+			"code": "ENK",
+			"domains": [
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"id": "Enkhuizen_25",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-03-26 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Rheden",
+			"code": "RHE",
+			"domains": [
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"id": "Rheden_26",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-03-31 12:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Kaag en Braassem",
+			"code": "KAA",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Kaag en Braassem_27",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-03-01 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Hoorn",
+			"code": "HOO",
+			"domains": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Hoorn_28",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-01-14 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Oldebroek",
+			"code": "OLD",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Oldebroek_29",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-01-11 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Drechterland",
+			"code": "DRE",
+			"domains": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"id": "Drechterland_30",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-01-23 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Waterland",
+			"code": "WAT",
+			"domains": [],
+			"id": "Waterland_31",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-03-24 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Apeldoorn",
+			"code": "APE",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Apeldoorn_32",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-01-16 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Ermelo",
+			"code": "ERM",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Ermelo_33",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-03-13 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Haarlem",
+			"code": "HAA",
+			"domains": [
+				"TARIFF_SWITCHING"
+			],
+			"id": "Haarlem_34",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-02-26 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Doesburg",
+			"code": "DOE",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Doesburg_35",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-03-09 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Alphen aan den Rijn",
+			"code": "ALP",
+			"domains": [],
+			"id": "Alphen aan den Rijn_36",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-02-07 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Berkelland",
+			"code": "BER",
+			"domains": [],
+			"id": "Berkelland_37",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-01-25 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Teylingen",
+			"code": "TEY",
+			"domains": [
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Teylingen_38",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-02-21 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Voorschoten",
+			"code": "VOO",
+			"domains": [
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"id": "Voorschoten_39",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-02-09 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Den Helder ",
+			"code": "DEN",
+			"domains": [
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"id": "Den Helder _40",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-01-22 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Kaag en Braassem",
+			"code": "KAA",
+			"domains": [],
+			"id": "Kaag en Braassem_41",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-03-02 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Voorschoten",
+			"code": "VOO",
+			"domains": [
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"id": "Voorschoten_42",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-02-11 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Bronckhorst",
+			"code": "BRO",
+			"domains": [],
+			"id": "Bronckhorst_43",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-03-02 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Leiderdorp",
+			"code": "LEI",
+			"domains": [
+				"TARIFF_SWITCHING"
+			],
+			"id": "Leiderdorp_44",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-02-29 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Alphen aan den Rijn",
+			"code": "ALP",
+			"domains": [
+				"TARIFF_SWITCHING"
+			],
+			"id": "Alphen aan den Rijn_45",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-01-10 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Nunspeet",
+			"code": "NUN",
+			"domains": [],
+			"id": "Nunspeet_46",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-01-23 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Rheden",
+			"code": "RHE",
+			"domains": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"id": "Rheden_47",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-01-10 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Medemblik",
+			"code": "MED",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Medemblik_48",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-02-05 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Oegstgeest",
+			"code": "OEG",
+			"domains": [],
+			"id": "Oegstgeest_49",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-03-22 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Winterswijk",
+			"code": "WIN",
+			"domains": [],
+			"id": "Winterswijk_50",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-03-28 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Schagen",
+			"code": "SCH",
+			"domains": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Schagen_51",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-03-26 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Winterswijk",
+			"code": "WIN",
+			"domains": [],
+			"id": "Winterswijk_52",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-01-11 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Zeewolde",
+			"code": "ZEE",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Zeewolde_53",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-02-19 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Barneveld",
+			"code": "BAR",
+			"domains": [
+				"TARIFF_SWITCHING"
+			],
+			"id": "Barneveld_54",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-03-14 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Voorschoten",
+			"code": "VOO",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Voorschoten_55",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-02-07 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Leiderdorp",
+			"code": "LEI",
+			"domains": [
+				"TARIFF_SWITCHING"
+			],
+			"id": "Leiderdorp_56",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-01-08 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Leiden",
+			"code": "LEI",
+			"domains": [
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"id": "Leiden_57",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-02-17 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Oegstgeest",
+			"code": "OEG",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Oegstgeest_58",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-02-24 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Katwijk",
+			"code": "KAT",
+			"domains": [],
+			"id": "Katwijk_59",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-01-30 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Zaanstad",
+			"code": "ZAA",
+			"domains": [],
+			"id": "Zaanstad_60",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-02-23 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "West Betuwe",
+			"code": "WES",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "West Betuwe_61",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-04-04 12:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Doetinchem",
+			"code": "DOE",
+			"domains": [],
+			"id": "Doetinchem_62",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-03-07 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Nijkerk",
+			"code": "NIJ",
+			"domains": [],
+			"id": "Nijkerk_63",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-04-15 12:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Hollands Kroon",
+			"code": "HOL",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Hollands Kroon_64",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-03-17 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Oostzaan",
+			"code": "OOS",
+			"domains": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"id": "Oostzaan_65",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-03-03 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Nieuwkoop",
+			"code": "NIE",
+			"domains": [
+				"TARIFF_SWITCHING"
+			],
+			"id": "Nieuwkoop_66",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-02-29 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Katwijk",
+			"code": "KAT",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Katwijk_67",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-03-12 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Stedebroec",
+			"code": "STE",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Stedebroec_68",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-01-27 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "West Betuwe",
+			"code": "WES",
+			"domains": [],
+			"id": "West Betuwe_69",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-03-24 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Oude IJsselstreek",
+			"code": "OUD",
+			"domains": [
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"id": "Oude IJsselstreek_70",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-02-02 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Lisse",
+			"code": "LIS",
+			"domains": [
+				"TARIFF_SWITCHING"
+			],
+			"id": "Lisse_71",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-02-09 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Bergen",
+			"code": "BER",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Bergen_72",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-02-06 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Hattem",
+			"code": "HAT",
+			"domains": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"id": "Hattem_73",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-02-14 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Winterswijk",
+			"code": "WIN",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Winterswijk_74",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-01-09 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Westervoort",
+			"code": "WES",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Westervoort_75",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-02-02 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Aalten",
+			"code": "AAL",
+			"domains": [],
+			"id": "Aalten_76",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-01-28 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Zeewolde",
+			"code": "ZEE",
+			"domains": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"id": "Zeewolde_77",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-03-14 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Stedebroec",
+			"code": "STE",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Stedebroec_78",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-02-13 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Zeewolde",
+			"code": "ZEE",
+			"domains": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"id": "Zeewolde_79",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-04-11 12:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Texel",
+			"code": "TEX",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Texel_80",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-03-14 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Schagen",
+			"code": "SCH",
+			"domains": [],
+			"id": "Schagen_81",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-03-06 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Zutphen",
+			"code": "ZUT",
+			"domains": [
+				"TARIFF_SWITCHING"
+			],
+			"id": "Zutphen_82",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-04-12 12:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Leiderdorp",
+			"code": "LEI",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Leiderdorp_83",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-02-24 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Voorschoten",
+			"code": "VOO",
+			"domains": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Voorschoten_84",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-03-13 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Zeewolde",
+			"code": "ZEE",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Zeewolde_85",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-02-03 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Alphen aan den Rijn",
+			"code": "ALP",
+			"domains": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Alphen aan den Rijn_86",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-01-13 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Oude IJsselstreek",
+			"code": "OUD",
+			"domains": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"id": "Oude IJsselstreek_87",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-03-16 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Oost Gelre ",
+			"code": "OOS",
+			"domains": [
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"id": "Oost Gelre _88",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-03-21 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Almere",
+			"code": "ALM",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Almere_89",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-01-18 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Apeldoorn",
+			"code": "APE",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Apeldoorn_90",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-01-30 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Berkelland",
+			"code": "BER",
+			"domains": [
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"id": "Berkelland_91",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-03-08 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Elburg",
+			"code": "ELB",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Elburg_92",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-04-04 12:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Lochem",
+			"code": "LOC",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Lochem_93",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-04-07 12:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Oegstgeest",
+			"code": "OEG",
+			"domains": [],
+			"id": "Oegstgeest_94",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-02-23 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Voorschoten",
+			"code": "VOO",
+			"domains": [
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Voorschoten_95",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-02-03 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Amersfoort",
+			"code": "AME",
+			"domains": [],
+			"id": "Amersfoort_96",
+			"isSubstationManagement": true,
+			"isEnabled": false,
+			"expiryDate": "2024-01-08 11:15:19"
+		},
+		{
+			"functionGroup": [],
+			"name": "Dijk en Waard",
+			"code": "DIJ",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Dijk en Waard_97",
+			"isSubstationManagement": false,
+			"isEnabled": false,
+			"expiryDate": "2024-02-05 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"USER"
+			],
+			"name": "Schagen",
+			"code": "SCH",
+			"domains": [
+				"COMMON"
+			],
+			"id": "Schagen_98",
+			"isSubstationManagement": true,
+			"isEnabled": true,
+			"expiryDate": "2024-01-26 11:15:19"
+		},
+		{
+			"functionGroup": [
+				"ADMIN"
+			],
+			"name": "Elburg",
+			"code": "ELB",
+			"domains": [
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"id": "Elburg_99",
+			"isSubstationManagement": false,
+			"isEnabled": true,
+			"expiryDate": "2024-02-06 11:15:19"
+		}
+	]
+}

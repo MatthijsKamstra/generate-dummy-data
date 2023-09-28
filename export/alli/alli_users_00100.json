@@ -1,0 +1,1666 @@
+{
+	"totalItems": 100,
+	"totalPages": 1,
+	"created": "2023-09-28 12:15:19",
+	"pageSize": 100,
+	"contents": [
+		{
+			"applications": [],
+			"firstName": "Jeff",
+			"startDate": "2023-12-07 11:15:19",
+			"lastName": "Van der Meer",
+			"role": [],
+			"id": "Jeff Van der Meer",
+			"isBlocked": true,
+			"middleName": "Shaina",
+			"email": "jeff@van der meer.nl",
+			"userName": "jeff_van der meer",
+			"expiryDate": "2024-02-23 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Jeff",
+			"startDate": "2023-10-27 12:15:19",
+			"lastName": "Jansen",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Jeff Jansen",
+			"isBlocked": false,
+			"middleName": "Elina",
+			"email": "jeff@jansen.nl",
+			"userName": "jeff_jansen",
+			"expiryDate": "2024-02-22 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Jeff",
+			"startDate": "2023-12-01 11:15:19",
+			"lastName": "Dijkstra",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Jeff Dijkstra",
+			"isBlocked": false,
+			"middleName": "Jeff",
+			"email": "jeff@dijkstra.nl",
+			"userName": "jeff_dijkstra",
+			"expiryDate": "2024-01-31 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Elina",
+			"startDate": "2023-11-16 11:15:19",
+			"lastName": "Meijer",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Elina Meijer",
+			"isBlocked": false,
+			"middleName": "Queenie",
+			"email": "elina@meijer.nl",
+			"userName": "elina_meijer",
+			"expiryDate": "2024-04-01 12:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Chantell",
+			"startDate": "2023-10-02 12:15:19",
+			"lastName": "De Groot",
+			"role": [
+				"USER"
+			],
+			"id": "Chantell De Groot",
+			"isBlocked": true,
+			"middleName": "Deonna",
+			"email": "chantell@de groot.nl",
+			"userName": "chantell_de groot",
+			"expiryDate": "2024-03-19 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON"
+			],
+			"firstName": "Kortney",
+			"startDate": "2023-11-03 11:15:19",
+			"lastName": "De Graaf",
+			"role": [],
+			"id": "Kortney De Graaf",
+			"isBlocked": false,
+			"middleName": "Queenie",
+			"email": "kortney@de graaf.nl",
+			"userName": "kortney_de graaf",
+			"expiryDate": "2024-01-16 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"firstName": "Slyvia",
+			"startDate": "2023-12-27 11:15:19",
+			"lastName": "Van der Meer",
+			"role": [],
+			"id": "Slyvia Van der Meer",
+			"isBlocked": false,
+			"middleName": "Alysa",
+			"email": "slyvia@van der meer.nl",
+			"userName": "slyvia_van der meer",
+			"expiryDate": "2024-03-31 12:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"firstName": "Kortney",
+			"startDate": "2023-11-26 11:15:19",
+			"lastName": "De Wit",
+			"role": [],
+			"id": "Kortney De Wit",
+			"isBlocked": true,
+			"middleName": "Chantell",
+			"email": "kortney@de wit.nl",
+			"userName": "kortney_de wit",
+			"expiryDate": "2024-01-15 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"firstName": "Sunshine",
+			"startDate": "2024-01-02 11:15:19",
+			"lastName": "Brouwer",
+			"role": [],
+			"id": "Sunshine Brouwer",
+			"isBlocked": true,
+			"middleName": "Lowell",
+			"email": "sunshine@brouwer.nl",
+			"userName": "sunshine_brouwer",
+			"expiryDate": "2024-01-21 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Zulma",
+			"startDate": "2023-10-28 12:15:19",
+			"lastName": "Van der Meer",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Zulma Van der Meer",
+			"isBlocked": false,
+			"middleName": "Slyvia",
+			"email": "zulma@van der meer.nl",
+			"userName": "zulma_van der meer",
+			"expiryDate": "2024-04-07 12:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Sunshine",
+			"startDate": "2023-10-22 12:15:19",
+			"lastName": "Janssen",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Sunshine Janssen",
+			"isBlocked": false,
+			"middleName": "Deonna",
+			"email": "sunshine@janssen.nl",
+			"userName": "sunshine_janssen",
+			"expiryDate": "2024-01-11 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Angle",
+			"startDate": "2024-01-06 11:15:19",
+			"lastName": "Van den Berg",
+			"role": [],
+			"id": "Angle Van den Berg",
+			"isBlocked": true,
+			"middleName": "Corazon",
+			"email": "angle@van den berg.nl",
+			"userName": "angle_van den berg",
+			"expiryDate": "2024-01-21 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"firstName": "Martin",
+			"startDate": "2023-12-17 11:15:19",
+			"lastName": "Van den Berg",
+			"role": [
+				"USER"
+			],
+			"id": "Martin Van den Berg",
+			"isBlocked": true,
+			"middleName": "Martin",
+			"email": "martin@van den berg.nl",
+			"userName": "martin_van den berg",
+			"expiryDate": "2024-02-09 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Kortney",
+			"startDate": "2023-10-21 12:15:19",
+			"lastName": "Bakker",
+			"role": [],
+			"id": "Kortney Bakker",
+			"isBlocked": false,
+			"middleName": "Zulma",
+			"email": "kortney@bakker.nl",
+			"userName": "kortney_bakker",
+			"expiryDate": "2024-01-16 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Diedre",
+			"startDate": "2023-10-01 12:15:19",
+			"lastName": "Van der Meer",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Diedre Van der Meer",
+			"isBlocked": false,
+			"middleName": "Latrice",
+			"email": "diedre@van der meer.nl",
+			"userName": "diedre_van der meer",
+			"expiryDate": "2024-02-07 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Chantell",
+			"startDate": "2023-12-02 11:15:19",
+			"lastName": "Peters",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Chantell Peters",
+			"isBlocked": false,
+			"middleName": "Elina",
+			"email": "chantell@peters.nl",
+			"userName": "chantell_peters",
+			"expiryDate": "2024-03-25 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Shaina",
+			"startDate": "2023-12-10 11:15:19",
+			"lastName": "Bos",
+			"role": [],
+			"id": "Shaina Bos",
+			"isBlocked": false,
+			"middleName": "Chantell",
+			"email": "shaina@bos.nl",
+			"userName": "shaina_bos",
+			"expiryDate": "2024-04-10 12:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"firstName": "Corazon",
+			"startDate": "2023-10-16 12:15:19",
+			"lastName": "Van den Berg",
+			"role": [
+				"USER"
+			],
+			"id": "Corazon Van den Berg",
+			"isBlocked": true,
+			"middleName": "Zulma",
+			"email": "corazon@van den berg.nl",
+			"userName": "corazon_van den berg",
+			"expiryDate": "2024-04-05 12:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Queenie",
+			"startDate": "2023-09-30 12:15:19",
+			"lastName": "De Graaf",
+			"role": [
+				"USER"
+			],
+			"id": "Queenie De Graaf",
+			"isBlocked": false,
+			"middleName": "Slyvia",
+			"email": "queenie@de graaf.nl",
+			"userName": "queenie_de graaf",
+			"expiryDate": "2024-03-18 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Alysa",
+			"startDate": "2023-10-25 12:15:19",
+			"lastName": "Smits",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Alysa Smits",
+			"isBlocked": true,
+			"middleName": "Chantell",
+			"email": "alysa@smits.nl",
+			"userName": "alysa_smits",
+			"expiryDate": "2024-04-03 12:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Chantell",
+			"startDate": "2023-12-01 11:15:19",
+			"lastName": "De Vries",
+			"role": [
+				"USER"
+			],
+			"id": "Chantell De Vries",
+			"isBlocked": true,
+			"middleName": "Shaina",
+			"email": "chantell@de vries.nl",
+			"userName": "chantell_de vries",
+			"expiryDate": "2024-04-01 12:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Slyvia",
+			"startDate": "2023-10-25 12:15:19",
+			"lastName": "Bos",
+			"role": [],
+			"id": "Slyvia Bos",
+			"isBlocked": false,
+			"middleName": "Elina",
+			"email": "slyvia@bos.nl",
+			"userName": "slyvia_bos",
+			"expiryDate": "2024-04-13 12:15:19"
+		},
+		{
+			"applications": [
+				"COMMON"
+			],
+			"firstName": "Lowell",
+			"startDate": "2023-12-25 11:15:19",
+			"lastName": "Jansen",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Lowell Jansen",
+			"isBlocked": true,
+			"middleName": "Kortney",
+			"email": "lowell@jansen.nl",
+			"userName": "lowell_jansen",
+			"expiryDate": "2024-03-16 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Jarrod",
+			"startDate": "2023-11-02 11:15:19",
+			"lastName": "Van der Meer",
+			"role": [],
+			"id": "Jarrod Van der Meer",
+			"isBlocked": false,
+			"middleName": "Deonna",
+			"email": "jarrod@van der meer.nl",
+			"userName": "jarrod_van der meer",
+			"expiryDate": "2024-04-13 12:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Chantell",
+			"startDate": "2023-12-22 11:15:19",
+			"lastName": "De Jong",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Chantell De Jong",
+			"isBlocked": true,
+			"middleName": "Queenie",
+			"email": "chantell@de jong.nl",
+			"userName": "chantell_de jong",
+			"expiryDate": "2024-03-24 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Zulma",
+			"startDate": "2023-12-01 11:15:19",
+			"lastName": "Peters",
+			"role": [
+				"USER"
+			],
+			"id": "Zulma Peters",
+			"isBlocked": true,
+			"middleName": "Kortney",
+			"email": "zulma@peters.nl",
+			"userName": "zulma_peters",
+			"expiryDate": "2024-01-17 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON"
+			],
+			"firstName": "Latrice",
+			"startDate": "2023-12-11 11:15:19",
+			"lastName": "Bos",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Latrice Bos",
+			"isBlocked": true,
+			"middleName": "Latrice",
+			"email": "latrice@bos.nl",
+			"userName": "latrice_bos",
+			"expiryDate": "2024-01-24 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Angle",
+			"startDate": "2023-12-22 11:15:19",
+			"lastName": "De Graaf",
+			"role": [
+				"USER"
+			],
+			"id": "Angle De Graaf",
+			"isBlocked": false,
+			"middleName": "Jarrod",
+			"email": "angle@de graaf.nl",
+			"userName": "angle_de graaf",
+			"expiryDate": "2024-03-22 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Elina",
+			"startDate": "2023-10-20 12:15:19",
+			"lastName": "Mulder",
+			"role": [
+				"USER"
+			],
+			"id": "Elina Mulder",
+			"isBlocked": true,
+			"middleName": "Slyvia",
+			"email": "elina@mulder.nl",
+			"userName": "elina_mulder",
+			"expiryDate": "2024-02-01 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Shaina",
+			"startDate": "2023-10-17 12:15:19",
+			"lastName": "De Vries",
+			"role": [],
+			"id": "Shaina De Vries",
+			"isBlocked": false,
+			"middleName": "Zulma",
+			"email": "shaina@de vries.nl",
+			"userName": "shaina_de vries",
+			"expiryDate": "2024-03-14 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"firstName": "Jarrod",
+			"startDate": "2023-10-25 12:15:19",
+			"lastName": "Mulder",
+			"role": [
+				"USER"
+			],
+			"id": "Jarrod Mulder",
+			"isBlocked": true,
+			"middleName": "Zulma",
+			"email": "jarrod@mulder.nl",
+			"userName": "jarrod_mulder",
+			"expiryDate": "2024-01-18 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Shaina",
+			"startDate": "2023-12-23 11:15:19",
+			"lastName": "De Boer",
+			"role": [
+				"USER"
+			],
+			"id": "Shaina De Boer",
+			"isBlocked": false,
+			"middleName": "Queenie",
+			"email": "shaina@de boer.nl",
+			"userName": "shaina_de boer",
+			"expiryDate": "2024-02-12 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Lowell",
+			"startDate": "2023-10-07 12:15:19",
+			"lastName": "De Vries",
+			"role": [
+				"USER"
+			],
+			"id": "Lowell De Vries",
+			"isBlocked": false,
+			"middleName": "Zane",
+			"email": "lowell@de vries.nl",
+			"userName": "lowell_de vries",
+			"expiryDate": "2024-01-28 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Shaina",
+			"startDate": "2023-12-21 11:15:19",
+			"lastName": "Smit",
+			"role": [],
+			"id": "Shaina Smit",
+			"isBlocked": true,
+			"middleName": "Deonna",
+			"email": "shaina@smit.nl",
+			"userName": "shaina_smit",
+			"expiryDate": "2024-03-31 12:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Corazon",
+			"startDate": "2023-11-02 11:15:19",
+			"lastName": "Van Leeuwen",
+			"role": [
+				"USER"
+			],
+			"id": "Corazon Van Leeuwen",
+			"isBlocked": true,
+			"middleName": "Jarrod",
+			"email": "corazon@van leeuwen.nl",
+			"userName": "corazon_van leeuwen",
+			"expiryDate": "2024-03-27 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Jeff",
+			"startDate": "2024-01-04 11:15:19",
+			"lastName": "Bos",
+			"role": [
+				"USER"
+			],
+			"id": "Jeff Bos",
+			"isBlocked": false,
+			"middleName": "Alysa",
+			"email": "jeff@bos.nl",
+			"userName": "jeff_bos",
+			"expiryDate": "2024-01-31 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Diedre",
+			"startDate": "2023-12-12 11:15:19",
+			"lastName": "Dijkstra",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Diedre Dijkstra",
+			"isBlocked": true,
+			"middleName": "Ingeborg",
+			"email": "diedre@dijkstra.nl",
+			"userName": "diedre_dijkstra",
+			"expiryDate": "2024-01-07 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Chantell",
+			"startDate": "2023-11-21 11:15:19",
+			"lastName": "Van Leeuwen",
+			"role": [
+				"USER"
+			],
+			"id": "Chantell Van Leeuwen",
+			"isBlocked": false,
+			"middleName": "Sunshine",
+			"email": "chantell@van leeuwen.nl",
+			"userName": "chantell_van leeuwen",
+			"expiryDate": "2024-04-11 12:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Corazon",
+			"startDate": "2023-10-28 12:15:19",
+			"lastName": "Van Dijk",
+			"role": [],
+			"id": "Corazon Van Dijk",
+			"isBlocked": true,
+			"middleName": "Lowell",
+			"email": "corazon@van dijk.nl",
+			"userName": "corazon_van dijk",
+			"expiryDate": "2024-01-07 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Martin",
+			"startDate": "2023-11-14 11:15:19",
+			"lastName": "Brouwer",
+			"role": [],
+			"id": "Martin Brouwer",
+			"isBlocked": false,
+			"middleName": "Martin",
+			"email": "martin@brouwer.nl",
+			"userName": "martin_brouwer",
+			"expiryDate": "2024-02-29 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Chantell",
+			"startDate": "2023-12-12 11:15:19",
+			"lastName": "Meijer",
+			"role": [
+				"USER"
+			],
+			"id": "Chantell Meijer",
+			"isBlocked": false,
+			"middleName": "Ingeborg",
+			"email": "chantell@meijer.nl",
+			"userName": "chantell_meijer",
+			"expiryDate": "2024-02-09 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Latrice",
+			"startDate": "2023-10-02 12:15:19",
+			"lastName": "Dijkstra",
+			"role": [],
+			"id": "Latrice Dijkstra",
+			"isBlocked": true,
+			"middleName": "Shaina",
+			"email": "latrice@dijkstra.nl",
+			"userName": "latrice_dijkstra",
+			"expiryDate": "2024-02-09 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Lowell",
+			"startDate": "2023-11-08 11:15:19",
+			"lastName": "De Boer",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Lowell De Boer",
+			"isBlocked": false,
+			"middleName": "Alysa",
+			"email": "lowell@de boer.nl",
+			"userName": "lowell_de boer",
+			"expiryDate": "2024-01-16 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Zane",
+			"startDate": "2024-01-05 11:15:19",
+			"lastName": "Vos",
+			"role": [],
+			"id": "Zane Vos",
+			"isBlocked": true,
+			"middleName": "Jeff",
+			"email": "zane@vos.nl",
+			"userName": "zane_vos",
+			"expiryDate": "2024-03-28 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"firstName": "Shaina",
+			"startDate": "2023-10-19 12:15:19",
+			"lastName": "Janssen",
+			"role": [],
+			"id": "Shaina Janssen",
+			"isBlocked": true,
+			"middleName": "Lowell",
+			"email": "shaina@janssen.nl",
+			"userName": "shaina_janssen",
+			"expiryDate": "2024-04-09 12:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Chantell",
+			"startDate": "2023-12-20 11:15:19",
+			"lastName": "De Wit",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Chantell De Wit",
+			"isBlocked": true,
+			"middleName": "Zulma",
+			"email": "chantell@de wit.nl",
+			"userName": "chantell_de wit",
+			"expiryDate": "2024-04-15 12:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Corazon",
+			"startDate": "2023-12-15 11:15:19",
+			"lastName": "Mulder",
+			"role": [],
+			"id": "Corazon Mulder",
+			"isBlocked": false,
+			"middleName": "Zane",
+			"email": "corazon@mulder.nl",
+			"userName": "corazon_mulder",
+			"expiryDate": "2024-02-06 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Jeff",
+			"startDate": "2023-11-19 11:15:19",
+			"lastName": "Van Dijk",
+			"role": [],
+			"id": "Jeff Van Dijk",
+			"isBlocked": false,
+			"middleName": "Chantell",
+			"email": "jeff@van dijk.nl",
+			"userName": "jeff_van dijk",
+			"expiryDate": "2024-02-17 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Latrice",
+			"startDate": "2023-12-01 11:15:19",
+			"lastName": "Dekker",
+			"role": [],
+			"id": "Latrice Dekker",
+			"isBlocked": true,
+			"middleName": "Ingeborg",
+			"email": "latrice@dekker.nl",
+			"userName": "latrice_dekker",
+			"expiryDate": "2024-03-11 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Kortney",
+			"startDate": "2023-10-15 12:15:19",
+			"lastName": "De Graaf",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Kortney De Graaf",
+			"isBlocked": false,
+			"middleName": "Chantell",
+			"email": "kortney@de graaf.nl",
+			"userName": "kortney_de graaf",
+			"expiryDate": "2024-02-28 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Zane",
+			"startDate": "2023-12-25 11:15:19",
+			"lastName": "Janssen",
+			"role": [],
+			"id": "Zane Janssen",
+			"isBlocked": false,
+			"middleName": "Zane",
+			"email": "zane@janssen.nl",
+			"userName": "zane_janssen",
+			"expiryDate": "2024-02-22 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Deonna",
+			"startDate": "2023-12-22 11:15:19",
+			"lastName": "Vos",
+			"role": [],
+			"id": "Deonna Vos",
+			"isBlocked": true,
+			"middleName": "Alysa",
+			"email": "deonna@vos.nl",
+			"userName": "deonna_vos",
+			"expiryDate": "2024-01-11 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Angle",
+			"startDate": "2023-10-09 12:15:19",
+			"lastName": "De Boer",
+			"role": [
+				"USER"
+			],
+			"id": "Angle De Boer",
+			"isBlocked": false,
+			"middleName": "Jeff",
+			"email": "angle@de boer.nl",
+			"userName": "angle_de boer",
+			"expiryDate": "2024-03-08 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Shaina",
+			"startDate": "2023-11-02 11:15:19",
+			"lastName": "Janssen",
+			"role": [
+				"USER"
+			],
+			"id": "Shaina Janssen",
+			"isBlocked": true,
+			"middleName": "Shaina",
+			"email": "shaina@janssen.nl",
+			"userName": "shaina_janssen",
+			"expiryDate": "2024-03-14 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Zulma",
+			"startDate": "2024-01-03 11:15:19",
+			"lastName": "Vos",
+			"role": [
+				"USER"
+			],
+			"id": "Zulma Vos",
+			"isBlocked": true,
+			"middleName": "Latrice",
+			"email": "zulma@vos.nl",
+			"userName": "zulma_vos",
+			"expiryDate": "2024-02-21 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"firstName": "Jarrod",
+			"startDate": "2023-12-15 11:15:19",
+			"lastName": "Janssen",
+			"role": [],
+			"id": "Jarrod Janssen",
+			"isBlocked": false,
+			"middleName": "Ingeborg",
+			"email": "jarrod@janssen.nl",
+			"userName": "jarrod_janssen",
+			"expiryDate": "2024-04-09 12:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Lowell",
+			"startDate": "2023-10-31 11:15:19",
+			"lastName": "Van der Meer",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Lowell Van der Meer",
+			"isBlocked": false,
+			"middleName": "Sunshine",
+			"email": "lowell@van der meer.nl",
+			"userName": "lowell_van der meer",
+			"expiryDate": "2024-03-22 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Zane",
+			"startDate": "2023-10-13 12:15:19",
+			"lastName": "Janssen",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Zane Janssen",
+			"isBlocked": true,
+			"middleName": "Sunshine",
+			"email": "zane@janssen.nl",
+			"userName": "zane_janssen",
+			"expiryDate": "2024-03-04 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Corazon",
+			"startDate": "2023-11-25 11:15:19",
+			"lastName": "De Boer",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Corazon De Boer",
+			"isBlocked": false,
+			"middleName": "Chantell",
+			"email": "corazon@de boer.nl",
+			"userName": "corazon_de boer",
+			"expiryDate": "2024-01-16 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Elina",
+			"startDate": "2023-10-24 12:15:19",
+			"lastName": "Smit",
+			"role": [],
+			"id": "Elina Smit",
+			"isBlocked": false,
+			"middleName": "Jeff",
+			"email": "elina@smit.nl",
+			"userName": "elina_smit",
+			"expiryDate": "2024-04-12 12:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Queenie",
+			"startDate": "2023-09-29 12:15:19",
+			"lastName": "Dekker",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Queenie Dekker",
+			"isBlocked": true,
+			"middleName": "Lowell",
+			"email": "queenie@dekker.nl",
+			"userName": "queenie_dekker",
+			"expiryDate": "2024-01-13 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON"
+			],
+			"firstName": "Jeff",
+			"startDate": "2023-11-10 11:15:19",
+			"lastName": "Dekker",
+			"role": [],
+			"id": "Jeff Dekker",
+			"isBlocked": true,
+			"middleName": "Jarrod",
+			"email": "jeff@dekker.nl",
+			"userName": "jeff_dekker",
+			"expiryDate": "2024-01-24 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Latrice",
+			"startDate": "2023-12-03 11:15:19",
+			"lastName": "Bos",
+			"role": [],
+			"id": "Latrice Bos",
+			"isBlocked": true,
+			"middleName": "Sunshine",
+			"email": "latrice@bos.nl",
+			"userName": "latrice_bos",
+			"expiryDate": "2024-03-12 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Zane",
+			"startDate": "2023-11-05 11:15:19",
+			"lastName": "Jansen",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Zane Jansen",
+			"isBlocked": true,
+			"middleName": "Elina",
+			"email": "zane@jansen.nl",
+			"userName": "zane_jansen",
+			"expiryDate": "2024-02-02 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON"
+			],
+			"firstName": "Diedre",
+			"startDate": "2023-12-24 11:15:19",
+			"lastName": "Peters",
+			"role": [],
+			"id": "Diedre Peters",
+			"isBlocked": false,
+			"middleName": "Deonna",
+			"email": "diedre@peters.nl",
+			"userName": "diedre_peters",
+			"expiryDate": "2024-02-15 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Ingeborg",
+			"startDate": "2023-12-20 11:15:19",
+			"lastName": "Hendriks",
+			"role": [],
+			"id": "Ingeborg Hendriks",
+			"isBlocked": true,
+			"middleName": "Kortney",
+			"email": "ingeborg@hendriks.nl",
+			"userName": "ingeborg_hendriks",
+			"expiryDate": "2024-01-16 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"firstName": "Martin",
+			"startDate": "2023-10-30 11:15:19",
+			"lastName": "Dekker",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Martin Dekker",
+			"isBlocked": true,
+			"middleName": "Diedre",
+			"email": "martin@dekker.nl",
+			"userName": "martin_dekker",
+			"expiryDate": "2024-03-12 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"firstName": "Zane",
+			"startDate": "2023-10-29 11:15:19",
+			"lastName": "Brouwer",
+			"role": [],
+			"id": "Zane Brouwer",
+			"isBlocked": true,
+			"middleName": "Queenie",
+			"email": "zane@brouwer.nl",
+			"userName": "zane_brouwer",
+			"expiryDate": "2024-03-20 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Zulma",
+			"startDate": "2023-11-10 11:15:19",
+			"lastName": "Van Leeuwen",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Zulma Van Leeuwen",
+			"isBlocked": true,
+			"middleName": "Kortney",
+			"email": "zulma@van leeuwen.nl",
+			"userName": "zulma_van leeuwen",
+			"expiryDate": "2024-02-12 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Zulma",
+			"startDate": "2023-10-24 12:15:19",
+			"lastName": "Janssen",
+			"role": [
+				"USER"
+			],
+			"id": "Zulma Janssen",
+			"isBlocked": false,
+			"middleName": "Elina",
+			"email": "zulma@janssen.nl",
+			"userName": "zulma_janssen",
+			"expiryDate": "2024-01-30 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Lowell",
+			"startDate": "2024-01-01 11:15:19",
+			"lastName": "Vos",
+			"role": [
+				"USER"
+			],
+			"id": "Lowell Vos",
+			"isBlocked": false,
+			"middleName": "Zulma",
+			"email": "lowell@vos.nl",
+			"userName": "lowell_vos",
+			"expiryDate": "2024-01-09 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"firstName": "Corazon",
+			"startDate": "2023-10-21 12:15:19",
+			"lastName": "Bos",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Corazon Bos",
+			"isBlocked": true,
+			"middleName": "Kortney",
+			"email": "corazon@bos.nl",
+			"userName": "corazon_bos",
+			"expiryDate": "2024-02-26 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"firstName": "Kortney",
+			"startDate": "2023-11-05 11:15:19",
+			"lastName": "De Boer",
+			"role": [],
+			"id": "Kortney De Boer",
+			"isBlocked": true,
+			"middleName": "Deonna",
+			"email": "kortney@de boer.nl",
+			"userName": "kortney_de boer",
+			"expiryDate": "2024-04-09 12:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Jarrod",
+			"startDate": "2023-11-15 11:15:19",
+			"lastName": "Vos",
+			"role": [
+				"USER"
+			],
+			"id": "Jarrod Vos",
+			"isBlocked": false,
+			"middleName": "Kortney",
+			"email": "jarrod@vos.nl",
+			"userName": "jarrod_vos",
+			"expiryDate": "2024-01-31 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Alysa",
+			"startDate": "2023-12-29 11:15:19",
+			"lastName": "Peters",
+			"role": [
+				"USER"
+			],
+			"id": "Alysa Peters",
+			"isBlocked": false,
+			"middleName": "Corazon",
+			"email": "alysa@peters.nl",
+			"userName": "alysa_peters",
+			"expiryDate": "2024-02-23 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Latrice",
+			"startDate": "2023-10-05 12:15:19",
+			"lastName": "De Wit",
+			"role": [],
+			"id": "Latrice De Wit",
+			"isBlocked": true,
+			"middleName": "Elina",
+			"email": "latrice@de wit.nl",
+			"userName": "latrice_de wit",
+			"expiryDate": "2024-02-07 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Martin",
+			"startDate": "2023-11-03 11:15:19",
+			"lastName": "Jansen",
+			"role": [],
+			"id": "Martin Jansen",
+			"isBlocked": false,
+			"middleName": "Jarrod",
+			"email": "martin@jansen.nl",
+			"userName": "martin_jansen",
+			"expiryDate": "2024-01-24 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"firstName": "Zane",
+			"startDate": "2023-10-22 12:15:19",
+			"lastName": "Hendriks",
+			"role": [
+				"USER"
+			],
+			"id": "Zane Hendriks",
+			"isBlocked": false,
+			"middleName": "Diedre",
+			"email": "zane@hendriks.nl",
+			"userName": "zane_hendriks",
+			"expiryDate": "2024-01-11 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Kortney",
+			"startDate": "2023-11-17 11:15:19",
+			"lastName": "Hendriks",
+			"role": [],
+			"id": "Kortney Hendriks",
+			"isBlocked": false,
+			"middleName": "Shaina",
+			"email": "kortney@hendriks.nl",
+			"userName": "kortney_hendriks",
+			"expiryDate": "2024-01-10 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Queenie",
+			"startDate": "2023-10-31 11:15:19",
+			"lastName": "Peters",
+			"role": [],
+			"id": "Queenie Peters",
+			"isBlocked": false,
+			"middleName": "Diedre",
+			"email": "queenie@peters.nl",
+			"userName": "queenie_peters",
+			"expiryDate": "2024-03-16 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Shaina",
+			"startDate": "2023-10-04 12:15:19",
+			"lastName": "De Boer",
+			"role": [],
+			"id": "Shaina De Boer",
+			"isBlocked": true,
+			"middleName": "Angle",
+			"email": "shaina@de boer.nl",
+			"userName": "shaina_de boer",
+			"expiryDate": "2024-03-20 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Martin",
+			"startDate": "2023-11-11 11:15:19",
+			"lastName": "Brouwer",
+			"role": [],
+			"id": "Martin Brouwer",
+			"isBlocked": true,
+			"middleName": "Slyvia",
+			"email": "martin@brouwer.nl",
+			"userName": "martin_brouwer",
+			"expiryDate": "2024-01-24 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Latrice",
+			"startDate": "2023-10-16 12:15:19",
+			"lastName": "Visser",
+			"role": [
+				"USER"
+			],
+			"id": "Latrice Visser",
+			"isBlocked": true,
+			"middleName": "Angle",
+			"email": "latrice@visser.nl",
+			"userName": "latrice_visser",
+			"expiryDate": "2024-01-15 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON"
+			],
+			"firstName": "Diedre",
+			"startDate": "2023-12-01 11:15:19",
+			"lastName": "De Boer",
+			"role": [],
+			"id": "Diedre De Boer",
+			"isBlocked": true,
+			"middleName": "Jeff",
+			"email": "diedre@de boer.nl",
+			"userName": "diedre_de boer",
+			"expiryDate": "2024-03-16 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Slyvia",
+			"startDate": "2023-11-18 11:15:19",
+			"lastName": "De Jong",
+			"role": [],
+			"id": "Slyvia De Jong",
+			"isBlocked": true,
+			"middleName": "Jeff",
+			"email": "slyvia@de jong.nl",
+			"userName": "slyvia_de jong",
+			"expiryDate": "2024-04-15 12:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Chantell",
+			"startDate": "2023-10-30 11:15:19",
+			"lastName": "Smit",
+			"role": [],
+			"id": "Chantell Smit",
+			"isBlocked": true,
+			"middleName": "Jeff",
+			"email": "chantell@smit.nl",
+			"userName": "chantell_smit",
+			"expiryDate": "2024-04-07 12:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Zulma",
+			"startDate": "2023-10-07 12:15:19",
+			"lastName": "Van den Berg",
+			"role": [],
+			"id": "Zulma Van den Berg",
+			"isBlocked": true,
+			"middleName": "Jeff",
+			"email": "zulma@van den berg.nl",
+			"userName": "zulma_van den berg",
+			"expiryDate": "2024-01-18 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"COMMON",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Diedre",
+			"startDate": "2023-12-20 11:15:19",
+			"lastName": "Van Dijk",
+			"role": [
+				"USER"
+			],
+			"id": "Diedre Van Dijk",
+			"isBlocked": true,
+			"middleName": "Chantell",
+			"email": "diedre@van dijk.nl",
+			"userName": "diedre_van dijk",
+			"expiryDate": "2024-02-27 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"firstName": "Slyvia",
+			"startDate": "2023-10-21 12:15:19",
+			"lastName": "Dijkstra",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Slyvia Dijkstra",
+			"isBlocked": true,
+			"middleName": "Jarrod",
+			"email": "slyvia@dijkstra.nl",
+			"userName": "slyvia_dijkstra",
+			"expiryDate": "2024-03-12 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Diedre",
+			"startDate": "2023-12-28 11:15:19",
+			"lastName": "Smit",
+			"role": [],
+			"id": "Diedre Smit",
+			"isBlocked": true,
+			"middleName": "Slyvia",
+			"email": "diedre@smit.nl",
+			"userName": "diedre_smit",
+			"expiryDate": "2024-04-06 12:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Queenie",
+			"startDate": "2023-12-17 11:15:19",
+			"lastName": "Vos",
+			"role": [],
+			"id": "Queenie Vos",
+			"isBlocked": false,
+			"middleName": "Ingeborg",
+			"email": "queenie@vos.nl",
+			"userName": "queenie_vos",
+			"expiryDate": "2024-02-07 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"COMMON"
+			],
+			"firstName": "Jarrod",
+			"startDate": "2023-10-28 12:15:19",
+			"lastName": "Peters",
+			"role": [],
+			"id": "Jarrod Peters",
+			"isBlocked": false,
+			"middleName": "Shaina",
+			"email": "jarrod@peters.nl",
+			"userName": "jarrod_peters",
+			"expiryDate": "2024-01-09 11:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING",
+				"COMMON"
+			],
+			"firstName": "Sunshine",
+			"startDate": "2023-10-07 12:15:19",
+			"lastName": "De Groot",
+			"role": [],
+			"id": "Sunshine De Groot",
+			"isBlocked": false,
+			"middleName": "Alysa",
+			"email": "sunshine@de groot.nl",
+			"userName": "sunshine_de groot",
+			"expiryDate": "2024-02-21 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Shaina",
+			"startDate": "2023-12-23 11:15:19",
+			"lastName": "Vos",
+			"role": [
+				"USER"
+			],
+			"id": "Shaina Vos",
+			"isBlocked": true,
+			"middleName": "Zulma",
+			"email": "shaina@vos.nl",
+			"userName": "shaina_vos",
+			"expiryDate": "2024-03-02 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Jeff",
+			"startDate": "2023-12-08 11:15:19",
+			"lastName": "Smit",
+			"role": [
+				"ADMIN"
+			],
+			"id": "Jeff Smit",
+			"isBlocked": false,
+			"middleName": "Slyvia",
+			"email": "jeff@smit.nl",
+			"userName": "jeff_smit",
+			"expiryDate": "2024-01-09 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Shaina",
+			"startDate": "2023-10-31 11:15:19",
+			"lastName": "De Jong",
+			"role": [
+				"USER"
+			],
+			"id": "Shaina De Jong",
+			"isBlocked": true,
+			"middleName": "Martin",
+			"email": "shaina@de jong.nl",
+			"userName": "shaina_de jong",
+			"expiryDate": "2024-02-14 11:15:19"
+		},
+		{
+			"applications": [],
+			"firstName": "Diedre",
+			"startDate": "2023-10-28 12:15:19",
+			"lastName": "Janssen",
+			"role": [
+				"USER"
+			],
+			"id": "Diedre Janssen",
+			"isBlocked": false,
+			"middleName": "Queenie",
+			"email": "diedre@janssen.nl",
+			"userName": "diedre_janssen",
+			"expiryDate": "2024-04-09 12:15:19"
+		},
+		{
+			"applications": [
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Angle",
+			"startDate": "2023-10-06 12:15:19",
+			"lastName": "Peters",
+			"role": [
+				"USER"
+			],
+			"id": "Angle Peters",
+			"isBlocked": true,
+			"middleName": "Elina",
+			"email": "angle@peters.nl",
+			"userName": "angle_peters",
+			"expiryDate": "2024-03-21 11:15:19"
+		},
+		{
+			"applications": [
+				"COMMON",
+				"PUBLIC_LIGHTING",
+				"TARIFF_SWITCHING"
+			],
+			"firstName": "Corazon",
+			"startDate": "2023-10-13 12:15:19",
+			"lastName": "Janssen",
+			"role": [],
+			"id": "Corazon Janssen",
+			"isBlocked": false,
+			"middleName": "Alysa",
+			"email": "corazon@janssen.nl",
+			"userName": "corazon_janssen",
+			"expiryDate": "2024-01-09 11:15:19"
+		},
+		{
+			"applications": [
+				"TARIFF_SWITCHING",
+				"COMMON",
+				"PUBLIC_LIGHTING"
+			],
+			"firstName": "Diedre",
+			"startDate": "2023-11-17 11:15:19",
+			"lastName": "Smit",
+			"role": [
+				"USER"
+			],
+			"id": "Diedre Smit",
+			"isBlocked": false,
+			"middleName": "Angle",
+			"email": "diedre@smit.nl",
+			"userName": "diedre_smit",
+			"expiryDate": "2024-03-09 11:15:19"
+		}
+	]
+}

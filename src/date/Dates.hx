@@ -22,7 +22,7 @@ class Dates {
 	 * @param hours		number of hours in the past (default 0)
 	 * @param minutes	number of minutes in the past (default 0)
 	 */
-	public static function past(days:Int = 1, hours:Int = 0, minutes:Int = 0) {
+	public function past(days:Int = 1, hours:Int = 0, minutes:Int = 0) {
 		var today = Date.now();
 		var past = DateTools.delta(today, -(DateTools.days(days) + DateTools.hours(hours) + DateTools.minutes(minutes)));
 		return past;
@@ -35,7 +35,7 @@ class Dates {
 	 * @param hours		number of hours in the future (default 0)
 	 * @param minutes	number of minutes in the future (default 0)
 	 */
-	public static function future(days:Int = 1, hours:Int = 0, minutes:Int = 0) {
+	public function future(days:Int = 1, hours:Int = 0, minutes:Int = 0) {
 		var today = Date.now();
 		var future = DateTools.delta(today, DateTools.days(days) + DateTools.hours(hours) + DateTools.minutes(minutes));
 		return future;
@@ -44,23 +44,23 @@ class Dates {
 	/**
 	 * gehhh kinda stupid
 	 */
-	public static function curent() {
+	public function curent() {
 		return Date.now();
 	}
 
-	public static function getYear(period) {
+	public function getYear(period) {
 		return MathUtil.randomInteger(period.start, period.end);
 	}
 
-	public static function getYearPurchase(year) {
+	public function getYearPurchase(year) {
 		return MathUtil.randomInteger(year, Date.now().getFullYear());
 	}
 
-	public static function getYearBirth(year) {
+	public function getYearBirth(year) {
 		return year - MathUtil.randomInteger(20, 50);
 	}
 
-	public static function getYearDeath(year) {
+	public function getYearDeath(year) {
 		return year + MathUtil.randomInteger(1, 20);
 	}
 }

@@ -1,6 +1,7 @@
 package internet;
 
 import lorem.Lorem;
+import name.Name.NameObj;
 
 using StringTools;
 
@@ -28,6 +29,10 @@ using StringTools;
 class Internet {
 	public function new() {
 		// your code
+	}
+
+	public function email(obj:NameObj):String {
+		return '${obj.firstName.toLowerCase()}@${obj.lastName.toLowerCase()}.nl';
 	}
 
 	public function protocol():String {
