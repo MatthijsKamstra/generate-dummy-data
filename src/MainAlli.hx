@@ -70,6 +70,7 @@ class MainAlli {
 			Reflect.setField(obj, "role", FunctionGroup.getRandomSet());
 			Reflect.setField(obj, "applications", Application.getRandomSet());
 			Reflect.setField(obj, "isBlocked", MathUtil.chance());
+			Reflect.setField(obj, "organisations", Gemeente.getRandomSet(1, 4));
 
 			content.push(obj);
 		}
@@ -105,12 +106,12 @@ class MainAlli {
 
 			var name = Gemeente.get();
 
-			Reflect.setField(obj, 'id', '${name}_${i}');
+			Reflect.setField(obj, 'organisationIdentification', '${name}_${i}');
 			Reflect.setField(obj, 'name', '${name}');
-			Reflect.setField(obj, 'code', '${name.substring(0, 3).toUpperCase()}');
+			Reflect.setField(obj, 'prefix', '${name.substring(0, 3).toUpperCase()}');
 			Reflect.setField(obj, 'functionGroup', FunctionGroup.getRandomSet());
 			Reflect.setField(obj, 'isEnabled', MathUtil.chance());
-			Reflect.setField(obj, 'isSubstationManagement', MathUtil.chance());
+			Reflect.setField(obj, 'substationManagement', MathUtil.chance());
 			Reflect.setField(obj, 'expiryDate', new Dates().future(MathUtil.randomInteger(100, 200)));
 			Reflect.setField(obj, 'domains', Domain.getRandomSet());
 

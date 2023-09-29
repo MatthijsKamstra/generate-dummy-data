@@ -19,9 +19,16 @@ class Application {
 		return arr[Math.floor(Math.random() * arr.length)];
 	}
 
-	public static function getRandomSet():Array<String> {
+	public static function getRandomSet(min:Int = 0, max:Int = -1):Array<String> {
 		var setArr = [];
 		var total = Math.floor(Math.random() * arr.length);
+		var count = 0;
+		if (max != -1) {
+			total = max;
+		}
+		if (min >= total) {
+			total = min;
+		}
 		for (i in 0...total) {
 			var tag = Domain.get();
 			if (setArr.indexOf(tag) == -1)
