@@ -32,7 +32,7 @@ class Internet {
 	}
 
 	public function email(obj:NameObj):String {
-		return '${obj.firstName.toLowerCase()}@${obj.lastName.toLowerCase()}.nl';
+		return '${obj.firstName.toLowerCase().replace(' ', '')}@${obj.lastName.toLowerCase().replace(' ', '')}.nl';
 	}
 
 	public function protocol():String {

@@ -41,7 +41,12 @@
 # -main MainRawGenius
 # --interp
 
+# -cp src
+# -D analyzer-optimize
+# -main MainAlli
+# --interp
+
 -cp src
 -D analyzer-optimize
--main MainAlli
+-main MainInterStellarEvent
 --interp
