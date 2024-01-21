@@ -27,14 +27,17 @@ class MainInterStellarEvent {
 		// generate("export/interstellar/interstellar_attendee_00176.json", 176);
 		// // generate("export/interstellar/interstellar_attendee_01000.json", 1000);
 		// // // generate("export/new/interstellar_attendee_10000.json", 10000);
-		generateAttendees("export/interstellar/interstellar_users_00010.json", 10);
-		generateAttendees("export/interstellar/interstellar_users_00100.json", 100);
-		generateAttendees("export/interstellar/interstellar_users_00176.json", 176);
+		generateAttendees("export/rawevent/attendees_00010.json", 10);
+		generateAttendees("export/rawevent/attendees_00100.json", 100);
+		generateAttendees("export/rawevent/attendees_00176.json", 176);
+		// generateAttendees("export/interstellar/interstellar_users_00010.json", 10);
+		// generateAttendees("export/interstellar/interstellar_users_00100.json", 100);
+		// generateAttendees("export/interstellar/interstellar_users_00176.json", 176);
 	}
 
 	function generateAttendees(path:String = "export/data.json", total:Int = 11) {
 		// clear previous render
-		var folder = 'export/interstellar';
+		var folder = 'export/rawevent';
 		FileSystem.createDirectory(folder);
 
 		var json = {};
@@ -49,6 +52,7 @@ class MainInterStellarEvent {
 
 			var comp = new Company().obj();
 
+			Reflect.setField(obj, "_id", '${UUID.uuid()}');
 			Reflect.setField(obj, "id", '${name.firstName} ${name.lastName}');
 			Reflect.setField(obj, "userName", '${name.firstName.toLowerCase().replace(' ', '_')}_${name.lastName.toLowerCase().replace(' ', '_')}');
 			Reflect.setField(obj, "firstName", '${name.firstName}');
