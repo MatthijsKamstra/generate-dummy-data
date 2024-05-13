@@ -1,0 +1,35 @@
+{
+	"firstname": "Chantell",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 250,
+	"id": "73886630-5596-4589-832c-665c3e60984d",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-3d1f-4bec-bca2-4e426b08a8b7",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-0b19-4f2d-9d9d-39686ce2ff9d",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-868a-4633-b90d-aa3f3387fa58",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-ddcc-4092-b71a-7bdcf5f4ee08",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		}
+	],
+	"lastname": "Dijkstra",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

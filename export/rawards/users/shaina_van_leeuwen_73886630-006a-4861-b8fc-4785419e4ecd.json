@@ -1,0 +1,41 @@
+{
+	"firstname": "Shaina",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 400,
+	"id": "73886630-006a-4861-b8fc-4785419e4ecd",
+	"rewards": [
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-4f41-4034-ab52-f1d65b9bb09d",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-f82a-4f33-a876-3414c48493d2",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-d075-489e-9bbe-e163b7ccd77e",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-1e0c-4d59-93b0-871b362e91fa",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-04d9-4566-8371-bf9f6e4e4c70",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "Van Leeuwen",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

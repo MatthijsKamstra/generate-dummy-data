@@ -1,0 +1,59 @@
+{
+	"firstname": "Sunshine",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 1900,
+	"id": "73886630-ac79-473e-9e0f-9797c4d03640",
+	"rewards": [
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-0613-44eb-aacc-490dc5ac8251",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-a1be-4426-9c6b-806b5dbe7445",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-ff66-4755-b202-be3746207376",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-3f48-4e59-a708-e7fcf7f0628f",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-1154-4585-be20-b78188f94a5d",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-4ccc-47e3-98a4-948f1bf7a209",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-7d02-4b6b-95c9-5d534091c12a",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-30f6-4380-934a-1a56bf8b91c2",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		}
+	],
+	"lastname": "Smits",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

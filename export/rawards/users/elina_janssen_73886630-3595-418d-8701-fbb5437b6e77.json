@@ -1,0 +1,23 @@
+{
+	"firstname": "Elina",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 300,
+	"id": "73886630-3595-418d-8701-fbb5437b6e77",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-93c6-433c-b2b4-93cf4d794590",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-ebd8-441e-8e1d-a6b33ed83f1b",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "Janssen",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

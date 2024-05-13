@@ -1,0 +1,53 @@
+{
+	"firstname": "Queenie",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 2500,
+	"id": "73886630-646f-421a-b316-d1411ed66e03",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-5f3f-4b32-97c4-aeaa0b54c42d",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-f862-4237-a7c8-d4ec7a052dce",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-efff-4f17-856b-d9a2f40581c4",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-50d9-4f5c-9b88-de09149f1e6e",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-c052-4f13-9b90-0050c057a3ea",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-d5de-4bcb-bbe6-0277b6e000db",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-a600-402d-aab2-40515d484fbc",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		}
+	],
+	"lastname": "De Graaf",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

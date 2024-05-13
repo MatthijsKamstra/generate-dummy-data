@@ -1,0 +1,23 @@
+{
+	"firstname": "Martin",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 1100,
+	"id": "73886630-8a51-42f9-a076-33b37f989da6",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-7a35-4264-85a6-2742175e4769",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-2c54-4a3b-9396-195fd06f4e79",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "Dekker",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

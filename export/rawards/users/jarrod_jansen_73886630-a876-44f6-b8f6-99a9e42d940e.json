@@ -1,0 +1,41 @@
+{
+	"firstname": "Jarrod",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 500,
+	"id": "73886630-a876-44f6-b8f6-99a9e42d940e",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-2c36-488f-a122-3e59646c0fda",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-59b1-49cf-9e09-5b52983ab1fb",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-b05c-4772-9aac-39f87595c6ca",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-9d25-4508-9ce9-81ea31473dd1",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-3d84-4989-a5f9-f4fcc93270ee",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "Jansen",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

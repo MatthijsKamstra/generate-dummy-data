@@ -1,0 +1,41 @@
+{
+	"firstname": "Ingeborg",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 1300,
+	"id": "73886630-79b1-4d5d-9dcd-f2c5c5a86a0b",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-40b3-4193-83e6-4c7f4585d10c",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-0adc-4271-8675-f05ab55f5dc2",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-3abc-460d-b200-6a784ec75ad1",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-5f15-4309-9869-bb53d9389921",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-aad6-43d1-b063-f1e68a577374",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		}
+	],
+	"lastname": "Visser",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

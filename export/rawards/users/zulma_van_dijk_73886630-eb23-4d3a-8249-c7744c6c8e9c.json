@@ -1,0 +1,29 @@
+{
+	"firstname": "Zulma",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 500,
+	"id": "73886630-eb23-4d3a-8249-c7744c6c8e9c",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-163b-4d6d-b5f0-53e518374074",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-e262-4b3d-8bca-a77296971ea8",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-bc7e-469f-9cc9-1723a2cb01b7",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		}
+	],
+	"lastname": "Van Dijk",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

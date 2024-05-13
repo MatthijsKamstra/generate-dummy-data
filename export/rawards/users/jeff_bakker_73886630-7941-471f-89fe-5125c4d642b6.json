@@ -1,0 +1,65 @@
+{
+	"firstname": "Jeff",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 750,
+	"id": "73886630-7941-471f-89fe-5125c4d642b6",
+	"rewards": [
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-2cf9-4922-94cf-63d4db095984",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-c894-448a-817f-90df3af3b543",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-1e4c-412b-9781-e3781e0063e2",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-889b-44e9-894f-4246d0e50985",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-d280-4bf0-8d62-a9ecf0dbf6ac",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-31f7-46ed-ad8e-a3da234fe0c5",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-3ab3-48e2-888e-c1d3fc2ea7d8",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-7daa-4f7e-bf77-ee62020148c0",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-cb72-432c-bc45-a36ef3e7883d",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		}
+	],
+	"lastname": "Bakker",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

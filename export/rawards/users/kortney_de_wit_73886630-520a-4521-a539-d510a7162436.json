@@ -1,0 +1,53 @@
+{
+	"firstname": "Kortney",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 1500,
+	"id": "73886630-520a-4521-a539-d510a7162436",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-8553-4eef-8208-1e0126716980",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-27e4-4db3-b34c-c6a1267a2c97",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-c4fc-44ce-a7e5-00e10ce93177",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-eaa5-418a-b88f-7ef2bd9679a4",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-59f4-4523-a35b-7943adb13a0f",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-0da3-4a1b-8a69-a53e7aaebec7",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-1693-4d1f-a795-33acb4b58af1",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		}
+	],
+	"lastname": "De Wit",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

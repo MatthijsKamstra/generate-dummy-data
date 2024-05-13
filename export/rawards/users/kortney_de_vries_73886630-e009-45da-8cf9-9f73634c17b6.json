@@ -1,0 +1,47 @@
+{
+	"firstname": "Kortney",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 400,
+	"id": "73886630-e009-45da-8cf9-9f73634c17b6",
+	"rewards": [
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-7ec6-40ca-a591-f3bbd345fba0",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-9a0f-4418-8c4a-cf3a2c8fa912",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-e907-4dc6-a8c8-4f560a43eb07",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-8e96-4cfb-92e5-27690cfe34ab",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-d82e-4324-9bf8-7df3a24001b6",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-cf7e-4e56-9c6e-0a4cfac48faf",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		}
+	],
+	"lastname": "De Vries",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

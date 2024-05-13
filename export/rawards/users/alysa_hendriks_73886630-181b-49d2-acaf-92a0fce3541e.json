@@ -1,0 +1,29 @@
+{
+	"firstname": "Alysa",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 2050,
+	"id": "73886630-181b-49d2-acaf-92a0fce3541e",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-5fe0-4ab3-abf0-4dd3ead5259b",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-671e-42be-a467-1d07eab7b200",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-1955-430a-9af2-aa532f660571",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		}
+	],
+	"lastname": "Hendriks",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

@@ -1,0 +1,65 @@
+{
+	"firstname": "Slyvia",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 1600,
+	"id": "73886630-cf48-41d2-8ca9-5166d3cb1d98",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-21b8-48b9-9685-5df09651f1d6",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-d604-4e27-ae66-a3328ca2ecb0",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-fcee-48f4-a058-b0b5021739d3",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-b9a3-4ec0-83cb-9d7afb85a0cd",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-1afd-4bdb-b5ba-55ccf41edede",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-97d9-4bec-ab77-810d2979e2e2",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-c392-488f-93ed-87c8746d33dd",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-e730-427c-a4aa-ef63bb169d17",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-8e74-4134-ac69-c6ff7cb8aabc",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "Van der Meer",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

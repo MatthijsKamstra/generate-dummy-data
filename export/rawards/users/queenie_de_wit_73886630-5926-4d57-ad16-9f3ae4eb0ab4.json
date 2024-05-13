@@ -1,0 +1,41 @@
+{
+	"firstname": "Queenie",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 1500,
+	"id": "73886630-5926-4d57-ad16-9f3ae4eb0ab4",
+	"rewards": [
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-941e-422e-9d23-e56cb995ef10",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-e130-488b-866b-aab9e1cfaa5a",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-ee6c-44d6-8a5e-46dfc56e5c52",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-f37f-4c97-8d50-7783ee7d5ceb",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-63f5-4d2f-a44b-3d39acc94690",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "De Wit",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

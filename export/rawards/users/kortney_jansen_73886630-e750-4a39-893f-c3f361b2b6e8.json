@@ -1,0 +1,23 @@
+{
+	"firstname": "Kortney",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 150,
+	"id": "73886630-e750-4a39-893f-c3f361b2b6e8",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-264f-4704-b46d-d8a057e248fa",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-d02b-4491-93e7-89aae56d95d8",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "Jansen",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

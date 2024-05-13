@@ -1,0 +1,59 @@
+{
+	"firstname": "Sunshine",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 1650,
+	"id": "73886630-cd03-4a3f-8163-8b2d52a13f29",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-8839-4b48-9cb6-18f1653dd4e5",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-1562-43d0-96ab-8ab54921e4c2",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-b7d9-4ddd-a541-20c05a30eeb8",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-873e-486a-8c7c-c798c0969f94",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-95c5-485c-90a9-33126a631d76",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-133e-4be6-8894-96b23c675ec6",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-3bd4-4e5a-83d9-291fbb3b4b4f",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-10e4-4ee3-8ed1-b983172e0b40",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "Van der Meer",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

@@ -1,0 +1,23 @@
+{
+	"firstname": "Elina",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 1050,
+	"id": "73886630-8a16-4d22-8fdf-c4ced4d9208f",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-0db9-4dc4-ab1a-2027789f83ca",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-43cc-4d42-aaa1-fd67b5e72dd5",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		}
+	],
+	"lastname": "De Graaf",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

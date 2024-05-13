@@ -1,0 +1,41 @@
+{
+	"firstname": "Corazon",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 1350,
+	"id": "73886630-52de-49a7-8ee5-e6df863ebeb8",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-c47a-4c5c-b2c0-df15c60857ce",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-bfc3-4013-9836-96bcf7754f9e",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-95aa-406c-9e7e-208620bc332a",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-2d10-442e-8373-6d3fe4ad170d",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-82d7-41ee-bc17-d8b60becbe0a",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		}
+	],
+	"lastname": "Bakker",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

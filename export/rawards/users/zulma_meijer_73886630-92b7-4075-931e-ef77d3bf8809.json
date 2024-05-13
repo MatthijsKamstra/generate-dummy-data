@@ -1,0 +1,53 @@
+{
+	"firstname": "Zulma",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 500,
+	"id": "73886630-92b7-4075-931e-ef77d3bf8809",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-5bac-499a-8475-09c9bbc0da6e",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-a0d6-4ca1-869d-8695e314b56d",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-4bb4-415d-8d11-4536768bee0e",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-be24-48fe-b7cf-cae37126ebb7",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-c297-4371-a720-fdb6a868e650",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-1700-4dd6-b5a2-644dee7e8658",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-09b9-4d1c-a8e4-9a0c2fc0d5c1",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		}
+	],
+	"lastname": "Meijer",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

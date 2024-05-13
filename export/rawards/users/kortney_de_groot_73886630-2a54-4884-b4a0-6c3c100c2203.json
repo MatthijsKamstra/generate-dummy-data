@@ -1,0 +1,35 @@
+{
+	"firstname": "Kortney",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 550,
+	"id": "73886630-2a54-4884-b4a0-6c3c100c2203",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-0d17-4bf5-bd33-097313f3e917",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-48cf-4eac-b64b-ef9aa1701177",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-8a42-4237-abc1-901fe35ea8f2",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-354f-4adf-bcdd-b3c2c92e97a4",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		}
+	],
+	"lastname": "De Groot",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

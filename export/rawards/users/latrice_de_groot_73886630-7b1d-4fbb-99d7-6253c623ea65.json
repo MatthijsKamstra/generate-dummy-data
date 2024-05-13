@@ -1,0 +1,71 @@
+{
+	"firstname": "Latrice",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 1150,
+	"id": "73886630-7b1d-4fbb-99d7-6253c623ea65",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-36e8-44b4-a710-a26856fd2658",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-6734-4c67-af6f-1f2d48be34a5",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-3af3-488f-b3b1-67f4cb856f4c",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-f363-4434-af5a-dcca4e32608f",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-ba02-4dde-8567-b46d92dcaa2f",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-a865-418f-9e37-7fffd599010b",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-33de-4056-b992-b8e317511f19",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-fcb0-4225-b396-581c26926c43",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-108b-4d24-8479-aa664d4d70fc",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-b79a-411b-8748-408493e5c0c5",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		}
+	],
+	"lastname": "De Groot",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

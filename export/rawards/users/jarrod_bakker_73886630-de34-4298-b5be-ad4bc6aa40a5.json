@@ -1,0 +1,17 @@
+{
+	"firstname": "Jarrod",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 200,
+	"id": "73886630-de34-4298-b5be-ad4bc6aa40a5",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-9da3-4fb2-b26e-e964348a2745",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		}
+	],
+	"lastname": "Bakker",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

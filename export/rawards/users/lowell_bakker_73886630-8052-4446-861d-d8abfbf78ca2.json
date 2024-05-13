@@ -1,0 +1,71 @@
+{
+	"firstname": "Lowell",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 2850,
+	"id": "73886630-8052-4446-861d-d8abfbf78ca2",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-f4d2-49fb-a138-cd5a3ebbc7b9",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-ae9e-4f1e-9bde-9b859659657e",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-f080-4f92-963f-e091301b73b1",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-da7b-45c2-8848-4eb147204bf5",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-212d-4168-b6bb-e13fd73112b7",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-5896-4d0a-bc59-e032c866bbe4",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-bab3-4abd-aa26-55d60fb950bf",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-34ef-4c68-831b-01d65c0e4e9b",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-03e8-478e-a10b-ef1074824b2c",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-f26d-4091-9a2b-66cb9c529eb6",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		}
+	],
+	"lastname": "Bakker",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

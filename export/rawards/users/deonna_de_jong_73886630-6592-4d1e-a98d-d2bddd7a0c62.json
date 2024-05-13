@@ -1,0 +1,35 @@
+{
+	"firstname": "Deonna",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 400,
+	"id": "73886630-6592-4d1e-a98d-d2bddd7a0c62",
+	"rewards": [
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-c076-4e4b-b0ec-9570dff1a78f",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-657b-4d2e-8d40-46120099c320",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-1420-49ff-bb64-2d5e3b581a8c",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-504d-4ba3-9464-fc8278e1e8fc",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "De Jong",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

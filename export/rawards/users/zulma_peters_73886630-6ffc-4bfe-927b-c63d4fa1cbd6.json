@@ -1,0 +1,23 @@
+{
+	"firstname": "Zulma",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 200,
+	"id": "73886630-6ffc-4bfe-927b-c63d4fa1cbd6",
+	"rewards": [
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-b038-4c41-ad4b-6ba937a80fc5",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-79c4-4213-8c42-997b20af93f2",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "Peters",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

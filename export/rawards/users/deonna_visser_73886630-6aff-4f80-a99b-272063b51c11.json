@@ -1,0 +1,29 @@
+{
+	"firstname": "Deonna",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 350,
+	"id": "73886630-6aff-4f80-a99b-272063b51c11",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-3394-4c4e-8aaf-5955045d5a1a",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-f9d0-4545-afc3-54955f3ffe55",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-94ae-4bf4-9fbd-1c7f62105aff",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		}
+	],
+	"lastname": "Visser",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

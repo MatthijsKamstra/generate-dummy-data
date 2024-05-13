@@ -1,0 +1,53 @@
+{
+	"firstname": "Lowell",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 1350,
+	"id": "73886630-7884-44cc-8b39-c36325232760",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-1649-4fd8-b69f-2397c267f020",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-a1f6-4629-965e-6d88b28e41d2",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-cc35-40ae-83a0-35995c76dd6c",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-c157-4477-87ba-46c843c14303",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-d9ed-4099-9930-69b7dbc4c051",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-c0e7-46c3-9bd6-42d8f8a43356",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-312e-44de-b938-56ebf313c133",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		}
+	],
+	"lastname": "De Wit",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

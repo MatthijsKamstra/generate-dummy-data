@@ -46,7 +46,13 @@
 # -main MainAlli
 # --interp
 
+# -cp src
+# -D analyzer-optimize
+# -main MainInterStellarEvent
+# --interp
+
+
 -cp src
 -D analyzer-optimize
--main MainInterStellarEvent
+-main MainRawards
 --interp

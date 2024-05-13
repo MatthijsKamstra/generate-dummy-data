@@ -1,0 +1,29 @@
+{
+	"firstname": "Angle",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 250,
+	"id": "73886630-a853-47bf-8dcf-ce4b8c9d78b9",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-dabc-4035-a664-b7f3f7041829",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-50dd-492c-89d8-9b83c6a0636d",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-a32e-4e46-8381-2f38816940be",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		}
+	],
+	"lastname": "Peters",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

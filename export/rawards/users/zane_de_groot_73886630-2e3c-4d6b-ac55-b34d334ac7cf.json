@@ -1,0 +1,17 @@
+{
+	"firstname": "Zane",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 100,
+	"id": "73886630-2e3c-4d6b-ac55-b34d334ac7cf",
+	"rewards": [
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-2b3a-4f6e-94b4-f1a0faa0527a",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "De Groot",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

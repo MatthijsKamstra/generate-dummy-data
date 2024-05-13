@@ -1,0 +1,35 @@
+{
+	"firstname": "Angle",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 1250,
+	"id": "73886630-9936-4b07-bfe3-24f4e5991fa1",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-c70c-4d18-9fab-9ff80277f074",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-dd83-4225-ba79-ba91018fcdf9",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-0029-4b19-ad2a-dc5b2969dc40",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-ea1b-4e90-8765-9d6aa0e7e69d",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "Visser",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

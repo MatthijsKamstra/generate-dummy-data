@@ -1,0 +1,29 @@
+{
+	"firstname": "Corazon",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 300,
+	"id": "73886630-4e16-438d-8237-f134b310a870",
+	"rewards": [
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-2ace-42aa-a2a0-a55df96d7868",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-a0d8-430a-8dd5-40a4caf558f2",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-0696-40b5-9dce-20818cef1844",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "Jansen",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

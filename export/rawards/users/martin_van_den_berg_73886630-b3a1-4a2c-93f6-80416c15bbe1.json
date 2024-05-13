@@ -1,0 +1,23 @@
+{
+	"firstname": "Martin",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 1200,
+	"id": "73886630-b3a1-4a2c-93f6-80416c15bbe1",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"uuid": "73886630-9eba-4f15-b306-7e5b33c5ae7c",
+			"date": "2024-05-13 21:57:50",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"uuid": "73886630-5ebd-4128-a59e-e9467e904d33",
+			"date": "2024-05-13 21:57:50",
+			"value": 1000
+		}
+	],
+	"lastname": "Van den Berg",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

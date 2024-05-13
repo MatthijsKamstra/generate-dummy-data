@@ -1,0 +1,41 @@
+{
+	"firstname": "Sunshine",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 350,
+	"id": "73886630-d08b-4070-871a-9d5eeb1e8efc",
+	"rewards": [
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-7f1c-4fd5-8d96-1c14e5b2ebef",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-8967-4fdc-bdb4-4bcaac5d50db",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"uuid": "73886630-c8c4-4229-a498-3b02a91b0930",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"uuid": "73886630-414f-4ac9-b3f9-2397b7d186e6",
+			"date": "2024-05-13 21:57:50",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-45eb-4b59-a2d0-7a3f46a104ac",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "Jansen",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}

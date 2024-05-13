@@ -1,0 +1,29 @@
+{
+	"firstname": "Diedre",
+	"date_employment": "2014-05-13T00:00:00.000Z",
+	"total_value": 300,
+	"id": "73886630-345b-4816-a5a5-5882c3e5de85",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"uuid": "73886630-61fe-44ed-8307-32f106601cb1",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"uuid": "73886630-10d7-47a2-a1fe-7fe21517f0f0",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"uuid": "73886630-d4b2-4d28-b87e-0c845e0ed669",
+			"date": "2024-05-13 21:57:50",
+			"value": 100
+		}
+	],
+	"lastname": "Brouwer",
+	"updatedTimestamp": "2024-05-13T21:57:50.000Z",
+	"creationTimestamp": "2024-05-13T21:57:50.000Z"
+}
