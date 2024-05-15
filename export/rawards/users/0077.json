@@ -1,0 +1,36 @@
+{
+	"firstname": "Zane",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 450,
+	"id": "7b8411e0-5e3f-47f5-9021-8259a9999fc1",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-2e9a-47ff-bc4d-79a78b1bb5ba",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-46ab-45c9-ad2f-29bcad33fe2a",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-61a2-45c2-a2a0-c67ab5a34b02",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-4995-4ac7-b75c-d7ab49d96e34",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		}
+	],
+	"lastname": "Brouwer",
+	"_id": "0077",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

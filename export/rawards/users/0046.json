@@ -1,0 +1,48 @@
+{
+	"firstname": "Slyvia",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 750,
+	"id": "7b8411e0-1340-45e3-881d-0d99bb5cd2e6",
+	"rewards": [
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-92f9-4892-933e-63a2df986304",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-0039-4dfe-b01a-4a75605a7752",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-6d47-45a4-80f7-c2982da76b60",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-5813-415c-a4a7-bd1573fc24e0",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-c37c-4395-82f8-9b825f84259a",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-c581-4372-b7c7-463a708fa8fc",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		}
+	],
+	"lastname": "De Wit",
+	"_id": "0046",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

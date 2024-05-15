@@ -1,0 +1,48 @@
+{
+	"firstname": "Lowell",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 450,
+	"id": "7b8411e0-07f1-4a65-9e7f-110a4328e5ea",
+	"rewards": [
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-aec3-41c6-a476-05bc895d2637",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-0e31-4f4e-abdc-5678d0beb116",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-a9a5-4dd8-9b0e-b481639c4831",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-2168-47e2-af69-61cc27098b67",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-8438-4dd8-93a2-47cf363d3020",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-f25a-4f4f-b7ac-c65715341aad",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Mulder",
+	"_id": "0030",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

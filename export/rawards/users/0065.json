@@ -1,0 +1,54 @@
+{
+	"firstname": "Queenie",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 800,
+	"id": "7b8411e0-889f-4e23-8657-e4d4137443ef",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-0e6d-42f2-98c1-914458ba4dd4",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-df94-42c1-9600-c484bd98bcea",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-7b59-481d-8e15-e91a202e9351",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-5eff-457d-b40c-e984663b4819",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-6af5-4ef5-8316-860814cd5e6f",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-dcfc-4fa2-b108-a51e1cef553b",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-5c36-42eb-8f8d-fab2a650e3e4",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Van der Meer",
+	"_id": "0065",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

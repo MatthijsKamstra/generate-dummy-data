@@ -1,0 +1,60 @@
+{
+	"firstname": "Slyvia",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 950,
+	"id": "7b8411e0-f6b8-4727-8c23-0cc97e318e04",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-be55-4f07-b8a5-598c502eb025",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-ac9e-45b0-a555-355048a5443d",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-30c4-44ce-a315-d9e37edfce8e",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-cea8-4a5a-afe4-2524a6e1cc4d",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-9bc2-460b-8253-2412880ef53a",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-fe12-41de-8767-6b0c24b9527f",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-7e8e-4b64-83bc-16fadc6176a7",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-edee-41fa-b6ae-e2e57aaaa4f5",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Meijer",
+	"_id": "0082",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

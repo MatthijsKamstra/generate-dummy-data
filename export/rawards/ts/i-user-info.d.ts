@@ -1,5 +1,5 @@
 /**
- * Generated with TypescriptJsonDef (version 0.1.2) on 2024-05-13 21:57:50
+ * Generated with TypescriptJsonDef (version 0.1.2) on 2024-05-15 11:10:04
  * from: IUserInfo
  * 
  * AST = Abstract Syntax Tree
@@ -24,15 +24,15 @@
 
 /**
 {
-  "description": "Gestarte kandidaat (externe) vinden op aanvraag",
-  "uuid": "73886630-1436-433d-8421-8e2d658466e7",
-  "date": "2024-05-13 21:57:50",
+  "description": "Lead die tot een inzet/deal leidt",
+  "id": "7b8411e0-bac3-4c79-85d5-28e970b50ff4",
+  "date": "2024-05-15 11:10:04",
   "value": 100
 }
 */
 export interface Rewards {
 	description: string;
-	uuid: string;
+	id: string;
 	date: string;
 	value: number;
 }
@@ -47,6 +47,7 @@ export interface IUserInfoObj {
 	id: string;
 	rewards: Array<Rewards>; // rewards: Rewards[]; 
 	lastname: string;
+	_id: string;
 	updatedTimestamp: string;
 	creationTimestamp: string;
 }

@@ -1,0 +1,48 @@
+{
+	"firstname": "Zulma",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 600,
+	"id": "7b8411e0-4900-47d0-af67-ac7107ec83b8",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-0517-43ae-a720-19a13ef80715",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-6ad2-477a-8741-fe3e83e3d984",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-af5d-460d-ada8-0815414cbb48",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-47c7-4a4d-b889-cd6f06a22b60",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-c237-4967-b246-c5c543b66f5b",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-f200-4434-ae67-96299285304c",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "De Jong",
+	"_id": "0041",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

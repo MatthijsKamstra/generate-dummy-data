@@ -1,0 +1,24 @@
+{
+	"firstname": "Kortney",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 200,
+	"id": "7b8411e0-88e1-40a1-b56b-8970f779b1da",
+	"rewards": [
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-c79b-422f-b26d-22229c506b34",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-b252-4627-b63a-c0d56a291144",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Dekker",
+	"_id": "0023",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

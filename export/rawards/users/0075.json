@@ -1,0 +1,60 @@
+{
+	"firstname": "Sunshine",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 800,
+	"id": "7b8411e0-c973-4b53-a9ef-4798840edb42",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-79c3-4a5c-aa40-de808c28aa21",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-eb54-47f9-910f-1d79065c3aa4",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-4879-49eb-8cb1-30f091a62eea",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-ef5f-45ca-ba86-515aa82c0e04",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-615a-4791-9e63-98a0b7456bea",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-efa9-4740-9276-53ddd8bce9d2",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-2d8d-44f9-9d92-5e61e37f1fb4",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-0cb1-4327-a07b-32c2a452f690",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Smit",
+	"_id": "0075",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

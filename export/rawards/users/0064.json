@@ -1,0 +1,60 @@
+{
+	"firstname": "Zane",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 2700,
+	"id": "7b8411e0-5352-49f9-9e7f-bf588edc7c7c",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-4d71-42ea-8081-35b7b354805b",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-d592-4119-93b9-95f9201faa7f",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-9e16-4db0-b083-2440c7a2dccb",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-2f99-4d65-8966-87110b4c5844",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-aabf-4da9-9f30-2e23a0917db7",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-31f0-4552-a5e2-82f82b783122",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-c8de-404c-a99c-cb77929c0d25",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-37b2-435b-926c-418695b8e031",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Janssen",
+	"_id": "0064",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

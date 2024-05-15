@@ -1,0 +1,66 @@
+{
+	"firstname": "Shaina",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1850,
+	"id": "7b8411e0-f98c-46f9-84e6-097c2f225241",
+	"rewards": [
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-bb8d-4e49-aed3-f0a15035f0fd",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-e1d8-4956-a412-4d2e151979b8",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-391d-4f27-a919-082cb6932720",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-835a-462e-b831-c39c9140606f",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-855d-494b-ba86-bf6393365bb1",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-bab1-48a6-a3b2-b82fc0e8d135",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-95f9-4a5f-840a-0d69c2477522",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-e3cb-4d5a-9d2d-b4ee2a130d04",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-5647-4f64-8f75-4b11505b63ae",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Smits",
+	"_id": "0008",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

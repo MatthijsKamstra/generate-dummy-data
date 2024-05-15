@@ -1,0 +1,18 @@
+{
+	"firstname": "Kortney",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 100,
+	"id": "7b8411e0-a79d-4f82-9ed0-a5685bb31b49",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-f809-47dd-8a36-e396533356ae",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Van Leeuwen",
+	"_id": "0018",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

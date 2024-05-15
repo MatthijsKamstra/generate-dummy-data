@@ -1,0 +1,66 @@
+{
+	"firstname": "Jarrod",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1900,
+	"id": "7b8411e0-02b1-49a6-8a97-428d82d4bcf9",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-6ab6-4f03-a2d4-cce169295d90",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-4005-4a8a-ba7c-9c3d751deda1",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-74a2-447f-8f71-557bf1a68a81",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-c267-4b3f-94ee-2bc5da879c53",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-3b6f-48d8-bef0-a8321fb91163",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-1448-43a0-9e09-19f040d22ec6",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-6b23-420e-9e73-364174aac34e",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-5594-4c6a-a6fb-fec91a2451f9",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-0226-4841-a08e-045237397379",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Van Dijk",
+	"_id": "0068",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

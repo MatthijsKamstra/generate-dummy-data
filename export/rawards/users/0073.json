@@ -1,0 +1,24 @@
+{
+	"firstname": "Angle",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 150,
+	"id": "7b8411e0-d0a2-4d8e-808c-d6977f4027a0",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-f69b-4704-80b3-879f54b15fb5",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-96be-4ea9-98a9-34b0661838d0",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Van Leeuwen",
+	"_id": "0073",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

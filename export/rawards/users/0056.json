@@ -1,0 +1,66 @@
+{
+	"firstname": "Zane",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1850,
+	"id": "7b8411e0-8f00-43eb-aaf1-e4d0f20ce0b4",
+	"rewards": [
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-4341-463b-958f-433f74d21fea",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-1765-42bb-b928-75d6fa3d89df",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-5d20-4661-b92e-a2405f5d37ca",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-0ef2-483e-88ec-51e3d8dea52c",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-d5bb-48e2-ac95-5c2b8260d79f",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-2086-446e-8990-9548951f24e5",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-9b5f-46e0-a33b-8aa0dcd7f0c6",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-d6b6-41df-9d7f-d078d0e1aebd",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-41d4-49a5-ae99-9f88ab0fd670",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Bakker",
+	"_id": "0056",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

@@ -1,0 +1,72 @@
+{
+	"firstname": "Lowell",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 2700,
+	"id": "7b8411e0-a779-4aee-a53f-a06e782214b4",
+	"rewards": [
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-58c9-4896-b04e-9d717f59a5e2",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-d106-45e7-af73-714abdabc3f7",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-665a-48f1-b176-5a7540f21648",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-5b51-458c-9920-fb891714012d",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-19e5-4c69-89ec-6fbc0c0b9f2f",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-b652-44fd-bce0-8b5fedfb5dc4",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-7a3c-48d7-be61-1f6ac94d96fc",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-6a3e-43e9-a3f3-f33ee53c178b",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-7ff8-40ba-b93c-6d306c5d7770",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-b55d-4e80-987c-67504b0d7d6e",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		}
+	],
+	"lastname": "Jansen",
+	"_id": "0054",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

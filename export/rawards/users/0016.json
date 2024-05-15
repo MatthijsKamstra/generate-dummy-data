@@ -1,0 +1,48 @@
+{
+	"firstname": "Zane",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1400,
+	"id": "7b8411e0-2231-4955-8e3d-dcfd747aacfe",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-0b7f-4f51-a534-6c2e107993d1",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-e858-46c1-858d-01ba1de4d11d",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-f125-4727-a122-f9d7afbb36dc",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-7968-4806-8769-f59f261703ff",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-8794-4c6a-ae0b-73d7fbce51c6",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-78d2-417e-aa6a-a2845ed51d12",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Van den Berg",
+	"_id": "0016",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

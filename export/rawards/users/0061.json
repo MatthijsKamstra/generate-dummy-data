@@ -1,0 +1,72 @@
+{
+	"firstname": "Elina",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 3850,
+	"id": "7b8411e0-b22f-4da8-8496-a61e315a2e5c",
+	"rewards": [
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-4e17-4b1c-8c19-b8e050a53a99",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-5790-4140-9342-19150af33c9f",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-a626-47cc-aa4b-53f7d07556fe",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-a1e6-4471-87df-57b2f45c8593",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-8960-4ac8-ae80-4a1f7afd85e2",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-3d93-4d99-891e-07b791e5b770",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-7200-41d8-817a-3d58b0b72f2e",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-8e17-418a-ae1e-ab421f34de8d",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-c591-4fc9-b4a7-b49a74d22f53",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-77f2-4507-a683-734a64870283",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		}
+	],
+	"lastname": "Dekker",
+	"_id": "0061",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

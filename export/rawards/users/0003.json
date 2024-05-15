@@ -1,0 +1,72 @@
+{
+	"firstname": "Zulma",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 2100,
+	"id": "7b8411e0-63db-41f7-b373-a858c5f95143",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-a8df-4c24-be1d-adc073c0d808",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-16c1-4b8d-a51a-4acc08039a52",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-bd8c-4a24-9f18-6bbceb1e3dc3",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-5757-4077-8547-d41d27f85a1f",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-f23f-4ee9-a4e7-a51888e034d6",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-8e7a-4fae-b5c3-5c9e6d711051",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-231f-43e9-8b32-6e05ad10a0dc",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-2797-4382-8def-6f3b922b78f8",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-dd80-42b5-83e5-a141252faacc",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-c8fc-41cc-b404-406aa3ed2b55",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Meijer",
+	"_id": "0003",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

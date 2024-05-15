@@ -1,0 +1,54 @@
+{
+	"firstname": "Zulma",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1500,
+	"id": "7b8411e0-4bc7-440f-bd05-c2cf99f3f23c",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-b731-4b26-8a46-0ff16da6a53f",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-1691-4698-83c1-47906e2a4a92",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-3676-4466-a477-694f1fed1ec8",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-79b0-4dd4-989d-fcbf5f5a037d",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-5c48-4d1a-b0b1-98db12d1c9ee",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-683b-4f98-946b-20bc9b207ac0",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-d817-436e-b87e-9ef5062ad279",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Bos",
+	"_id": "0026",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

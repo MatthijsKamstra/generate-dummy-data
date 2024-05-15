@@ -1,0 +1,18 @@
+{
+	"firstname": "Diedre",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 100,
+	"id": "7b8411e0-ce6f-4f57-949e-38c48223a45f",
+	"rewards": [
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-cd1d-4238-b317-2f2246bb930b",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "De Boer",
+	"_id": "0020",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

@@ -1,0 +1,60 @@
+{
+	"firstname": "Ingeborg",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 2450,
+	"id": "7b8411e0-0d8e-4c9d-bed3-6266707661db",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-8e15-4cbf-be79-1fa0145c76d0",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-5b3e-4caa-98ae-92f98fef7814",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-6e12-4af7-b6e0-9898c60f499f",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-07e8-4caa-81f9-ef9782fbfec1",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-77c8-4ecf-a19b-b49d380a1a6d",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-d7c3-4dcd-983a-8e818b089875",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-0da3-4eec-b9cb-41986080480a",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-25ed-4be2-ad1f-b31dc673947e",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Van der Meer",
+	"_id": "0040",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

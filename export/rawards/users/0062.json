@@ -1,0 +1,30 @@
+{
+	"firstname": "Alysa",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1200,
+	"id": "7b8411e0-25ae-4ee8-95d6-1ec4b3e58d48",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-04ad-4ac6-ae5c-438205bcf45f",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-b21c-4c97-9eb8-918f4cf7e681",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-f2e5-40c6-8092-9504c5bd3ed5",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		}
+	],
+	"lastname": "Van Dijk",
+	"_id": "0062",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

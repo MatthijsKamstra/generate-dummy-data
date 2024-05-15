@@ -1,0 +1,66 @@
+{
+	"firstname": "Jeff",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 700,
+	"id": "7b8411e0-29ce-4b97-8b9a-8b0701ef0209",
+	"rewards": [
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-be99-4ab4-96a2-e3aa01e01593",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-675e-493c-bcfc-fadffbd01e43",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-ccc9-4160-a2b0-03a255eb3fc4",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-a394-4571-a89f-ac644db8f920",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-051c-410b-bc20-93102616cf2a",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-10b1-49b2-9cc0-976df8829af6",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-6d0a-414b-a05a-0613fbd650cc",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-856a-429f-93d3-49a898ff2b9c",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-77a4-4ef1-be6b-41e4e3f0af14",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "De Jong",
+	"_id": "0051",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

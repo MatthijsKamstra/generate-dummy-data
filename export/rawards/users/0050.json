@@ -1,0 +1,54 @@
+{
+	"firstname": "Deonna",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 2800,
+	"id": "7b8411e0-4be3-47c0-93b4-d718ef20e0d6",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-0d49-447a-b780-46aa0363259f",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-1b12-49f4-95cd-6e243899f16e",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-1315-49ab-b533-dcd0ff4aeb91",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-7e49-400c-bb37-c4ba54545ff5",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-a33f-4ef6-84f5-0b53f1518dc0",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-20a9-48ec-a15d-03436a0ccfcd",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-2aae-439a-86b1-10d696b2b231",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		}
+	],
+	"lastname": "Vos",
+	"_id": "0050",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

@@ -1,0 +1,30 @@
+{
+	"firstname": "Shaina",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 400,
+	"id": "7b8411e0-c6bb-4195-85b5-f52a0ce58140",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-2b26-47bd-87e8-56e389a00621",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-25fe-4c51-a28c-5933a17feee1",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-8873-4d51-860d-0e86f209c4d8",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Dijkstra",
+	"_id": "0017",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

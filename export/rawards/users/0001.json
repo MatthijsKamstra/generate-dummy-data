@@ -1,0 +1,24 @@
+{
+	"firstname": "Deonna",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1050,
+	"id": "7b8411e0-e61a-4379-bec6-612e7c38454a",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-e69e-40c2-8d16-0bef38695839",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-2169-4711-b537-2da60a461cdf",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		}
+	],
+	"lastname": "Smit",
+	"_id": "0001",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

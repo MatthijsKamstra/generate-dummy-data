@@ -1,0 +1,54 @@
+{
+	"firstname": "Ingeborg",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 800,
+	"id": "7b8411e0-2b9b-42f6-b2b0-15fed1489495",
+	"rewards": [
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-5dc2-4e8b-89eb-95aedd6c9516",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-317f-4c4d-9ac0-8a93c26d4b0f",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-1937-4d7f-8d94-d2a26611d090",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-dd0e-42f8-a698-71087ec36e4a",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-05fd-4516-830b-432fbe6f6d42",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-6dd3-4853-8b92-c2e0e92ac6f6",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-e8a9-40dd-b030-4c180abca528",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Mulder",
+	"_id": "0019",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

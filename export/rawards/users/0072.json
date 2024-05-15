@@ -1,0 +1,30 @@
+{
+	"firstname": "Zane",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1150,
+	"id": "7b8411e0-64ef-4eb5-bfe4-7e6132a25ebc",
+	"rewards": [
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-462a-4939-bf46-1e04ceccfbaa",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-06c9-4ff8-8150-63f63f1848e2",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-ff3f-47c0-87f5-e337e539a6bb",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Smits",
+	"_id": "0072",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

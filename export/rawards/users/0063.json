@@ -1,0 +1,24 @@
+{
+	"firstname": "Slyvia",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 100,
+	"id": "7b8411e0-bebb-4e4e-8599-6b0a430ed3bd",
+	"rewards": [
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-35b4-4114-9b4f-402b6b0828cc",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-96ed-4b6c-8ebe-183c5c08e6ed",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Mulder",
+	"_id": "0063",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

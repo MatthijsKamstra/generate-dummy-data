@@ -1,0 +1,24 @@
+{
+	"firstname": "Zane",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1050,
+	"id": "7b8411e0-4fbe-46f5-9d4b-a4f47436d048",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-633b-4a48-8e28-cfedbad89e61",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-0a41-4c72-b1c2-e7990db281f7",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		}
+	],
+	"lastname": "Dijkstra",
+	"_id": "0066",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

@@ -1,0 +1,54 @@
+{
+	"firstname": "Kortney",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1500,
+	"id": "7b8411e0-c77a-4dda-a22d-b0beaa8346e6",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-ac08-40d2-9722-dd9f9b4b2d32",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-4d7e-413f-9294-f9adf1d4e3fb",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-0e3c-4f03-a5e2-03faeb31862d",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-258e-4ee6-a8d0-b7276f5b5e7d",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-a33c-4752-ab9e-ed3a295275b8",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-d06d-4e49-b53f-c7749e29142a",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-da63-4da9-8377-1c8c4b74743e",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "De Vries",
+	"_id": "0059",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

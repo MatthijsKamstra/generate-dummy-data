@@ -1,0 +1,42 @@
+{
+	"firstname": "Shaina",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 500,
+	"id": "7b8411e0-a74d-459d-9ac6-cbc6261f70f7",
+	"rewards": [
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-d030-4b48-a32f-dd4c405da753",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-3dbd-407f-a98c-5f79d14f2b91",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-027d-46ab-bde0-5eb04dbabd44",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-048e-4869-87ed-223353705015",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-b9fc-43e5-b58d-3e1d8df7afde",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Peters",
+	"_id": "0042",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

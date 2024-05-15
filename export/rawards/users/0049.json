@@ -1,0 +1,42 @@
+{
+	"firstname": "Zulma",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 500,
+	"id": "7b8411e0-9e59-434c-ac07-86affa0b84cd",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-bb70-4695-b659-2dd6cca64276",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-15dc-4b21-b7d6-c90c5ab346f2",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-6646-4e1a-92af-29beaa5c2073",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-350f-4be4-a545-52b8ef3871c5",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-bce4-44d1-baa3-73f00559b80f",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Hendriks",
+	"_id": "0049",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

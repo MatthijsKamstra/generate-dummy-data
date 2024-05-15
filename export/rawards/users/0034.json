@@ -1,0 +1,36 @@
+{
+	"firstname": "Shaina",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 350,
+	"id": "7b8411e0-0497-464e-ae25-bc92855399f2",
+	"rewards": [
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-b013-413a-a4db-ba89a4bc12ae",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-3d40-4d5b-9fff-823f1e45e23f",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-0c06-47b0-8601-f96a0b0aae94",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-317b-4654-a9a0-82f03e894b25",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "De Boer",
+	"_id": "0034",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

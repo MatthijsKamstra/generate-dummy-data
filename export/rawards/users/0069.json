@@ -1,0 +1,36 @@
+{
+	"firstname": "Slyvia",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1300,
+	"id": "7b8411e0-a843-4a22-89ca-faad629e2d33",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-0e83-4a27-a5cf-2e12bd7f5298",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-697b-4c0b-88ce-7316a4dbcf18",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-f795-4cd0-92ce-aa9fb47f6df5",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-dabc-4c65-bc5e-90c5245a4108",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Visser",
+	"_id": "0069",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

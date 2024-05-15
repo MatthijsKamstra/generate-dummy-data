@@ -1,0 +1,42 @@
+{
+	"firstname": "Alysa",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 450,
+	"id": "7b8411e0-8407-4867-8208-b3a4367ba11b",
+	"rewards": [
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-82ca-4644-972b-e0707b5afec3",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-aba8-43b3-a7f0-0e0027808f35",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-a7b4-4912-94fa-925633b0d7d3",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-da65-4710-8dda-56f93ed6de58",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-fe77-485f-b479-f2c9802bc149",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Van Leeuwen",
+	"_id": "0007",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

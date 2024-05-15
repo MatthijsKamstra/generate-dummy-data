@@ -1,0 +1,24 @@
+{
+	"firstname": "Diedre",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 200,
+	"id": "7b8411e0-cac0-4f1b-a061-dedbd454c2a0",
+	"rewards": [
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-7d32-48ad-bbb0-0ad8e3b29668",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-b445-4741-834a-b9a71b809874",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "De Jong",
+	"_id": "0071",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

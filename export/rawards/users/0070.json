@@ -1,0 +1,48 @@
+{
+	"firstname": "Chantell",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 750,
+	"id": "7b8411e0-5230-4033-a8cb-e32d1abb6c9f",
+	"rewards": [
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-d71e-4175-b708-ecca971c7f20",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-a881-4d23-a805-28438ceff7f4",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-da39-44b7-806a-559c7d701a7c",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-db00-4a8b-a4a2-2310fd150bd9",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-56ab-4bdc-9140-2bc517ddc950",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-35c7-412e-ac32-a2a851f3234f",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Jansen",
+	"_id": "0070",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

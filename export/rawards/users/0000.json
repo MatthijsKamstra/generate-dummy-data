@@ -1,0 +1,54 @@
+{
+	"firstname": "Jarrod",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1400,
+	"id": "7b8411e0-c473-45e1-8f7d-710c1df57398",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-fd98-4c2b-b6ba-9d40f504d22b",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-343a-4238-9f95-250dcd08a454",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-8a6d-45a0-b369-2f5321e016c9",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-f57d-4220-97c8-c62e41f6e251",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-c2fa-468a-93c7-32a003c8db99",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-b080-4224-a4b7-33158bae9850",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-6c3e-4012-af03-8c7473ae34e2",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Visser",
+	"_id": "0000",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

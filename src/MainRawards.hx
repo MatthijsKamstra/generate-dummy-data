@@ -9,6 +9,7 @@ import rawgenius.User;
 import sys.FileSystem;
 import utils.DateUtil.*;
 import utils.MathUtil;
+import utils.StringUtil;
 import utils.UUID;
 import utils.converter.TypescriptJsonDef;
 
@@ -96,9 +97,10 @@ class MainRawards {
 		var total = 85;
 		for (i in 0...total) {
 			var uuid = UUID.uuid();
-			var userInfo:UserInfo = createUser();
+			var userInfo:UserInfo = createUser(i);
 
 			userArr.push({
+				_id: '${userInfo._id}',
 				id: '${userInfo.id}',
 				name: '${userInfo.firstname} ${userInfo.lastname}',
 				value: userInfo.total_value
@@ -106,7 +108,7 @@ class MainRawards {
 
 			// output userinfo as json
 			var str = Json.stringify(userInfo, null, '\t');
-			var filename = '/${userInfo.firstname}_${userInfo.lastname}_${userInfo.id}.json'.replace(' ', "_").toLowerCase();
+			var filename = '/${userInfo._id}.json'.replace(' ', "_").toLowerCase();
 			sys.io.File.saveContent(USERS + filename, str);
 
 			// typescript typedef
@@ -127,7 +129,7 @@ class MainRawards {
 		DummyData.saveTextFile(str, '${TS}/i-rewards.d.ts');
 	}
 
-	function createUser():UserInfo {
+	function createUser(counter:Int):UserInfo {
 		var nameObj = new Name().obj();
 
 		var now = Date.now();
@@ -145,7 +147,7 @@ class MainRawards {
 		for (i in 0...totalRewards) {
 			var r = rewardsArr[MathUtil.randomInteger(rewardsArr.length - 1)];
 			var reward:Reward = {
-				uuid: UUID.uuid(),
+				id: UUID.uuid(),
 				description: r.description, // "Je je eigen inzet/klus regelt"
 				value: r.value, // 50
 				date: Date.now(),
@@ -155,6 +157,7 @@ class MainRawards {
 		}
 
 		return {
+			_id: StringUtil.counterToString(counter),
 			id: UUID.uuid(),
 			firstname: nameObj.firstName,
 			lastname: nameObj.lastName,
@@ -177,7 +180,8 @@ typedef UserInfo = {
 	@:optional var total_value:Int; // temp
 	@:optional var creationTimestamp:String;
 	@:optional var updatedTimestamp:String;
-	var id:String;
+	var _id:String; // simpel version of id (counter)
+	var id:String; // uiid
 	var firstname:String;
 	var lastname:String;
 	var rewards:Array<Reward>;
@@ -185,7 +189,7 @@ typedef UserInfo = {
 }
 
 typedef Reward = {
-	var uuid:String;
+	var id:String;
 	var description:String; // "Je je eigen inzet/klus regelt"
 	var value:Int; // 50
 	var date:Date;

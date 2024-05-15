@@ -1,0 +1,18 @@
+{
+	"firstname": "Lowell",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 50,
+	"id": "7b8411e0-54c2-4992-892c-9387e052fa0a",
+	"rewards": [
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-8bf7-4bc9-b7d2-ba5e50fe2406",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Dijkstra",
+	"_id": "0006",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

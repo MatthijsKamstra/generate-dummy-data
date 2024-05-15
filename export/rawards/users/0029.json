@@ -1,0 +1,42 @@
+{
+	"firstname": "Queenie",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1350,
+	"id": "7b8411e0-a0b8-4847-9444-7777c9593f99",
+	"rewards": [
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-560f-488e-ad73-968410a6f7a7",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-6981-472a-bfa0-4309cbf90012",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-906a-4f4f-a99b-98d04ea5d378",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-6c4e-492e-92ac-7d5f109167fd",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-a67e-45ac-8f39-f302bc01a21a",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Van Dijk",
+	"_id": "0029",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

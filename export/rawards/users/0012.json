@@ -1,0 +1,48 @@
+{
+	"firstname": "Martin",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1500,
+	"id": "7b8411e0-1c33-43a0-a30c-a3c77c98a7aa",
+	"rewards": [
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-dbed-4861-9c55-326a7ae01e2e",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-9b8b-4b93-8f70-e5d3bc8f5687",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-4512-4913-ab4f-15d309b92162",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-3e3b-420d-a29d-74e0f579cc38",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-f865-4011-8657-60c283ae814f",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-b59b-44e0-ab38-589dbdfab48b",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		}
+	],
+	"lastname": "Smits",
+	"_id": "0012",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

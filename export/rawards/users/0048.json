@@ -1,0 +1,30 @@
+{
+	"firstname": "Ingeborg",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1150,
+	"id": "7b8411e0-f32d-4c2e-a71d-34c8e176dbde",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-539e-446d-99ee-2deffa2ab5d9",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-11cf-432a-9fda-30b7773a0027",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-e1ac-4bb1-89c4-466abf44737e",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		}
+	],
+	"lastname": "Bos",
+	"_id": "0048",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

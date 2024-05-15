@@ -1,0 +1,36 @@
+{
+	"firstname": "Alysa",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 450,
+	"id": "7b8411e0-cee3-43e2-91ac-a506efdc842a",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-afca-4d65-9aec-4b1bd7e0098e",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-175b-49cd-8ef2-54f0688f8259",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-1998-4ad7-8017-d8b14738b7e2",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-8281-4546-b878-d3b0c35a76b4",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		}
+	],
+	"lastname": "Brouwer",
+	"_id": "0031",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

@@ -1,0 +1,36 @@
+{
+	"firstname": "Chantell",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 2100,
+	"id": "7b8411e0-f80e-4cd7-82b4-879f466cda47",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-7286-4f98-8745-aa847df67103",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-5c33-4bfb-bb6f-fd539222651a",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-19f1-405b-88e1-ef85c33fbe70",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-8724-474d-8910-913560e699f1",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		}
+	],
+	"lastname": "Van den Berg",
+	"_id": "0015",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

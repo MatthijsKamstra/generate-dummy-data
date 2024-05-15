@@ -1,0 +1,72 @@
+{
+	"firstname": "Sunshine",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 950,
+	"id": "7b8411e0-da0c-432f-af11-16bbeeb85aa9",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-8123-4322-8af2-7ff9b672f8e6",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-d7c8-46df-89a8-6a744a5f5964",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-1294-4186-909c-06e7bff5cee9",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-f8dc-4245-816e-59c75860a372",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-ea31-4ee0-b0e1-a3f8646c7421",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-694c-4a10-848f-a6fc1bb228f5",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-1532-4ee5-ba02-931474c5f958",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-c63e-4bf3-967a-6f1a7f5154e6",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-da2e-4dba-9777-9fb8ca6148d3",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-a662-4bb5-ad23-0e9ce45f1bf8",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "De Boer",
+	"_id": "0038",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

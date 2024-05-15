@@ -1,0 +1,54 @@
+{
+	"firstname": "Ingeborg",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 650,
+	"id": "7b8411e0-1ce5-4f6e-a2ef-bc0ce7693765",
+	"rewards": [
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-e353-4ad4-b10e-0cef49c76daa",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-2de9-40dd-9d5e-6dcbab152440",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-518f-492c-a6bd-6b8a239f7d09",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-10f3-42f9-8f65-aaee324ecff3",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-7666-44d9-ba6f-add39be71f14",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Lead die tot een inzet/deal leidt",
+			"id": "7b8411e0-6815-4406-bbb8-4e611442f161",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-602b-46f9-a157-8467cc8a0dfd",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Dijkstra",
+	"_id": "0053",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

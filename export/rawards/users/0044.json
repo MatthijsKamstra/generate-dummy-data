@@ -1,0 +1,54 @@
+{
+	"firstname": "Queenie",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 1350,
+	"id": "7b8411e0-67b7-4071-abf6-ddf3494914a4",
+	"rewards": [
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-6782-404f-a7e5-84e0df44fbf6",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-ac0e-48f0-ae71-6addf77cd037",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-62ad-44b8-a913-040c4cb6be61",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-3aa0-4886-93d2-429807b04c66",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-2b58-4579-867e-e33f040d673c",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat door proeftijd heen",
+			"id": "7b8411e0-0a39-4047-a281-6f99aa563daa",
+			"date": "2024-05-15 11:10:04",
+			"value": 1000
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-3a88-4077-a5eb-5552ee08ca64",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Hendriks",
+	"_id": "0044",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

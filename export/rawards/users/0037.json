@@ -1,0 +1,36 @@
+{
+	"firstname": "Jarrod",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 350,
+	"id": "7b8411e0-7001-446f-b52f-9cb81d9f2ef0",
+	"rewards": [
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-4dd5-4d98-9eab-c3e345b384c6",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-463e-4807-9fba-e2d4176e2854",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-1fd3-4934-8904-8805d5b1617b",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Bij elk dienstjaar 'jubileum'",
+			"id": "7b8411e0-aaf2-4f8a-a91d-88141efb65cd",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		}
+	],
+	"lastname": "Van der Meer",
+	"_id": "0037",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

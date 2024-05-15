@@ -1,0 +1,24 @@
+{
+	"firstname": "Sunshine",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 150,
+	"id": "7b8411e0-ed90-4d62-961a-1daca15fee6c",
+	"rewards": [
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-0120-4d11-8cda-3468663de5cb",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Je je eigen inzet/klus regelt",
+			"id": "7b8411e0-3afc-4b87-9276-1a3d69898dca",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		}
+	],
+	"lastname": "Hendriks",
+	"_id": "0081",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}

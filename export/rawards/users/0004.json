@@ -1,0 +1,42 @@
+{
+	"firstname": "Martin",
+	"date_employment": "2014-05-15T00:00:00.000Z",
+	"total_value": 750,
+	"id": "7b8411e0-cc38-4d21-a885-1a205aecd488",
+	"rewards": [
+		{
+			"description": "Gestarte kandidaat (externe) vinden op aanvraag",
+			"id": "7b8411e0-358f-4393-9c24-f72a79b0e766",
+			"date": "2024-05-15 11:10:04",
+			"value": 100
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-f325-47c6-9bbc-449a4049e0a0",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-b193-4f79-857c-6530f3641a10",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		},
+		{
+			"description": "Nieuwe lead",
+			"id": "7b8411e0-2fd7-4067-809b-f6ba9f178863",
+			"date": "2024-05-15 11:10:04",
+			"value": 50
+		},
+		{
+			"description": "Nieuwe kandidaat die we aanbieding doen",
+			"id": "7b8411e0-19be-4210-aff1-f2103bf085df",
+			"date": "2024-05-15 11:10:04",
+			"value": 200
+		}
+	],
+	"lastname": "Smit",
+	"_id": "0004",
+	"updatedTimestamp": "2024-05-15T11:10:04.000Z",
+	"creationTimestamp": "2024-05-15T11:10:04.000Z"
+}
