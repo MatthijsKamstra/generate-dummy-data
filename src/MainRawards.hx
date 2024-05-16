@@ -62,31 +62,6 @@ class MainRawards {
 		FileSystem.createDirectory(USERS);
 	}
 
-	/**
-
-			- 75 deelnemers
-			- gevens deelnemer
-			  - naam
-				- voornaam
-				- achternaam
-			  - start datum in dienst (👈 nodig voor automatisch update)
-			  - lijst waardes
-			- datum toevoeging
-			- waarde (positief of negatief (minus waarde door gebruik van rawards))
-			- waarom (omschrijving)
-			  - huidige waarde
-
-			## Overzicht pagina
-
-			- 75 deelnemers
-			- naam (voornaam, achternaam)
-			- huidige waarde
-
-
-
-		*
-		* @param path
-	 */
 	function generate(path:String) {
 		trace("Create json!");
 		var json = {};
